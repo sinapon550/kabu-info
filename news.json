@@ -4,12 +4,52 @@
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "AI Chips Today - ABB Expands NVIDIA Partnership to Boost AI Data Centers",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/ai-chips-today-abb-expands-114841140.html",
-      "time": "2026-06-03T11:48:41Z",
-      "titleJa": "AI チップの現状 - ABB が AI データセンターを強化するために NVIDIA パートナーシップを拡大",
-      "relevant": true
+      "title": "Microsoft Moves to Own the AI Stack From Device to Model at Build 2026",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-moves-own-ai-stack-121409756.html",
+      "time": "2026-06-03T12:14:09Z",
+      "titleJa": "Microsoft、Build 2026 でデバイスからモデルまで AI スタックの所有に移行",
+      "relevant": false
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Berkshire Under Buffett’s Successor Makes $10 Billion AI Bet",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/03/berkshire-under-buffetts-successor-makes-10-billion-ai-bet/",
+      "time": "2026-06-03T12:11:21Z",
+      "titleJa": "バフェット氏の後任のバークシャーがAIに100億ドル賭ける",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Apple Stock, Google And More Lure Investors In Frothy Market. How To Stay Grounded.",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/apple-stock-google-how-to-stay-grounded-in-frothy-stock-market/?src=A00220&yptr=yahoo",
+      "time": "2026-06-03T12:00:38Z",
+      "titleJa": "アップル株、グーグルなどが投資家を泡沫市場に誘い込む。グラウンディングを続ける方法。",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Apple Stock, Google And More Lure Investors In Frothy Market. How To Stay Grounded.",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/apple-stock-google-how-to-stay-grounded-in-frothy-stock-market/?src=A00220&yptr=yahoo",
+      "time": "2026-06-03T12:00:38Z",
+      "titleJa": "アップル株、グーグルなどが投資家を泡沫市場に誘い込む。グラウンディングを続ける方法。",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Apple Stock, Google And More Lure Investors In Frothy Market. How To Stay Grounded.",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/apple-stock-google-how-to-stay-grounded-in-frothy-stock-market/?src=A00220&yptr=yahoo",
+      "time": "2026-06-03T12:00:38Z",
+      "titleJa": "アップル株、グーグルなどが投資家を泡沫市場に誘い込む。グラウンディングを続ける方法。",
+      "relevant": false
     },
     {
       "ticker": "MU",
@@ -18,17 +58,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/sectors/technology/articles/ai-chips-today-abb-expands-114841140.html",
       "time": "2026-06-03T11:48:41Z",
-      "titleJa": "AI チップの現状 - ABB が AI データセンターを強化するために NVIDIA パートナーシップを拡大",
-      "relevant": false
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Had You Invested $1,000 in HPE a Decade Ago, Here’s What You’d Have Now",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/03/had-you-invested-1000-in-hpe-a-decade-ago-heres-what-youd-have-now/",
-      "time": "2026-06-03T11:46:34Z",
-      "titleJa": "10 年前に HPE に 1,000 ドル投資していたら、今手に入れていたものは次のとおりです",
+      "titleJa": "AI チップの現在 - ABB が AI データセンターを強化するために NVIDIA パートナーシップを拡大",
       "relevant": false
     },
     {
@@ -52,23 +82,13 @@
       "relevant": false
     },
     {
-      "ticker": "9434.T",
-      "company": "ソフトバンク",
-      "title": "Arm vs. NVIDIA: Which Semiconductor Stock Belongs in Your 10-Year Portfolio?",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/03/arm-vs-nvidia-which-semiconductor-stock-belongs-in-your-10-year-portfolio/",
-      "time": "2026-06-03T11:30:25Z",
-      "titleJa": "Arm 対 NVIDIA: あなたの 10 年間のポートフォリオに属する半導体株はどれですか?",
-      "relevant": false
-    },
-    {
       "ticker": "9984.T",
       "company": "ソフトバンクG",
       "title": "SoftBank Group (TSE:9984) Valuation Check After Strong Year To Date Share Price Surge",
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-valuation-111316119.html",
       "time": "2026-06-03T11:13:16Z",
-      "titleJa": "ソフトバンクグループ (東証:9984) 年初来の株価急騰後の評価額の確認",
+      "titleJa": "ソフトバンクグループ (東証:9984) 年初からの株価急騰を受けて評価額を確認",
       "relevant": true
     },
     {
@@ -82,23 +102,23 @@
       "relevant": true
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Rising Crude Prices Cap Wall Street Pre-Bell; Asia Up, Europe Off",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/rising-crude-prices-cap-wall-110923413.html",
-      "time": "2026-06-03T11:09:23Z",
-      "titleJa": "原油価格の上昇がウォール街のベル以前の上限に。アジアは上昇、ヨーロッパは停止",
-      "relevant": false
-    },
-    {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Beyond Nvidia: Trading the next wave of AI infrastructure",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/beyond-nvidia-trading-next-wave-110000233.html",
-      "time": "2026-06-03T11:00:00Z",
-      "titleJa": "Nvidia を超えて: AI インフラストラクチャの次の波を取引する",
+      "title": "Trump Said 'Micron's Great'—And Now Micron's Worth More Than Walmart, Eli Lilly, Berkshire Hathaway",
+      "publisher": "Benzinga",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trump-said-microns-great-now-110108838.html",
+      "time": "2026-06-03T11:01:08Z",
+      "titleJa": "トランプ大統領「マイクロンは偉大だ」――そして今やマイクロンはウォルマート、イーライリリー、バークシャー・ハサウェイ以上の価値がある",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Trump Said 'Micron's Great'—And Now Micron's Worth More Than Walmart, Eli Lilly, Berkshire Hathaway",
+      "publisher": "Benzinga",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trump-said-microns-great-now-110108838.html",
+      "time": "2026-06-03T11:01:08Z",
+      "titleJa": "トランプ大統領「マイクロンは偉大だ」――そして今やマイクロンはウォルマート、イーライリリー、バークシャー・ハサウェイ以上の価値がある",
       "relevant": false
     },
     {
@@ -120,26 +140,6 @@
       "time": "2026-06-03T10:01:23Z",
       "titleJa": "DBS シンガポール、加盟店向けのタップ・トゥ・フォン・カード決済を可能に",
       "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Marvell Stock Surges Again. This Could Be the Next Big Catalyst.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/marvell-stock-price-today-422c181f?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-03T09:37:00Z",
-      "titleJa": "マーベル株が再び急騰。これが次の大きな触媒となる可能性があります。",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Air Liquide Invests $233 Million in South Korea to Back SK Hynix’s AI Chips Production",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/tech/air-liquide-invests-233-million-in-south-korea-to-back-sk-hynixs-ai-chips-production-92fde1f1?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-03T09:14:00Z",
-      "titleJa": "エア・リキード、SKハイニックスのAIチップ生産支援のため韓国に2億3,300万ドルを投資",
-      "relevant": true
     },
     {
       "ticker": "TSM",
@@ -192,6 +192,16 @@
       "relevant": false
     },
     {
+      "ticker": "9434.T",
+      "company": "ソフトバンク",
+      "title": "Morning Bid: Marvell, a fitting name for the latest AI darling",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-marvell-fitting-name-043542710.html",
+      "time": "2026-06-03T04:35:42Z",
+      "titleJa": "モーニング ビッド: マーベル、最新の AI の最愛の人にふさわしい名前",
+      "relevant": false
+    },
+    {
       "ticker": "ASML",
       "company": "ASML",
       "title": "Stock Indexes Post New Record Highs Amid AI Enthusiasm",
@@ -199,16 +209,6 @@
       "link": "https://www.barchart.com/story/news/2267903/stock-indexes-post-new-record-highs-amid-ai-enthusiasm",
       "time": "2026-06-02T20:32:34Z",
       "titleJa": "AI熱狂の中で株価指数が過去最高値を更新",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Stocks Push Higher on US Labor Market Strength and AI Spending",
-      "publisher": "Barchart",
-      "link": "https://www.barchart.com/story/news/2262032/stocks-push-higher-on-us-labor-market-strength-and-ai-spending",
-      "time": "2026-06-02T15:25:43Z",
-      "titleJa": "米国の労働市場の強さとAI支出を背景に株価が上昇",
       "relevant": false
     },
     {
@@ -238,7 +238,7 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-toyota-motor-led-103731567.html",
       "time": "2026-06-02T10:37:31Z",
-      "titleJa": "市場の話題: トヨタ自動車主導の業界、無駄を削減し供給を改善するために欠陥ルールを標準化",
+      "titleJa": "市場の話題: トヨタ自動車主導の業界、無駄を削減し供給を改善するために欠陥ルールを標準化へ",
       "relevant": false
     },
     {
@@ -258,7 +258,7 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/keysight-stock-rises-113-2-134300302.html",
       "time": "2026-06-01T13:43:00Z",
-      "titleJa": "キーサイト株は過去 1 年間で 113.2% 上昇: 株の遊び方",
+      "titleJa": "キーサイトの株価は過去 1 年間で 113.2% 上昇: 株の遊び方",
       "relevant": false
     },
     {
@@ -348,7 +348,7 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/economy/articles/canada-apos-q1-current-account-124259963.html",
       "time": "2026-05-28T12:42:59Z",
-      "titleJa": "カナダの第1四半期の経常赤字は投資収入の減少と物資赤字の増加により予想より大幅に拡大",
+      "titleJa": "カナダの第1四半期の経常赤字は投資収益の減少と物資赤字の増加により予想を大幅に拡大",
       "relevant": false
     }
   ]

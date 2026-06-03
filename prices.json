@@ -11,7 +11,12 @@
       "target": 6834.26,
       "rating": "買い(19人)",
       "dividendYield": 0.13,
-      "profitMargin": 64.1
+      "profitMargin": 64.1,
+      "revenue": 7798649782272,
+      "netIncome": 4983632166912,
+      "eps": 872.7,
+      "per": 9.5,
+      "finCurrency": "JPY"
     },
     "9434.T": {
       "price": 218.7,
@@ -22,7 +27,12 @@
       "target": 242.53,
       "rating": "買い(15人)",
       "dividendYield": 3.95,
-      "profitMargin": 7.8
+      "profitMargin": 7.8,
+      "revenue": 7038680170496,
+      "netIncome": 541359013888,
+      "eps": 11.27,
+      "per": 19.4,
+      "finCurrency": "JPY"
     },
     "NVDA": {
       "price": 222.82,
@@ -33,7 +43,12 @@
       "target": 296.81,
       "rating": "強い買い(58人)",
       "dividendYield": 0.02,
-      "profitMargin": 63.0
+      "profitMargin": 63.0,
+      "revenue": 253491003392,
+      "netIncome": 159612993536,
+      "eps": 6.53,
+      "per": 34.1,
+      "finCurrency": "USD"
     },
     "TSM": {
       "price": 446.69,
@@ -44,7 +59,12 @@
       "target": 467.84,
       "rating": "強い買い(18人)",
       "dividendYield": 5.51,
-      "profitMargin": 46.5
+      "profitMargin": 46.5,
+      "revenue": 4103904165888,
+      "netIncome": 1908519600128,
+      "eps": 11.7,
+      "per": 38.2,
+      "finCurrency": "TWD"
     },
     "AVGO": {
       "price": 481.57,
@@ -55,7 +75,12 @@
       "target": 485.72,
       "rating": "強い買い(44人)",
       "dividendYield": 0.54,
-      "profitMargin": 36.6
+      "profitMargin": 36.6,
+      "revenue": 68281999360,
+      "netIncome": 24971999232,
+      "eps": 5.15,
+      "per": 93.5,
+      "finCurrency": "USD"
     },
     "MU": {
       "price": 1064.1,
@@ -66,7 +91,12 @@
       "target": 726.23,
       "rating": "強い買い(40人)",
       "dividendYield": 0.05,
-      "profitMargin": 41.5
+      "profitMargin": 41.5,
+      "revenue": 58119000064,
+      "netIncome": 24110999552,
+      "eps": 21.18,
+      "per": 50.2,
+      "finCurrency": "USD"
     },
     "285A.T": {
       "price": 78080.0,
@@ -76,7 +106,12 @@
       "changePct": 0.97,
       "target": 72618.75,
       "rating": "買い(16人)",
-      "profitMargin": 23.7
+      "profitMargin": 23.7,
+      "revenue": 2337627963392,
+      "netIncome": 554490003456,
+      "eps": 1008.02,
+      "per": 77.5,
+      "finCurrency": "JPY"
     },
     "6857.T": {
       "price": 27660.0,
@@ -87,7 +122,12 @@
       "target": 32795.0,
       "rating": "買い(20人)",
       "dividendYield": 0.22,
-      "profitMargin": 33.3
+      "profitMargin": 33.3,
+      "revenue": 1128610004992,
+      "netIncome": 375353016320,
+      "eps": 513.24,
+      "per": 53.9,
+      "finCurrency": "JPY"
     },
     "6963.T": {
       "price": 5616.0,
@@ -98,7 +138,11 @@
       "target": 3280.0,
       "rating": "中立(10人)",
       "dividendYield": 0.97,
-      "profitMargin": -32.9
+      "profitMargin": -32.9,
+      "revenue": 481148010496,
+      "netIncome": -158442995712,
+      "eps": -410.46,
+      "finCurrency": "JPY"
     },
     "7735.T": {
       "price": 13345.0,
@@ -109,7 +153,12 @@
       "target": 12790.0,
       "rating": "買い(15人)",
       "dividendYield": 1.29,
-      "profitMargin": 15.2
+      "profitMargin": 15.2,
+      "revenue": 605748002816,
+      "netIncome": 92003000320,
+      "eps": 486.54,
+      "per": 27.4,
+      "finCurrency": "JPY"
     },
     "4004.T": {
       "price": 18700.0,
@@ -120,7 +169,12 @@
       "target": 15085.0,
       "rating": "買い(12人)",
       "dividendYield": 0.36,
-      "profitMargin": 2.7
+      "profitMargin": 2.7,
+      "revenue": 1333894971392,
+      "netIncome": 35560001536,
+      "eps": 160.42,
+      "per": 116.6,
+      "finCurrency": "JPY"
     },
     "5991.T": {
       "price": 3930.0,
@@ -130,7 +184,12 @@
       "changePct": 9.17,
       "target": 3190.0,
       "dividendYield": 1.84,
-      "profitMargin": 3.4
+      "profitMargin": 3.4,
+      "revenue": 816878977024,
+      "netIncome": 27861999616,
+      "eps": 137.5,
+      "per": 28.6,
+      "finCurrency": "JPY"
     },
     "6954.T": {
       "price": 7975.0,
@@ -141,7 +200,12 @@
       "target": 7379.5,
       "rating": "買い(20人)",
       "dividendYield": 1.41,
-      "profitMargin": 19.4
+      "profitMargin": 19.4,
+      "revenue": 857830981632,
+      "netIncome": 166542999552,
+      "eps": 178.44,
+      "per": 44.7,
+      "finCurrency": "JPY"
     },
     "6981.T": {
       "price": 10420.0,
@@ -152,7 +216,12 @@
       "target": 5691.18,
       "rating": "買い(17人)",
       "dividendYield": 0.64,
-      "profitMargin": 12.8
+      "profitMargin": 12.8,
+      "revenue": 1830856032256,
+      "netIncome": 233829007360,
+      "eps": 127.88,
+      "per": 81.5,
+      "finCurrency": "JPY"
     },
     "ASML": {
       "price": 1705.37,
@@ -160,10 +229,15 @@
       "marketCap": 657279721479,
       "prevClose": 1706.5,
       "changePct": -0.07,
-      "target": 1663.63,
+      "target": 1662.47,
       "rating": "強い買い(15人)",
       "dividendYield": 0.36,
-      "profitMargin": 29.7
+      "profitMargin": 29.7,
+      "revenue": 33692700672,
+      "netIncome": 10011100160,
+      "eps": 30.19,
+      "per": 56.5,
+      "finCurrency": "EUR"
     },
     "8035.T": {
       "price": 60900.0,
@@ -174,7 +248,12 @@
       "target": 53609.09,
       "rating": "買い(22人)",
       "dividendYield": 1.17,
-      "profitMargin": 23.5
+      "profitMargin": 23.5,
+      "revenue": 2443533090816,
+      "netIncome": 574453972992,
+      "eps": 1251.44,
+      "per": 48.7,
+      "finCurrency": "JPY"
     },
     "6920.T": {
       "price": 41770.0,
@@ -185,7 +264,12 @@
       "target": 39260.0,
       "rating": "買い(15人)",
       "dividendYield": 0.88,
-      "profitMargin": 35.2
+      "profitMargin": 35.2,
+      "revenue": 252181004288,
+      "netIncome": 88780996608,
+      "eps": 965.55,
+      "per": 43.3,
+      "finCurrency": "JPY"
     },
     "6146.T": {
       "price": 68710.0,
@@ -196,7 +280,12 @@
       "target": 77450.0,
       "rating": "買い(20人)",
       "dividendYield": 0.79,
-      "profitMargin": 31.0
+      "profitMargin": 31.0,
+      "revenue": 436888993792,
+      "netIncome": 135521001472,
+      "eps": 1251.9,
+      "per": 54.9,
+      "finCurrency": "JPY"
     },
     "4063.T": {
       "price": 7806.0,
@@ -207,7 +296,12 @@
       "target": 7306.88,
       "rating": "強い買い(16人)",
       "dividendYield": 1.42,
-      "profitMargin": 18.4
+      "profitMargin": 18.4,
+      "revenue": 2573969129472,
+      "netIncome": 474459013120,
+      "eps": 252.59,
+      "per": 30.9,
+      "finCurrency": "JPY"
     },
     "3436.T": {
       "price": 4459.0,
@@ -218,7 +312,11 @@
       "target": 2562.5,
       "rating": "買い(16人)",
       "dividendYield": 0.47,
-      "profitMargin": -5.7
+      "profitMargin": -5.7,
+      "revenue": 408599986176,
+      "netIncome": -23267000320,
+      "eps": -33.42,
+      "finCurrency": "JPY"
     },
     "000660.KS": {
       "price": 2360000.0,
@@ -228,7 +326,10 @@
       "changePct": -0.13,
       "target": 2076603.1,
       "dividendYield": 13.0,
-      "profitMargin": 56.9
+      "profitMargin": 56.9,
+      "revenue": 132083817119744,
+      "netIncome": 75142382223360,
+      "finCurrency": "KRW"
     },
     "005930.KS": {
       "price": 360500.0,
@@ -239,7 +340,10 @@
       "target": 397803.22,
       "rating": "強い買い(37人)",
       "dividendYield": 41.0,
-      "profitMargin": 21.5
+      "profitMargin": 21.5,
+      "revenue": 388338863308800,
+      "netIncome": 83333740494848,
+      "finCurrency": "KRW"
     },
     "SNDK": {
       "price": 1716.36,
@@ -249,7 +353,12 @@
       "changePct": -0.04,
       "target": 1609.27,
       "rating": "買い(22人)",
-      "profitMargin": 34.2
+      "profitMargin": 34.2,
+      "revenue": 13184000000,
+      "netIncome": 4506999808,
+      "eps": 29.18,
+      "per": 58.8,
+      "finCurrency": "USD"
     },
     "6506.T": {
       "price": 7152.0,
@@ -260,7 +369,12 @@
       "target": 6409.41,
       "rating": "買い(17人)",
       "dividendYield": 1.03,
-      "profitMargin": 6.5
+      "profitMargin": 6.5,
+      "revenue": 542121984000,
+      "netIncome": 35240001536,
+      "eps": 135.75,
+      "per": 52.7,
+      "finCurrency": "JPY"
     },
     "6861.T": {
       "price": 80630.0,
@@ -271,7 +385,12 @@
       "target": 83256.25,
       "rating": "買い(16人)",
       "dividendYield": 0.7,
-      "profitMargin": 38.1
+      "profitMargin": 38.1,
+      "revenue": 1169288986624,
+      "netIncome": 445184999424,
+      "eps": 1833.16,
+      "per": 44.0,
+      "finCurrency": "JPY"
     },
     "6324.T": {
       "price": 7410.0,
@@ -282,7 +401,12 @@
       "target": 5415.45,
       "rating": "買い(11人)",
       "dividendYield": 0.28,
-      "profitMargin": 2.7
+      "profitMargin": 2.7,
+      "revenue": 59556999168,
+      "netIncome": 1608000000,
+      "eps": 17.06,
+      "per": 434.3,
+      "finCurrency": "JPY"
     },
     "8306.T": {
       "price": 3137.0,
@@ -293,7 +417,12 @@
       "target": 3130.0,
       "rating": "買い(12人)",
       "dividendYield": 2.82,
-      "profitMargin": 28.5
+      "profitMargin": 28.5,
+      "revenue": 8514254143488,
+      "netIncome": 2427229044736,
+      "eps": 212.31,
+      "per": 14.8,
+      "finCurrency": "JPY"
     },
     "2502.T": {
       "price": 1490.0,
@@ -304,7 +433,12 @@
       "target": 2088.33,
       "rating": "買い(15人)",
       "dividendYield": 3.6,
-      "profitMargin": 0.0
+      "profitMargin": 0.0,
+      "revenue": 2926294073344,
+      "netIncome": 155562999808,
+      "eps": 115.52,
+      "per": 12.9,
+      "finCurrency": "JPY"
     },
     "2768.T": {
       "price": 5157.0,
@@ -315,7 +449,12 @@
       "target": 6903.33,
       "rating": "買い(9人)",
       "dividendYield": 3.22,
-      "profitMargin": 3.8
+      "profitMargin": 3.8,
+      "revenue": 2757350129664,
+      "netIncome": 103610998784,
+      "eps": 494.69,
+      "per": 10.4,
+      "finCurrency": "JPY"
     },
     "2914.T": {
       "price": 6112.0,
@@ -326,7 +465,12 @@
       "target": 6524.55,
       "rating": "買い(11人)",
       "dividendYield": 3.82,
-      "profitMargin": 15.3
+      "profitMargin": 15.3,
+      "revenue": 3589766119424,
+      "netIncome": 540890005504,
+      "eps": 280.85,
+      "per": 21.8,
+      "finCurrency": "JPY"
     },
     "4565.T": {
       "price": 953.0,
@@ -336,7 +480,11 @@
       "changePct": -5.36,
       "target": 1837.5,
       "rating": "買い(8人)",
-      "profitMargin": -29.1
+      "profitMargin": -29.1,
+      "revenue": 34226999296,
+      "netIncome": -9976999936,
+      "eps": -138.8,
+      "finCurrency": "JPY"
     },
     "4755.T": {
       "price": 792.5,
@@ -346,7 +494,11 @@
       "changePct": 1.76,
       "target": 982.31,
       "rating": "買い(13人)",
-      "profitMargin": -4.8
+      "profitMargin": -4.8,
+      "revenue": 2577454071808,
+      "netIncome": -123063001088,
+      "eps": -82.29,
+      "finCurrency": "JPY"
     },
     "7267.T": {
       "price": 1496.5,
@@ -357,7 +509,11 @@
       "target": 1523.5,
       "rating": "買い(18人)",
       "dividendYield": 5.05,
-      "profitMargin": -1.9
+      "profitMargin": -1.9,
+      "revenue": 21796610899968,
+      "netIncome": -423941013504,
+      "eps": -106.11,
+      "finCurrency": "JPY"
     },
     "8058.T": {
       "price": 4979.0,
@@ -368,7 +524,12 @@
       "target": 5206.48,
       "rating": "買い(14人)",
       "dividendYield": 2.23,
-      "profitMargin": 4.2
+      "profitMargin": 4.2,
+      "revenue": 18915994370048,
+      "netIncome": 800459980800,
+      "eps": 209.76,
+      "per": 23.7,
+      "finCurrency": "JPY"
     },
     "8267.T": {
       "price": 1351.0,
@@ -379,7 +540,12 @@
       "target": 1562.22,
       "rating": "やや売り(9人)",
       "dividendYield": 1.01,
-      "profitMargin": 0.7
+      "profitMargin": 0.7,
+      "revenue": 10715341520896,
+      "netIncome": 72676999168,
+      "eps": 26.84,
+      "per": 50.3,
+      "finCurrency": "JPY"
     },
     "8591.T": {
       "price": 6300.0,
@@ -390,7 +556,12 @@
       "target": 6090.0,
       "rating": "買い(9人)",
       "dividendYield": 2.51,
-      "profitMargin": 13.4
+      "profitMargin": 13.4,
+      "revenue": 3330831024128,
+      "netIncome": 447169003520,
+      "eps": 399.32,
+      "per": 15.8,
+      "finCurrency": "JPY"
     },
     "8729.T": {
       "price": 140.0,
@@ -401,7 +572,12 @@
       "target": 172.0,
       "rating": "中立(9人)",
       "dividendYield": 2.75,
-      "profitMargin": 2.3
+      "profitMargin": 2.3,
+      "revenue": 2432772079616,
+      "netIncome": 55497998336,
+      "eps": 7.74,
+      "per": 18.1,
+      "finCurrency": "JPY"
     },
     "9432.T": {
       "price": 147.8,
@@ -412,7 +588,12 @@
       "target": 172.77,
       "rating": "買い(13人)",
       "dividendYield": 3.58,
-      "profitMargin": 7.2
+      "profitMargin": 7.2,
+      "revenue": 14409121398784,
+      "netIncome": 1037032030208,
+      "eps": 12.62,
+      "per": 11.7,
+      "finCurrency": "JPY"
     },
     "9433.T": {
       "price": 2706.5,
@@ -423,7 +604,12 @@
       "target": 2785.07,
       "rating": "買い(14人)",
       "dividendYield": 3.01,
-      "profitMargin": 11.6
+      "profitMargin": 11.6,
+      "revenue": 6071915118592,
+      "netIncome": 707112009728,
+      "eps": 183.64,
+      "per": 14.7,
+      "finCurrency": "JPY"
     },
     "1417.T": {
       "price": 3828.0,
@@ -434,7 +620,12 @@
       "target": 4000.0,
       "rating": "強い買い(1人)",
       "dividendYield": 2.23,
-      "profitMargin": 3.9
+      "profitMargin": 3.9,
+      "revenue": 602377027584,
+      "netIncome": 23281999872,
+      "eps": 261.92,
+      "per": 14.6,
+      "finCurrency": "JPY"
     }
   }
 }
