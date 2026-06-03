@@ -1,0 +1,67 @@
+:root{
+  --green:#1f6f54; --green-d:#14503c; --gold:#e0a32e; --ink:#1d2a26;
+  --sub:#5d6f68; --bg:#f4f7f5; --card:#ffffff; --line:#e2e9e5; --red:#c0492f;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Meiryo","Hiragino Kaku Gothic ProN",sans-serif;color:var(--ink);
+  background:var(--bg);line-height:1.7;-webkit-text-size-adjust:100%}
+a{color:var(--green)}
+.wrap{max-width:880px;margin:0 auto;padding:0 16px}
+
+/* ヘッダー */
+header{background:linear-gradient(135deg,var(--green-d),var(--green));color:#fff;padding:34px 0 30px}
+header h1{font-size:26px;letter-spacing:.5px}
+header .lead{margin-top:8px;font-size:14px;color:#d7ebe2}
+.badge{display:inline-block;background:var(--gold);color:#3a2a00;font-size:12px;
+  font-weight:bold;padding:3px 10px;border-radius:20px;margin-bottom:10px}
+
+/* ナビ */
+nav{position:sticky;top:0;background:rgba(255,255,255,.96);border-bottom:1px solid var(--line);
+  z-index:10;backdrop-filter:blur(4px)}
+nav .wrap{display:flex;gap:6px;overflow-x:auto;padding:10px 16px;align-items:center}
+nav a{flex:0 0 auto;font-size:13px;text-decoration:none;color:var(--green-d);
+  background:#eaf2ee;padding:6px 12px;border-radius:18px;white-space:nowrap}
+nav a.navpage{background:var(--green-d);color:#fff;font-weight:bold}
+nav a.navpage.active{background:var(--gold);color:#3a2a00}
+.navsep{flex:0 0 auto;width:1px;height:20px;background:var(--line);margin:0 4px}
+
+/* 免責 */
+.disc{background:#fff7e6;border:1px solid #f0d894;border-radius:10px;padding:12px 14px;
+  font-size:12.5px;color:#6b5418;margin:18px 0}
+.disc b{color:#8a6a12}
+
+section{margin:30px 0}
+h2{font-size:21px;color:var(--green-d);border-left:6px solid var(--gold);padding-left:12px;margin-bottom:6px}
+h2 .en{font-size:11px;color:var(--sub);display:block;font-weight:normal;letter-spacing:1px}
+.intro{font-size:14.5px;color:var(--sub);margin:10px 0 16px}
+
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;
+  margin:14px 0;box-shadow:0 2px 8px rgba(20,80,60,.05)}
+.card h3{font-size:17px;margin-bottom:4px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.tag{font-size:11px;font-weight:bold;padding:2px 9px;border-radius:12px;color:#fff}
+.t-mem{background:#2b6cb0}.t-tool{background:var(--gold);color:#3a2a00}
+.t-ai{background:#7b3ea8}.t-base{background:var(--green)}.t-phys{background:#c0492f}
+.kv{font-size:13.5px;margin-top:8px}
+.kv b{color:var(--green-d)}
+.num{font-size:26px;font-weight:bold;color:var(--green);font-family:Georgia,serif}
+
+table{width:100%;border-collapse:collapse;font-size:13px;margin-top:10px;background:#fff;
+  border-radius:10px;overflow:hidden;border:1px solid var(--line)}
+th,td{padding:9px 10px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:var(--green-d);color:#fff;font-size:12.5px}
+tr:last-child td{border-bottom:none}
+tr:nth-child(even) td{background:#f7faf8}
+
+.tsuru{background:linear-gradient(135deg,#fff8ea,#fff);border:1px dashed var(--gold)}
+.yougo dt{font-weight:bold;color:var(--green-d);margin-top:10px}
+.yougo dd{font-size:13.5px;color:var(--sub);margin-left:0}
+
+.pill{display:inline-block;background:#eaf2ee;color:var(--green-d);font-size:12px;
+  padding:3px 10px;border-radius:14px;margin:3px 4px 0 0}
+
+footer{background:var(--green-d);color:#cfe3da;font-size:12px;padding:24px 0;margin-top:30px}
+footer a{color:#fff}
+.src{font-size:11.5px;color:var(--sub);margin-top:6px}
+.src a{color:var(--sub)}
+td small{color:var(--sub);font-size:11px;font-weight:normal}
+.updated{font-size:12px;color:#d7ebe2;margin-top:6px}

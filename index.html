@@ -3,73 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>家族の株なるほどメモ｜半導体・AI・つるはし</title>
-<style>
-  :root{
-    --green:#1f6f54; --green-d:#14503c; --gold:#e0a32e; --ink:#1d2a26;
-    --sub:#5d6f68; --bg:#f4f7f5; --card:#ffffff; --line:#e2e9e5; --red:#c0492f;
-  }
-  *{box-sizing:border-box;margin:0;padding:0}
-  body{font-family:"Meiryo","Hiragino Kaku Gothic ProN",sans-serif;color:var(--ink);
-    background:var(--bg);line-height:1.7;-webkit-text-size-adjust:100%}
-  a{color:var(--green)}
-  .wrap{max-width:880px;margin:0 auto;padding:0 16px}
-
-  /* ヘッダー */
-  header{background:linear-gradient(135deg,var(--green-d),var(--green));color:#fff;padding:34px 0 30px}
-  header h1{font-size:26px;letter-spacing:.5px}
-  header .lead{margin-top:8px;font-size:14px;color:#d7ebe2}
-  .badge{display:inline-block;background:var(--gold);color:#3a2a00;font-size:12px;
-    font-weight:bold;padding:3px 10px;border-radius:20px;margin-bottom:10px}
-
-  /* ナビ */
-  nav{position:sticky;top:0;background:rgba(255,255,255,.96);border-bottom:1px solid var(--line);
-    z-index:10;backdrop-filter:blur(4px)}
-  nav .wrap{display:flex;gap:6px;overflow-x:auto;padding:10px 16px}
-  nav a{flex:0 0 auto;font-size:13px;text-decoration:none;color:var(--green-d);
-    background:#eaf2ee;padding:6px 12px;border-radius:18px;white-space:nowrap}
-
-  /* 免責 */
-  .disc{background:#fff7e6;border:1px solid #f0d894;border-radius:10px;padding:12px 14px;
-    font-size:12.5px;color:#6b5418;margin:18px 0}
-  .disc b{color:#8a6a12}
-
-  section{margin:30px 0}
-  h2{font-size:21px;color:var(--green-d);border-left:6px solid var(--gold);padding-left:12px;margin-bottom:6px}
-  h2 .en{font-size:11px;color:var(--sub);display:block;font-weight:normal;letter-spacing:1px}
-  .intro{font-size:14.5px;color:var(--sub);margin:10px 0 16px}
-
-  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;
-    margin:14px 0;box-shadow:0 2px 8px rgba(20,80,60,.05)}
-  .card h3{font-size:17px;margin-bottom:4px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-  .tag{font-size:11px;font-weight:bold;padding:2px 9px;border-radius:12px;color:#fff}
-  .t-mem{background:#2b6cb0}.t-tool{background:var(--gold);color:#3a2a00}
-  .t-ai{background:#7b3ea8}.t-base{background:var(--green)}
-  .kv{font-size:13.5px;margin-top:8px}
-  .kv b{color:var(--green-d)}
-  .num{font-size:26px;font-weight:bold;color:var(--green);font-family:Georgia,serif}
-
-  table{width:100%;border-collapse:collapse;font-size:13px;margin-top:10px;background:#fff;
-    border-radius:10px;overflow:hidden;border:1px solid var(--line)}
-  th,td{padding:9px 10px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
-  th{background:var(--green-d);color:#fff;font-size:12.5px}
-  tr:last-child td{border-bottom:none}
-  tr:nth-child(even) td{background:#f7faf8}
-
-  .tsuru{background:linear-gradient(135deg,#fff8ea,#fff);border:1px dashed var(--gold)}
-  .yougo dt{font-weight:bold;color:var(--green-d);margin-top:10px}
-  .yougo dd{font-size:13.5px;color:var(--sub);margin-left:0}
-
-  .pill{display:inline-block;background:#eaf2ee;color:var(--green-d);font-size:12px;
-    padding:3px 10px;border-radius:14px;margin:3px 4px 0 0}
-
-  footer{background:var(--green-d);color:#cfe3da;font-size:12px;padding:24px 0;margin-top:30px}
-  footer a{color:#fff}
-  .src{font-size:11.5px;color:var(--sub);margin-top:6px}
-  .src a{color:var(--sub)}
-  td small{color:var(--sub);font-size:11px;font-weight:normal}
-  .updated{font-size:12px;color:#d7ebe2;margin-top:6px}
-</style>
+<title>株なるほどメモ｜基本</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -78,19 +13,17 @@
     <span class="badge">家族専用・初心者向け</span>
     <h1>株なるほどメモ 📈</h1>
     <p class="lead">いま熱い「半導体・AI・つるはし」を、やさしく整理。<br>むずかしい言葉はナシで、ざっくり分かることだけ。</p>
-    <p class="updated"><span id="auto-upd">最終更新：2026年6月</span>／家族の勉強メモ</p>
+    <p class="updated">基本ページ（しくみを知る）／家族の勉強メモ</p>
   </div>
 </header>
 
 <nav><div class="wrap">
+  <a class="navpage active" href="index.html">📘 基本</a>
+  <a class="navpage" href="companies.html">📈 いま熱い企業・株</a>
+  <span class="navsep"></span>
   <a href="#kihon">まず基本</a>
   <a href="#tsuruhashi">つるはし理論</a>
-  <a href="#hot">🔥いま熱い株</a>
-  <a href="#japan">🇯🇵日本株</a>
-  <a href="#memory">半導体メモリ</a>
-  <a href="#base">つるはし企業</a>
   <a href="#ai">AIの動向</a>
-  <a href="#fukabori">深掘り：メモリ＆NVIDIA</a>
   <a href="#yougo">用語集</a>
 </div></nav>
 
@@ -101,6 +34,10 @@
     このページは家族で「世の中のしくみ」を知るための<b>勉強メモ</b>です。「この株を買おう」という<b>投資のおすすめではありません</b>。
     数字は調べた時点のもので変わります。実際にお金を出すときは、必ず公式の決算情報を見て、自己責任で・必要なら専門家に相談して判断してください。
   </div>
+
+  <p class="intro" style="background:#eaf2ee;border-radius:10px;padding:12px 14px;color:var(--green-d)">
+    👉 具体的な<b>会社・株価・時価総額</b>は「<a href="companies.html"><b>📈 いま熱い企業・株</b></a>」のページにまとめています。
+  </p>
 
   <!-- 基本 -->
   <section id="kihon">
@@ -121,7 +58,7 @@
   <!-- つるはし理論 -->
   <section id="tsuruhashi">
     <h2>つるはし理論とは<span class="en">PICKS & SHOVELS</span></h2>
-    <p class="intro">あなたの「儲かるのは道具屋」という勘は、投資の世界で有名な考え方です。</p>
+    <p class="intro">「儲かるのは道具屋」という勘は、投資の世界で有名な考え方です。</p>
     <div class="card tsuru">
       <h3>⛏️ ゴールドラッシュで一番儲けたのは？</h3>
       <div class="kv">
@@ -133,141 +70,9 @@
     </div>
   </section>
 
-  <!-- いま熱い株 -->
-  <section id="hot">
-    <h2>🔥 いま熱い注目株<span class="en">HOT STOCKS NOW</span></h2>
-    <p class="intro">いま市場で特に注目されている会社を、<b>現在株価</b>と<b>時価総額</b>つきで。<br>
-    <span style="color:var(--red)">※2026年6月時点の概算。株価は毎日動くので“目安”。正確な最新値は証券アプリ等で確認を。</span></p>
-
-    <table>
-      <tr><th>銘柄</th><th>区分</th><th>何の会社か</th><th>株価<br>(自動)</th><th>時価総額<br>(概算)</th></tr>
-      <tr><td><b>ソフトバンクG</b><br>9984／日本</td><td>AI投資</td><td>OpenAIに巨額出資。Arm保有。AI時代の投資会社</td><td class="px" data-ticker="9984.T">約7,700円</td><td><b>約49兆円</b><br>(国内1位)</td></tr>
-      <tr><td><b>NVIDIA</b><br>NVDA／米</td><td>AI半導体</td><td>AI用GPUの王。AIブームの中心</td><td class="px" data-ticker="NVDA">約$222</td><td><b>約4.8兆ドル</b><br>(約720兆円)</td></tr>
-      <tr><td><b>TSMC</b><br>TSM／台湾</td><td>受託製造</td><td>世界の半導体工場。最先端を独占的に製造</td><td class="px" data-ticker="TSM">約$441</td><td>約2.2兆ドル<br>(約330兆円)</td></tr>
-      <tr><td><b>Broadcom</b><br>AVGO／米</td><td>カスタム半導体</td><td>GoogleなどのAI自前チップ(ASIC)の本命</td><td class="px" data-ticker="AVGO">—</td><td>約2.0兆ドル<br>(約300兆円)</td></tr>
-      <tr><td><b>Micron</b><br>MU／米</td><td>メモリ</td><td>メモリ高騰の主役。時価総額1兆ドルクラブ</td><td class="px" data-ticker="MU">約$1,059</td><td>約8,500億ドル<br>(約128兆円)</td></tr>
-      <tr><td><b>キオクシア</b><br>285A／日本</td><td>メモリ(NAND)</td><td>NAND世界3位。AI保存需要で急騰</td><td class="px" data-ticker="285A.T"><b>約77,540円</b></td><td><b>約25〜45兆円</b><br>(2026年急騰)</td></tr>
-      <tr><td><b>アドバンテスト</b><br>6857／日本</td><td>つるはし(検査)</td><td>AIチップ検査で好調。東エレクを20年ぶり抜く</td><td class="px" data-ticker="6857.T">約29,440円</td><td>約10兆円</td></tr>
-    </table>
-    <p class="src">株価は<b>毎朝1回 自動更新</b>（前営業日ベースの概算）。OpenAI・Anthropicは非上場のため対象外。時価総額は手動の概算。</p>
-
-    <h3 style="margin:20px 0 4px;color:var(--green-d)">⚠️ OpenAI・Anthropicは「非上場」</h3>
-    <p class="intro" style="margin-top:4px">この2社は超有名ですが<b>株を直接買えません</b>（まだ上場していない）。代わりに評価額（資金調達時の会社の値段）を載せます👇</p>
-
-    <div class="card" style="border-left:5px solid #7b3ea8">
-      <h3>OpenAI <span class="tag t-ai">非上場／米</span></h3>
-      <div class="kv">
-        <b>何の会社？</b> ChatGPTを作った会社。生成AIブームの火付け役。<br>
-        <b>評価額：</b>約<b>8,520億ドル（約128兆円）</b>。<br>
-        <b>関わるには？</b> 直接は買えない。<b>ソフトバンクG</b>やMicrosoftが大株主なので、そこ経由で“間接的に”という形になる。
-      </div>
-    </div>
-
-    <div class="card" style="border-left:5px solid #7b3ea8">
-      <h3>Anthropic <span class="tag t-ai">非上場／米</span></h3>
-      <div class="kv">
-        <b>何の会社？</b> AI「Claude」を作る会社（このメモ作りを手伝っているAI）。安全性重視で評価が急上昇。<br>
-        <b>評価額：</b>約<b>9,650億ドル（約145兆円）</b>。2026年にOpenAIを抜いてAIスタートアップ最高額に。<br>
-        <b>関わるには？</b> 今は非上場だが<b>IPO（上場）を申請中</b>。上場すれば買えるようになるかも。Amazon・Googleが出資。
-      </div>
-    </div>
-  </section>
-
-  <!-- 日本株 -->
-  <section id="japan">
-    <h2>🇯🇵 日本の半導体・関連 銘柄<span class="en">JAPAN PICKS</span></h2>
-    <p class="intro">日本にも“つるはし”企業がたくさんあります。株価は概算（カッコ内＝取得した日付・2026年）。</p>
-    <table>
-      <tr><th>銘柄</th><th>何の会社か</th><th>株価<br>(概算)</th><th>時価総額<br>(概算)</th></tr>
-      <tr><td><b>ローム</b><br>6963</td><td>パワー半導体(SiC)・電子部品。EVやAIの電源で需要</td><td class="px" data-ticker="6963.T">約4,595円</td><td>—</td></tr>
-      <tr><td><b>SCREEN HD</b><br>7735</td><td>ウエハ洗浄装置で<b>世界トップ</b>（つるはし）</td><td class="px" data-ticker="7735.T">約21,980円</td><td>約2.1兆円</td></tr>
-      <tr><td><b>レゾナック</b><br>4004</td><td>半導体の後工程<b>材料</b>で世界的（つるはし）。旧・昭和電工</td><td class="px" data-ticker="4004.T">約18,720円</td><td>—</td></tr>
-      <tr><td><b>日本発条<br>(ニッパツ)</b><br>5991</td><td>ばね・自動車部品。<b>HDD用の精密ばね</b>も作る</td><td class="px" data-ticker="5991.T">約3,335円</td><td>約7,700億円</td></tr>
-    </table>
-    <p class="src">株価は自動更新。時価総額は概算（ローム・レゾナックは未取得）。最新は証券アプリで確認を。</p>
-
-    <div class="card tsuru">
-      <h3>🔩 日本発条（ニッパツ）— 特別枠</h3>
-      <div class="kv">
-        <b>何の会社？</b> 世界トップ級の<b>ばねメーカー</b>。自動車のサスペンションやシートが主力ですが、
-        実は<b>HDD（ハードディスク）用の超精密なばね（サスペンション）</b>も作っていて、データ保存の世界とも縁があります。<br>
-        <b>株の性格：</b> AIで急騰する成長株というより、<b>配当もある安定・実業系</b>（配当利回り約2%、PER約15倍）。
-        派手さより堅実さ、というタイプ。<br>
-        <span style="color:var(--green-d)">※「もともと勤めていた会社」とのことで特別に掲載。中身を知っている会社は、強み・弱みが肌でわかるぶん、見方に深みが出ます。</span>
-      </div>
-    </div>
-  </section>
-
-  <!-- 半導体メモリ -->
-  <section id="memory">
-    <h2>① 半導体メモリの会社<span class="en">MEMORY MAKERS</span></h2>
-    <p class="intro">「メモリ」＝データを覚えておく部品。スマホやAIサーバーに大量に必要。あなたが挙げた会社はここに入ります。AIが普及して<b>データ保存の需要が急増</b>し、最近すごく好調です。</p>
-
-    <div class="card">
-      <h3>キオクシア <span class="tag t-mem">メモリ／日本</span></h3>
-      <div class="kv">
-        <b>何の会社？</b> 旧・東芝メモリ。データを保存する「NANDフラッシュメモリ」の世界<b>3位</b>（シェア約20%）。日本の会社。<br>
-        <b>調子は？</b> 2026年3月期は売上が<b>初の2兆円超え</b>見込み、利益はほぼ倍増。1〜3月期の営業利益率は<b>約60%</b>と絶好調。<br>
-        <b>今後は？</b> AIサーバーでデータ保存（SSD）の需要が伸び、追い風。SanDiskと長年タッグ。
-      </div>
-    </div>
-
-    <div class="card">
-      <h3>SanDisk（サンディスク） <span class="tag t-mem">メモリ／米</span></h3>
-      <div class="kv">
-        <b>何の会社？</b> SDカードやSSDで有名。2025年にWestern Digitalから独立。<br>
-        <b>キオクシアとの関係は？</b> <b>25年以上の相棒</b>。日本の四日市・北上工場でメモリを<b>共同生産</b>。今後10年の提携も合意。
-        つまり「キオクシア＝SanDisk連合」で一体に近い。
-      </div>
-    </div>
-
-    <div class="card">
-      <h3>SKハイニックス <span class="tag t-mem">メモリ／韓国</span></h3>
-      <div class="kv">
-        <b>何の会社？</b> 韓国の巨大メモリ会社。AI向けの超高速メモリ「HBM」が大得意で、NVIDIAに供給。<br>
-        <b>調子は？</b> 2025年度は<b>過去最高</b>。営業利益率<b>約49%</b>。時価総額1兆ドルクラブ入り。
-      </div>
-    </div>
-
-    <h3 style="margin:18px 0 4px;color:var(--green-d)">メモリ3強＋αの早見表</h3>
-    <table>
-      <tr><th>会社</th><th>国</th><th>得意分野</th><th>ざっくり状況</th></tr>
-      <tr><td>サムスン電子</td><td>韓国</td><td>メモリ総合・最大手</td><td>世界1位。時価総額1兆ドル級</td></tr>
-      <tr><td>SKハイニックス</td><td>韓国</td><td>HBM（AI向け高速メモリ）</td><td>利益率約49%・過去最高</td></tr>
-      <tr><td>Micron（マイクロン）</td><td>米</td><td>メモリ総合</td><td>時価総額が初の1兆ドル到達</td></tr>
-      <tr><td>キオクシア</td><td>日本</td><td>NAND（保存用）</td><td>売上初の2兆円超え見込み</td></tr>
-    </table>
-    <p class="src">※利益率や時価総額は2025〜2026年の報道時点の数値。最新は各社の決算で要確認。</p>
-  </section>
-
-  <!-- つるはし企業 -->
-  <section id="base">
-    <h2>② つるはし企業（製造装置・材料）<span class="en">THE REAL PICKS & SHOVELS</span></h2>
-    <p class="intro">ここがあなたの本命。<b>半導体を作るための「装置」や「材料」</b>を売る会社。AIで誰が勝っても、チップを作る限り必ず必要になる縁の下の力持ち。<b>日本企業が世界トップシェアを握る分野が多い</b>のが嬉しいポイント。</p>
-
-    <table>
-      <tr><th>会社</th><th>作っているもの</th><th>強さ（シェアなど）</th></tr>
-      <tr><td><b>ASML</b><br>(オランダ)</td><td>露光装置（チップの回路を描く最重要装置・EUV）</td><td>露光装置で<b>約83%</b>。ほぼ独占。AI需要で2026年見通し上方修正</td></tr>
-      <tr><td><b>東京エレクトロン</b><br>(日本)</td><td>各種の製造装置（塗布・現像など）</td><td>コータ/デベロッパで<b>9割超</b></td></tr>
-      <tr><td><b>アドバンテスト</b><br>(日本)</td><td>テスト装置（できたチップの検査）</td><td>半導体テストで世界トップ。AI検査需要で好調</td></tr>
-      <tr><td><b>レーザーテック</b><br>(日本)</td><td>EUVマスクの検査装置</td><td>この分野ほぼ独壇場</td></tr>
-      <tr><td><b>ディスコ</b><br>(日本)</td><td>切る・削る装置（後工程・パッケージ）</td><td>ダイシング/研削で高シェア</td></tr>
-      <tr><td><b>信越化学・SUMCO</b><br>(日本)</td><td>シリコンウエハー（チップの土台の板）</td><td>ウエハー素材で世界上位</td></tr>
-      <tr><td><b>TSMC</b><br>(台湾)</td><td>チップの受託製造（世界の工場）</td><td>最先端の製造を独占的に担う。2026年も過去最大の設備投資</td></tr>
-      <tr><td><b>NVIDIA</b><br>(米)</td><td>AI用GPU（AIの心臓部）</td><td>AIチップで一強。OpenAIと10GW提携</td></tr>
-    </table>
-    <div class="card tsuru" style="margin-top:14px">
-      <h3>💡 つるはし企業の「層」</h3>
-      <div class="kv">
-        チップは <b>①設計（NVIDIA）→ ②製造（TSMC）→ ③装置・材料（ASML・東京エレクトロン・信越化学など）</b> の順で支えられています。<br>
-        下の層（③）ほど地味だけど、<b>どのAI会社が流行っても共通で使われる</b>＝つるはし度が高い、という見方ができます。
-      </div>
-    </div>
-  </section>
-
   <!-- AI -->
   <section id="ai">
-    <h2>③ AI企業の動向と「できること」<span class="en">AI TRENDS</span></h2>
+    <h2>AI企業の動向と「できること」<span class="en">AI TRENDS</span></h2>
     <p class="intro">2026年のキーワードは「<b>試す年から、組み込まれる年へ</b>」。AIが実験段階を卒業して、実際の仕事や道具の中に入ってきています。</p>
 
     <div class="card">
@@ -276,6 +81,7 @@
         ・<b>NVIDIA一強が続く</b>：AIの計算に必要なGPUをほぼ独占。OpenAIと巨大データセンター（10ギガワット規模）を作る提携。<br>
         ・<b>エージェントAI</b>：指示するだけで、AIが自分で手順を考えて作業を代行（まさにこのClaudeもその一種）。<br>
         ・<b>マルチモーダル</b>：文字だけでなく、画像・音声・動画・PDF・表もまとめて理解できるように。<br>
+        ・<b>フィジカルAI</b>：AIが<b>ロボットや工場など現実世界</b>で動く流れ（次のページで企業を紹介）。<br>
         ・<b>課題</b>：電力の確保と計算コストが大きなテーマ（だから発電・電力関連も“つるはし”候補と言われる）。
       </div>
     </div>
@@ -296,65 +102,6 @@
     </div>
   </section>
 
-  <!-- 深掘り -->
-  <section id="fukabori">
-    <h2>④ 深掘り：メモリの需要とNVIDIA<span class="en">DEEP DIVE</span></h2>
-    <p class="intro">「メモリは数年なくならない」「NVIDIAも強い」という見立ては<b>大筋で正解</b>。プロが一段深く見るポイントを足しておきます。</p>
-
-    <div class="card" style="border-left:5px solid var(--green)">
-      <h3>🧠 メモリは3種類ある（自作erなら即わかる）</h3>
-      <table>
-        <tr><th>種類</th><th>役割</th><th>主な用途</th><th>得意な会社</th></tr>
-        <tr><td><b>DRAM</b>（RAM）</td><td>作業用メモリ</td><td>PC・スマホ・サーバー</td><td>Samsung / SKハイニックス / Micron</td></tr>
-        <tr><td><b>NAND</b></td><td>保存用メモリ</td><td>SSD・SDカード</td><td>キオクシア＝SanDisk / Samsung</td></tr>
-        <tr><td><b>HBM</b></td><td>AI用の超高速メモリ</td><td>AI GPUに直結</td><td>SKハイニックス（首位）</td></tr>
-      </table>
-      <p class="kv" style="margin-top:10px">→ PCにもサーバーにも全部必要。<b>AIサーバーは普通のPCの何十倍もメモリを積む</b>ので、需要が数年単位で伸びるという見立ては妥当です。</p>
-    </div>
-
-    <div class="card">
-      <h3>📈 いまは「品不足の好況」（2026年）</h3>
-      <div class="kv">
-        AIがHBMを大量に欲しがり、各社がHBM生産を優先 → <b>普通のDRAM/NANDが足りない</b>。
-        2026年はDRAM契約価格が前期比<b>+55〜100%超</b>という歴史的高騰。自作で「最近メモリ高い…」と感じるのはこれが理由。
-      </div>
-    </div>
-
-    <div class="card tsuru">
-      <h3>⚠️ ただし“落とし穴”：シリコンサイクル</h3>
-      <div class="kv">
-        メモリは半導体で<b>一番、好況と不況の波が激しい</b>分野。だいたい<b>3〜4年ごと</b>に山と谷を繰り返します。<br>
-        ・2023〜24年 → 作りすぎで<b>各社が赤字</b>の「谷」<br>
-        ・2025〜26年 → その反動で<b>過去最高益</b>の「山」（今ここ）<br><br>
-        大事な考え方 👉 <b>「需要は消えない」≠「ずっと儲かる」</b>。みんなが工場を増やすと、作りすぎ→価格暴落が起きるから。
-        だから「今が波のどのへんか」を意識するのがコツ。<br>
-        <span style="color:var(--green-d)">※今回は各社が「増産を我慢」＋「3〜5年の長期契約」で、過去ほど激しい暴落を避けようとしている、という前向きな変化もあります。</span>
-      </div>
-    </div>
-
-    <div class="card" style="border-left:5px solid #7b3ea8">
-      <h3>🎮 NVIDIA（グラボ）の強さと弱点</h3>
-      <div class="kv">
-        <b>強さ：</b>AI半導体でシェア<b>約7〜8割</b>。CUDAというソフトの“囲い込み”が10年以上の堀（ここが最強）。<br>
-        <b>注意① 客が競合に：</b>売上の約4割を占めるGoogle・Amazon・Microsoft・Metaが、<b>自前のAIチップ(ASIC)</b>を作り始めた。2026年は自前チップの伸び(44.6%)がGPUの伸び(16.1%)を上回る予測。<br>
-        <b>注意②：</b>株価への期待が非常に高い＝good news織り込み済み。<br>
-        <b>補足：</b>あなたが詳しい<b>GeForce(ゲーム用)</b>より、今の稼ぎ頭は<b>データセンター用GPU</b>。同じNVIDIAでも主役が移っています。
-      </div>
-    </div>
-
-    <div class="card tsuru">
-      <h3>✅ この見立て・最終チェック</h3>
-      <div class="kv">
-        ◎ メモリは数年需要が続く → <b>合ってる</b>（むしろ今は品不足）<br>
-        ◎ NVIDIAは強い → <b>合ってる</b>（シェア7〜8割＋CUDAの堀）<br>
-        ＋足すと完璧な視点：<br>
-        ① メモリ＝<b>波がある</b>（需要≠利益。山と谷を意識）<br>
-        ② NVIDIA＝<b>客が自前チップで競合化</b>しつつある<br>
-        ③ だから“波に強い”<b>つるはし企業</b>（装置・材料）も合わせて見ると、バランスが良い
-      </div>
-    </div>
-  </section>
-
   <!-- 用語集 -->
   <section id="yougo">
     <h2>初心者用語集<span class="en">GLOSSARY</span></h2>
@@ -369,6 +116,8 @@
         <dt>ASIC（エーシック）</dt><dd>特定用途に特化した自前チップ。GoogleやAmazonがAI用に自作し、NVIDIAの競合に。</dd>
         <dt>CUDA（クーダ）</dt><dd>NVIDIAのGPUを動かすソフト基盤。これに慣れた開発者が多く、NVIDIAの強い堀。</dd>
         <dt>GPU</dt><dd>AIの計算を大量にこなすチップ。NVIDIAが圧倒的。</dd>
+        <dt>フィジカルAI</dt><dd>ロボットや工場・車など、現実世界で動くAI。日本のものづくり企業が強い分野。</dd>
+        <dt>MLCC</dt><dd>積層セラミックコンデンサ。電子機器に必須の超小型部品。村田製作所が世界トップ。</dd>
         <dt>露光装置（EUV）</dt><dd>チップに極細の回路を焼き付ける最重要装置。ASMLの独壇場。</dd>
         <dt>ウエハー</dt><dd>チップを作る土台になる丸いシリコンの板。信越化学などが作る。</dd>
         <dt>営業利益率</dt><dd>売上のうち本業でどれだけ儲けたかの割合。高いほど「強い商売」。</dd>
@@ -388,45 +137,11 @@
 
 <footer>
   <div class="wrap">
-    <b>株なるほどメモ</b>｜家族専用・勉強用<br>
-    <p class="src" style="color:#9fc3b6">
-      参考にした記事（2026年6月時点）：
-      <a href="https://positen.jp/417">SKハイニックス業績推移</a>、
-      <a href="https://gigazine.net/news/20260527-micron-1-trillion-market-cap/">Micron時価総額1兆ドル(GIGAZINE)</a>、
-      <a href="https://www.sbbit.jp/article/st/181016">キオクシア決算(SBビジネス)</a>、
-      <a href="https://note.com/loyal_myrtle1528/n/nf13bffdba524">Kioxia×SanDisk連合</a>、
-      <a href="https://temaetfs.com/insights/semiconductor-equipment-the-picks-and-shovels-of-the-ai-era">Picks & Shovels(Tema ETFs)</a>、
-      <a href="https://moderndiplomacy.eu/2026/04/15/asml-raises-2026-outlook-as-ai-driven-chip-demand-accelerates/">ASML 2026見通し</a>、
-      <a href="https://katacoto.com/semiconductor/">日本の半導体関連銘柄</a>、
-      <a href="https://blogs.nvidia.co.jp/blog/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems/">NVIDIA×OpenAI提携</a>
-    </p>
+    <b>株なるほどメモ</b>｜家族専用・勉強用｜
+    <a href="companies.html">📈 いま熱い企業・株はこちら</a>
   </div>
 </footer>
 
-<script>
-// 株価を prices.json から読み込んで表に反映（失敗時は静的な値のまま）
-(function(){
-  fetch('prices.json?t=' + Date.now())
-    .then(function(r){ return r.json(); })
-    .then(function(d){
-      var s = d.stocks || {};
-      document.querySelectorAll('td.px[data-ticker]').forEach(function(td){
-        var t = td.getAttribute('data-ticker');
-        var info = s[t];
-        if(!info || !info.price){ return; }
-        var p = info.price, txt;
-        if(info.currency === 'JPY'){
-          txt = '約' + Math.round(p).toLocaleString('ja-JP') + '円';
-        } else {
-          txt = '約$' + Number(p).toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2});
-        }
-        td.innerHTML = '<b>' + txt + '</b><br><small>(' + (d.updated||'') + ')</small>';
-      });
-      var u = document.getElementById('auto-upd');
-      if(u && d.updated){ u.textContent = '株価 自動更新：' + d.updated; }
-    })
-    .catch(function(){ /* prices.json が無い/失敗 → 静的な値を表示したまま */ });
-})();
-</script>
+<script src="prices.js"></script>
 </body>
 </html>
