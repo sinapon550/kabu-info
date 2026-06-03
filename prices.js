@@ -2,10 +2,10 @@
 // 取得失敗時は HTML に書いてある静的な値（フォールバック）をそのまま表示。
 (function(){
   function fmtPrice(p, cur){
-    if(cur === 'JPY'){
-      return '約' + Math.round(p).toLocaleString('ja-JP') + '円';
-    }
-    return '約$' + Number(p).toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2});
+    if(cur === 'JPY'){ return '約' + Math.round(p).toLocaleString('ja-JP') + '円'; }
+    if(cur === 'KRW'){ return '約' + Math.round(p).toLocaleString('ko-KR') + 'ウォン'; }
+    if(cur === 'USD'){ return '約$' + Number(p).toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2}); }
+    return '約' + Math.round(p).toLocaleString() + ' ' + (cur || '');
   }
   function fmtCap(v, cur){
     if(!v) return null;
@@ -46,6 +46,11 @@
         if(!info){ return; }
         var c = fmtCap(info.marketCap, info.currency);
         if(c){ td.innerHTML = c; }
+      });
+      document.querySelectorAll('td.dy[data-ticker]').forEach(function(td){
+        var info = s[td.getAttribute('data-ticker')];
+        if(!info){ return; }
+        td.innerHTML = (info.dividendYield != null) ? info.dividendYield.toFixed(2) + '%' : '—';
       });
       document.querySelectorAll('td.tgt[data-ticker]').forEach(function(td){
         var info = s[td.getAttribute('data-ticker')];

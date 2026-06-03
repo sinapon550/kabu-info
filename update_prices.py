@@ -32,6 +32,13 @@ COMPANIES = [
     ("6146.T", "ディスコ"),
     ("4063.T", "信越化学"),
     ("3436.T", "SUMCO"),
+    # 海外メモリ・その他
+    ("000660.KS", "SKハイニックス"),
+    ("005930.KS", "サムスン電子"),
+    ("SNDK",   "SanDisk"),
+    ("6506.T", "安川電機"),
+    ("6861.T", "キーエンス"),
+    ("6324.T", "ハーモニック"),
     # 親の保有
     ("8306.T", "三菱UFJ"),
     # 個人の保有（株価のみ・ニュース対象外）
@@ -103,6 +110,7 @@ def get_price(tk, ticker):
 def get_extras(tk, ticker):
     target = None
     rating = None
+    div_yield = None
     try:
         info = tk.info or {}
         target = info.get("targetMeanPrice")
@@ -111,9 +119,16 @@ def get_extras(tk, ticker):
         n = info.get("numberOfAnalystOpinions")
         if rating and n:
             rating = "%s(%d人)" % (rating, int(n))
+        tdy = info.get("trailingAnnualDividendYield")
+        if tdy:
+            div_yield = round(float(tdy) * 100, 2)
+        else:
+            d2 = info.get("dividendYield")
+            if d2 is not None:
+                div_yield = round(float(d2) if d2 > 1 else float(d2) * 100, 2)
     except Exception as e:
         print("info err", ticker, e)
-    return target, rating
+    return target, rating, div_yield
 
 
 def parse_time(item, content):
@@ -186,11 +201,13 @@ def main():
             if prev:
                 entry["prevClose"] = round(float(prev), 2)
                 entry["changePct"] = round((float(price) - float(prev)) / float(prev) * 100, 2)
-            target, rating = get_extras(tk, ticker)
+            target, rating, div_yield = get_extras(tk, ticker)
             if target:
                 entry["target"] = round(float(target), 2)
             if rating:
                 entry["rating"] = rating
+            if div_yield is not None:
+                entry["dividendYield"] = div_yield
             stocks[ticker] = entry
             print("PRICE OK", ticker, entry)
         else:
