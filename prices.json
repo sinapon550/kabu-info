@@ -1,16 +1,61 @@
 {
   "updated": "2026-06-03",
-  "note": "初期値（自動更新前の手動概算）。GitHub Actions が毎朝上書きします。",
+  "note": "GitHub Actions による自動更新（前営業日ベースの概算）",
   "stocks": {
-    "9984.T": { "price": 7688, "currency": "JPY" },
-    "NVDA": { "price": 221.79, "currency": "USD" },
-    "TSM": { "price": 441.0, "currency": "USD" },
-    "MU": { "price": 1059.44, "currency": "USD" },
-    "285A.T": { "price": 77540, "currency": "JPY" },
-    "6857.T": { "price": 29440, "currency": "JPY" },
-    "6963.T": { "price": 4595, "currency": "JPY" },
-    "7735.T": { "price": 21980, "currency": "JPY" },
-    "4004.T": { "price": 18720, "currency": "JPY" },
-    "5991.T": { "price": 3335, "currency": "JPY" }
+    "9984.T": {
+      "price": 8315.0,
+      "currency": "JPY",
+      "marketCap": 47386550573815
+    },
+    "NVDA": {
+      "price": 222.82,
+      "currency": "USD",
+      "marketCap": 5396923397399
+    },
+    "TSM": {
+      "price": 446.69,
+      "currency": "USD",
+      "marketCap": 2316746089529
+    },
+    "AVGO": {
+      "price": 481.57,
+      "currency": "USD",
+      "marketCap": 2280074192046
+    },
+    "MU": {
+      "price": 1064.1,
+      "currency": "USD",
+      "marketCap": 1200021776136
+    },
+    "285A.T": {
+      "price": 78080.0,
+      "currency": "JPY",
+      "marketCap": 42638404952320
+    },
+    "6857.T": {
+      "price": 27660.0,
+      "currency": "JPY",
+      "marketCap": 20064178889820
+    },
+    "6963.T": {
+      "price": 5616.0,
+      "currency": "JPY",
+      "marketCap": 2167972947504
+    },
+    "7735.T": {
+      "price": 13345.0,
+      "currency": "JPY",
+      "marketCap": 2523377091350
+    },
+    "4004.T": {
+      "price": 18700.0,
+      "currency": "JPY",
+      "marketCap": 3384391880100
+    },
+    "5991.T": {
+      "price": 3930.0,
+      "currency": "JPY",
+      "marketCap": 796175127630
+    }
   }
 }
