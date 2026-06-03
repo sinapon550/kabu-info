@@ -12,7 +12,7 @@
   <div class="wrap">
     <span class="badge">家族専用</span>
     <h1>🙋 自分の保有</h1>
-    <p class="lead">いま自分が持っている株の一覧。株価・前日比・評価額は毎朝自動更新。</p>
+    <p class="lead">自分が持っている銘柄のウォッチリスト。株価・前日比・目標株価は毎朝自動更新。<br>（保有株数は非公開）</p>
     <p class="updated"><span id="auto-upd">株価は毎朝 自動更新</span>／家族の勉強メモ</p>
   </div>
 </header>
@@ -22,54 +22,101 @@
   <a class="navpage" href="companies.html">📈 いま熱い企業・株</a>
   <a class="navpage" href="holdings.html">👪 親の保有</a>
   <a class="navpage active" href="my-holdings.html">🙋 自分の保有</a>
+  <span class="navsep"></span>
+  <a href="#news">📰ニュース</a>
+  <a href="#mine">保有銘柄</a>
+  <a href="#detail">各社の展望</a>
+  <a href="#bunseki">分析</a>
 </div></nav>
 
 <div class="wrap">
 
-  <div class="disc" style="background:#ffecec;border-color:#f0a9a9;color:#7a2020">
-    <b>🔒 公開範囲に注意</b><br>
-    このページは<b>保有株数と評価額</b>を含みます。今は<b>公開URL</b>なので、リンクを知る人は内容を見られます。
-    身内だけにしたい場合は<b>非公開化</b>もできます（管理者に相談を）。
-  </div>
-
   <div class="disc">
-    <b>⚠️ 補足</b>：このページは保有の<b>把握用メモ</b>で、売買のおすすめではありません。評価額は「株価×株数」の概算で、実際の残高・損益は<b>証券口座で確認</b>を。
+    <b>⚠️ はじめに</b>：このページは保有の<b>把握用メモ</b>で、売買のおすすめではありません。<b>保有株数・金額は載せていません</b>。判断は最新の公式情報を見て自己責任で。
   </div>
 
+  <!-- 関連ニュース -->
+  <section id="news">
+    <h2>📰 自分の銘柄ニュース<span class="en">MY NEWS</span></h2>
+    <p class="intro">保有銘柄の最近のニュース見出し（毎朝自動収集・<b>日本語訳</b>）。<span id="news-updated"></span><br>
+    <span style="font-size:12px">※リンクは翻訳版で開きます。自動翻訳のため不自然な箇所はご容赦を。</span></p>
+    <div id="news-list" class="card" data-limit="12" data-tickers="2502.T,2768.T,2914.T,4565.T,4755.T,7267.T,8058.T,8267.T,8591.T,8729.T,9432.T,9433.T,1417.T"><div class="kv">読み込み中…</div></div>
+  </section>
+
+  <!-- 保有銘柄 -->
   <section id="mine">
-    <h2>保有株 一覧<span class="en">MY HOLDINGS</span></h2>
-    <p class="intro">前日比は<span style="color:#c0392f">▲赤=上昇</span> / <span style="color:#2156a8">▼青=下落</span>。評価額＝株価×株数（概算）。</p>
+    <h2>保有銘柄 一覧<span class="en">MY HOLDINGS</span></h2>
+    <p class="intro">前日比は<span style="color:#c0392f">▲赤=上昇</span> / <span style="color:#2156a8">▼青=下落</span>。目標株価＝アナリスト予想の平均。</p>
     <table>
-      <tr><th>銘柄</th><th>何の会社</th><th>株数</th><th>株価<br>前日比</th><th>評価額<br>(概算)</th></tr>
-      <tr><td><b>アサヒGHD</b><br>2502</td><td>ビール・飲料大手</td><td>100株</td><td class="px" data-ticker="2502.T">—</td><td class="val" data-ticker="2502.T" data-shares="100">—</td></tr>
-      <tr><td><b>双日</b><br>2768</td><td>総合商社</td><td>40株</td><td class="px" data-ticker="2768.T">—</td><td class="val" data-ticker="2768.T" data-shares="40">—</td></tr>
-      <tr><td><b>日本たばこ産業(JT)</b><br>2914</td><td>たばこ世界大手・高配当</td><td>200株</td><td class="px" data-ticker="2914.T">—</td><td class="val" data-ticker="2914.T" data-shares="200">—</td></tr>
-      <tr><td><b>ネクセラファーマ</b><br>4565</td><td>創薬（製薬）</td><td>100株</td><td class="px" data-ticker="4565.T">—</td><td class="val" data-ticker="4565.T" data-shares="100">—</td></tr>
-      <tr><td><b>楽天グループ</b><br>4755</td><td>EC・モバイル・金融</td><td>100株</td><td class="px" data-ticker="4755.T">—</td><td class="val" data-ticker="4755.T" data-shares="100">—</td></tr>
-      <tr><td><b>本田技研工業</b><br>7267</td><td>自動車・バイク大手</td><td>100株</td><td class="px" data-ticker="7267.T">—</td><td class="val" data-ticker="7267.T" data-shares="100">—</td></tr>
-      <tr><td><b>三菱商事</b><br>8058</td><td>総合商社最大手・高配当</td><td>300株</td><td class="px" data-ticker="8058.T">—</td><td class="val" data-ticker="8058.T" data-shares="300">—</td></tr>
-      <tr><td><b>イオン</b><br>8267</td><td>小売（スーパー）大手</td><td>300株</td><td class="px" data-ticker="8267.T">—</td><td class="val" data-ticker="8267.T" data-shares="300">—</td></tr>
-      <tr><td><b>オリックス</b><br>8591</td><td>リース・金融・多角化</td><td>100株</td><td class="px" data-ticker="8591.T">—</td><td class="val" data-ticker="8591.T" data-shares="100">—</td></tr>
-      <tr><td><b>ソニーフィナンシャルG</b><br>8729</td><td>保険・銀行（ソニー系）</td><td>200株</td><td class="px" data-ticker="8729.T">—</td><td class="val" data-ticker="8729.T" data-shares="200">—</td></tr>
-      <tr><td><b>NTT</b><br>9432</td><td>通信最大手・高配当・安定</td><td>1,000株</td><td class="px" data-ticker="9432.T">—</td><td class="val" data-ticker="9432.T" data-shares="1000">—</td></tr>
-      <tr><td><b>KDDI</b><br>9433</td><td>通信大手(au)・高配当</td><td>200株</td><td class="px" data-ticker="9433.T">—</td><td class="val" data-ticker="9433.T" data-shares="200">—</td></tr>
-      <tr><td><b>ミライト・ワン</b><br>1417</td><td>通信建設・インフラ工事</td><td>800株</td><td class="px" data-ticker="1417.T">—</td><td class="val" data-ticker="1417.T" data-shares="800">—</td></tr>
+      <tr><th>銘柄</th><th>何の会社</th><th>株価<br>前日比</th><th>時価総額</th><th>目標株価<br>評価</th></tr>
+      <tr><td><b>アサヒGHD</b><br>2502</td><td>ビール・飲料大手</td><td class="px" data-ticker="2502.T">—</td><td class="mcap" data-ticker="2502.T">—</td><td class="tgt" data-ticker="2502.T">—</td></tr>
+      <tr><td><b>双日</b><br>2768</td><td>総合商社</td><td class="px" data-ticker="2768.T">—</td><td class="mcap" data-ticker="2768.T">—</td><td class="tgt" data-ticker="2768.T">—</td></tr>
+      <tr><td><b>日本たばこ産業(JT)</b><br>2914</td><td>たばこ世界大手・高配当</td><td class="px" data-ticker="2914.T">—</td><td class="mcap" data-ticker="2914.T">—</td><td class="tgt" data-ticker="2914.T">—</td></tr>
+      <tr><td><b>ネクセラファーマ</b><br>4565</td><td>創薬（製薬）</td><td class="px" data-ticker="4565.T">—</td><td class="mcap" data-ticker="4565.T">—</td><td class="tgt" data-ticker="4565.T">—</td></tr>
+      <tr><td><b>楽天グループ</b><br>4755</td><td>EC・モバイル・金融</td><td class="px" data-ticker="4755.T">—</td><td class="mcap" data-ticker="4755.T">—</td><td class="tgt" data-ticker="4755.T">—</td></tr>
+      <tr><td><b>本田技研工業</b><br>7267</td><td>自動車・バイク大手</td><td class="px" data-ticker="7267.T">—</td><td class="mcap" data-ticker="7267.T">—</td><td class="tgt" data-ticker="7267.T">—</td></tr>
+      <tr><td><b>三菱商事</b><br>8058</td><td>総合商社最大手・高配当</td><td class="px" data-ticker="8058.T">—</td><td class="mcap" data-ticker="8058.T">—</td><td class="tgt" data-ticker="8058.T">—</td></tr>
+      <tr><td><b>イオン</b><br>8267</td><td>小売（スーパー）大手</td><td class="px" data-ticker="8267.T">—</td><td class="mcap" data-ticker="8267.T">—</td><td class="tgt" data-ticker="8267.T">—</td></tr>
+      <tr><td><b>オリックス</b><br>8591</td><td>リース・金融・多角化</td><td class="px" data-ticker="8591.T">—</td><td class="mcap" data-ticker="8591.T">—</td><td class="tgt" data-ticker="8591.T">—</td></tr>
+      <tr><td><b>ソニーフィナンシャルG</b><br>8729</td><td>保険・銀行（ソニー系）</td><td class="px" data-ticker="8729.T">—</td><td class="mcap" data-ticker="8729.T">—</td><td class="tgt" data-ticker="8729.T">—</td></tr>
+      <tr><td><b>NTT</b><br>9432</td><td>通信最大手・高配当・安定</td><td class="px" data-ticker="9432.T">—</td><td class="mcap" data-ticker="9432.T">—</td><td class="tgt" data-ticker="9432.T">—</td></tr>
+      <tr><td><b>KDDI</b><br>9433</td><td>通信大手(au)・高配当</td><td class="px" data-ticker="9433.T">—</td><td class="mcap" data-ticker="9433.T">—</td><td class="tgt" data-ticker="9433.T">—</td></tr>
+      <tr><td><b>ミライト・ワン</b><br>1417</td><td>通信建設・インフラ工事</td><td class="px" data-ticker="1417.T">—</td><td class="mcap" data-ticker="1417.T">—</td><td class="tgt" data-ticker="1417.T">—</td></tr>
     </table>
+    <p class="src">株価・時価総額・目標株価は自動更新（概算）。<b>ソフトバンク(9434)</b>は「<a href="holdings.html">👪 親の保有</a>」ページに掲載。</p>
+  </section>
 
-    <div class="card" style="border-left:5px solid var(--gold);margin-top:14px">
-      <h3>💰 保有合計（概算）</h3>
-      <div class="kv" style="font-size:18px">
-        <b id="holdings-total" class="num" style="font-size:24px">計算中…</b>
-      </div>
-      <p class="src">※株価×株数の単純合計（概算）。配当・手数料・税は含みません。実際の残高は証券口座で確認を。</p>
-    </div>
+  <!-- 各社の展望 -->
+  <section id="detail">
+    <h2>📋 各社の主要事業と今後の展望<span class="en">BUSINESS & OUTLOOK</span></h2>
+    <p class="intro">保有各社が「何の会社か」「これからどうなりそうか」。展望はざっくりした見方で保証ではありません。</p>
+    <table>
+      <tr><th>会社</th><th>主要事業</th><th>今後の展望（ざっくり）</th></tr>
+      <tr><td><b>アサヒGHD</b></td><td>ビール・飲料</td><td>海外展開と値上げ浸透。景気に左右されにくいディフェンシブ</td></tr>
+      <tr><td><b>双日</b></td><td>総合商社（中堅）</td><td>資源・自動車・航空など。株主還元の強化が進む</td></tr>
+      <tr><td><b>JT</b></td><td>たばこ・医薬・食品</td><td><b>高配当の代表格</b>。海外たばこが収益源。為替・規制が変動要因</td></tr>
+      <tr><td><b>ネクセラファーマ</b></td><td>創薬バイオ</td><td>新薬・提携の進展次第で<b>値動きが大きめ</b>。期待先行の側面</td></tr>
+      <tr><td><b>楽天グループ</b></td><td>EC・モバイル・金融</td><td>モバイル事業の<b>赤字改善が鍵</b>。金融・ECは堅調</td></tr>
+      <tr><td><b>ホンダ</b></td><td>自動車・バイク</td><td>EV/HV対応と北米市場。配当・自社株買いに積極的</td></tr>
+      <tr><td><b>三菱商事</b></td><td>総合商社（最大手）</td><td>資源＋非資源で安定。<b>高配当</b>でバフェットも保有</td></tr>
+      <tr><td><b>イオン</b></td><td>小売（スーパー）</td><td>国内最大の小売。ディフェンシブだが利益率は薄め</td></tr>
+      <tr><td><b>オリックス</b></td><td>リース・金融・多角化</td><td>多角経営で安定。配当・株主優待が人気</td></tr>
+      <tr><td><b>ソニーフィナンシャルG</b></td><td>保険・銀行</td><td>ソニー系の金融。生命保険が主力で安定志向</td></tr>
+      <tr><td><b>NTT</b></td><td>通信最大手</td><td><b>超安定・高配当</b>。1株単位で買いやすく初心者にも人気</td></tr>
+      <tr><td><b>KDDI</b></td><td>通信大手(au)</td><td>高配当・安定。金融・DX・電力にも展開</td></tr>
+      <tr><td><b>ミライト・ワン</b></td><td>通信建設・インフラ工事</td><td>5G・データセンター・再エネ工事で需要。AIインフラ拡大の恩恵も</td></tr>
+    </table>
+  </section>
 
-    <div class="card tsuru">
-      <h3>📝 メモ</h3>
+  <!-- 分析 -->
+  <section id="bunseki">
+    <h2>🔎 自分のポートフォリオ分析<span class="en">ANALYSIS</span></h2>
+    <div class="card" style="border-left:5px solid var(--green)">
+      <h3>📊 全体の性格</h3>
       <div class="kv">
-        ・<b>三菱自動車工業(7211)</b> はこのページから除外しています。<br>
-        ・<b>ソフトバンク(9434)</b> は「<a href="holdings.html">👪 親の保有</a>」ページに入れています。<br>
-        ・全体的に<b>高配当・安定（通信・商社・金融・生活）</b>が多い構成。値動きの激しいAI株とは性格が違います。
+        <b>高配当・安定・ディフェンシブ中心</b>の構成。値動きの激しいAI／ハイテク株は少なく、<b>“守り重視”</b>の傾向です。
+        通信・商社・金融・生活など、生活に根ざした会社が多く、<b>配当（インカム）狙い</b>に向いた組み立てと言えます。
+      </div>
+    </div>
+    <div class="card">
+      <h3>🧩 業種のバランス</h3>
+      <div class="kv">
+        ・<b>通信／インフラ</b>：NTT・KDDI・ミライト・ワン（安定の柱）<br>
+        ・<b>商社</b>：三菱商事・双日（景気敏感＋高配当）<br>
+        ・<b>金融</b>：オリックス・ソニーフィナンシャルG<br>
+        ・<b>生活・消費</b>：アサヒ・JT・イオン（ディフェンシブ）<br>
+        ・<b>自動車</b>：ホンダ ／ <b>製薬</b>：ネクセラファーマ<br>
+        → 景気に強い銘柄と、景気に左右されにくい銘柄が<b>混ざってリスク分散</b>できています。
+      </div>
+    </div>
+    <div class="card tsuru">
+      <h3>💡 気づき（あくまで見方）</h3>
+      <div class="kv">
+        ・<b>通信に厚め</b>（NTT・KDDI・ミライト）。通信が崩れると影響が出やすい点は意識。<br>
+        ・<b>ネクセラ（バイオ）・楽天（再建途上）</b>は値動きが大きめ＝この2つが“攻め”の部分。<br>
+        ・全体に<b>高配当株が多い</b>ので、株価より<b>配当の継続性</b>を見るのが相性◎。<br>
+        ・成長（AI・半導体）の比率は低め。気になるなら「<a href="companies.html">📈 いま熱い企業</a>」で“攻め”の研究も。<br>
+        <span style="color:var(--sub);font-size:12px">※これは情報整理であり、売買のおすすめではありません。</span>
       </div>
     </div>
   </section>

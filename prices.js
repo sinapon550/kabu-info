@@ -79,21 +79,32 @@
   // ===== 関連ニュース =====
   var newsEl = document.getElementById('news-list');
   if(newsEl){
+    var scope = (newsEl.getAttribute('data-tickers') || '').split(',')
+      .map(function(x){ return x.trim(); }).filter(Boolean);
+    var limit = parseInt(newsEl.getAttribute('data-limit') || '10', 10);
     fetch('news.json?t=' + Date.now())
       .then(function(r){ return r.json(); })
       .then(function(d){
         var items = d.items || [];
         var nu = document.getElementById('news-updated');
         if(nu && d.updated){ nu.textContent = '（' + d.updated + ' 時点）'; }
-        if(!items.length){
-          newsEl.innerHTML = '<div class="kv">今朝は新しいニュースは見つかりませんでした。</div>';
+        if(scope.length){
+          items = items.filter(function(n){ return scope.indexOf(n.ticker) >= 0; });
+        }
+        var seen = {}, uniq = [];
+        items.forEach(function(n){ if(!seen[n.link]){ seen[n.link] = 1; uniq.push(n); } });
+        uniq = uniq.slice(0, limit);
+        if(!uniq.length){
+          newsEl.innerHTML = '<div class="kv">最近の関連ニュースは見つかりませんでした。</div>';
           return;
         }
-        newsEl.innerHTML = items.map(function(n){
+        newsEl.innerHTML = uniq.map(function(n){
           var date = n.time ? n.time.slice(0,10) : '';
+          var jurl = 'https://translate.google.com/translate?sl=auto&tl=ja&u=' + encodeURIComponent(n.link);
+          var title = n.titleJa || n.title;
           return '<div style="padding:9px 0;border-bottom:1px solid var(--line)">'
             + '<span class="pill">' + esc(n.company) + '</span> '
-            + '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>'
+            + '<a href="' + esc(jurl) + '" target="_blank" rel="noopener">' + esc(title) + '</a>'
             + '<div class="src">' + esc(n.publisher) + (date ? ' ・ ' + esc(date) : '') + '</div>'
             + '</div>';
         }).join('');

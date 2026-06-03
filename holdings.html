@@ -23,8 +23,10 @@
   <a class="navpage active" href="holdings.html">👪 親の保有</a>
   <a class="navpage" href="my-holdings.html">🙋 自分の保有</a>
   <span class="navsep"></span>
+  <a href="#news">📰ニュース</a>
   <a href="#kabu">保有株</a>
   <a href="#toushin">投資信託</a>
+  <a href="#bunseki">分析</a>
 </div></nav>
 
 <div class="wrap">
@@ -34,6 +36,14 @@
     これは家族で保有を把握するための<b>メモ</b>です。<b>売買のおすすめではありません</b>。株価・基準価額は日々変わります。
     実際の残高・損益は<b>証券口座で必ず確認</b>してください。判断は自己責任で・必要なら専門家に相談を。
   </div>
+
+  <!-- 関連ニュース -->
+  <section id="news">
+    <h2>📰 保有銘柄ニュース<span class="en">NEWS</span></h2>
+    <p class="intro">保有銘柄の最近のニュース見出し（毎朝自動収集・<b>日本語訳</b>）。<span id="news-updated"></span><br>
+    <span style="font-size:12px">※リンクは翻訳版で開きます。自動翻訳のため不自然な箇所はご容赦を。</span></p>
+    <div id="news-list" class="card" data-limit="10" data-tickers="5991.T,8306.T,9434.T"><div class="kv">読み込み中…</div></div>
+  </section>
 
   <!-- 保有株 -->
   <section id="kabu">
@@ -87,6 +97,37 @@
         <b>基準価額</b>：投資信託の“1口あたりのねだん”。株価にあたるもの。<br>
         <b>信託報酬</b>：運用してもらう年間手数料。低いほど有利。<br>
         <b>バランス型</b>：株・債券などを最初から混ぜてある安心タイプ。
+      </div>
+    </div>
+  </section>
+
+  <!-- 分析 -->
+  <section id="bunseki">
+    <h2>🔎 親のポートフォリオ分析<span class="en">ANALYSIS</span></h2>
+    <div class="card" style="border-left:5px solid var(--green)">
+      <h3>📊 全体の性格</h3>
+      <div class="kv">
+        <b>個別株（実業・銀行・通信）＋バランス型投信</b>の組み合わせ。
+        安定・配当を重視しつつ、投資信託で<b>世界に分散</b>もできている、<b>手堅い“守り”の構成</b>です。
+      </div>
+    </div>
+    <div class="card">
+      <h3>🧩 中身のバランス</h3>
+      <div class="kv">
+        ・<b>三菱UFJ</b>＝メガバンク。金利上昇が追い風＋配当が厚い<br>
+        ・<b>ソフトバンク(9434)</b>＝通信。安定収益＋高めの配当<br>
+        ・<b>日本発条</b>＝実業（ばね）。地味だが堅実な配当系<br>
+        ・<b>のむラップ・ファンド（普通型）</b>＝株・債券などを世界に分散した“おまかせパック”<br>
+        → 日本の個別株3社を、投信が<b>海外・債券にも広げてバランス</b>させている形。
+      </div>
+    </div>
+    <div class="card tsuru">
+      <h3>💡 気づき（あくまで見方）</h3>
+      <div class="kv">
+        ・全体に<b>配当・安定を狙う堅実型</b>。値動きの激しいAI・成長株の比率は低め。<br>
+        ・個別株は<b>金融・通信に寄り</b>ぎみ。投信（普通型）が分散を補っている。<br>
+        ・<b>配当の継続性</b>と、のむラップの<b>基準価額・信託報酬</b>をたまに確認するのが相性◎。<br>
+        <span style="color:var(--sub);font-size:12px">※これは情報整理であり、売買のおすすめではありません。</span>
       </div>
     </div>
   </section>

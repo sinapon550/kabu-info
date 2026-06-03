@@ -5,6 +5,8 @@
 """
 import json
 import datetime
+import urllib.parse
+import urllib.request
 import yfinance as yf
 
 # (ticker, 表示名)
@@ -48,12 +50,20 @@ COMPANIES = [
     ("1417.T", "ミライト・ワン"),
 ]
 
-# ニュースを集める対象（AI・半導体系のみ。個人保有の消費・通信株は除外して雑音を防ぐ）
-NEWS_TICKERS = {
-    "9984.T", "9434.T", "NVDA", "TSM", "AVGO", "MU", "285A.T", "6857.T",
-    "6963.T", "7735.T", "4004.T", "5991.T", "6954.T", "6981.T",
-    "ASML", "8035.T", "6920.T", "6146.T", "4063.T", "3436.T", "8306.T",
-}
+def translate_ja(text):
+    """無料の翻訳エンドポイントで日本語化（失敗時は原文のまま）。"""
+    if not text:
+        return text
+    try:
+        url = ("https://translate.googleapis.com/translate_a/single"
+               "?client=gtx&sl=auto&tl=ja&dt=t&q=" + urllib.parse.quote(text))
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=12) as r:
+            data = json.loads(r.read().decode("utf-8"))
+        return "".join(seg[0] for seg in data[0] if seg and seg[0])
+    except Exception as e:
+        print("translate err", e)
+        return text
 
 RATING_MAP = {
     "strong_buy": "強い買い", "buy": "買い", "outperform": "やや買い",
@@ -186,10 +196,9 @@ def main():
         else:
             print("PRICE SKIP", ticker)
 
-        if ticker in NEWS_TICKERS:
-            news = sorted(get_news(tk, ticker, company),
-                          key=lambda n: n["time"] or "", reverse=True)
-            all_news.extend(news[:2])
+        news = sorted(get_news(tk, ticker, company),
+                      key=lambda n: n["time"] or "", reverse=True)
+        all_news.extend(news[:2])
 
     today = datetime.datetime.now(JST).strftime("%Y-%m-%d")
 
@@ -203,7 +212,10 @@ def main():
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=6)
     recent = [n for n in all_news if (to_dt(n["time"]) is None or to_dt(n["time"]) >= cutoff)]
     recent.sort(key=lambda n: n["time"] or "", reverse=True)
-    recent = recent[:15]
+    recent = recent[:50]
+    # 見出しを日本語訳
+    for n in recent:
+        n["titleJa"] = translate_ja(n["title"])
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump({"updated": today, "items": recent}, f, ensure_ascii=False, indent=2)
 
