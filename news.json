@@ -4,18 +4,38 @@
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "3 Outstanding Dividend Stocks to Buy on the Dip and Hold for 10 Years",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/03/3-outstanding-dividend-stocks-to-buy-on-the-dip-an/",
-      "time": "2026-06-03T10:50:00Z"
+      "title": "Intel's new AI chip skips the costly memory Nvidia relies on",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/technology/intels-new-ai-chip-skips-the-costly-memory-nvidia-relies-on",
+      "time": "2026-06-03T11:03:00Z",
+      "titleJa": "Intelの新しいAIチップはNvidiaが依存している高価なメモリをスキップします"
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Down 50% and Still Dominant: The 1 Growth Stock Worth Buying Right Now",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/03/down-50-and-still-dominant-the-1-growth-stock-wort/",
-      "time": "2026-06-03T10:45:00Z"
+      "title": "Beyond Nvidia: Trading the next wave of AI infrastructure",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/beyond-nvidia-trading-next-wave-110000233.html",
+      "time": "2026-06-03T11:00:00Z",
+      "titleJa": "Nvidia を超えて: AI インフラストラクチャの次の波を取引する"
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Beyond Nvidia: Trading the next wave of AI infrastructure",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/beyond-nvidia-trading-next-wave-110000233.html",
+      "time": "2026-06-03T11:00:00Z",
+      "titleJa": "Nvidia を超えて: AI インフラストラクチャの次の波を取引する"
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "The next phase of the AI trade could belong to this market, Barclays says",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/next-phase-ai-trade-could-105819882.html",
+      "time": "2026-06-03T10:58:19Z",
+      "titleJa": "AI取引の次の段階はこの市場に属する可能性があるとバークレイズは言う"
     },
     {
       "ticker": "AVGO",
@@ -23,7 +43,8 @@
       "title": "Stocks to Watch: Marvell, GameStop, GitLab, Macy’s",
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026/card/stocks-to-watch-marvell-gamestop-gitlab-macy-s-HcT6mcfnsGhH2VoZwlUj?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-03T10:01:54Z"
+      "time": "2026-06-03T10:01:54Z",
+      "titleJa": "注目株: マーベル、ゲームストップ、GitLab、メイシーズ"
     },
     {
       "ticker": "TSM",
@@ -31,15 +52,8 @@
       "title": "Fresh AI Buzz Powers Taiwan Stocks Even Higher",
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/fresh-ai-buzz-powers-taiwan-stocks-even-higher-jF86JMtwmG2YV9nC3yEb?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-03T09:12:29Z"
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
-      "time": "2026-06-03T09:05:23Z"
+      "time": "2026-06-03T09:12:29Z",
+      "titleJa": "AIの新たな話題が台湾株をさらに上昇させる"
     },
     {
       "ticker": "MU",
@@ -47,7 +61,8 @@
       "title": "Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families",
       "publisher": "Bloomberg",
       "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
-      "time": "2026-06-03T09:05:23Z"
+      "time": "2026-06-03T09:05:23Z",
+      "titleJa": "Nvidia CEO、億万長者家族に「非常識な」AI の復活を売り込む"
     },
     {
       "ticker": "AVGO",
@@ -55,15 +70,8 @@
       "title": "Nasdaq, S&P 500 Futures Take A Breather Ahead Of ADP Jobs Data: Why PANW, AVGO, CRWD, PLTR, ASTC, GME, XOS Are In Focus",
       "publisher": "Stocktwits",
       "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-ease-iran-risks-avgo-crwd-panw-astc-xos-stocks-to-watch/cZ0S6cCRexd",
-      "time": "2026-06-03T08:46:56Z"
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "2 Factors To Remember When Investing in Micron Stock",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/03/2-factors-to-remember-when-investing-in-micron-sto/",
-      "time": "2026-06-03T08:45:00Z"
+      "time": "2026-06-03T08:46:56Z",
+      "titleJa": "ナスダック、S&P 500先物はADP雇用統計を前に一息つける：PANW、AVGO、CRWD、PLTR、ASTC、GME、XOSが注目される理由"
     },
     {
       "ticker": "9434.T",
@@ -71,7 +79,8 @@
       "title": "Bitcoin Price Crash: Ex-SoftBank CFO Sees ‘No Concerns’ For Crypto Despite Mega IPO Capital-Drain Fears, Pins Hope On CLARITY Act",
       "publisher": "Stocktwits",
       "link": "https://stocktwits.com/news-articles/markets/equity/bitcoin-price-crash-ex-soft-bank-cfo-sees-no-concerns-for-crypto-despite-mega-ipo-capital-drain-fears-pins-hope-on-clarity-act/cZ0SzzjRexT",
-      "time": "2026-06-03T08:03:50Z"
+      "time": "2026-06-03T08:03:50Z",
+      "titleJa": "ビットコイン価格暴落：元ソフトバンク最高財務責任者（CFO）、メガIPO資本流出の懸念にもかかわらず仮想通貨に「懸念はない」、CLARITY法に期待"
     },
     {
       "ticker": "7735.T",
@@ -79,7 +88,8 @@
       "title": "Nikkei Closes at Record High, Driven by Chip-Related Stocks",
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/nikkei-closes-at-record-high-driven-by-chip-related-stocks-B0pJJEiTaaJz0aX7eqvS?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-03T06:55:56Z"
+      "time": "2026-06-03T06:55:56Z",
+      "titleJa": "チップ関連株主導で日経平均終値は過去最高値"
     },
     {
       "ticker": "8035.T",
@@ -87,7 +97,8 @@
       "title": "Nikkei Closes at Record High, Driven by Chip-Related Stocks",
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/nikkei-closes-at-record-high-driven-by-chip-related-stocks-B0pJJEiTaaJz0aX7eqvS?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-03T06:55:56Z"
+      "time": "2026-06-03T06:55:56Z",
+      "titleJa": "チップ関連株主導で日経平均終値は過去最高値"
     },
     {
       "ticker": "9434.T",
@@ -95,7 +106,8 @@
       "title": "Morning Bid: Marvell, a fitting name for the latest AI darling",
       "publisher": "Reuters",
       "link": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-marvell-fitting-name-043542710.html",
-      "time": "2026-06-03T04:35:42Z"
+      "time": "2026-06-03T04:35:42Z",
+      "titleJa": "モーニング ビッド: マーベル、最新の AI の最愛の人にふさわしい名前"
     },
     {
       "ticker": "6857.T",
@@ -103,7 +115,8 @@
       "title": "World shares are mixed as Tokyo's Nikkei 225 follows Wall Street to an all-time high",
       "publisher": "Associated Press",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/tokyos-nikkei-225-index-tops-020136717.html",
-      "time": "2026-06-03T02:01:36Z"
+      "time": "2026-06-03T02:01:36Z",
+      "titleJa": "東京の日経平均株価がウォール街に続き史上最高値を更新する中、世界株はまちまち"
     },
     {
       "ticker": "8035.T",
@@ -111,7 +124,8 @@
       "title": "World shares are mixed as Tokyo's Nikkei 225 follows Wall Street to an all-time high",
       "publisher": "Associated Press",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/tokyos-nikkei-225-index-tops-020136717.html",
-      "time": "2026-06-03T02:01:36Z"
+      "time": "2026-06-03T02:01:36Z",
+      "titleJa": "東京の日経平均株価がウォール街に続き史上最高値を更新する中、世界株はまちまち"
     },
     {
       "ticker": "ASML",
@@ -119,7 +133,143 @@
       "title": "Stock Indexes Post New Record Highs Amid AI Enthusiasm",
       "publisher": "Barchart",
       "link": "https://www.barchart.com/story/news/2267903/stock-indexes-post-new-record-highs-amid-ai-enthusiasm",
-      "time": "2026-06-02T20:32:34Z"
+      "time": "2026-06-02T20:32:34Z",
+      "titleJa": "AI熱狂の中で株価指数が過去最高値を更新"
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Stocks Push Higher on US Labor Market Strength and AI Spending",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/2262032/stocks-push-higher-on-us-labor-market-strength-and-ai-spending",
+      "time": "2026-06-02T15:25:43Z",
+      "titleJa": "米国の労働市場の強さとAI支出を背景に株価が上昇"
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Sam Altman backs Alfred, a physical AI startup for robotics",
+      "publisher": "Quartz",
+      "link": "https://qz.com/sam-altman-alfred-startup-robotics-software-060226",
+      "time": "2026-06-02T12:27:59Z",
+      "titleJa": "サム・アルトマン氏、ロボット工学向け物理 AI スタートアップの Alfred を支援"
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "Palo Alto CEO’s Pay, Now Nearly $100 Million, Is Most Rejected in Corporate America",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-ceo-pay-now-121504850.html",
+      "time": "2026-06-02T12:15:04Z",
+      "titleJa": "パロアルトCEOの報酬は現在1億ドル近く、アメリカ企業で最も拒否されている"
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Market Chatter: Toyota Motor-Led Industry to Standardize Defect Rules to Cut Waste and Improve Supply",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-toyota-motor-led-103731567.html",
+      "time": "2026-06-02T10:37:31Z",
+      "titleJa": "市場の話題: トヨタ自動車主導の業界、無駄を削減し供給を改善するために欠陥ルールを標準化"
+    },
+    {
+      "ticker": "8058.T",
+      "company": "三菱商事",
+      "title": "Fluor JV receives LNTP for LNG Canada phase two expansion",
+      "publisher": "Offshore Technology",
+      "link": "https://www.offshore-technology.com/news/fluor-jv-lntp-lng-canada-phase-2-expansion/",
+      "time": "2026-06-02T08:37:42Z",
+      "titleJa": "Fluor JV がカナダの LNG 第 2 段階拡張用に LNTP を受領"
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "Arm May Hit $15 Billion AI Chip Revenue Goal Early, CEO Says",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/arm-may-hit-15-billion-064305343.html",
+      "time": "2026-06-02T06:43:05Z",
+      "titleJa": "Arm、AIチップの収益目標150億ドルを早期に達成する可能性があるとCEOが語る"
+    },
+    {
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "Keysight Stock Rises 113.2% in the Past Year: How to Play the Stock",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/keysight-stock-rises-113-2-134300302.html",
+      "time": "2026-06-01T13:43:00Z",
+      "titleJa": "キーサイト株は過去 1 年間で 113.2% 上昇: 株の遊び方"
+    },
+    {
+      "ticker": "9432.T",
+      "company": "NTT",
+      "title": "Checking Whether NTT (TSE:9432) Still Looks Undervalued After Recent Share Price Weakness",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/checking-whether-ntt-tse-9432-210819553.html",
+      "time": "2026-05-31T21:08:19Z",
+      "titleJa": "NTT (東証:9432) が最近の株価低迷後も依然として過小評価されているかどうかを確認する"
+    },
+    {
+      "ticker": "6954.T",
+      "company": "ファナック",
+      "title": "Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute Transition",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/05/31/quantum-computing-just-hit-commercial-viability-and-these-3-etfs-sit-on-top-of-the-compute-transition/",
+      "time": "2026-05-31T15:15:35Z",
+      "titleJa": "量子コンピューティングは商業化の可能性に達し、これら 3 つの ETF はコンピューティングの移行の頂点に位置します"
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "SK Hynix Just Hit a $1 Trillion Market Cap. Here's How You Can Buy the Stock for Around $60.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/05/30/sk-hynix-1-trillion-market-cap-buy-stock/",
+      "time": "2026-05-30T22:05:00Z",
+      "titleJa": "SKハイニックスが時価総額1兆ドルに到達した。約60ドルで株を買う方法は次のとおりです。"
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Canada's March GDP Falls 0.1%, Misses Expectations; April Seen Rebounding 0.4%",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/economy/articles/canada-apos-march-gdp-falls-124919974.html",
+      "time": "2026-05-29T12:49:19Z",
+      "titleJa": "カナダの3月GDPは0.1%減、予想外。 4月は0.4%の回復が見られる"
+    },
+    {
+      "ticker": "6954.T",
+      "company": "ファナック",
+      "title": "Fanuc, Google advance industrial robotics as part of recent AI deals",
+      "publisher": "Manufacturing Dive",
+      "link": "https://www.manufacturingdive.com/news/fanuc-google-advance-industrial-robotics-ai-deals-stellantis-kawasaki-nvidia/821468/",
+      "time": "2026-05-29T11:25:00Z",
+      "titleJa": "ファナックとグーグル、最近のAI取引の一環として産業用ロボットを推進"
+    },
+    {
+      "ticker": "3436.T",
+      "company": "SUMCO",
+      "title": "Persian Gulf, Tech Outlooks Fuel Asian Stock Markets",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/persian-gulf-tech-outlooks-fuel-103734701.html",
+      "time": "2026-05-29T10:37:34Z",
+      "titleJa": "ペルシャ湾、ハイテク見通しがアジアの株式市場を活性化"
+    },
+    {
+      "ticker": "6981.T",
+      "company": "村田製作所",
+      "title": "Nikkei Rises 2.5% to All-Time High, Led by Electronics Stocks",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-052926/card/nikkei-rises-2-5-to-all-time-high-led-by-electronics-stocks-9s5jyVPZN6IBvrChQVal?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-05-29T07:22:52Z",
+      "titleJa": "日経平均はエレクトロニクス株主導で2.5％上昇し過去最高値を更新"
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Canada's Q1 Current Account Deficit Widens Much More Than Expected on Lower Investment Income, Higher Goods Deficit",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/economy/articles/canada-apos-q1-current-account-124259963.html",
+      "time": "2026-05-28T12:42:59Z",
+      "titleJa": "カナダの第1四半期の経常赤字は投資収入の減少と物資赤字の増加により予想より大幅に拡大"
     }
   ]
 }
