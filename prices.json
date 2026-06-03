@@ -56,6 +56,16 @@
       "price": 3930.0,
       "currency": "JPY",
       "marketCap": 796175127630
+    },
+    "6954.T": {
+      "price": 7975.0,
+      "currency": "JPY",
+      "marketCap": 7441939428275
+    },
+    "6981.T": {
+      "price": 10420.0,
+      "currency": "JPY",
+      "marketCap": 18967435095920
     }
   }
 }
