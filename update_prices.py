@@ -112,12 +112,18 @@ ALIASES = {
 
 
 def is_relevant(item):
+    ticker = item.get("ticker", "")
     text = ((item.get("title") or "") + " " + (item.get("titleJa") or "")).lower()
+    # 社名がタイトルに入っていれば「その会社の記事」＝関連あり
+    for a in ALIASES.get(ticker, []):
+        if a.lower() in text:
+            return True
+    # 日本株(.T)・韓国株(.KS)は、社名が出てこない記事は除外（海外の見当違い記事を防ぐ）
+    if ticker.endswith(".T") or ticker.endswith(".KS"):
+        return False
+    # 米国株などは決算系キーワードも関連ありとみなす
     for kw in EARNINGS_KW:
         if kw in text:
-            return True
-    for a in ALIASES.get(item.get("ticker"), []):
-        if a.lower() in text:
             return True
     return False
 
