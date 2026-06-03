@@ -194,6 +194,51 @@ def get_extras(tk, ticker):
     return out
 
 
+def _cell(row, col):
+    try:
+        v = row[col]
+        if v is None:
+            return None
+        v = float(v)
+        if v != v:  # NaN
+            return None
+        return int(v)
+    except Exception:
+        return None
+
+
+def get_history(tk):
+    """直近3年の売上高・純利益を取得（新しい年が先頭）。"""
+    out = []
+    try:
+        df = tk.income_stmt
+        if df is None or getattr(df, "empty", True):
+            return out
+        cols = list(df.columns)[:3]
+        idx = list(df.index)
+        rev_label = next((x for x in ["Total Revenue", "Operating Revenue"] if x in idx), None)
+        ni_label = next((x for x in [
+            "Net Income", "Net Income Common Stockholders",
+            "Net Income From Continuing Operation Net Minority Interest",
+        ] if x in idx), None)
+        for c in cols:
+            year = str(getattr(c, "year", str(c)[:4]))
+            entry = {"year": year}
+            if rev_label:
+                v = _cell(df.loc[rev_label], c)
+                if v is not None:
+                    entry["revenue"] = v
+            if ni_label:
+                v = _cell(df.loc[ni_label], c)
+                if v is not None:
+                    entry["netIncome"] = v
+            if len(entry) > 1:
+                out.append(entry)
+    except Exception as e:
+        print("hist err", e)
+    return out
+
+
 def parse_time(item, content):
     try:
         if content.get("pubDate"):
@@ -265,6 +310,9 @@ def main():
                 entry["prevClose"] = round(float(prev), 2)
                 entry["changePct"] = round((float(price) - float(prev)) / float(prev) * 100, 2)
             entry.update(get_extras(tk, ticker))
+            hist = get_history(tk)
+            if hist:
+                entry["history"] = hist
             stocks[ticker] = entry
             print("PRICE OK", ticker, entry)
         else:

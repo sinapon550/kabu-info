@@ -30,6 +30,15 @@
       return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
     });
   }
+  function curSuffix(c){ return {JPY:'円',USD:'ドル',KRW:'ウォン',TWD:'台湾ドル',EUR:'ユーロ',GBP:'ポンド'}[c] || (c||''); }
+  function fmtBig(v, c){
+    if(v == null){ return '—'; }
+    var neg = v < 0, a = Math.abs(v), suf = curSuffix(c), str;
+    if(a >= 1e12){ str = (a/1e12).toFixed(2) + '兆' + suf; }
+    else if(a >= 1e8){ str = Math.round(a/1e8).toLocaleString() + '億' + suf; }
+    else { str = Math.round(a).toLocaleString() + suf; }
+    return (neg ? '▲' : '') + str;
+  }
 
   // 会社名のセルに Yahoo!ファイナンスのリンクを自動付与（株価データに依存せず実行）
   document.querySelectorAll('td.px[data-ticker]').forEach(function(td){
@@ -70,15 +79,6 @@
         td.innerHTML = (info.profitMargin != null) ? info.profitMargin.toFixed(1) + '%' : '—';
       });
       // 決算の数字（売上高・純利益・PER・EPS）
-      function curSuffix(c){ return {JPY:'円',USD:'ドル',KRW:'ウォン',TWD:'台湾ドル',EUR:'ユーロ',GBP:'ポンド'}[c] || (c||''); }
-      function fmtBig(v, c){
-        if(v == null){ return '—'; }
-        var neg = v < 0, a = Math.abs(v), suf = curSuffix(c), str;
-        if(a >= 1e12){ str = (a/1e12).toFixed(2) + '兆' + suf; }
-        else if(a >= 1e8){ str = Math.round(a/1e8).toLocaleString() + '億' + suf; }
-        else { str = Math.round(a).toLocaleString() + suf; }
-        return (neg ? '▲' : '') + str;
-      }
       document.querySelectorAll('td.rev[data-ticker]').forEach(function(td){
         var i = s[td.getAttribute('data-ticker')]; if(!i){ return; }
         td.innerHTML = fmtBig(i.revenue, i.finCurrency || i.currency);
@@ -94,6 +94,16 @@
       document.querySelectorAll('td.eps[data-ticker]').forEach(function(td){
         var i = s[td.getAttribute('data-ticker')]; if(!i){ return; }
         td.innerHTML = (i.eps != null) ? (Math.round(i.eps*100)/100).toLocaleString() + curSuffix(i.finCurrency || i.currency) : '—';
+      });
+      // 3年間の業績推移
+      document.querySelectorAll('div.hist3[data-ticker]').forEach(function(div){
+        var i = s[div.getAttribute('data-ticker')];
+        if(!i || !i.history || !i.history.length){ div.innerHTML = '<div class="kv">3年分のデータは取得できませんでした。</div>'; return; }
+        var cur = i.finCurrency || i.currency;
+        var rows = i.history.map(function(h){
+          return '<tr><td>' + esc(h.year) + '年</td><td>' + fmtBig(h.revenue, cur) + '</td><td>' + fmtBig(h.netIncome, cur) + '</td></tr>';
+        }).join('');
+        div.innerHTML = '<table><tr><th>年度</th><th>売上高</th><th>純利益</th></tr>' + rows + '</table>';
       });
       document.querySelectorAll('td.tgt[data-ticker]').forEach(function(td){
         var info = s[td.getAttribute('data-ticker')];
