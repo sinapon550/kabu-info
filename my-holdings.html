@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>株なるほどメモ｜自分の保有</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <span class="badge">家族専用</span>
+    <h1>🙋 自分の保有</h1>
+    <p class="lead">いま自分が持っている株の一覧。株価・前日比・評価額は毎朝自動更新。</p>
+    <p class="updated"><span id="auto-upd">株価は毎朝 自動更新</span>／家族の勉強メモ</p>
+  </div>
+</header>
+
+<nav><div class="wrap">
+  <a class="navpage" href="index.html">📘 基本</a>
+  <a class="navpage" href="companies.html">📈 いま熱い企業・株</a>
+  <a class="navpage" href="holdings.html">👪 親の保有</a>
+  <a class="navpage active" href="my-holdings.html">🙋 自分の保有</a>
+</div></nav>
+
+<div class="wrap">
+
+  <div class="disc" style="background:#ffecec;border-color:#f0a9a9;color:#7a2020">
+    <b>🔒 公開範囲に注意</b><br>
+    このページは<b>保有株数と評価額</b>を含みます。今は<b>公開URL</b>なので、リンクを知る人は内容を見られます。
+    身内だけにしたい場合は<b>非公開化</b>もできます（管理者に相談を）。
+  </div>
+
+  <div class="disc">
+    <b>⚠️ 補足</b>：このページは保有の<b>把握用メモ</b>で、売買のおすすめではありません。評価額は「株価×株数」の概算で、実際の残高・損益は<b>証券口座で確認</b>を。
+  </div>
+
+  <section id="mine">
+    <h2>保有株 一覧<span class="en">MY HOLDINGS</span></h2>
+    <p class="intro">前日比は<span style="color:#c0392f">▲赤=上昇</span> / <span style="color:#2156a8">▼青=下落</span>。評価額＝株価×株数（概算）。</p>
+    <table>
+      <tr><th>銘柄</th><th>何の会社</th><th>株数</th><th>株価<br>前日比</th><th>評価額<br>(概算)</th></tr>
+      <tr><td><b>アサヒGHD</b><br>2502</td><td>ビール・飲料大手</td><td>100株</td><td class="px" data-ticker="2502.T">—</td><td class="val" data-ticker="2502.T" data-shares="100">—</td></tr>
+      <tr><td><b>双日</b><br>2768</td><td>総合商社</td><td>40株</td><td class="px" data-ticker="2768.T">—</td><td class="val" data-ticker="2768.T" data-shares="40">—</td></tr>
+      <tr><td><b>日本たばこ産業(JT)</b><br>2914</td><td>たばこ世界大手・高配当</td><td>200株</td><td class="px" data-ticker="2914.T">—</td><td class="val" data-ticker="2914.T" data-shares="200">—</td></tr>
+      <tr><td><b>ネクセラファーマ</b><br>4565</td><td>創薬（製薬）</td><td>100株</td><td class="px" data-ticker="4565.T">—</td><td class="val" data-ticker="4565.T" data-shares="100">—</td></tr>
+      <tr><td><b>楽天グループ</b><br>4755</td><td>EC・モバイル・金融</td><td>100株</td><td class="px" data-ticker="4755.T">—</td><td class="val" data-ticker="4755.T" data-shares="100">—</td></tr>
+      <tr><td><b>本田技研工業</b><br>7267</td><td>自動車・バイク大手</td><td>100株</td><td class="px" data-ticker="7267.T">—</td><td class="val" data-ticker="7267.T" data-shares="100">—</td></tr>
+      <tr><td><b>三菱商事</b><br>8058</td><td>総合商社最大手・高配当</td><td>300株</td><td class="px" data-ticker="8058.T">—</td><td class="val" data-ticker="8058.T" data-shares="300">—</td></tr>
+      <tr><td><b>イオン</b><br>8267</td><td>小売（スーパー）大手</td><td>300株</td><td class="px" data-ticker="8267.T">—</td><td class="val" data-ticker="8267.T" data-shares="300">—</td></tr>
+      <tr><td><b>オリックス</b><br>8591</td><td>リース・金融・多角化</td><td>100株</td><td class="px" data-ticker="8591.T">—</td><td class="val" data-ticker="8591.T" data-shares="100">—</td></tr>
+      <tr><td><b>ソニーフィナンシャルG</b><br>8729</td><td>保険・銀行（ソニー系）</td><td>200株</td><td class="px" data-ticker="8729.T">—</td><td class="val" data-ticker="8729.T" data-shares="200">—</td></tr>
+      <tr><td><b>NTT</b><br>9432</td><td>通信最大手・高配当・安定</td><td>1,000株</td><td class="px" data-ticker="9432.T">—</td><td class="val" data-ticker="9432.T" data-shares="1000">—</td></tr>
+      <tr><td><b>KDDI</b><br>9433</td><td>通信大手(au)・高配当</td><td>200株</td><td class="px" data-ticker="9433.T">—</td><td class="val" data-ticker="9433.T" data-shares="200">—</td></tr>
+      <tr><td><b>ミライト・ワン</b><br>1417</td><td>通信建設・インフラ工事</td><td>800株</td><td class="px" data-ticker="1417.T">—</td><td class="val" data-ticker="1417.T" data-shares="800">—</td></tr>
+    </table>
+
+    <div class="card" style="border-left:5px solid var(--gold);margin-top:14px">
+      <h3>💰 保有合計（概算）</h3>
+      <div class="kv" style="font-size:18px">
+        <b id="holdings-total" class="num" style="font-size:24px">計算中…</b>
+      </div>
+      <p class="src">※株価×株数の単純合計（概算）。配当・手数料・税は含みません。実際の残高は証券口座で確認を。</p>
+    </div>
+
+    <div class="card tsuru">
+      <h3>📝 メモ</h3>
+      <div class="kv">
+        ・<b>三菱自動車工業(7211)</b> はこのページから除外しています。<br>
+        ・<b>ソフトバンク(9434)</b> は「<a href="holdings.html">👪 親の保有</a>」ページに入れています。<br>
+        ・全体的に<b>高配当・安定（通信・商社・金融・生活）</b>が多い構成。値動きの激しいAI株とは性格が違います。
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <div class="wrap">
+    <b>株なるほどメモ</b>｜家族専用・勉強用｜
+    <a href="index.html">📘 基本</a> ／ <a href="companies.html">📈 企業・株</a> ／ <a href="holdings.html">👪 親の保有</a>
+  </div>
+</footer>
+
+<script src="prices.js"></script>
+</body>
+</html>

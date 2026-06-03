@@ -32,7 +32,28 @@ COMPANIES = [
     ("3436.T", "SUMCO"),
     # 親の保有
     ("8306.T", "三菱UFJ"),
+    # 個人の保有（株価のみ・ニュース対象外）
+    ("2502.T", "アサヒグループHD"),
+    ("2768.T", "双日"),
+    ("2914.T", "日本たばこ産業"),
+    ("4565.T", "ネクセラファーマ"),
+    ("4755.T", "楽天グループ"),
+    ("7267.T", "本田技研工業"),
+    ("8058.T", "三菱商事"),
+    ("8267.T", "イオン"),
+    ("8591.T", "オリックス"),
+    ("8729.T", "ソニーフィナンシャルG"),
+    ("9432.T", "NTT"),
+    ("9433.T", "KDDI"),
+    ("1417.T", "ミライト・ワン"),
 ]
+
+# ニュースを集める対象（AI・半導体系のみ。個人保有の消費・通信株は除外して雑音を防ぐ）
+NEWS_TICKERS = {
+    "9984.T", "9434.T", "NVDA", "TSM", "AVGO", "MU", "285A.T", "6857.T",
+    "6963.T", "7735.T", "4004.T", "5991.T", "6954.T", "6981.T",
+    "ASML", "8035.T", "6920.T", "6146.T", "4063.T", "3436.T", "8306.T",
+}
 
 RATING_MAP = {
     "strong_buy": "強い買い", "buy": "買い", "outperform": "やや買い",
@@ -165,9 +186,10 @@ def main():
         else:
             print("PRICE SKIP", ticker)
 
-        news = sorted(get_news(tk, ticker, company),
-                      key=lambda n: n["time"] or "", reverse=True)
-        all_news.extend(news[:2])
+        if ticker in NEWS_TICKERS:
+            news = sorted(get_news(tk, ticker, company),
+                          key=lambda n: n["time"] or "", reverse=True)
+            all_news.extend(news[:2])
 
     today = datetime.datetime.now(JST).strftime("%Y-%m-%d")
 

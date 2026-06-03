@@ -54,6 +54,23 @@
         var r = info.rating ? '<br><small>' + esc(info.rating) + '</small>' : '';
         td.innerHTML = t + r;
       });
+      // 保有評価額（株数×株価）＋合計
+      var total = 0, haveTotal = false;
+      document.querySelectorAll('td.val[data-ticker][data-shares]').forEach(function(td){
+        var info = s[td.getAttribute('data-ticker')];
+        var sh = parseFloat(td.getAttribute('data-shares')) || 0;
+        if(!info || !info.price || !sh){ return; }
+        var v = info.price * sh;
+        if(info.currency === 'JPY'){ total += v; haveTotal = true; }
+        td.innerHTML = (info.currency === 'JPY' ? '¥' : '$')
+          + Math.round(v).toLocaleString(info.currency === 'JPY' ? 'ja-JP' : 'en-US');
+      });
+      var tot = document.getElementById('holdings-total');
+      if(tot && haveTotal){
+        tot.textContent = '¥' + Math.round(total).toLocaleString('ja-JP')
+          + '（約' + Math.round(total/10000).toLocaleString('ja-JP') + '万円）';
+      }
+
       var u = document.getElementById('auto-upd');
       if(u && d.updated){ u.textContent = '株価 自動更新：' + d.updated; }
     })
