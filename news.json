@@ -4,11 +4,51 @@
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Walmart vs. Target: Which Retailer Is the Better Long-Term Hold?",
+      "title": "AI Chips Today - ABB Expands NVIDIA Partnership to Boost AI Data Centers",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/ai-chips-today-abb-expands-114841140.html",
+      "time": "2026-06-03T11:48:41Z",
+      "titleJa": "AI チップの現状 - ABB が AI データセンターを強化するために NVIDIA パートナーシップを拡大",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "AI Chips Today - ABB Expands NVIDIA Partnership to Boost AI Data Centers",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/ai-chips-today-abb-expands-114841140.html",
+      "time": "2026-06-03T11:48:41Z",
+      "titleJa": "AI チップの現状 - ABB が AI データセンターを強化するために NVIDIA パートナーシップを拡大",
+      "relevant": false
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Had You Invested $1,000 in HPE a Decade Ago, Here’s What You’d Have Now",
       "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/03/walmart-vs-target-which-retailer-is-the-better-long-term-hold/",
-      "time": "2026-06-03T11:30:37Z",
-      "titleJa": "ウォルマート vs. ターゲット: 長期保有に優れている小売業者はどちらですか?",
+      "link": "https://247wallst.com/investing/2026/06/03/had-you-invested-1000-in-hpe-a-decade-ago-heres-what-youd-have-now/",
+      "time": "2026-06-03T11:46:34Z",
+      "titleJa": "10 年前に HPE に 1,000 ドル投資していたら、今手に入れていたものは次のとおりです",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Stocks Mostly Down Pre-Bell as Traders Assess Latest Middle East Developments",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-pre-bell-113930391.html",
+      "time": "2026-06-03T11:39:30Z",
+      "titleJa": "トレーダーらが中東の最新動向を評価する中、株価はベル前にほぼ下落",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "High Growth Tech Stocks To Watch In US June 2026",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/high-growth-tech-stocks-watch-113821581.html",
+      "time": "2026-06-03T11:38:21Z",
+      "titleJa": "2026 年 6 月に米国で注目すべき高成長ハイテク株",
       "relevant": false
     },
     {
@@ -20,16 +60,6 @@
       "time": "2026-06-03T11:30:25Z",
       "titleJa": "Arm 対 NVIDIA: あなたの 10 年間のポートフォリオに属する半導体株はどれですか?",
       "relevant": false
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Arm vs. NVIDIA: Which Semiconductor Stock Belongs in Your 10-Year Portfolio?",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/03/arm-vs-nvidia-which-semiconductor-stock-belongs-in-your-10-year-portfolio/",
-      "time": "2026-06-03T11:30:25Z",
-      "titleJa": "Arm 対 NVIDIA: あなたの 10 年間のポートフォリオに属する半導体株はどれですか?",
-      "relevant": true
     },
     {
       "ticker": "9984.T",
@@ -79,16 +109,6 @@
       "link": "https://finance.yahoo.com/sectors/technology/articles/next-phase-ai-trade-could-105819882.html",
       "time": "2026-06-03T10:58:19Z",
       "titleJa": "AI取引の次の段階はこの市場に属する可能性があるとバークレイズは言う",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Stocks to Watch: Marvell, GameStop, GitLab, Macy’s",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026/card/stocks-to-watch-marvell-gamestop-gitlab-macy-s-HcT6mcfnsGhH2VoZwlUj?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-03T10:01:54Z",
-      "titleJa": "注目株: マーベル、ゲームストップ、GitLab、メイシーズ",
       "relevant": false
     },
     {
@@ -142,26 +162,6 @@
       "relevant": false
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
-      "time": "2026-06-03T09:05:23Z",
-      "titleJa": "Nvidia CEO、億万長者家族に「非常識な」AI の復活を売り込む",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Zacks Industry Outlook Highlights Western Digital, Sandisk and Netlist",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-western-081100330.html",
-      "time": "2026-06-03T08:11:00Z",
-      "titleJa": "ザックスの業界展望がウェスタンデジタル、サンディスク、ネットリストに焦点を当てる",
-      "relevant": true
-    },
-    {
       "ticker": "9434.T",
       "company": "ソフトバンク",
       "title": "Bitcoin Price Crash: Ex-SoftBank CFO Sees ‘No Concerns’ For Crypto Despite Mega IPO Capital-Drain Fears, Pins Hope On CLARITY Act",
@@ -189,26 +189,6 @@
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/nikkei-closes-at-record-high-driven-by-chip-related-stocks-B0pJJEiTaaJz0aX7eqvS?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-03T06:55:56Z",
       "titleJa": "チップ関連株主導で日経平均終値は過去最高値",
-      "relevant": false
-    },
-    {
-      "ticker": "6857.T",
-      "company": "アドバンテスト",
-      "title": "World shares are mixed as Tokyo's Nikkei 225 follows Wall Street to an all-time high",
-      "publisher": "Associated Press",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tokyos-nikkei-225-index-tops-020136717.html",
-      "time": "2026-06-03T02:01:36Z",
-      "titleJa": "東京の日経平均株価がウォール街に続き史上最高値を更新する中、世界株はまちまち",
-      "relevant": false
-    },
-    {
-      "ticker": "8035.T",
-      "company": "東京エレクトロン",
-      "title": "World shares are mixed as Tokyo's Nikkei 225 follows Wall Street to an all-time high",
-      "publisher": "Associated Press",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tokyos-nikkei-225-index-tops-020136717.html",
-      "time": "2026-06-03T02:01:36Z",
-      "titleJa": "東京の日経平均株価がウォール街に続き史上最高値を更新する中、世界株はまちまち",
       "relevant": false
     },
     {
@@ -349,7 +329,7 @@
       "link": "https://finance.yahoo.com/markets/world-indices/articles/persian-gulf-tech-outlooks-fuel-103734701.html",
       "time": "2026-05-29T10:37:34Z",
       "titleJa": "ペルシャ湾、ハイテク見通しがアジアの株式市場を活性化",
-      "relevant": true
+      "relevant": false
     },
     {
       "ticker": "6981.T",
@@ -369,7 +349,7 @@
       "link": "https://finance.yahoo.com/economy/articles/canada-apos-q1-current-account-124259963.html",
       "time": "2026-05-28T12:42:59Z",
       "titleJa": "カナダの第1四半期の経常赤字は投資収入の減少と物資赤字の増加により予想より大幅に拡大",
-      "relevant": true
+      "relevant": false
     }
   ]
 }
