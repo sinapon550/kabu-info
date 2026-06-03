@@ -1,5 +1,60 @@
 {
-  "updated": "",
+  "updated": "2026-06-03",
   "summary": "",
-  "headlines": []
+  "headlines": [
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today: Dow Falls Amid Latest Trump Comments On Iran Nukes; AI Stock Marvell Soars (Live Coverage)",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-palo-alto-panw-stock/?src=A00220&yptr=yahoo",
+      "time": "2026-06-03T12:49:08Z",
+      "titleJa": "今日の株式市場：イラン核に関するトランプ大統領の最新コメントを受けてダウ下落。 AI株マーベル急騰（ライブ中継）"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "2 Industrials Stocks with Promising Prospects and 1 Facing Headwinds",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-industrials-stocks-promising-prospects-124733714.html",
+      "time": "2026-06-03T12:47:33Z",
+      "titleJa": "将来有望な工業株 2 銘柄と逆風に直面している 1 銘柄"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "S&P 500, Dow set to dip at open on Middle East stalemate",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-pause-near-084847614.html",
+      "time": "2026-06-03T12:33:29Z",
+      "titleJa": "中東の行き詰まりでS&P500とダウは寄り付きで下落へ"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "How Corning Turned Glass Into Gold",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/601222/how-corning-turned-glass-into-gold/2026-06-03",
+      "time": "2026-06-03T12:25:02Z",
+      "titleJa": "コーニングはどのようにしてガラスを金に変えたのか"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Welltower’s Dividend Is Up 15%. Here’s What Really Matters.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/welltower-reit-dividend-increase-stock-housing-21cce939?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T12:25:00Z",
+      "titleJa": "ウェルタワーの配当は 15% 増加しました。本当に重要なことは次のとおりです。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "SCHF and SPDW Both Surged 35% in the Last Year. Here's How They're Different.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/06/03/schf-and-spdw-both-surged-35-in-the-last-year-here-s-how-they-re-different/",
+      "time": "2026-06-03T12:23:36Z",
+      "titleJa": "SCHF and SPDW Both Surged 35% in the Last Year. Here's How They're Different."
+    }
+  ]
 }

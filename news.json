@@ -4,22 +4,82 @@
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Intel Sparks AI Shockwave With New Chips and Mega Partnerships",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/intel-sparks-ai-shockwave-chips-123021184.html",
-      "time": "2026-06-03T12:30:21Z",
-      "titleJa": "インテル、新しいチップとメガパートナーシップで AI ショックウェーブを引き起こす",
+      "title": "Stock Market Today: Dow Falls Amid Latest Trump Comments On Iran Nukes; AI Stock Marvell Soars (Live Coverage)",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-palo-alto-panw-stock/?src=A00220&yptr=yahoo",
+      "time": "2026-06-03T12:49:08Z",
+      "titleJa": "今日の株式市場：イラン核に関するトランプ大統領の最新コメントを受けてダウ下落。 AI株マーベル急騰（ライブ中継）",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "The Tax Math That Makes These Dividend Stocks Worth $19,200 More Inside a Roth",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/03/the-tax-math-that-makes-these-dividend-stocks-worth-19200-more-inside-a-roth/",
-      "time": "2026-06-03T12:25:20Z",
-      "titleJa": "これらの配当株の価値を Roth 内で 19,200 ドル増やす税金の計算",
+      "title": "Digi Power X commits $35M to NVIDIA's next-gen Vera Rubin platform to expand GPU cloud business",
+      "publisher": "Proactive",
+      "link": "https://www.proactiveinvestors.com/companies/news/1093377/digi-power-x-commits-35m-to-nvidia-s-next-gen-vera-rubin-platform-to-expand-gpu-cloud-business-1093377.html",
+      "time": "2026-06-03T12:47:00Z",
+      "titleJa": "Digi Power X、GPU クラウド ビジネスを拡大するために NVIDIA の次世代 Vera Rubin プラットフォームに 3,500 万ドルを投入",
       "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Micron Stock Keeps Rising But Chinese Memory-Chip Makers Are Gaining Ground",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-memory-chips-china-a308cada?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T12:32:00Z",
+      "titleJa": "マイクロン株は上昇を続けるが、中国のメモリチップメーカーが台頭",
+      "relevant": true
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "Micron Stock Keeps Rising But Chinese Memory-Chip Makers Are Gaining Ground",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-memory-chips-china-a308cada?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T12:32:00Z",
+      "titleJa": "マイクロン株は上昇を続けるが、中国のメモリチップメーカーが台頭",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Micron Stock Keeps Rising But Chinese Memory-Chip Makers Are Gaining Ground",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-memory-chips-china-a308cada?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T12:32:00Z",
+      "titleJa": "マイクロン株は上昇を続けるが、中国のメモリチップメーカーが台頭",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Micron Stock Keeps Rising But Chinese Memory-Chip Makers Are Gaining Ground",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-memory-chips-china-a308cada?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T12:32:00Z",
+      "titleJa": "マイクロン株は上昇を続けるが、中国のメモリチップメーカーが台頭",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Marvell Stock Surges Again. Watch for This Next Big Catalyst.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/marvell-stock-price-today-422c181f?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T12:20:00Z",
+      "titleJa": "マーベル株が再び急騰。次の大きな触媒に注目してください。",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "What's Happening With Coherent Stock?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/601271/whats-happening-with-coherent-stock/2026-06-03",
+      "time": "2026-06-03T12:16:58Z",
+      "titleJa": "コヒーレント株に何が起こっているのか?",
+      "relevant": false
     },
     {
       "ticker": "AVGO",
@@ -62,23 +122,13 @@
       "relevant": false
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Stocks Mostly Down Pre-Bell as Traders Assess Latest Middle East Developments",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-pre-bell-113930391.html",
-      "time": "2026-06-03T11:39:30Z",
-      "titleJa": "トレーダーらが中東の最新動向を評価する中、株価はベル前にほぼ下落",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "High Growth Tech Stocks To Watch In US June 2026",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/high-growth-tech-stocks-watch-113821581.html",
-      "time": "2026-06-03T11:38:21Z",
-      "titleJa": "2026 年 6 月に米国で注目すべき高成長ハイテク株",
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-af903de0?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T11:18:00Z",
+      "titleJa": "テクノロジー、メディア、通信まとめ: マーケットトーク",
       "relevant": false
     },
     {
@@ -102,16 +152,6 @@
       "relevant": true
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Trump Said 'Micron's Great'—And Now Micron's Worth More Than Walmart, Eli Lilly, Berkshire Hathaway",
-      "publisher": "Benzinga",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trump-said-microns-great-now-110108838.html",
-      "time": "2026-06-03T11:01:08Z",
-      "titleJa": "トランプ大統領「マイクロンは偉大だ」――そして今やマイクロンはウォルマート、イーライリリー、バークシャー・ハサウェイ以上の価値がある",
-      "relevant": true
-    },
-    {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
       "title": "Trump Said 'Micron's Great'—And Now Micron's Worth More Than Walmart, Eli Lilly, Berkshire Hathaway",
@@ -119,26 +159,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/trump-said-microns-great-now-110108838.html",
       "time": "2026-06-03T11:01:08Z",
       "titleJa": "トランプ大統領「マイクロンは偉大だ」――そして今やマイクロンはウォルマート、イーライリリー、バークシャー・ハサウェイ以上の価値がある",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "The next phase of the AI trade could belong to this market, Barclays says",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/next-phase-ai-trade-could-105819882.html",
-      "time": "2026-06-03T10:58:19Z",
-      "titleJa": "AI取引の次の段階はこの市場に属する可能性があるとバークレイズは言う",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "DBS Singapore enables tap-to-phone card payments for merchants",
-      "publisher": "Electronic Payments",
-      "link": "https://www.electronicpaymentsinternational.com/news/dbs-singapore-enables-tap-to-phone-card-payments-for-merchants/",
-      "time": "2026-06-03T10:01:23Z",
-      "titleJa": "DBS シンガポール、加盟店向けのタップ・トゥ・フォン・カード決済を可能に",
       "relevant": false
     },
     {
@@ -292,16 +312,6 @@
       "relevant": false
     },
     {
-      "ticker": "285A.T",
-      "company": "キオクシア",
-      "title": "SK Hynix Just Hit a $1 Trillion Market Cap. Here's How You Can Buy the Stock for Around $60.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/05/30/sk-hynix-1-trillion-market-cap-buy-stock/",
-      "time": "2026-05-30T22:05:00Z",
-      "titleJa": "SKハイニックスが時価総額1兆ドルに到達した。約60ドルで株を買う方法は次のとおりです。",
-      "relevant": false
-    },
-    {
       "ticker": "8306.T",
       "company": "三菱UFJ",
       "title": "Canada's March GDP Falls 0.1%, Misses Expectations; April Seen Rebounding 0.4%",
@@ -339,16 +349,6 @@
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-052926/card/nikkei-rises-2-5-to-all-time-high-led-by-electronics-stocks-9s5jyVPZN6IBvrChQVal?siteid=yhoof2&yptr=yahoo",
       "time": "2026-05-29T07:22:52Z",
       "titleJa": "日経平均はエレクトロニクス株主導で2.5％上昇し過去最高値を更新",
-      "relevant": false
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Canada's Q1 Current Account Deficit Widens Much More Than Expected on Lower Investment Income, Higher Goods Deficit",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/economy/articles/canada-apos-q1-current-account-124259963.html",
-      "time": "2026-05-28T12:42:59Z",
-      "titleJa": "カナダの第1四半期の経常赤字は投資収入の減少と物資赤字の増加により予想より大幅に拡大",
       "relevant": false
     }
   ]
