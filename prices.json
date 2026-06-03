@@ -5,67 +5,181 @@
     "9984.T": {
       "price": 8315.0,
       "currency": "JPY",
-      "marketCap": 47386550573815
+      "marketCap": 47386550573815,
+      "prevClose": 8606.0,
+      "changePct": -3.38,
+      "target": 6834.26,
+      "rating": "買い(19人)"
     },
     "NVDA": {
       "price": 222.82,
       "currency": "USD",
-      "marketCap": 5396923397399
+      "marketCap": 5396923397399,
+      "prevClose": 221.8,
+      "changePct": 0.46,
+      "target": 296.81,
+      "rating": "強い買い(58人)"
     },
     "TSM": {
       "price": 446.69,
       "currency": "USD",
-      "marketCap": 2316746089529
+      "marketCap": 2316746089529,
+      "prevClose": 445.32,
+      "changePct": 0.31,
+      "target": 467.84,
+      "rating": "強い買い(18人)"
     },
     "AVGO": {
       "price": 481.57,
       "currency": "USD",
-      "marketCap": 2280074192046
+      "marketCap": 2280074192046,
+      "prevClose": 495.0,
+      "changePct": -2.71,
+      "target": 485.72,
+      "rating": "強い買い(44人)"
     },
     "MU": {
       "price": 1064.1,
       "currency": "USD",
-      "marketCap": 1200021776136
+      "marketCap": 1200021776136,
+      "prevClose": 1056.7,
+      "changePct": 0.7,
+      "target": 726.23,
+      "rating": "強い買い(40人)"
     },
     "285A.T": {
       "price": 78080.0,
       "currency": "JPY",
-      "marketCap": 42638404952320
+      "marketCap": 42638404952320,
+      "prevClose": 77330.0,
+      "changePct": 0.97,
+      "target": 72618.75,
+      "rating": "買い(16人)"
     },
     "6857.T": {
       "price": 27660.0,
       "currency": "JPY",
-      "marketCap": 20064178889820
+      "marketCap": 20064178889820,
+      "prevClose": 26345.0,
+      "changePct": 4.99,
+      "target": 32795.0,
+      "rating": "買い(20人)"
     },
     "6963.T": {
       "price": 5616.0,
       "currency": "JPY",
-      "marketCap": 2167972947504
+      "marketCap": 2167972947504,
+      "prevClose": 5153.0,
+      "changePct": 8.99,
+      "target": 3280.0,
+      "rating": "中立(10人)"
     },
     "7735.T": {
       "price": 13345.0,
       "currency": "JPY",
-      "marketCap": 2523377091350
+      "marketCap": 2523377091350,
+      "prevClose": 11290.0,
+      "changePct": 18.2,
+      "target": 12790.0,
+      "rating": "買い(15人)"
     },
     "4004.T": {
       "price": 18700.0,
       "currency": "JPY",
-      "marketCap": 3384391880100
+      "marketCap": 3384391880100,
+      "prevClose": 17750.0,
+      "changePct": 5.35,
+      "target": 15085.0,
+      "rating": "買い(12人)"
     },
     "5991.T": {
       "price": 3930.0,
       "currency": "JPY",
-      "marketCap": 796175127630
+      "marketCap": 796175127630,
+      "prevClose": 3600.0,
+      "changePct": 9.17,
+      "target": 3190.0
     },
     "6954.T": {
       "price": 7975.0,
       "currency": "JPY",
-      "marketCap": 7441939428275
+      "marketCap": 7441939428275,
+      "prevClose": 7627.0,
+      "changePct": 4.56,
+      "target": 7379.5,
+      "rating": "買い(20人)"
     },
     "6981.T": {
       "price": 10420.0,
       "currency": "JPY",
-      "marketCap": 18967435095920
+      "marketCap": 18967435095920,
+      "prevClose": 10335.0,
+      "changePct": 0.82,
+      "target": 5691.18,
+      "rating": "買い(17人)"
+    },
+    "ASML": {
+      "price": 1705.37,
+      "currency": "USD",
+      "marketCap": 657279721479,
+      "prevClose": 1706.5,
+      "changePct": -0.07,
+      "target": 1663.24,
+      "rating": "強い買い(15人)"
+    },
+    "8035.T": {
+      "price": 60900.0,
+      "currency": "JPY",
+      "marketCap": 27820167358200,
+      "prevClose": 53620.0,
+      "changePct": 13.58,
+      "target": 53609.09,
+      "rating": "買い(22人)"
+    },
+    "6920.T": {
+      "price": 41770.0,
+      "currency": "JPY",
+      "marketCap": 3743873211210,
+      "prevClose": 39160.0,
+      "changePct": 6.66,
+      "target": 39260.0,
+      "rating": "買い(15人)"
+    },
+    "6146.T": {
+      "price": 68710.0,
+      "currency": "JPY",
+      "marketCap": 7452425737750,
+      "prevClose": 63970.0,
+      "changePct": 7.41,
+      "target": 77450.0,
+      "rating": "買い(20人)"
+    },
+    "4063.T": {
+      "price": 7806.0,
+      "currency": "JPY",
+      "marketCap": 14494211290236,
+      "prevClose": 7420.0,
+      "changePct": 5.2,
+      "target": 7306.88,
+      "rating": "強い買い(16人)"
+    },
+    "3436.T": {
+      "price": 4459.0,
+      "currency": "JPY",
+      "marketCap": 1559371252439,
+      "prevClose": 4307.0,
+      "changePct": 3.53,
+      "target": 2562.5,
+      "rating": "買い(16人)"
+    },
+    "8306.T": {
+      "price": 3137.0,
+      "currency": "JPY",
+      "marketCap": 35375591159273,
+      "prevClose": 3031.0,
+      "changePct": 3.5,
+      "target": 3130.0,
+      "rating": "買い(12人)"
     }
   }
 }
