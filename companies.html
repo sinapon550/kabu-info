@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>株なるほどメモ｜いま熱い企業・株</title>
-<link rel="stylesheet" href="style.css?v=2">
+<link rel="stylesheet" href="style.css?v=3">
 </head>
 <body>
 
@@ -55,23 +55,25 @@
     <h2>🔥 いま熱い注目株<span class="en">HOT STOCKS NOW</span></h2>
     <p class="intro"><b>株価・前日比・時価総額・目標株価は毎朝1回 自動更新</b>（前営業日ベースの概算）。前日比は<span style="color:#c0392f">▲赤=上昇</span> / <span style="color:#2156a8">▼青=下落</span>。</p>
 
+    <div class="scroll">
     <table>
-      <tr><th>銘柄</th><th>何の会社か</th><th>株価<br>前日比</th><th>時価総額</th><th>目標株価<br>評価</th></tr>
-      <tr><td><b>ソフトバンクG</b><br>9984</td><td>OpenAIに巨額出資。Arm保有。AI<b>投資</b>会社</td><td class="px" data-ticker="9984.T">—</td><td class="mcap" data-ticker="9984.T">約49兆円</td><td class="tgt" data-ticker="9984.T">—</td></tr>
-      <tr><td><b>NVIDIA</b><br>NVDA</td><td>AI用GPUの王。AIブームの中心</td><td class="px" data-ticker="NVDA">—</td><td class="mcap" data-ticker="NVDA">約4.8兆ドル</td><td class="tgt" data-ticker="NVDA">—</td></tr>
-      <tr><td><b>TSMC</b><br>TSM</td><td>世界の半導体工場。最先端を独占的に製造</td><td class="px" data-ticker="TSM">—</td><td class="mcap" data-ticker="TSM">約2.2兆ドル</td><td class="tgt" data-ticker="TSM">—</td></tr>
-      <tr><td><b>Broadcom</b><br>AVGO</td><td>AI自前チップ(ASIC)の本命</td><td class="px" data-ticker="AVGO">—</td><td class="mcap" data-ticker="AVGO">約2.0兆ドル</td><td class="tgt" data-ticker="AVGO">—</td></tr>
-      <tr><td><b>Micron</b><br>MU</td><td>メモリ高騰の主役。1兆ドルクラブ</td><td class="px" data-ticker="MU">—</td><td class="mcap" data-ticker="MU">約8,500億ドル</td><td class="tgt" data-ticker="MU">—</td></tr>
-      <tr><td><b>キオクシア</b><br>285A</td><td>NAND世界3位。AI保存需要で急騰</td><td class="px" data-ticker="285A.T">—</td><td class="mcap" data-ticker="285A.T">約25〜45兆円</td><td class="tgt" data-ticker="285A.T">—</td></tr>
-      <tr><td><b>アドバンテスト</b><br>6857</td><td>AIチップ検査で好調（つるはし）</td><td class="px" data-ticker="6857.T">—</td><td class="mcap" data-ticker="6857.T">約20兆円</td><td class="tgt" data-ticker="6857.T">—</td></tr>
+      <tr><th>銘柄</th><th>何の会社か（日本との関係）</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>利益率<br>(純利益)</th><th>時価総額</th><th>目標株価<br>評価</th></tr>
+      <tr><td><b>ソフトバンクG</b><br>9984／日本</td><td>OpenAIに巨額出資。Arm保有。AI<b>投資</b>会社</td><td class="px" data-ticker="9984.T">—</td><td class="dy" data-ticker="9984.T">—</td><td class="pm" data-ticker="9984.T">—</td><td class="mcap" data-ticker="9984.T">約49兆円</td><td class="tgt" data-ticker="9984.T">—</td></tr>
+      <tr><td><b>NVIDIA</b><br>NVDA／米<br><small>エヌビディア</small></td><td>AI用GPUの王。<b>日本</b>でもデータセンター投資・各社と提携</td><td class="px" data-ticker="NVDA">—</td><td class="dy" data-ticker="NVDA">—</td><td class="pm" data-ticker="NVDA">—</td><td class="mcap" data-ticker="NVDA">約4.8兆ドル</td><td class="tgt" data-ticker="NVDA">—</td></tr>
+      <tr><td><b>TSMC</b><br>TSM／台湾<br><small>ティーエスエムシー</small></td><td>世界の半導体工場。<b>熊本に工場</b>(JASM、ソニー等出資)</td><td class="px" data-ticker="TSM">—</td><td class="dy" data-ticker="TSM">—</td><td class="pm" data-ticker="TSM">—</td><td class="mcap" data-ticker="TSM">約2.2兆ドル</td><td class="tgt" data-ticker="TSM">—</td></tr>
+      <tr><td><b>Broadcom</b><br>AVGO／米<br><small>ブロードコム</small></td><td>AI自前チップ(ASIC)の本命。日本のIT各社も顧客</td><td class="px" data-ticker="AVGO">—</td><td class="dy" data-ticker="AVGO">—</td><td class="pm" data-ticker="AVGO">—</td><td class="mcap" data-ticker="AVGO">約2.0兆ドル</td><td class="tgt" data-ticker="AVGO">—</td></tr>
+      <tr><td><b>Micron</b><br>MU／米<br><small>マイクロン</small></td><td>メモリ高騰の主役。<b>広島に主力工場</b></td><td class="px" data-ticker="MU">—</td><td class="dy" data-ticker="MU">—</td><td class="pm" data-ticker="MU">—</td><td class="mcap" data-ticker="MU">約8,500億ドル</td><td class="tgt" data-ticker="MU">—</td></tr>
+      <tr><td><b>キオクシア</b><br>285A／日本</td><td>NAND世界3位。AI保存需要で急騰</td><td class="px" data-ticker="285A.T">—</td><td class="dy" data-ticker="285A.T">—</td><td class="pm" data-ticker="285A.T">—</td><td class="mcap" data-ticker="285A.T">約25〜45兆円</td><td class="tgt" data-ticker="285A.T">—</td></tr>
+      <tr><td><b>アドバンテスト</b><br>6857／日本</td><td>AIチップ検査で好調（つるはし）</td><td class="px" data-ticker="6857.T">—</td><td class="dy" data-ticker="6857.T">—</td><td class="pm" data-ticker="6857.T">—</td><td class="mcap" data-ticker="6857.T">約20兆円</td><td class="tgt" data-ticker="6857.T">—</td></tr>
     </table>
+    </div>
     <p class="src">目標株価＝証券アナリスト予想の平均（取れた銘柄のみ）。OpenAI・Anthropicは非上場のため対象外。</p>
 
     <h3 style="margin:20px 0 4px;color:var(--green-d)">⚠️ OpenAI・Anthropicは「非上場」</h3>
     <p class="intro" style="margin-top:4px">この2社は超有名ですが<b>株を直接買えません</b>（まだ上場していない）。代わりに評価額（資金調達時の会社の値段）を載せます👇</p>
 
     <div class="card" style="border-left:5px solid #7b3ea8">
-      <h3>OpenAI <span class="tag t-ai">非上場／米</span></h3>
+      <h3>OpenAI（オープンエーアイ） <span class="tag t-ai">非上場／米</span></h3>
       <div class="kv">
         <b>何の会社？</b> ChatGPTを作った会社。生成AIブームの火付け役。<br>
         <b>評価額：</b>約<b>8,520億ドル（約128兆円）</b>。<br>
@@ -80,7 +82,7 @@
     </div>
 
     <div class="card" style="border-left:5px solid #7b3ea8">
-      <h3>Anthropic <span class="tag t-ai">非上場／米</span></h3>
+      <h3>Anthropic（アンソロピック） <span class="tag t-ai">非上場／米</span></h3>
       <div class="kv">
         <b>何の会社？</b> AI「Claude」を作る会社（このメモ作りを手伝っているAI）。安全性重視で評価が急上昇。<br>
         <b>評価額：</b>約<b>9,650億ドル（約145兆円）</b>。2026年にOpenAIを抜いてAIスタートアップ最高額に。<br>
@@ -210,20 +212,20 @@
     <h3 style="margin:16px 0 4px;color:var(--green-d)">🧠 AI半導体・設計</h3>
     <table>
       <tr><th>会社</th><th>主要部品・製品</th><th>株価<br>(自動)</th><th>今後の展望（ざっくり）</th></tr>
-      <tr><td><b>NVIDIA</b></td><td>AI用GPU（データセンター）、GeForce</td><td class="px" data-ticker="NVDA">—</td><td>AIの中心で当面首位。ただし大口客の自前チップ化が競争要因</td></tr>
-      <tr><td><b>Broadcom</b></td><td>カスタムAIチップ(ASIC)、通信半導体</td><td class="px" data-ticker="AVGO">—</td><td>GoogleらのASIC本命。AI設備投資の追い風</td></tr>
-      <tr><td><b>TSMC</b></td><td>最先端チップの受託製造</td><td class="px" data-ticker="TSM">—</td><td>AIチップ製造を独占的に担う。過去最大級の設備投資</td></tr>
-      <tr><td><b>ASML</b></td><td>EUV露光装置</td><td class="px" data-ticker="ASML">—</td><td>最先端チップに必須でほぼ独占。AI需要で受注好調</td></tr>
+      <tr><td><b>NVIDIA</b><br><small>エヌビディア</small></td><td>AI用GPU（データセンター）、GeForce</td><td class="px" data-ticker="NVDA">—</td><td>AIの中心で当面首位。ただし大口客の自前チップ化が競争要因</td></tr>
+      <tr><td><b>Broadcom</b><br><small>ブロードコム</small></td><td>カスタムAIチップ(ASIC)、通信半導体</td><td class="px" data-ticker="AVGO">—</td><td>GoogleらのASIC本命。AI設備投資の追い風</td></tr>
+      <tr><td><b>TSMC</b><br><small>ティーエスエムシー</small></td><td>最先端チップの受託製造</td><td class="px" data-ticker="TSM">—</td><td>AIチップ製造を独占的に担う。過去最大級の設備投資</td></tr>
+      <tr><td><b>ASML</b><br><small>エーエスエムエル</small></td><td>EUV露光装置</td><td class="px" data-ticker="ASML">—</td><td>最先端チップに必須でほぼ独占。AI需要で受注好調</td></tr>
     </table>
 
     <h3 style="margin:16px 0 4px;color:var(--green-d)">💾 メモリ</h3>
     <table>
       <tr><th>会社</th><th>主要部品・製品</th><th>株価<br>(自動)</th><th>今後の展望（ざっくり）</th></tr>
       <tr><td><b>キオクシア</b></td><td>NANDフラッシュ（保存用）</td><td class="px" data-ticker="285A.T">—</td><td>AI保存需要で好況。シリコンサイクルの波に注意</td></tr>
-      <tr><td><b>SanDisk</b></td><td>SSD・SDカード（NAND）</td><td class="px" data-ticker="SNDK">—</td><td>キオクシアと一体運営。AIサーバー向けSSD需要</td></tr>
+      <tr><td><b>SanDisk</b><br><small>サンディスク</small></td><td>SSD・SDカード（NAND）</td><td class="px" data-ticker="SNDK">—</td><td>キオクシアと一体運営。AIサーバー向けSSD需要</td></tr>
       <tr><td><b>SKハイニックス</b></td><td>HBM・DRAM</td><td class="px" data-ticker="000660.KS">—</td><td>AI用HBMで首位。NVIDIAに供給し絶好調</td></tr>
       <tr><td><b>サムスン電子</b></td><td>メモリ総合・スマホ</td><td class="px" data-ticker="005930.KS">—</td><td>メモリ世界1位。出遅れたHBMで巻き返し</td></tr>
-      <tr><td><b>Micron</b></td><td>DRAM・NAND・HBM</td><td class="px" data-ticker="MU">—</td><td>米系大手。価格高騰で最高益圏。波の上り局面</td></tr>
+      <tr><td><b>Micron</b><br><small>マイクロン</small></td><td>DRAM・NAND・HBM</td><td class="px" data-ticker="MU">—</td><td>米系大手。価格高騰で最高益圏。波の上り局面</td></tr>
     </table>
 
     <h3 style="margin:16px 0 4px;color:var(--green-d)">⛏️ つるはし（装置・材料）</h3>
@@ -258,8 +260,8 @@
     <h3 style="margin:16px 0 4px;color:var(--green-d)">🚀 非上場AI（株は買えない）</h3>
     <table>
       <tr><th>会社</th><th>主要製品</th><th>株価</th><th>今後の展望（ざっくり）</th></tr>
-      <tr><td><b>OpenAI</b></td><td>ChatGPT、AIモデル</td><td>非上場</td><td>評価額急騰、巨大DC投資。上場すれば大注目</td></tr>
-      <tr><td><b>Anthropic</b></td><td>Claude（AIモデル）</td><td>非上場</td><td>評価額でOpenAI超え、IPO申請中</td></tr>
+      <tr><td><b>OpenAI</b><br><small>オープンエーアイ</small></td><td>ChatGPT、AIモデル</td><td>非上場</td><td>評価額急騰、巨大DC投資。上場すれば大注目</td></tr>
+      <tr><td><b>Anthropic</b><br><small>アンソロピック</small></td><td>Claude（AIモデル）</td><td>非上場</td><td>評価額でOpenAI超え、IPO申請中</td></tr>
     </table>
   </section>
 
@@ -320,6 +322,6 @@
   </div>
 </footer>
 
-<script src="prices.js?v=2"></script>
+<script src="prices.js?v=3"></script>
 </body>
 </html>

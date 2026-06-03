@@ -52,6 +52,11 @@
         if(!info){ return; }
         td.innerHTML = (info.dividendYield != null) ? info.dividendYield.toFixed(2) + '%' : '—';
       });
+      document.querySelectorAll('td.pm[data-ticker]').forEach(function(td){
+        var info = s[td.getAttribute('data-ticker')];
+        if(!info){ return; }
+        td.innerHTML = (info.profitMargin != null) ? info.profitMargin.toFixed(1) + '%' : '—';
+      });
       document.querySelectorAll('td.tgt[data-ticker]').forEach(function(td){
         var info = s[td.getAttribute('data-ticker')];
         if(!info){ return; }

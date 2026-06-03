@@ -126,9 +126,15 @@ def get_extras(tk, ticker):
             d2 = info.get("dividendYield")
             if d2 is not None:
                 div_yield = round(float(d2) if d2 > 1 else float(d2) * 100, 2)
+        pm = info.get("profitMargins")
+        if pm is not None:
+            profit_margin = round(float(pm) * 100, 1)
+        else:
+            profit_margin = None
     except Exception as e:
         print("info err", ticker, e)
-    return target, rating, div_yield
+        profit_margin = None
+    return target, rating, div_yield, profit_margin
 
 
 def parse_time(item, content):
@@ -201,13 +207,15 @@ def main():
             if prev:
                 entry["prevClose"] = round(float(prev), 2)
                 entry["changePct"] = round((float(price) - float(prev)) / float(prev) * 100, 2)
-            target, rating, div_yield = get_extras(tk, ticker)
+            target, rating, div_yield, profit_margin = get_extras(tk, ticker)
             if target:
                 entry["target"] = round(float(target), 2)
             if rating:
                 entry["rating"] = rating
             if div_yield is not None:
                 entry["dividendYield"] = div_yield
+            if profit_margin is not None:
+                entry["profitMargin"] = profit_margin
             stocks[ticker] = entry
             print("PRICE OK", ticker, entry)
         else:
