@@ -16,6 +16,20 @@
     if(v >= 1e12) return '約' + (v/1e12).toFixed(2) + '兆ドル';
     return '約' + Math.round(v/1e8).toLocaleString('en-US') + '億ドル';
   }
+  // 前日比（日本式：上昇=赤▲ / 下落=青▼）
+  function chgHtml(info){
+    if(info.changePct === undefined || info.changePct === null){ return ''; }
+    var pct = info.changePct, up = pct >= 0;
+    var color = up ? '#c0392f' : '#2156a8';
+    var arrow = up ? '▲' : '▼';
+    return '<br><small style="color:' + color + ';font-weight:bold">'
+         + arrow + Math.abs(pct).toFixed(1) + '%</small>';
+  }
+  function esc(s){
+    return String(s||'').replace(/[&<>"']/g, function(c){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+    });
+  }
 
   fetch('prices.json?t=' + Date.now())
     .then(function(r){ return r.json(); })
@@ -25,7 +39,7 @@
         var info = s[td.getAttribute('data-ticker')];
         if(!info || !info.price){ return; }
         td.innerHTML = '<b>' + fmtPrice(info.price, info.currency) + '</b>'
-                     + '<br><small>(' + (d.updated || '') + ')</small>';
+                     + chgHtml(info);
       });
       document.querySelectorAll('td.mcap[data-ticker]').forEach(function(td){
         var info = s[td.getAttribute('data-ticker')];
@@ -33,17 +47,19 @@
         var c = fmtCap(info.marketCap, info.currency);
         if(c){ td.innerHTML = c; }
       });
+      document.querySelectorAll('td.tgt[data-ticker]').forEach(function(td){
+        var info = s[td.getAttribute('data-ticker')];
+        if(!info){ return; }
+        var t = info.target ? fmtPrice(info.target, info.currency) : '—';
+        var r = info.rating ? '<br><small>' + esc(info.rating) + '</small>' : '';
+        td.innerHTML = t + r;
+      });
       var u = document.getElementById('auto-upd');
       if(u && d.updated){ u.textContent = '株価 自動更新：' + d.updated; }
     })
     .catch(function(){ /* 失敗時は静的な値のまま */ });
 
   // ===== 関連ニュース =====
-  function esc(s){
-    return String(s||'').replace(/[&<>"']/g, function(c){
-      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
-    });
-  }
   var newsEl = document.getElementById('news-list');
   if(newsEl){
     fetch('news.json?t=' + Date.now())

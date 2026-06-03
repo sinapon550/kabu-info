@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>株なるほどメモ｜親の保有</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <span class="badge">家族専用</span>
+    <h1>👪 親の保有</h1>
+    <p class="lead">親御さんが持っている銘柄・投資信託をまとめたページ。株価は毎朝自動更新。</p>
+    <p class="updated"><span id="auto-upd">株価は毎朝 自動更新</span>／家族の勉強メモ</p>
+  </div>
+</header>
+
+<nav><div class="wrap">
+  <a class="navpage" href="index.html">📘 基本</a>
+  <a class="navpage" href="companies.html">📈 いま熱い企業・株</a>
+  <a class="navpage active" href="holdings.html">👪 親の保有</a>
+  <span class="navsep"></span>
+  <a href="#kabu">保有株</a>
+  <a href="#toushin">投資信託</a>
+</div></nav>
+
+<div class="wrap">
+
+  <div class="disc">
+    <b>⚠️ はじめに（大事）</b><br>
+    これは家族で保有を把握するための<b>メモ</b>です。<b>売買のおすすめではありません</b>。株価・基準価額は日々変わります。
+    実際の残高・損益は<b>証券口座で必ず確認</b>してください。判断は自己責任で・必要なら専門家に相談を。
+  </div>
+
+  <!-- 保有株 -->
+  <section id="kabu">
+    <h2>保有している株<span class="en">STOCKS</span></h2>
+    <p class="intro">株価・前日比・時価総額・目標株価は毎朝自動更新（概算）。前日比は<span style="color:#c0392f">▲赤=上昇</span> / <span style="color:#2156a8">▼青=下落</span>。</p>
+    <table>
+      <tr><th>銘柄</th><th>何の会社か</th><th>株価<br>前日比</th><th>時価総額</th><th>目標株価<br>評価</th></tr>
+      <tr><td><b>日本発条<br>(ニッパツ)</b><br>5991</td><td>ばね・自動車部品。HDD用精密ばねも。安定・配当系</td><td class="px" data-ticker="5991.T">—</td><td class="mcap" data-ticker="5991.T">約7,700億円</td><td class="tgt" data-ticker="5991.T">—</td></tr>
+      <tr><td><b>三菱UFJ</b><br>8306</td><td>日本最大の銀行グループ(メガバンク)。金利上昇で収益改善・配当も厚い</td><td class="px" data-ticker="8306.T">—</td><td class="mcap" data-ticker="8306.T">—</td><td class="tgt" data-ticker="8306.T">—</td></tr>
+    </table>
+    <p class="src">株価・時価総額・目標株価は自動更新（概算）。最新は証券アプリで確認を。</p>
+
+    <div class="card">
+      <h3>🏦 三菱UFJ（8306）ってどんな会社？</h3>
+      <div class="kv">
+        三菱UFJフィナンシャル・グループ。<b>日本で一番大きい銀行グループ</b>（メガバンク）。
+        お金を貸して利息を得るのが本業なので、<b>金利が上がると儲けが増えやすい</b>。
+        <b>配当（株主への分配）が比較的しっかり</b>しているタイプで、安定志向の人に持たれやすい銘柄。
+      </div>
+    </div>
+
+    <div class="card tsuru">
+      <h3>🔩 日本発条（ニッパツ・5991）</h3>
+      <div class="kv">
+        世界トップ級の<b>ばねメーカー</b>。自動車のサスペンション・シートが主力で、<b>HDD用の超精密ばね</b>も作る（データ保存と縁あり）。
+        急騰株というより<b>配当もある安定・実業系</b>（利回り約2%、PER約15倍）。
+      </div>
+    </div>
+  </section>
+
+  <!-- 投資信託 -->
+  <section id="toushin">
+    <h2>投資信託<span class="en">MUTUAL FUND</span></h2>
+    <p class="intro">投資信託は「いろんな株や債券をまとめた“詰め合わせパック”」。個別株のようにティッカーで自動取得できないため、ここは<b>手動メモ</b>です。最新の基準価額は野村のサイト／証券口座で確認を。</p>
+
+    <div class="card" style="border-left:5px solid var(--green)">
+      <h3>📦 のむラップ・ファンド <span class="tag t-base">投資信託</span></h3>
+      <div class="kv">
+        <b>どんな商品？</b> 野村アセットマネジメントの<b>バランス型ファンド</b>。国内外の<b>株式・債券・REIT（不動産）</b>などをプロがまとめて分散投資してくれる“おまかせパック”。<br>
+        <b>コース：</b> リスクの大きさ別に「<b>保守型／やや保守型／普通型／やや積極型／積極型</b>」などがあり、どれを持っているかで値動きの大きさが変わる。<br>
+        <b>特徴：</b> 1本で世界中に分散できるので<b>初心者向き・ほったらかし向き</b>。代わりに<b>信託報酬（手数料）</b>が毎年かかる。<br>
+        <b>確認方法：</b> 基準価額（ねだん）は「のむラップ・ファンド 基準価額」で検索、または証券口座のマイページで。<br>
+        <span style="color:var(--sub);font-size:12px">※自動株価取得の対象外（投資信託のため）。コース名がわかれば、それも書き足せます。</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>💡 投資信託のミニ用語</h3>
+      <div class="kv">
+        <b>基準価額</b>：投資信託の“1口あたりのねだん”。株価にあたるもの。<br>
+        <b>信託報酬</b>：運用してもらう年間手数料。低いほど有利。<br>
+        <b>バランス型</b>：株・債券などを最初から混ぜてある安心タイプ。
+      </div>
+    </div>
+  </section>
+
+  <div class="disc">
+    <b>もう一度・大事なこと</b><br>
+    このページは保有の<b>把握用メモ</b>で、売買のおすすめではありません。実際の残高・損益・基準価額は必ず証券口座で確認し、判断は自己責任で・必要なら専門家に相談してください。
+  </div>
+
+</div>
+
+<footer>
+  <div class="wrap">
+    <b>株なるほどメモ</b>｜家族専用・勉強用｜
+    <a href="index.html">📘 基本</a> ／ <a href="companies.html">📈 いま熱い企業・株</a>
+  </div>
+</footer>
+
+<script src="prices.js"></script>
+</body>
+</html>

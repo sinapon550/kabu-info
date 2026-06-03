@@ -1,6 +1,7 @@
 """毎朝1回 GitHub Actions から実行。
-株価・時価総額を取得して prices.json を、掲載企業の最近ニュースを news.json を更新する。
-非上場の OpenAI / Anthropic は対象外（サイト側で手動表示）。
+株価・前日比・時価総額・目標株価・レーティングを prices.json に、
+掲載企業の最近ニュースを news.json に書き出す。
+非上場の OpenAI / Anthropic、投資信託(のむラップ)は対象外（サイト側で手動表示）。
 """
 import json
 import datetime
@@ -21,18 +22,35 @@ COMPANIES = [
     ("5991.T", "日本発条"),
     ("6954.T", "ファナック"),
     ("6981.T", "村田製作所"),
+    # つるはし企業（製造装置・材料）
+    ("ASML",   "ASML"),
+    ("8035.T", "東京エレクトロン"),
+    ("6920.T", "レーザーテック"),
+    ("6146.T", "ディスコ"),
+    ("4063.T", "信越化学"),
+    ("3436.T", "SUMCO"),
+    # 親の保有
+    ("8306.T", "三菱UFJ"),
 ]
+
+RATING_MAP = {
+    "strong_buy": "強い買い", "buy": "買い", "outperform": "やや買い",
+    "hold": "中立", "underperform": "やや売り",
+    "sell": "売り", "strong_sell": "強い売り",
+}
 
 JST = datetime.timezone(datetime.timedelta(hours=9))
 
 
 def get_price(tk, ticker):
     price = None
+    prev = None
     currency = "JPY" if ticker.endswith(".T") else "USD"
     market_cap = None
     try:
         fi = tk.fast_info
         price = fi.get("last_price") or fi.get("lastPrice")
+        prev = fi.get("previous_close") or fi.get("previousClose")
         currency = fi.get("currency") or currency
         market_cap = fi.get("market_cap") or fi.get("marketCap")
     except Exception as e:
@@ -41,14 +59,32 @@ def get_price(tk, ticker):
         try:
             hist = tk.history(period="5d")
             if not hist.empty:
-                price = float(hist["Close"].dropna().iloc[-1])
+                closes = hist["Close"].dropna()
+                price = float(closes.iloc[-1])
+                if len(closes) >= 2 and not prev:
+                    prev = float(closes.iloc[-2])
         except Exception as e:
             print("history err", ticker, e)
-    return price, currency, market_cap
+    return price, prev, currency, market_cap
+
+
+def get_extras(tk, ticker):
+    target = None
+    rating = None
+    try:
+        info = tk.info or {}
+        target = info.get("targetMeanPrice")
+        rk = info.get("recommendationKey")
+        rating = RATING_MAP.get(rk)
+        n = info.get("numberOfAnalystOpinions")
+        if rating and n:
+            rating = "%s(%d人)" % (rating, int(n))
+    except Exception as e:
+        print("info err", ticker, e)
+    return target, rating
 
 
 def parse_time(item, content):
-    # 新形式: content.pubDate (ISO) / 旧形式: providerPublishTime (unix)
     try:
         if content.get("pubDate"):
             return content["pubDate"]
@@ -100,8 +136,7 @@ def to_dt(iso):
     if not iso:
         return None
     try:
-        s = iso.replace("Z", "+00:00")
-        return datetime.datetime.fromisoformat(s)
+        return datetime.datetime.fromisoformat(iso.replace("Z", "+00:00"))
     except Exception:
         return None
 
@@ -111,25 +146,30 @@ def main():
     all_news = []
     for ticker, company in COMPANIES:
         tk = yf.Ticker(ticker)
-        price, currency, mcap = get_price(tk, ticker)
+        price, prev, currency, mcap = get_price(tk, ticker)
         if price:
             entry = {"price": round(float(price), 2), "currency": currency}
             if mcap:
                 entry["marketCap"] = int(mcap)
+            if prev:
+                entry["prevClose"] = round(float(prev), 2)
+                entry["changePct"] = round((float(price) - float(prev)) / float(prev) * 100, 2)
+            target, rating = get_extras(tk, ticker)
+            if target:
+                entry["target"] = round(float(target), 2)
+            if rating:
+                entry["rating"] = rating
             stocks[ticker] = entry
             print("PRICE OK", ticker, entry)
         else:
             print("PRICE SKIP", ticker)
 
-        news = get_news(tk, ticker, company)
-        # 1社あたり最新2件まで
-        news_sorted = sorted(news, key=lambda n: n["time"] or "", reverse=True)
-        all_news.extend(news_sorted[:2])
-        print("NEWS", ticker, len(news_sorted[:2]))
+        news = sorted(get_news(tk, ticker, company),
+                      key=lambda n: n["time"] or "", reverse=True)
+        all_news.extend(news[:2])
 
     today = datetime.datetime.now(JST).strftime("%Y-%m-%d")
 
-    # 価格
     with open("prices.json", "w", encoding="utf-8") as f:
         json.dump({
             "updated": today,
@@ -137,13 +177,8 @@ def main():
             "stocks": stocks,
         }, f, ensure_ascii=False, indent=2)
 
-    # ニュース: 直近6日以内・新しい順・最大15件
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=6)
-    recent = []
-    for n in all_news:
-        dt = to_dt(n["time"])
-        if dt is None or dt >= cutoff:
-            recent.append(n)
+    recent = [n for n in all_news if (to_dt(n["time"]) is None or to_dt(n["time"]) >= cutoff)]
     recent.sort(key=lambda n: n["time"] or "", reverse=True)
     recent = recent[:15]
     with open("news.json", "w", encoding="utf-8") as f:
