@@ -3,6 +3,7 @@
 掲載企業の最近ニュースを news.json に書き出す。
 非上場の OpenAI / Anthropic、投資信託(のむラップ)は対象外（サイト側で手動表示）。
 """
+import os
 import json
 import datetime
 import urllib.parse
@@ -296,6 +297,62 @@ def to_dt(iso):
         return None
 
 
+def collect_economy():
+    """主要な株価指数・為替のニュースから、経済の主な動きを集める。"""
+    tickers = ["^N225", "^GSPC", "^DJI", "^IXIC", "JPY=X"]
+    items = []
+    for t in tickers:
+        try:
+            items.extend(get_news(yf.Ticker(t), t, "経済"))
+        except Exception as e:
+            print("econ news err", t, e)
+    # 直近2日・リンク重複除去・新しい順・最大6件
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=2)
+    seen, out = set(), []
+    for n in sorted(items, key=lambda x: x["time"] or "", reverse=True):
+        dt = to_dt(n["time"])
+        if dt is not None and dt < cutoff:
+            continue
+        if n["link"] in seen:
+            continue
+        seen.add(n["link"])
+        n["titleJa"] = translate_ja(n["title"])
+        out.append(n)
+        if len(out) >= 6:
+            break
+    return out
+
+
+def summarize_economy(headlines):
+    """ANTHROPIC_API_KEY があれば Claude API で5行に要約。無ければ空文字。"""
+    key = os.environ.get("ANTHROPIC_API_KEY")
+    if not key or not headlines:
+        return ""
+    titles = "\n".join("- " + (h.get("titleJa") or h.get("title")) for h in headlines)
+    prompt = (
+        "次は昨日の経済・市場ニュースの見出しです。これをもとに、個人投資家（初心者）が"
+        "知っておくとよい『株式市場に関係しそうな主な動き』を、やさしい日本語で5行程度に"
+        "まとめてください。各行は「・」で始め、専門用語には軽い補足を。見出しに無い情報は"
+        "推測しないでください。\n\n" + titles
+    )
+    body = json.dumps({
+        "model": os.environ.get("CLAUDE_MODEL", "claude-3-5-haiku-latest"),
+        "max_tokens": 600,
+        "messages": [{"role": "user", "content": prompt}],
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        "https://api.anthropic.com/v1/messages", data=body,
+        headers={"x-api-key": key, "anthropic-version": "2023-06-01",
+                 "content-type": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=45) as r:
+            data = json.loads(r.read().decode("utf-8"))
+        return data["content"][0]["text"].strip()
+    except Exception as e:
+        print("summary err", e)
+        return ""
+
+
 def main():
     stocks = {}
     all_news = []
@@ -342,7 +399,15 @@ def main():
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump({"updated": today, "items": recent}, f, ensure_ascii=False, indent=2)
 
-    print("wrote prices.json:", len(stocks), "/ news.json:", len(recent), "/", today)
+    # 今日の経済情報
+    econ = collect_economy()
+    summary = summarize_economy(econ)
+    with open("economy.json", "w", encoding="utf-8") as f:
+        json.dump({"updated": today, "summary": summary, "headlines": econ},
+                  f, ensure_ascii=False, indent=2)
+
+    print("wrote prices.json:", len(stocks), "/ news.json:", len(recent),
+          "/ economy:", len(econ), "summary:", bool(summary), "/", today)
 
 
 if __name__ == "__main__":

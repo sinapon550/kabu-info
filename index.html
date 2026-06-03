@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>株なるほどメモ｜基本</title>
-<link rel="stylesheet" href="style.css?v=6">
+<link rel="stylesheet" href="style.css?v=7">
 </head>
 <body>
 
@@ -23,7 +23,8 @@
   <a class="navpage" href="holdings.html">👪 親の保有</a>
   <a class="navpage" href="my-holdings.html">🙋 自分の保有</a>
   <span class="navsep"></span>
-  <a href="#kihon">まず基本</a>
+  <a href="#economy">📰今日の経済</a>
+  <a href="#kihon">はじめに</a>
   <a href="#tsuruhashi">つるはし理論</a>
   <a href="#ai">AIの動向</a>
   <a href="#yomikata">📊指標の読み方</a>
@@ -42,9 +43,17 @@
     👉 具体的な<b>会社・株価・時価総額</b>は「<a href="companies.html"><b>📈 いま熱い企業・株</b></a>」のページにまとめています。
   </p>
 
+  <!-- 今日の経済情報 -->
+  <section id="economy">
+    <h2>📰 今日の経済情報<span class="en">TODAY'S ECONOMY</span></h2>
+    <p class="intro">株に関わりそうな<b>昨日の主な経済ニュース</b>を毎朝まとめます。<span id="economy-updated"></span></p>
+    <div id="economy-box" class="card"><div class="kv">読み込み中…</div></div>
+    <p class="src">自動収集・自動要約（概算）。正確な情報は各報道機関の元記事でご確認ください。</p>
+  </section>
+
   <!-- 基本 -->
   <section id="kihon">
-    <h2>まず基本：なぜ半導体とAIなの？<span class="en">WHY SEMICONDUCTORS & AI</span></h2>
+    <h2>はじめに：なぜ半導体とAIなの？<span class="en">WHY SEMICONDUCTORS & AI</span></h2>
     <p class="intro">いま世界は「AI（人工知能）」に大金を投じています。AIを動かすには、たくさんの計算をする<b>半導体（チップ）</b>が必要。だから半導体を作る・支える会社にお金が集まっています。</p>
     <div class="card">
       <h3>🍔 たとえ話で言うと</h3>
@@ -198,6 +207,6 @@
   </div>
 </footer>
 
-<script src="prices.js?v=6"></script>
+<script src="prices.js?v=7"></script>
 </body>
 </html>

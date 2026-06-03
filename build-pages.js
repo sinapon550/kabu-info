@@ -65,7 +65,7 @@ function page(d) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>株なるほどメモ｜${d.name} 深掘り</title>
-<link rel="stylesheet" href="style.css?v=6">
+<link rel="stylesheet" href="style.css?v=7">
 </head>
 <body>
 <header><div class="wrap">
@@ -93,7 +93,7 @@ ${listed ? NAV : NAV_NOLIST}
   <div class="disc"><b>もう一度</b>：勉強用です。<b>買うことを勧めるものではありません</b>。判断は最新の公式情報を確認し自己責任で。</div>
 </div>
 <footer><div class="wrap"><b>株なるほどメモ</b>｜<a href="companies.html">📈 いま熱い企業・株へ戻る</a></div></footer>
-<script src="prices.js?v=6"></script>
+<script src="prices.js?v=7"></script>
 </body></html>
 `;
 }

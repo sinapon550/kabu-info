@@ -193,4 +193,27 @@
         newsEl.innerHTML = '<div class="kv">ニュースの読み込みに失敗しました。</div>';
       });
   }
+
+  // ===== 今日の経済情報 =====
+  var econEl = document.getElementById('economy-box');
+  if(econEl){
+    fetch('economy.json?t=' + Date.now())
+      .then(function(r){ return r.json(); })
+      .then(function(d){
+        var u = document.getElementById('economy-updated');
+        if(u && d.updated){ u.textContent = '（' + d.updated + ' 時点）'; }
+        if(d.summary){
+          econEl.innerHTML = '<div class="kv">' + esc(d.summary).replace(/\n/g, '<br>') + '</div>';
+        } else if(d.headlines && d.headlines.length){
+          econEl.innerHTML = '<div class="kv" style="margin-bottom:6px;color:var(--sub)">昨日の主な見出し：</div>'
+            + d.headlines.map(function(n){
+                var jurl = 'https://translate.google.com/translate?sl=auto&tl=ja&u=' + encodeURIComponent(n.link);
+                return '<div style="padding:6px 0;border-bottom:1px solid var(--line)"><a href="' + esc(jurl) + '" target="_blank" rel="noopener">' + esc(n.titleJa || n.title) + '</a><div class="src">' + esc(n.publisher) + '</div></div>';
+              }).join('');
+        } else {
+          econEl.innerHTML = '<div class="kv">経済ニュースが取得できませんでした。</div>';
+        }
+      })
+      .catch(function(){ econEl.innerHTML = '<div class="kv">読み込みに失敗しました。</div>'; });
+  }
 })();
