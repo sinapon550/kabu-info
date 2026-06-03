@@ -18,6 +18,14 @@
       "time": "2026-06-03T10:25:00Z"
     },
     {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Stocks to Watch: Marvell, GameStop, GitLab, Macy’s",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026/card/stocks-to-watch-marvell-gamestop-gitlab-macy-s-HcT6mcfnsGhH2VoZwlUj?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T10:01:54Z"
+    },
+    {
       "ticker": "TSM",
       "company": "TSMC",
       "title": "Fresh AI Buzz Powers Taiwan Stocks Even Higher",
@@ -58,12 +66,12 @@
       "time": "2026-06-03T08:45:00Z"
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy Right Now?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/03/nvidia-vs-broadcom-which-ai-chip-stock-is-the-bett/",
-      "time": "2026-06-03T08:25:00Z"
+      "ticker": "9434.T",
+      "company": "ソフトバンク",
+      "title": "Bitcoin Price Crash: Ex-SoftBank CFO Sees ‘No Concerns’ For Crypto Despite Mega IPO Capital-Drain Fears, Pins Hope On CLARITY Act",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/bitcoin-price-crash-ex-soft-bank-cfo-sees-no-concerns-for-crypto-despite-mega-ipo-capital-drain-fears-pins-hope-on-clarity-act/cZ0SzzjRexT",
+      "time": "2026-06-03T08:03:50Z"
     },
     {
       "ticker": "7735.T",
@@ -80,6 +88,14 @@
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/nikkei-closes-at-record-high-driven-by-chip-related-stocks-B0pJJEiTaaJz0aX7eqvS?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-03T06:55:56Z"
+    },
+    {
+      "ticker": "9434.T",
+      "company": "ソフトバンク",
+      "title": "Morning Bid: Marvell, a fitting name for the latest AI darling",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-marvell-fitting-name-043542710.html",
+      "time": "2026-06-03T04:35:42Z"
     },
     {
       "ticker": "6857.T",
@@ -104,22 +120,6 @@
       "publisher": "Barchart",
       "link": "https://www.barchart.com/story/news/2267903/stock-indexes-post-new-record-highs-amid-ai-enthusiasm",
       "time": "2026-06-02T20:32:34Z"
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Stocks Push Higher on US Labor Market Strength and AI Spending",
-      "publisher": "Barchart",
-      "link": "https://www.barchart.com/story/news/2262032/stocks-push-higher-on-us-labor-market-strength-and-ai-spending",
-      "time": "2026-06-02T15:25:43Z"
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Palo Alto CEO’s Pay, Now Nearly $100 Million, Is Most Rejected in Corporate America",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-ceo-pay-now-121504850.html",
-      "time": "2026-06-02T12:15:04Z"
     }
   ]
 }

@@ -11,6 +11,15 @@
       "target": 6834.26,
       "rating": "買い(19人)"
     },
+    "9434.T": {
+      "price": 218.7,
+      "currency": "JPY",
+      "marketCap": 10454136484034,
+      "prevClose": 216.9,
+      "changePct": 0.83,
+      "target": 242.53,
+      "rating": "買い(15人)"
+    },
     "NVDA": {
       "price": 222.82,
       "currency": "USD",
@@ -124,7 +133,7 @@
       "marketCap": 657279721479,
       "prevClose": 1706.5,
       "changePct": -0.07,
-      "target": 1663.24,
+      "target": 1663.05,
       "rating": "強い買い(15人)"
     },
     "8035.T": {
