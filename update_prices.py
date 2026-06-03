@@ -10,6 +10,7 @@ import yfinance as yf
 # (ticker, 表示名)
 COMPANIES = [
     ("9984.T", "ソフトバンクG"),
+    ("9434.T", "ソフトバンク"),
     ("NVDA",   "NVIDIA"),
     ("TSM",    "TSMC"),
     ("AVGO",   "Broadcom"),
