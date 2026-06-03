@@ -42,19 +42,21 @@
     <h2>📰 保有銘柄ニュース<span class="en">NEWS</span></h2>
     <p class="intro">保有銘柄の最近のニュース見出し（毎朝自動収集・<b>日本語訳</b>）。<span id="news-updated"></span><br>
     <span style="font-size:12px">※リンクは翻訳版で開きます。自動翻訳のため不自然な箇所はご容赦を。</span></p>
-    <div id="news-list" class="card" data-limit="10" data-tickers="5991.T,8306.T,9434.T"><div class="kv">読み込み中…</div></div>
+    <div id="news-list" class="card" data-group="company" data-per="2" data-tickers="5991.T,8306.T,9434.T"><div class="kv">読み込み中…</div></div>
   </section>
 
   <!-- 保有株 -->
   <section id="kabu">
     <h2>保有している株<span class="en">STOCKS</span></h2>
     <p class="intro">株価・前日比・時価総額・目標株価は毎朝自動更新（概算）。前日比は<span style="color:#c0392f">▲赤=上昇</span> / <span style="color:#2156a8">▼青=下落</span>。</p>
+    <div class="scroll">
     <table>
-      <tr><th>銘柄</th><th>何の会社か</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>目標株価<br>評価</th></tr>
-      <tr><td><b>日本発条<br>(ニッパツ)</b><br>5991</td><td>ばね・自動車部品。HDD用精密ばねも。安定・配当系</td><td class="px" data-ticker="5991.T">—</td><td class="dy" data-ticker="5991.T">—</td><td class="tgt" data-ticker="5991.T">—</td></tr>
-      <tr><td><b>三菱UFJ</b><br>8306</td><td>日本最大の銀行グループ(メガバンク)。金利上昇で収益改善・配当も厚い</td><td class="px" data-ticker="8306.T">—</td><td class="dy" data-ticker="8306.T">—</td><td class="tgt" data-ticker="8306.T">—</td></tr>
-      <tr><td><b>ソフトバンク</b><br>9434</td><td>携帯・通信会社（PayPay等）。安定収益＋配当。※SBグループ(9984)とは別会社</td><td class="px" data-ticker="9434.T">—</td><td class="dy" data-ticker="9434.T">—</td><td class="tgt" data-ticker="9434.T">—</td></tr>
+      <tr><th>銘柄</th><th>何の会社か</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>時価総額</th><th>目標株価<br>評価</th></tr>
+      <tr><td><b>日本発条<br>(ニッパツ)</b><br>5991</td><td>ばね・自動車部品。HDD用精密ばねも。安定・配当系</td><td class="px" data-ticker="5991.T">—</td><td class="dy" data-ticker="5991.T">—</td><td class="mcap" data-ticker="5991.T">—</td><td class="tgt" data-ticker="5991.T">—</td></tr>
+      <tr><td><b>三菱UFJ</b><br>8306</td><td>日本最大の銀行グループ(メガバンク)。金利上昇で収益改善・配当も厚い</td><td class="px" data-ticker="8306.T">—</td><td class="dy" data-ticker="8306.T">—</td><td class="mcap" data-ticker="8306.T">—</td><td class="tgt" data-ticker="8306.T">—</td></tr>
+      <tr><td><b>ソフトバンク</b><br>9434</td><td>携帯・通信会社（PayPay等）。安定収益＋配当。※SBグループ(9984)とは別会社</td><td class="px" data-ticker="9434.T">—</td><td class="dy" data-ticker="9434.T">—</td><td class="mcap" data-ticker="9434.T">—</td><td class="tgt" data-ticker="9434.T">—</td></tr>
     </table>
+    </div>
     <p class="src">株価・時価総額・目標株価は自動更新（概算）。最新は証券アプリで確認を。</p>
 
     <div class="card">

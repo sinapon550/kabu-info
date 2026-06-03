@@ -12,7 +12,7 @@
   <div class="wrap">
     <span class="badge">家族専用</span>
     <h1>🙋 自分の保有</h1>
-    <p class="lead">自分が持っている銘柄のウォッチリスト。株価・前日比・配当利回り・目標株価は毎朝自動更新。<br>（保有株数は非公開）</p>
+    <p class="lead">自分が持っている銘柄のウォッチリスト。株価・前日比・配当利回り・時価総額・目標株価は毎朝自動更新。<br>（保有株数は非公開）</p>
     <p class="updated"><span id="auto-upd">株価は毎朝 自動更新</span>／家族の勉強メモ</p>
   </div>
 </header>
@@ -37,32 +37,34 @@
   <!-- 関連ニュース -->
   <section id="news">
     <h2>📰 自分の銘柄ニュース<span class="en">MY NEWS</span></h2>
-    <p class="intro">保有銘柄の最近のニュース見出し（毎朝自動収集・<b>日本語訳</b>）。<span id="news-updated"></span><br>
-    <span style="font-size:12px">※リンクは翻訳版で開きます。自動翻訳のため不自然な箇所はご容赦を。</span></p>
-    <div id="news-list" class="card" data-limit="12" data-tickers="2502.T,2768.T,2914.T,4565.T,4755.T,7267.T,8058.T,8267.T,8591.T,8729.T,9432.T,9433.T,1417.T"><div class="kv">読み込み中…</div></div>
+    <p class="intro">保有銘柄の最近のニュースを<b>会社ごとにまとめて</b>表示（毎朝自動収集・<b>日本語訳</b>）。<span id="news-updated"></span><br>
+    <span style="font-size:12px">※各社いちばん新しい1本。リンクは翻訳版で開きます。自動翻訳のため不自然な箇所はご容赦を。</span></p>
+    <div id="news-list" class="card" data-group="company" data-per="1" data-tickers="2502.T,2768.T,2914.T,4565.T,4755.T,7267.T,8058.T,8267.T,8591.T,8729.T,9432.T,9433.T,1417.T"><div class="kv">読み込み中…</div></div>
   </section>
 
   <!-- 保有銘柄 -->
   <section id="mine">
     <h2>保有銘柄 一覧<span class="en">MY HOLDINGS</span></h2>
-    <p class="intro">前日比は<span style="color:#c0392f">▲赤=上昇</span> / <span style="color:#2156a8">▼青=下落</span>。配当利回り・目標株価は自動更新。展望はざっくりした見方で保証ではありません。</p>
+    <p class="intro">前日比は<span style="color:#c0392f">▲赤=上昇</span> / <span style="color:#2156a8">▼青=下落</span>。配当利回り・時価総額・目標株価は自動更新。展望はざっくりした見方で保証ではありません。（横スクロールできます）</p>
+    <div class="scroll">
     <table>
-      <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>目標株価<br>評価</th><th>事業・今後の展望（ざっくり）</th></tr>
-      <tr><td><b>アサヒGHD</b><br>2502</td><td class="px" data-ticker="2502.T">—</td><td class="dy" data-ticker="2502.T">—</td><td class="tgt" data-ticker="2502.T">—</td><td>ビール・飲料大手。海外展開と値上げ浸透。景気に強いディフェンシブ</td></tr>
-      <tr><td><b>双日</b><br>2768</td><td class="px" data-ticker="2768.T">—</td><td class="dy" data-ticker="2768.T">—</td><td class="tgt" data-ticker="2768.T">—</td><td>総合商社（中堅）。資源・自動車など。株主還元の強化が進む</td></tr>
-      <tr><td><b>JT</b><br>2914</td><td class="px" data-ticker="2914.T">—</td><td class="dy" data-ticker="2914.T">—</td><td class="tgt" data-ticker="2914.T">—</td><td>たばこ・医薬・食品。<b>高配当の代表格</b>。海外たばこが収益源</td></tr>
-      <tr><td><b>ネクセラ<br>ファーマ</b><br>4565</td><td class="px" data-ticker="4565.T">—</td><td class="dy" data-ticker="4565.T">—</td><td class="tgt" data-ticker="4565.T">—</td><td>創薬バイオ。新薬・提携次第で<b>値動きが大きめ</b>（攻めの部分）</td></tr>
-      <tr><td><b>楽天<br>グループ</b><br>4755</td><td class="px" data-ticker="4755.T">—</td><td class="dy" data-ticker="4755.T">—</td><td class="tgt" data-ticker="4755.T">—</td><td>EC・モバイル・金融。<b>モバイル赤字の改善が鍵</b>。金融は堅調</td></tr>
-      <tr><td><b>ホンダ</b><br>7267</td><td class="px" data-ticker="7267.T">—</td><td class="dy" data-ticker="7267.T">—</td><td class="tgt" data-ticker="7267.T">—</td><td>自動車・バイク。EV/HV対応と北米市場。配当・自社株買いに積極</td></tr>
-      <tr><td><b>三菱商事</b><br>8058</td><td class="px" data-ticker="8058.T">—</td><td class="dy" data-ticker="8058.T">—</td><td class="tgt" data-ticker="8058.T">—</td><td>総合商社最大手。資源＋非資源で安定。<b>高配当</b>でバフェットも保有</td></tr>
-      <tr><td><b>イオン</b><br>8267</td><td class="px" data-ticker="8267.T">—</td><td class="dy" data-ticker="8267.T">—</td><td class="tgt" data-ticker="8267.T">—</td><td>小売（スーパー）大手。ディフェンシブだが利益率は薄め</td></tr>
-      <tr><td><b>オリックス</b><br>8591</td><td class="px" data-ticker="8591.T">—</td><td class="dy" data-ticker="8591.T">—</td><td class="tgt" data-ticker="8591.T">—</td><td>リース・金融・多角化。安定。配当・株主優待が人気</td></tr>
-      <tr><td><b>ソニー<br>フィナンシャルG</b><br>8729</td><td class="px" data-ticker="8729.T">—</td><td class="dy" data-ticker="8729.T">—</td><td class="tgt" data-ticker="8729.T">—</td><td>保険・銀行（ソニー系）。生命保険が主力で安定志向</td></tr>
-      <tr><td><b>NTT</b><br>9432</td><td class="px" data-ticker="9432.T">—</td><td class="dy" data-ticker="9432.T">—</td><td class="tgt" data-ticker="9432.T">—</td><td>通信最大手。<b>超安定・高配当</b>。1株単位で買いやすく人気</td></tr>
-      <tr><td><b>KDDI</b><br>9433</td><td class="px" data-ticker="9433.T">—</td><td class="dy" data-ticker="9433.T">—</td><td class="tgt" data-ticker="9433.T">—</td><td>通信大手(au)。高配当・安定。金融・DX・電力にも展開</td></tr>
-      <tr><td><b>ミライト・ワン</b><br>1417</td><td class="px" data-ticker="1417.T">—</td><td class="dy" data-ticker="1417.T">—</td><td class="tgt" data-ticker="1417.T">—</td><td>通信建設・インフラ工事。5G・データセンター・再エネで需要。AIインフラの恩恵も</td></tr>
+      <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>時価総額</th><th>目標株価<br>評価</th><th>事業・今後の展望（ざっくり）</th></tr>
+      <tr><td><b>アサヒGHD</b><br>2502</td><td class="px" data-ticker="2502.T">—</td><td class="dy" data-ticker="2502.T">—</td><td class="mcap" data-ticker="2502.T">—</td><td class="tgt" data-ticker="2502.T">—</td><td>ビール・飲料大手。海外展開と値上げ浸透。景気に強いディフェンシブ</td></tr>
+      <tr><td><b>双日</b><br>2768</td><td class="px" data-ticker="2768.T">—</td><td class="dy" data-ticker="2768.T">—</td><td class="mcap" data-ticker="2768.T">—</td><td class="tgt" data-ticker="2768.T">—</td><td>総合商社（中堅）。資源・自動車など。株主還元の強化が進む</td></tr>
+      <tr><td><b>JT</b><br>2914</td><td class="px" data-ticker="2914.T">—</td><td class="dy" data-ticker="2914.T">—</td><td class="mcap" data-ticker="2914.T">—</td><td class="tgt" data-ticker="2914.T">—</td><td>たばこ・医薬・食品。<b>高配当の代表格</b>。海外たばこが収益源</td></tr>
+      <tr><td><b>ネクセラ<br>ファーマ</b><br>4565</td><td class="px" data-ticker="4565.T">—</td><td class="dy" data-ticker="4565.T">—</td><td class="mcap" data-ticker="4565.T">—</td><td class="tgt" data-ticker="4565.T">—</td><td>創薬バイオ。新薬・提携次第で<b>値動きが大きめ</b>（攻めの部分）</td></tr>
+      <tr><td><b>楽天<br>グループ</b><br>4755</td><td class="px" data-ticker="4755.T">—</td><td class="dy" data-ticker="4755.T">—</td><td class="mcap" data-ticker="4755.T">—</td><td class="tgt" data-ticker="4755.T">—</td><td>EC・モバイル・金融。<b>モバイル赤字の改善が鍵</b>。金融は堅調</td></tr>
+      <tr><td><b>ホンダ</b><br>7267</td><td class="px" data-ticker="7267.T">—</td><td class="dy" data-ticker="7267.T">—</td><td class="mcap" data-ticker="7267.T">—</td><td class="tgt" data-ticker="7267.T">—</td><td>自動車・バイク。EV/HV対応と北米市場。配当・自社株買いに積極</td></tr>
+      <tr><td><b>三菱商事</b><br>8058</td><td class="px" data-ticker="8058.T">—</td><td class="dy" data-ticker="8058.T">—</td><td class="mcap" data-ticker="8058.T">—</td><td class="tgt" data-ticker="8058.T">—</td><td>総合商社最大手。資源＋非資源で安定。<b>高配当</b>でバフェットも保有</td></tr>
+      <tr><td><b>イオン</b><br>8267</td><td class="px" data-ticker="8267.T">—</td><td class="dy" data-ticker="8267.T">—</td><td class="mcap" data-ticker="8267.T">—</td><td class="tgt" data-ticker="8267.T">—</td><td>小売（スーパー）大手。ディフェンシブだが利益率は薄め</td></tr>
+      <tr><td><b>オリックス</b><br>8591</td><td class="px" data-ticker="8591.T">—</td><td class="dy" data-ticker="8591.T">—</td><td class="mcap" data-ticker="8591.T">—</td><td class="tgt" data-ticker="8591.T">—</td><td>リース・金融・多角化。安定。配当・株主優待が人気</td></tr>
+      <tr><td><b>ソニー<br>フィナンシャルG</b><br>8729</td><td class="px" data-ticker="8729.T">—</td><td class="dy" data-ticker="8729.T">—</td><td class="mcap" data-ticker="8729.T">—</td><td class="tgt" data-ticker="8729.T">—</td><td>保険・銀行（ソニー系）。生命保険が主力で安定志向</td></tr>
+      <tr><td><b>NTT</b><br>9432</td><td class="px" data-ticker="9432.T">—</td><td class="dy" data-ticker="9432.T">—</td><td class="mcap" data-ticker="9432.T">—</td><td class="tgt" data-ticker="9432.T">—</td><td>通信最大手。<b>超安定・高配当</b>。1株単位で買いやすく人気</td></tr>
+      <tr><td><b>KDDI</b><br>9433</td><td class="px" data-ticker="9433.T">—</td><td class="dy" data-ticker="9433.T">—</td><td class="mcap" data-ticker="9433.T">—</td><td class="tgt" data-ticker="9433.T">—</td><td>通信大手(au)。高配当・安定。金融・DX・電力にも展開</td></tr>
+      <tr><td><b>ミライト・ワン</b><br>1417</td><td class="px" data-ticker="1417.T">—</td><td class="dy" data-ticker="1417.T">—</td><td class="mcap" data-ticker="1417.T">—</td><td class="tgt" data-ticker="1417.T">—</td><td>通信建設・インフラ工事。5G・データセンター・再エネで需要。AIインフラの恩恵も</td></tr>
     </table>
-    <p class="src">株価・配当利回り・目標株価は自動更新（概算）。配当利回りは過去実績ベース。<b>ソフトバンク(9434)</b>は「<a href="holdings.html">👪 親の保有</a>」ページに掲載。</p>
+    </div>
+    <p class="src">株価・配当利回り・時価総額・目標株価は自動更新（概算）。配当利回りは過去実績ベース。<b>ソフトバンク(9434)</b>は「<a href="holdings.html">👪 親の保有</a>」ページに掲載。</p>
   </section>
 
   <!-- 分析 -->
