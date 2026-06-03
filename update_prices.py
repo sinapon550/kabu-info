@@ -80,6 +80,47 @@ RATING_MAP = {
 
 JST = datetime.timezone(datetime.timedelta(hours=9))
 
+# 決算・業績系のキーワード（英・日）
+EARNINGS_KW = [
+    "earnings", "results", "result", "profit", "revenue", "sales", "quarter",
+    "guidance", "forecast", "outlook", "dividend", "income", "margin", "ipo",
+    "決算", "業績", "売上", "利益", "増益", "減益", "最高益", "営業利益",
+    "純利益", "配当", "上方修正", "下方修正", "見通し",
+]
+
+# 会社名の別名（タイトルに含まれていれば「その会社の記事」とみなす）
+ALIASES = {
+    "285A.T": ["kioxia", "キオクシア"], "NVDA": ["nvidia"],
+    "TSM": ["tsmc", "taiwan semiconductor"], "AVGO": ["broadcom"], "MU": ["micron"],
+    "9984.T": ["softbank", "ソフトバンク"], "9434.T": ["softbank", "ソフトバンク"],
+    "6857.T": ["advantest", "アドバンテスト"], "ASML": ["asml"],
+    "8035.T": ["tokyo electron", "東京エレクトロン"], "6920.T": ["lasertec", "レーザーテック"],
+    "6146.T": ["disco", "ディスコ"], "4063.T": ["shin-etsu", "信越"], "3436.T": ["sumco"],
+    "000660.KS": ["sk hynix", "hynix", "ハイニックス"], "005930.KS": ["samsung", "サムスン"],
+    "SNDK": ["sandisk"], "6963.T": ["rohm", "ローム"], "7735.T": ["screen"],
+    "4004.T": ["resonac", "レゾナック"], "5991.T": ["nhk spring", "日本発条", "ニッパツ"],
+    "6954.T": ["fanuc", "ファナック"], "6981.T": ["murata", "村田"],
+    "6506.T": ["yaskawa", "安川"], "6861.T": ["keyence", "キーエンス"],
+    "6324.T": ["harmonic", "ハーモニック"], "8306.T": ["mitsubishi ufj", "mufg", "三菱ufj"],
+    "2502.T": ["asahi", "アサヒ"], "2768.T": ["sojitz", "双日"],
+    "2914.T": ["japan tobacco", "日本たばこ"], "4565.T": ["nxera", "ネクセラ", "sosei"],
+    "4755.T": ["rakuten", "楽天"], "7267.T": ["honda", "ホンダ"],
+    "8058.T": ["mitsubishi corp", "三菱商事"], "8267.T": ["aeon", "イオン"],
+    "8591.T": ["orix", "オリックス"], "8729.T": ["sony financial", "ソニーフィナンシャル"],
+    "9432.T": ["ntt"], "9433.T": ["kddi"], "1417.T": ["mirait", "ミライト"],
+}
+
+
+def is_relevant(item):
+    text = ((item.get("title") or "") + " " + (item.get("titleJa") or "")).lower()
+    for kw in EARNINGS_KW:
+        if kw in text:
+            return True
+    for a in ALIASES.get(item.get("ticker"), []):
+        if a.lower() in text:
+            return True
+    return False
+
 
 def get_price(tk, ticker):
     price = None
@@ -238,9 +279,10 @@ def main():
     recent = [n for n in all_news if (to_dt(n["time"]) is None or to_dt(n["time"]) >= cutoff)]
     recent.sort(key=lambda n: n["time"] or "", reverse=True)
     recent = recent[:50]
-    # 見出しを日本語訳
+    # 見出しを日本語訳＋関連度フラグ
     for n in recent:
         n["titleJa"] = translate_ja(n["title"])
+        n["relevant"] = is_relevant(n)
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump({"updated": today, "items": recent}, f, ensure_ascii=False, indent=2)
 

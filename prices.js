@@ -101,6 +101,7 @@
     var limit = parseInt(newsEl.getAttribute('data-limit') || '10', 10);
     var grouped = newsEl.getAttribute('data-group') === 'company';
     var per = parseInt(newsEl.getAttribute('data-per') || '2', 10);
+    var relOnly = newsEl.getAttribute('data-relevant') === '1';
     fetch('news.json?t=' + Date.now())
       .then(function(r){ return r.json(); })
       .then(function(d){
@@ -109,6 +110,9 @@
         if(nu && d.updated){ nu.textContent = '（' + d.updated + ' 時点）'; }
         if(scope.length){
           items = items.filter(function(n){ return scope.indexOf(n.ticker) >= 0; });
+        }
+        if(relOnly){
+          items = items.filter(function(n){ return n.relevant; });
         }
         var seen = {}, uniq = [];
         items.forEach(function(n){ if(!seen[n.link]){ seen[n.link] = 1; uniq.push(n); } });
