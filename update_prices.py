@@ -155,33 +155,43 @@ def get_price(tk, ticker):
 
 
 def get_extras(tk, ticker):
-    target = None
-    rating = None
-    div_yield = None
+    """目標株価・評価・配当利回り・利益率・決算数字をまとめて取得（dictで返す）。"""
+    out = {}
     try:
         info = tk.info or {}
-        target = info.get("targetMeanPrice")
+        if info.get("targetMeanPrice"):
+            out["target"] = round(float(info["targetMeanPrice"]), 2)
         rk = info.get("recommendationKey")
         rating = RATING_MAP.get(rk)
         n = info.get("numberOfAnalystOpinions")
         if rating and n:
             rating = "%s(%d人)" % (rating, int(n))
+        if rating:
+            out["rating"] = rating
         tdy = info.get("trailingAnnualDividendYield")
         if tdy:
-            div_yield = round(float(tdy) * 100, 2)
+            out["dividendYield"] = round(float(tdy) * 100, 2)
         else:
             d2 = info.get("dividendYield")
             if d2 is not None:
-                div_yield = round(float(d2) if d2 > 1 else float(d2) * 100, 2)
+                out["dividendYield"] = round(float(d2) if d2 > 1 else float(d2) * 100, 2)
         pm = info.get("profitMargins")
         if pm is not None:
-            profit_margin = round(float(pm) * 100, 1)
-        else:
-            profit_margin = None
+            out["profitMargin"] = round(float(pm) * 100, 1)
+        # 決算の数字
+        if info.get("totalRevenue"):
+            out["revenue"] = int(info["totalRevenue"])
+        if info.get("netIncomeToCommon") is not None:
+            out["netIncome"] = int(info["netIncomeToCommon"])
+        if info.get("trailingEps") is not None:
+            out["eps"] = round(float(info["trailingEps"]), 2)
+        if info.get("trailingPE"):
+            out["per"] = round(float(info["trailingPE"]), 1)
+        if info.get("financialCurrency"):
+            out["finCurrency"] = info["financialCurrency"]
     except Exception as e:
         print("info err", ticker, e)
-        profit_margin = None
-    return target, rating, div_yield, profit_margin
+    return out
 
 
 def parse_time(item, content):
@@ -254,15 +264,7 @@ def main():
             if prev:
                 entry["prevClose"] = round(float(prev), 2)
                 entry["changePct"] = round((float(price) - float(prev)) / float(prev) * 100, 2)
-            target, rating, div_yield, profit_margin = get_extras(tk, ticker)
-            if target:
-                entry["target"] = round(float(target), 2)
-            if rating:
-                entry["rating"] = rating
-            if div_yield is not None:
-                entry["dividendYield"] = div_yield
-            if profit_margin is not None:
-                entry["profitMargin"] = profit_margin
+            entry.update(get_extras(tk, ticker))
             stocks[ticker] = entry
             print("PRICE OK", ticker, entry)
         else:

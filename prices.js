@@ -31,6 +31,18 @@
     });
   }
 
+  // 会社名のセルに Yahoo!ファイナンスのリンクを自動付与（株価データに依存せず実行）
+  document.querySelectorAll('td.px[data-ticker]').forEach(function(td){
+    var ticker = td.getAttribute('data-ticker');
+    var row = td.closest('tr');
+    if(!row){ return; }
+    var nameCell = row.querySelector('td');
+    if(!nameCell || nameCell.querySelector('a.yf')){ return; }
+    var url = 'https://finance.yahoo.co.jp/quote/' + encodeURIComponent(ticker);
+    nameCell.insertAdjacentHTML('beforeend',
+      '<br><a class="yf" href="' + url + '" target="_blank" rel="noopener" style="font-size:11px">📊株価詳細</a>');
+  });
+
   fetch('prices.json?t=' + Date.now())
     .then(function(r){ return r.json(); })
     .then(function(d){
@@ -56,6 +68,32 @@
         var info = s[td.getAttribute('data-ticker')];
         if(!info){ return; }
         td.innerHTML = (info.profitMargin != null) ? info.profitMargin.toFixed(1) + '%' : '—';
+      });
+      // 決算の数字（売上高・純利益・PER・EPS）
+      function curSuffix(c){ return {JPY:'円',USD:'ドル',KRW:'ウォン',TWD:'台湾ドル',EUR:'ユーロ',GBP:'ポンド'}[c] || (c||''); }
+      function fmtBig(v, c){
+        if(v == null){ return '—'; }
+        var neg = v < 0, a = Math.abs(v), suf = curSuffix(c), str;
+        if(a >= 1e12){ str = (a/1e12).toFixed(2) + '兆' + suf; }
+        else if(a >= 1e8){ str = Math.round(a/1e8).toLocaleString() + '億' + suf; }
+        else { str = Math.round(a).toLocaleString() + suf; }
+        return (neg ? '▲' : '') + str;
+      }
+      document.querySelectorAll('td.rev[data-ticker]').forEach(function(td){
+        var i = s[td.getAttribute('data-ticker')]; if(!i){ return; }
+        td.innerHTML = fmtBig(i.revenue, i.finCurrency || i.currency);
+      });
+      document.querySelectorAll('td.ni[data-ticker]').forEach(function(td){
+        var i = s[td.getAttribute('data-ticker')]; if(!i){ return; }
+        td.innerHTML = fmtBig(i.netIncome, i.finCurrency || i.currency);
+      });
+      document.querySelectorAll('td.per[data-ticker]').forEach(function(td){
+        var i = s[td.getAttribute('data-ticker')]; if(!i){ return; }
+        td.innerHTML = (i.per != null) ? i.per.toFixed(1) + '倍' : '—';
+      });
+      document.querySelectorAll('td.eps[data-ticker]').forEach(function(td){
+        var i = s[td.getAttribute('data-ticker')]; if(!i){ return; }
+        td.innerHTML = (i.eps != null) ? (Math.round(i.eps*100)/100).toLocaleString() + curSuffix(i.finCurrency || i.currency) : '—';
       });
       document.querySelectorAll('td.tgt[data-ticker]').forEach(function(td){
         var info = s[td.getAttribute('data-ticker')];

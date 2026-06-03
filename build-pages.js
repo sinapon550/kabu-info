@@ -8,10 +8,10 @@ const NAV = `<nav><div class="wrap">
   <a class="navpage" href="holdings.html">👪 親の保有</a>
   <a class="navpage" href="my-holdings.html">🙋 自分の保有</a>
   <span class="navsep"></span>
-  <a href="#kpi">株価・指標</a><a href="#about">会社概要</a><a href="#sw">強みとリスク</a><a href="#mirai">今後の展望</a><a href="#news">決算ニュース</a>
+  <a href="#kpi">株価・指標</a><a href="#about">会社概要</a><a href="#zaimu">決算</a><a href="#sw">強みとリスク</a><a href="#mirai">今後の展望</a><a href="#news">ニュース</a>
 </div></nav>`;
 
-const NAV_NOLIST = NAV.replace('<a href="#news">決算ニュース</a>', '');
+const NAV_NOLIST = NAV.replace('<a href="#zaimu">決算</a>', '').replace('<a href="#news">ニュース</a>', '');
 
 function li(arr) { return arr.map(x => "・" + x).join("<br>"); }
 
@@ -30,6 +30,21 @@ function page(d) {
     ${kpiTable(d)}</section>`
     : `<section id="kpi"><h2>評価額<span class="en">VALUATION</span></h2>
     <div class="card"><div class="kv">${d.valuation}</div></div></section>`;
+  const zaimu = listed
+    ? `<section id="zaimu"><h2>📊 決算（業績）の数字<span class="en">FINANCIALS</span></h2>
+    <p class="intro">直近12か月のざっくり業績（自動・概算）。正確な決算は会社の公式資料で。</p>
+    <div class="scroll"><table>
+      <tr><th>売上高</th><th>純利益</th><th>利益率</th><th>PER</th><th>1株利益<br>(EPS)</th></tr>
+      <tr><td class="rev" data-ticker="${d.ticker}">—</td><td class="ni" data-ticker="${d.ticker}">—</td><td class="pm" data-ticker="${d.ticker}">—</td><td class="per" data-ticker="${d.ticker}">—</td><td class="eps" data-ticker="${d.ticker}">—</td></tr>
+    </table></div>
+    <div class="card"><h3>🔰 決算の見方（やさしく）</h3><div class="kv">
+      ・<b>売上高</b>＝会社が稼いだ総額（お店でいう売上）<br>
+      ・<b>純利益</b>＝費用を引いて最後に残った“もうけ”（▲はマイナス＝赤字）<br>
+      ・<b>利益率</b>＝売上のうち何%がもうけか（高いほど良い商売）<br>
+      ・<b>PER</b>＝株価が利益の何年分か（低いほど割安の目安／高いほど期待大）<br>
+      ・<b>1株利益(EPS)</b>＝1株あたりのもうけ
+    </div></div></section>`
+    : "";
   const news = listed
     ? `<section id="news"><h2>📰 ${d.name} 決算・関連ニュース<span class="en">NEWS</span></h2>
     <p class="intro">決算・業績寄りに絞って表示（毎朝自動収集・日本語訳）。<span id="news-updated"></span></p>
@@ -41,7 +56,7 @@ function page(d) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>株なるほどメモ｜${d.name} 深掘り</title>
-<link rel="stylesheet" href="style.css?v=4">
+<link rel="stylesheet" href="style.css?v=5">
 </head>
 <body>
 <header><div class="wrap">
@@ -57,6 +72,7 @@ ${listed ? NAV : NAV_NOLIST}
   <section id="about"><h2>どんな会社？<span class="en">ABOUT</span></h2>
     <div class="card"><h3>${d.aboutTitle}</h3><div class="kv">${d.about}</div></div>
   </section>
+  ${zaimu}
   <section id="sw"><h2>強みとリスク<span class="en">STRENGTHS & RISKS</span></h2>
     <div class="card"><h3>💪 強み</h3><div class="kv">${li(d.strengths)}</div></div>
     <div class="card tsuru"><h3>⚠️ リスク</h3><div class="kv">${li(d.risks)}</div></div>
@@ -68,7 +84,7 @@ ${listed ? NAV : NAV_NOLIST}
   <div class="disc"><b>もう一度</b>：勉強用です。<b>買うことを勧めるものではありません</b>。判断は最新の公式情報を確認し自己責任で。</div>
 </div>
 <footer><div class="wrap"><b>株なるほどメモ</b>｜<a href="companies.html">📈 いま熱い企業・株へ戻る</a></div></footer>
-<script src="prices.js?v=4"></script>
+<script src="prices.js?v=5"></script>
 </body></html>
 `;
 }

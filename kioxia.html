@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>株なるほどメモ｜キオクシア深掘り</title>
-<link rel="stylesheet" href="style.css?v=4">
+<link rel="stylesheet" href="style.css?v=5">
 </head>
 <body>
 
@@ -24,7 +24,7 @@
   <a class="navpage" href="my-holdings.html">🙋 自分の保有</a>
   <span class="navsep"></span>
   <a href="#kpi">株価・指標</a>
-  <a href="#about">会社概要</a>
+  <a href="#about">会社概要</a><a href="#zaimu">決算</a>
   <a href="#kessan">決算</a>
   <a href="#risk">強みとリスク</a>
   <a href="#mirai">今後の展望</a>
@@ -72,6 +72,19 @@
   </section>
 
   <!-- 決算 -->
+  <section id="zaimu"><h2>📊 決算（業績）の数字<span class="en">FINANCIALS</span></h2>
+    <p class="intro">直近12か月のざっくり業績（自動・概算）。正確な決算は会社の公式資料で。</p>
+    <div class="scroll"><table>
+      <tr><th>売上高</th><th>純利益</th><th>利益率</th><th>PER</th><th>1株利益<br>(EPS)</th></tr>
+      <tr><td class="rev" data-ticker="285A.T">—</td><td class="ni" data-ticker="285A.T">—</td><td class="pm" data-ticker="285A.T">—</td><td class="per" data-ticker="285A.T">—</td><td class="eps" data-ticker="285A.T">—</td></tr>
+    </table></div>
+    <div class="card"><h3>🔰 決算の見方（やさしく）</h3><div class="kv">
+      ・<b>売上高</b>＝会社が稼いだ総額（お店でいう売上）<br>
+      ・<b>純利益</b>＝費用を引いて最後に残った“もうけ”（▲はマイナス＝赤字）<br>
+      ・<b>利益率</b>＝売上のうち何%がもうけか（高いほど良い商売）<br>
+      ・<b>PER</b>＝株価が利益の何年分か（低いほど割安／高いほど期待大）<br>
+      ・<b>1株利益(EPS)</b>＝1株あたりのもうけ
+    </div></div></section>
   <section id="kessan">
     <h2>決算ハイライト<span class="en">EARNINGS</span></h2>
     <div class="card" style="border-left:5px solid var(--green)">
@@ -151,6 +164,6 @@
   </div>
 </footer>
 
-<script src="prices.js?v=4"></script>
+<script src="prices.js?v=5"></script>
 </body>
 </html>
