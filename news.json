@@ -4,20 +4,32 @@
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Nvidia Has Racked Up a Nearly $20 Billion Profit Over the Last 5 Months From an Unlikely Source",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/03/nvidia-20-billion-profit-5-months-unlikely-source/",
-      "time": "2026-06-03T11:26:00Z",
-      "titleJa": "Nvidia は過去 5 か月間で予想外のソースから 200 億ドル近くの利益を上げた"
+      "title": "Walmart vs. Target: Which Retailer Is the Better Long-Term Hold?",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/03/walmart-vs-target-which-retailer-is-the-better-long-term-hold/",
+      "time": "2026-06-03T11:30:37Z",
+      "titleJa": "ウォルマート vs. ターゲット: 長期保有に優れている小売業者はどちらですか?",
+      "relevant": false
+    },
+    {
+      "ticker": "9434.T",
+      "company": "ソフトバンク",
+      "title": "Arm vs. NVIDIA: Which Semiconductor Stock Belongs in Your 10-Year Portfolio?",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/03/arm-vs-nvidia-which-semiconductor-stock-belongs-in-your-10-year-portfolio/",
+      "time": "2026-06-03T11:30:25Z",
+      "titleJa": "Arm 対 NVIDIA: あなたの 10 年間のポートフォリオに属する半導体株はどれですか?",
+      "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Solar’s Most Hated Year Became Its Best Five Months. The Setup That Explains the 120% Gain.",
+      "title": "Arm vs. NVIDIA: Which Semiconductor Stock Belongs in Your 10-Year Portfolio?",
       "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/03/solars-most-hated-year-became-its-best-five-months-the-setup-that-explains-the-120-gain/",
-      "time": "2026-06-03T11:15:49Z",
-      "titleJa": "ソーラーにとって最も嫌われた年が、最高の5か月になった。 120% のゲインを説明するセットアップ。"
+      "link": "https://247wallst.com/investing/2026/06/03/arm-vs-nvidia-which-semiconductor-stock-belongs-in-your-10-year-portfolio/",
+      "time": "2026-06-03T11:30:25Z",
+      "titleJa": "Arm 対 NVIDIA: あなたの 10 年間のポートフォリオに属する半導体株はどれですか?",
+      "relevant": true
     },
     {
       "ticker": "9984.T",
@@ -26,7 +38,8 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-valuation-111316119.html",
       "time": "2026-06-03T11:13:16Z",
-      "titleJa": "ソフトバンクグループ (東証:9984) 年初からの株価急騰を受けて評価額を確認"
+      "titleJa": "ソフトバンクグループ (東証:9984) 年初来の株価急騰後の評価額の確認",
+      "relevant": true
     },
     {
       "ticker": "005930.KS",
@@ -35,7 +48,8 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-kose-a005930-still-111100087.html",
       "time": "2026-06-03T11:11:00Z",
-      "titleJa": "サムスン電子 (KOSE:A005930) は最近の株価の好調にもかかわらず依然として過小評価されているのか"
+      "titleJa": "サムスン電子 (KOSE:A005930) は最近の株価の好調にもかかわらず依然として過小評価されているのか",
+      "relevant": true
     },
     {
       "ticker": "AVGO",
@@ -44,7 +58,8 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/markets/commodities/articles/rising-crude-prices-cap-wall-110923413.html",
       "time": "2026-06-03T11:09:23Z",
-      "titleJa": "原油価格の上昇がウォール街のベル以前の上限に。アジアは上昇、ヨーロッパは停止"
+      "titleJa": "原油価格の上昇がウォール街のベル以前の上限に。アジアは上昇、ヨーロッパは停止",
+      "relevant": false
     },
     {
       "ticker": "MU",
@@ -53,7 +68,8 @@
       "publisher": "Yahoo Finance Video",
       "link": "https://finance.yahoo.com/video/beyond-nvidia-trading-next-wave-110000233.html",
       "time": "2026-06-03T11:00:00Z",
-      "titleJa": "Nvidia を超えて: AI インフラストラクチャの次の波を取引する"
+      "titleJa": "Nvidia を超えて: AI インフラストラクチャの次の波を取引する",
+      "relevant": false
     },
     {
       "ticker": "000660.KS",
@@ -62,7 +78,8 @@
       "publisher": "Investing.com",
       "link": "https://finance.yahoo.com/sectors/technology/articles/next-phase-ai-trade-could-105819882.html",
       "time": "2026-06-03T10:58:19Z",
-      "titleJa": "AI取引の次の段階はこの市場に属する可能性があるとバークレイズは言う"
+      "titleJa": "AI取引の次の段階はこの市場に属する可能性があるとバークレイズは言う",
+      "relevant": false
     },
     {
       "ticker": "AVGO",
@@ -71,7 +88,8 @@
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026/card/stocks-to-watch-marvell-gamestop-gitlab-macy-s-HcT6mcfnsGhH2VoZwlUj?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-03T10:01:54Z",
-      "titleJa": "注目株: マーベル、ゲームストップ、GitLab、メイシーズ"
+      "titleJa": "注目株: マーベル、ゲームストップ、GitLab、メイシーズ",
+      "relevant": false
     },
     {
       "ticker": "005930.KS",
@@ -80,7 +98,8 @@
       "publisher": "Electronic Payments",
       "link": "https://www.electronicpaymentsinternational.com/news/dbs-singapore-enables-tap-to-phone-card-payments-for-merchants/",
       "time": "2026-06-03T10:01:23Z",
-      "titleJa": "DBS シンガポール、加盟店向けのタップ・トゥ・フォン・カード決済を可能に"
+      "titleJa": "DBS シンガポール、加盟店向けのタップ・トゥ・フォン・カード決済を可能に",
+      "relevant": false
     },
     {
       "ticker": "SNDK",
@@ -89,7 +108,8 @@
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/articles/marvell-stock-price-today-422c181f?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-03T09:37:00Z",
-      "titleJa": "マーベル株が再び急騰。これが次の大きな触媒となる可能性があります。"
+      "titleJa": "マーベル株が再び急騰。これが次の大きな触媒となる可能性があります。",
+      "relevant": false
     },
     {
       "ticker": "000660.KS",
@@ -98,7 +118,8 @@
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/tech/air-liquide-invests-233-million-in-south-korea-to-back-sk-hynixs-ai-chips-production-92fde1f1?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-03T09:14:00Z",
-      "titleJa": "エア・リキード、SKハイニックスのAIチップ生産支援のため韓国に2億3,300万ドルを投資"
+      "titleJa": "エア・リキード、SKハイニックスのAIチップ生産支援のため韓国に2億3,300万ドルを投資",
+      "relevant": true
     },
     {
       "ticker": "TSM",
@@ -107,7 +128,8 @@
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/fresh-ai-buzz-powers-taiwan-stocks-even-higher-jF86JMtwmG2YV9nC3yEb?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-03T09:12:29Z",
-      "titleJa": "AIの新たな話題が台湾株をさらに上昇させる"
+      "titleJa": "AIの新たな話題が台湾株をさらに上昇させる",
+      "relevant": false
     },
     {
       "ticker": "TSM",
@@ -116,7 +138,8 @@
       "publisher": "Bloomberg",
       "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
       "time": "2026-06-03T09:05:23Z",
-      "titleJa": "Nvidia CEO、億万長者家族に「非常識な」AI の復活を売り込む"
+      "titleJa": "Nvidia CEO、億万長者家族に「非常識な」AI の復活を売り込む",
+      "relevant": false
     },
     {
       "ticker": "MU",
@@ -125,7 +148,8 @@
       "publisher": "Bloomberg",
       "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
       "time": "2026-06-03T09:05:23Z",
-      "titleJa": "Nvidia CEO、億万長者家族に「非常識な」AI の復活を売り込む"
+      "titleJa": "Nvidia CEO、億万長者家族に「非常識な」AI の復活を売り込む",
+      "relevant": false
     },
     {
       "ticker": "SNDK",
@@ -134,7 +158,8 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-western-081100330.html",
       "time": "2026-06-03T08:11:00Z",
-      "titleJa": "ザックスの業界展望がウェスタンデジタル、サンディスク、ネットリストに焦点を当てる"
+      "titleJa": "ザックスの業界展望がウェスタンデジタル、サンディスク、ネットリストに焦点を当てる",
+      "relevant": true
     },
     {
       "ticker": "9434.T",
@@ -143,7 +168,8 @@
       "publisher": "Stocktwits",
       "link": "https://stocktwits.com/news-articles/markets/equity/bitcoin-price-crash-ex-soft-bank-cfo-sees-no-concerns-for-crypto-despite-mega-ipo-capital-drain-fears-pins-hope-on-clarity-act/cZ0SzzjRexT",
       "time": "2026-06-03T08:03:50Z",
-      "titleJa": "ビットコイン価格暴落：元ソフトバンク最高財務責任者（CFO）、メガIPO資本流出の懸念にもかかわらず仮想通貨に「懸念はない」、CLARITY法に期待"
+      "titleJa": "ビットコイン価格暴落：元ソフトバンク最高財務責任者（CFO）、メガIPO資本流出の懸念にもかかわらず仮想通貨に「懸念はない」、CLARITY法に期待",
+      "relevant": true
     },
     {
       "ticker": "7735.T",
@@ -152,7 +178,8 @@
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/nikkei-closes-at-record-high-driven-by-chip-related-stocks-B0pJJEiTaaJz0aX7eqvS?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-03T06:55:56Z",
-      "titleJa": "チップ関連株主導で日経平均終値は過去最高値"
+      "titleJa": "チップ関連株主導で日経平均終値は過去最高値",
+      "relevant": false
     },
     {
       "ticker": "8035.T",
@@ -161,16 +188,8 @@
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/nikkei-closes-at-record-high-driven-by-chip-related-stocks-B0pJJEiTaaJz0aX7eqvS?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-03T06:55:56Z",
-      "titleJa": "チップ関連株主導で日経平均終値は過去最高値"
-    },
-    {
-      "ticker": "9434.T",
-      "company": "ソフトバンク",
-      "title": "Morning Bid: Marvell, a fitting name for the latest AI darling",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-marvell-fitting-name-043542710.html",
-      "time": "2026-06-03T04:35:42Z",
-      "titleJa": "モーニング ビッド: マーベル、最新の AI の最愛の人にふさわしい名前"
+      "titleJa": "チップ関連株主導で日経平均終値は過去最高値",
+      "relevant": false
     },
     {
       "ticker": "6857.T",
@@ -179,7 +198,8 @@
       "publisher": "Associated Press",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/tokyos-nikkei-225-index-tops-020136717.html",
       "time": "2026-06-03T02:01:36Z",
-      "titleJa": "東京の日経平均株価がウォール街に続き史上最高値を更新する中、世界株はまちまち"
+      "titleJa": "東京の日経平均株価がウォール街に続き史上最高値を更新する中、世界株はまちまち",
+      "relevant": false
     },
     {
       "ticker": "8035.T",
@@ -188,7 +208,8 @@
       "publisher": "Associated Press",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/tokyos-nikkei-225-index-tops-020136717.html",
       "time": "2026-06-03T02:01:36Z",
-      "titleJa": "東京の日経平均株価がウォール街に続き史上最高値を更新する中、世界株はまちまち"
+      "titleJa": "東京の日経平均株価がウォール街に続き史上最高値を更新する中、世界株はまちまち",
+      "relevant": false
     },
     {
       "ticker": "ASML",
@@ -197,7 +218,8 @@
       "publisher": "Barchart",
       "link": "https://www.barchart.com/story/news/2267903/stock-indexes-post-new-record-highs-amid-ai-enthusiasm",
       "time": "2026-06-02T20:32:34Z",
-      "titleJa": "AI熱狂の中で株価指数が過去最高値を更新"
+      "titleJa": "AI熱狂の中で株価指数が過去最高値を更新",
+      "relevant": false
     },
     {
       "ticker": "ASML",
@@ -206,7 +228,8 @@
       "publisher": "Barchart",
       "link": "https://www.barchart.com/story/news/2262032/stocks-push-higher-on-us-labor-market-strength-and-ai-spending",
       "time": "2026-06-02T15:25:43Z",
-      "titleJa": "米国の労働市場の強さとAI支出を背景に株価が上昇"
+      "titleJa": "米国の労働市場の強さとAI支出を背景に株価が上昇",
+      "relevant": false
     },
     {
       "ticker": "7267.T",
@@ -215,7 +238,8 @@
       "publisher": "Quartz",
       "link": "https://qz.com/sam-altman-alfred-startup-robotics-software-060226",
       "time": "2026-06-02T12:27:59Z",
-      "titleJa": "サム・アルトマン氏、ロボット工学向け物理 AI スタートアップの Alfred を支援"
+      "titleJa": "サム・アルトマン氏、ロボット工学向け物理 AI スタートアップの Alfred を支援",
+      "relevant": false
     },
     {
       "ticker": "9984.T",
@@ -224,7 +248,8 @@
       "publisher": "Bloomberg",
       "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-ceo-pay-now-121504850.html",
       "time": "2026-06-02T12:15:04Z",
-      "titleJa": "パロアルトCEOの報酬は現在1億ドル近く、アメリカ企業で最も拒否されている"
+      "titleJa": "パロアルトCEOの報酬は現在1億ドル近く、アメリカ企業で最も拒否されている",
+      "relevant": false
     },
     {
       "ticker": "7267.T",
@@ -233,7 +258,8 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-toyota-motor-led-103731567.html",
       "time": "2026-06-02T10:37:31Z",
-      "titleJa": "市場の話題: トヨタ自動車主導の業界、無駄を削減し供給を改善するために欠陥ルールを標準化へ"
+      "titleJa": "市場の話題: トヨタ自動車主導の業界、無駄を削減し供給を改善するために欠陥ルールを標準化",
+      "relevant": false
     },
     {
       "ticker": "8058.T",
@@ -242,7 +268,8 @@
       "publisher": "Offshore Technology",
       "link": "https://www.offshore-technology.com/news/fluor-jv-lntp-lng-canada-phase-2-expansion/",
       "time": "2026-06-02T08:37:42Z",
-      "titleJa": "Fluor JV がカナダの LNG 第 2 段階拡張用に LNTP を受領"
+      "titleJa": "Fluor JV がカナダの LNG 第 2 段階拡張用に LNTP を受領",
+      "relevant": false
     },
     {
       "ticker": "6857.T",
@@ -251,7 +278,8 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/keysight-stock-rises-113-2-134300302.html",
       "time": "2026-06-01T13:43:00Z",
-      "titleJa": "キーサイトの株価は過去 1 年間で 113.2% 上昇: 株の遊び方"
+      "titleJa": "キーサイト株は過去 1 年間で 113.2% 上昇: 株の遊び方",
+      "relevant": false
     },
     {
       "ticker": "9432.T",
@@ -260,7 +288,8 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/checking-whether-ntt-tse-9432-210819553.html",
       "time": "2026-05-31T21:08:19Z",
-      "titleJa": "NTT (東証:9432) が最近の株価低迷後も依然として過小評価されているかどうかを確認する"
+      "titleJa": "NTT (東証:9432) が最近の株価低迷後も依然として過小評価されているかどうかを確認する",
+      "relevant": true
     },
     {
       "ticker": "6954.T",
@@ -269,7 +298,8 @@
       "publisher": "24/7 Wall St.",
       "link": "https://247wallst.com/investing/2026/05/31/quantum-computing-just-hit-commercial-viability-and-these-3-etfs-sit-on-top-of-the-compute-transition/",
       "time": "2026-05-31T15:15:35Z",
-      "titleJa": "量子コンピューティングは商業化の可能性に達し、これら 3 つの ETF はコンピューティングの移行の頂点に位置します"
+      "titleJa": "量子コンピューティングは商業化の可能性に達し、これら 3 つの ETF はコンピューティングの移行の頂点に位置します",
+      "relevant": false
     },
     {
       "ticker": "6861.T",
@@ -278,7 +308,8 @@
       "publisher": "24/7 Wall St.",
       "link": "https://247wallst.com/investing/2026/05/31/quantum-computing-just-hit-commercial-viability-and-these-3-etfs-sit-on-top-of-the-compute-transition/",
       "time": "2026-05-31T15:15:35Z",
-      "titleJa": "量子コンピューティングは商業化の可能性に達し、これら 3 つの ETF はコンピューティングの移行の頂点に位置します"
+      "titleJa": "量子コンピューティングは商業化の可能性に達し、これら 3 つの ETF はコンピューティングの移行の頂点に位置します",
+      "relevant": false
     },
     {
       "ticker": "285A.T",
@@ -287,7 +318,8 @@
       "publisher": "Motley Fool",
       "link": "https://www.fool.com/investing/2026/05/30/sk-hynix-1-trillion-market-cap-buy-stock/",
       "time": "2026-05-30T22:05:00Z",
-      "titleJa": "SKハイニックスが時価総額1兆ドルに到達した。約60ドルで株を買う方法は次のとおりです。"
+      "titleJa": "SKハイニックスが時価総額1兆ドルに到達した。約60ドルで株を買う方法は次のとおりです。",
+      "relevant": false
     },
     {
       "ticker": "8306.T",
@@ -296,7 +328,8 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/economy/articles/canada-apos-march-gdp-falls-124919974.html",
       "time": "2026-05-29T12:49:19Z",
-      "titleJa": "カナダの3月GDPは0.1%減、予想外。 4月は0.4%の回復が見られる"
+      "titleJa": "カナダの3月GDPは0.1%減、予想外。 4月は0.4%の回復が見られる",
+      "relevant": false
     },
     {
       "ticker": "6954.T",
@@ -305,7 +338,8 @@
       "publisher": "Manufacturing Dive",
       "link": "https://www.manufacturingdive.com/news/fanuc-google-advance-industrial-robotics-ai-deals-stellantis-kawasaki-nvidia/821468/",
       "time": "2026-05-29T11:25:00Z",
-      "titleJa": "ファナックとグーグル、最近のAI取引の一環として産業用ロボットを推進"
+      "titleJa": "ファナックとグーグル、最近のAI取引の一環として産業用ロボットを推進",
+      "relevant": true
     },
     {
       "ticker": "3436.T",
@@ -314,7 +348,8 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/persian-gulf-tech-outlooks-fuel-103734701.html",
       "time": "2026-05-29T10:37:34Z",
-      "titleJa": "ペルシャ湾、ハイテク見通しがアジアの株式市場を活性化"
+      "titleJa": "ペルシャ湾、ハイテク見通しがアジアの株式市場を活性化",
+      "relevant": true
     },
     {
       "ticker": "6981.T",
@@ -323,7 +358,8 @@
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-052926/card/nikkei-rises-2-5-to-all-time-high-led-by-electronics-stocks-9s5jyVPZN6IBvrChQVal?siteid=yhoof2&yptr=yahoo",
       "time": "2026-05-29T07:22:52Z",
-      "titleJa": "日経平均はエレクトロニクス株主導で2.5％上昇し過去最高値を更新"
+      "titleJa": "日経平均はエレクトロニクス株主導で2.5％上昇し過去最高値を更新",
+      "relevant": false
     },
     {
       "ticker": "8306.T",
@@ -332,7 +368,8 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/economy/articles/canada-apos-q1-current-account-124259963.html",
       "time": "2026-05-28T12:42:59Z",
-      "titleJa": "カナダの第1四半期の経常赤字は投資収益の減少と物資赤字の増加により予想を大幅に拡大"
+      "titleJa": "カナダの第1四半期の経常赤字は投資収入の減少と物資赤字の増加により予想より大幅に拡大",
+      "relevant": true
     }
   ]
 }
