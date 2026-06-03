@@ -2,6 +2,42 @@
   "updated": "2026-06-03",
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Nvidia Has Racked Up a Nearly $20 Billion Profit Over the Last 5 Months From an Unlikely Source",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/03/nvidia-20-billion-profit-5-months-unlikely-source/",
+      "time": "2026-06-03T11:26:00Z",
+      "titleJa": "Nvidia は過去 5 か月間で予想外のソースから 200 億ドル近くの利益を上げた"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Solar’s Most Hated Year Became Its Best Five Months. The Setup That Explains the 120% Gain.",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/03/solars-most-hated-year-became-its-best-five-months-the-setup-that-explains-the-120-gain/",
+      "time": "2026-06-03T11:15:49Z",
+      "titleJa": "ソーラーにとって最も嫌われた年が、最高の5か月になった。 120% のゲインを説明するセットアップ。"
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "SoftBank Group (TSE:9984) Valuation Check After Strong Year To Date Share Price Surge",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-valuation-111316119.html",
+      "time": "2026-06-03T11:13:16Z",
+      "titleJa": "ソフトバンクグループ (東証:9984) 年初からの株価急騰を受けて評価額を確認"
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Is Samsung Electronics (KOSE:A005930) Still Undervalued After Its Recent Strong Share Price Momentum",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-kose-a005930-still-111100087.html",
+      "time": "2026-06-03T11:11:00Z",
+      "titleJa": "サムスン電子 (KOSE:A005930) は最近の株価の好調にもかかわらず依然として過小評価されているのか"
+    },
+    {
       "ticker": "AVGO",
       "company": "Broadcom",
       "title": "Rising Crude Prices Cap Wall Street Pre-Bell; Asia Up, Europe Off",
@@ -11,24 +47,6 @@
       "titleJa": "原油価格の上昇がウォール街のベル以前の上限に。アジアは上昇、ヨーロッパは停止"
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Intel's new AI chip skips the costly memory Nvidia relies on",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/technology/intels-new-ai-chip-skips-the-costly-memory-nvidia-relies-on",
-      "time": "2026-06-03T11:03:00Z",
-      "titleJa": "Intelの新しいAIチップはNvidiaが依存している高価なメモリをスキップします"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Beyond Nvidia: Trading the next wave of AI infrastructure",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/beyond-nvidia-trading-next-wave-110000233.html",
-      "time": "2026-06-03T11:00:00Z",
-      "titleJa": "Nvidia を超えて: AI インフラストラクチャの次の波を取引する"
-    },
-    {
       "ticker": "MU",
       "company": "Micron",
       "title": "Beyond Nvidia: Trading the next wave of AI infrastructure",
@@ -36,15 +54,6 @@
       "link": "https://finance.yahoo.com/video/beyond-nvidia-trading-next-wave-110000233.html",
       "time": "2026-06-03T11:00:00Z",
       "titleJa": "Nvidia を超えて: AI インフラストラクチャの次の波を取引する"
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "The next phase of the AI trade could belong to this market, Barclays says",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/next-phase-ai-trade-could-105819882.html",
-      "time": "2026-06-03T10:58:19Z",
-      "titleJa": "AI取引の次の段階はこの市場に属する可能性があるとバークレイズは言う"
     },
     {
       "ticker": "000660.KS",
@@ -99,6 +108,15 @@
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/fresh-ai-buzz-powers-taiwan-stocks-even-higher-jF86JMtwmG2YV9nC3yEb?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-03T09:12:29Z",
       "titleJa": "AIの新たな話題が台湾株をさらに上昇させる"
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
+      "time": "2026-06-03T09:05:23Z",
+      "titleJa": "Nvidia CEO、億万長者家族に「非常識な」AI の復活を売り込む"
     },
     {
       "ticker": "MU",
@@ -173,15 +191,6 @@
       "titleJa": "東京の日経平均株価がウォール街に続き史上最高値を更新する中、世界株はまちまち"
     },
     {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Samsung Electronics Deepens AI And Connectivity Role With New Partnerships",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/samsung-electronics-deepens-ai-connectivity-230923607.html",
-      "time": "2026-06-02T23:09:23Z",
-      "titleJa": "サムスン電子、新たなパートナーシップでAIとコネクティビティの役割を強化"
-    },
-    {
       "ticker": "ASML",
       "company": "ASML",
       "title": "Stock Indexes Post New Record Highs Amid AI Enthusiasm",
@@ -224,7 +233,7 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-toyota-motor-led-103731567.html",
       "time": "2026-06-02T10:37:31Z",
-      "titleJa": "市場の話題: トヨタ自動車主導の業界、無駄を削減し供給を改善するために欠陥ルールを標準化"
+      "titleJa": "市場の話題: トヨタ自動車主導の業界、無駄を削減し供給を改善するために欠陥ルールを標準化へ"
     },
     {
       "ticker": "8058.T",
@@ -236,22 +245,13 @@
       "titleJa": "Fluor JV がカナダの LNG 第 2 段階拡張用に LNTP を受領"
     },
     {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Arm May Hit $15 Billion AI Chip Revenue Goal Early, CEO Says",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/arm-may-hit-15-billion-064305343.html",
-      "time": "2026-06-02T06:43:05Z",
-      "titleJa": "Arm、AIチップの収益目標150億ドルを早期に達成する可能性があるとCEOが語る"
-    },
-    {
       "ticker": "6857.T",
       "company": "アドバンテスト",
       "title": "Keysight Stock Rises 113.2% in the Past Year: How to Play the Stock",
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/keysight-stock-rises-113-2-134300302.html",
       "time": "2026-06-01T13:43:00Z",
-      "titleJa": "キーサイト株は過去 1 年間で 113.2% 上昇: 株の遊び方"
+      "titleJa": "キーサイトの株価は過去 1 年間で 113.2% 上昇: 株の遊び方"
     },
     {
       "ticker": "9432.T",
@@ -332,7 +332,7 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/economy/articles/canada-apos-q1-current-account-124259963.html",
       "time": "2026-05-28T12:42:59Z",
-      "titleJa": "カナダの第1四半期の経常赤字は投資収入の減少と物資赤字の増加により予想より大幅に拡大"
+      "titleJa": "カナダの第1四半期の経常赤字は投資収益の減少と物資赤字の増加により予想を大幅に拡大"
     }
   ]
 }
