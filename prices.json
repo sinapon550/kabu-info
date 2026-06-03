@@ -16,7 +16,24 @@
       "netIncome": 4983632166912,
       "eps": 872.7,
       "per": 9.5,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 7243752000000,
+          "netIncome": 1153332000000
+        },
+        {
+          "year": "2024",
+          "revenue": 6756500000000,
+          "netIncome": -227646000000
+        },
+        {
+          "year": "2023",
+          "revenue": 6570439000000,
+          "netIncome": -970144000000
+        }
+      ]
     },
     "9434.T": {
       "price": 218.7,
@@ -32,7 +49,19 @@
       "netIncome": 541359013888,
       "eps": 11.27,
       "per": 19.4,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 6544349000000,
+          "netIncome": 526133000000
+        },
+        {
+          "year": "2024",
+          "revenue": 6084002000000,
+          "netIncome": 489074000000
+        }
+      ]
     },
     "NVDA": {
       "price": 222.82,
@@ -48,7 +77,24 @@
       "netIncome": 159612993536,
       "eps": 6.53,
       "per": 34.1,
-      "finCurrency": "USD"
+      "finCurrency": "USD",
+      "history": [
+        {
+          "year": "2026",
+          "revenue": 215938000000,
+          "netIncome": 120067000000
+        },
+        {
+          "year": "2025",
+          "revenue": 130497000000,
+          "netIncome": 72880000000
+        },
+        {
+          "year": "2024",
+          "revenue": 60922000000,
+          "netIncome": 29760000000
+        }
+      ]
     },
     "TSM": {
       "price": 446.69,
@@ -64,7 +110,24 @@
       "netIncome": 1908519600128,
       "eps": 11.7,
       "per": 38.2,
-      "finCurrency": "TWD"
+      "finCurrency": "TWD",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 3809054300000,
+          "netIncome": 1697604000000
+        },
+        {
+          "year": "2024",
+          "revenue": 2894307700000,
+          "netIncome": 1158380200000
+        },
+        {
+          "year": "2023",
+          "revenue": 2161735800000,
+          "netIncome": 851740000000
+        }
+      ]
     },
     "AVGO": {
       "price": 481.57,
@@ -80,7 +143,24 @@
       "netIncome": 24971999232,
       "eps": 5.15,
       "per": 93.5,
-      "finCurrency": "USD"
+      "finCurrency": "USD",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 63887000000,
+          "netIncome": 23126000000
+        },
+        {
+          "year": "2024",
+          "revenue": 51574000000,
+          "netIncome": 5895000000
+        },
+        {
+          "year": "2023",
+          "revenue": 35819000000,
+          "netIncome": 14082000000
+        }
+      ]
     },
     "MU": {
       "price": 1064.1,
@@ -96,7 +176,24 @@
       "netIncome": 24110999552,
       "eps": 21.18,
       "per": 50.2,
-      "finCurrency": "USD"
+      "finCurrency": "USD",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 37378000000,
+          "netIncome": 8539000000
+        },
+        {
+          "year": "2024",
+          "revenue": 25111000000,
+          "netIncome": 778000000
+        },
+        {
+          "year": "2023",
+          "revenue": 15540000000,
+          "netIncome": -5833000000
+        }
+      ]
     },
     "285A.T": {
       "price": 78080.0,
@@ -111,7 +208,19 @@
       "netIncome": 554490003456,
       "eps": 1008.02,
       "per": 77.5,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 1706460000000,
+          "netIncome": 272315000000
+        },
+        {
+          "year": "2024",
+          "revenue": 1076584000000,
+          "netIncome": -243728000000
+        }
+      ]
     },
     "6857.T": {
       "price": 27660.0,
@@ -127,7 +236,24 @@
       "netIncome": 375353016320,
       "eps": 513.24,
       "per": 53.9,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 779707000000,
+          "netIncome": 161177000000
+        },
+        {
+          "year": "2024",
+          "revenue": 486507000000,
+          "netIncome": 62290000000
+        },
+        {
+          "year": "2023",
+          "revenue": 560191000000,
+          "netIncome": 130400000000
+        }
+      ]
     },
     "6963.T": {
       "price": 5616.0,
@@ -142,7 +268,19 @@
       "revenue": 481148010496,
       "netIncome": -158442995712,
       "eps": -410.46,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 448466000000,
+          "netIncome": -50065000000
+        },
+        {
+          "year": "2024",
+          "revenue": 467780000000,
+          "netIncome": 53965000000
+        }
+      ]
     },
     "7735.T": {
       "price": 13345.0,
@@ -158,7 +296,24 @@
       "netIncome": 92003000320,
       "eps": 486.54,
       "per": 27.4,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 625269000000,
+          "netIncome": 99467000000
+        },
+        {
+          "year": "2024",
+          "revenue": 504916000000,
+          "netIncome": 70579000000
+        },
+        {
+          "year": "2023",
+          "revenue": 460834000000,
+          "netIncome": 57491000000
+        }
+      ]
     },
     "4004.T": {
       "price": 18700.0,
@@ -174,7 +329,24 @@
       "netIncome": 35560001536,
       "eps": 160.42,
       "per": 116.6,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 1347125000000,
+          "netIncome": 29031000000
+        },
+        {
+          "year": "2024",
+          "revenue": 1391480000000,
+          "netIncome": 73503000000
+        },
+        {
+          "year": "2023",
+          "revenue": 1295395000000,
+          "netIncome": -6505000000
+        }
+      ]
     },
     "5991.T": {
       "price": 3930.0,
@@ -189,7 +361,19 @@
       "netIncome": 27861999616,
       "eps": 137.5,
       "per": 28.6,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 801698000000,
+          "netIncome": 48167000000
+        },
+        {
+          "year": "2024",
+          "revenue": 766934000000,
+          "netIncome": 39188000000
+        }
+      ]
     },
     "6954.T": {
       "price": 7975.0,
@@ -205,7 +389,19 @@
       "netIncome": 166542999552,
       "eps": 178.44,
       "per": 44.7,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 797129000000,
+          "netIncome": 147557000000
+        },
+        {
+          "year": "2024",
+          "revenue": 795274000000,
+          "netIncome": 133159000000
+        }
+      ]
     },
     "6981.T": {
       "price": 10420.0,
@@ -221,7 +417,19 @@
       "netIncome": 233829007360,
       "eps": 127.88,
       "per": 81.5,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 1743352000000,
+          "netIncome": 233818000000
+        },
+        {
+          "year": "2024",
+          "revenue": 1640158000000,
+          "netIncome": 180838000000
+        }
+      ]
     },
     "ASML": {
       "price": 1705.37,
@@ -229,7 +437,7 @@
       "marketCap": 657279721479,
       "prevClose": 1706.5,
       "changePct": -0.07,
-      "target": 1662.47,
+      "target": 1661.31,
       "rating": "強い買い(15人)",
       "dividendYield": 0.36,
       "profitMargin": 29.7,
@@ -237,7 +445,24 @@
       "netIncome": 10011100160,
       "eps": 30.19,
       "per": 56.5,
-      "finCurrency": "EUR"
+      "finCurrency": "EUR",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 32667300000,
+          "netIncome": 9609400000
+        },
+        {
+          "year": "2024",
+          "revenue": 28262900000,
+          "netIncome": 7571600000
+        },
+        {
+          "year": "2023",
+          "revenue": 27558500000,
+          "netIncome": 7839000000
+        }
+      ]
     },
     "8035.T": {
       "price": 60900.0,
@@ -253,7 +478,19 @@
       "netIncome": 574453972992,
       "eps": 1251.44,
       "per": 48.7,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 2431568000000,
+          "netIncome": 544133000000
+        },
+        {
+          "year": "2024",
+          "revenue": 1830527000000,
+          "netIncome": 363963000000
+        }
+      ]
     },
     "6920.T": {
       "price": 41770.0,
@@ -269,7 +506,24 @@
       "netIncome": 88780996608,
       "eps": 965.55,
       "per": 43.3,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 251477000000,
+          "netIncome": 84652000000
+        },
+        {
+          "year": "2024",
+          "revenue": 213506000000,
+          "netIncome": 59076000000
+        },
+        {
+          "year": "2023",
+          "revenue": 152832000000,
+          "netIncome": 46164000000
+        }
+      ]
     },
     "6146.T": {
       "price": 68710.0,
@@ -285,7 +539,24 @@
       "netIncome": 135521001472,
       "eps": 1251.9,
       "per": 54.9,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 393313000000,
+          "netIncome": 123891000000
+        },
+        {
+          "year": "2024",
+          "revenue": 307554000000,
+          "netIncome": 84205000000
+        },
+        {
+          "year": "2023",
+          "revenue": 284135000000,
+          "netIncome": 82891000000
+        }
+      ]
     },
     "4063.T": {
       "price": 7806.0,
@@ -301,7 +572,19 @@
       "netIncome": 474459013120,
       "eps": 252.59,
       "per": 30.9,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 2561249000000,
+          "netIncome": 534021000000
+        },
+        {
+          "year": "2024",
+          "revenue": 2414937000000,
+          "netIncome": 520140000000
+        }
+      ]
     },
     "3436.T": {
       "price": 4459.0,
@@ -316,7 +599,24 @@
       "revenue": 408599986176,
       "netIncome": -23267000320,
       "eps": -33.42,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 409670000000,
+          "netIncome": -11751000000
+        },
+        {
+          "year": "2024",
+          "revenue": 396619000000,
+          "netIncome": 19877000000
+        },
+        {
+          "year": "2023",
+          "revenue": 425941000000,
+          "netIncome": 63884000000
+        }
+      ]
     },
     "000660.KS": {
       "price": 2360000.0,
@@ -329,7 +629,24 @@
       "profitMargin": 56.9,
       "revenue": 132083817119744,
       "netIncome": 75142382223360,
-      "finCurrency": "KRW"
+      "finCurrency": "KRW",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 97146675000000,
+          "netIncome": 42919287000000
+        },
+        {
+          "year": "2024",
+          "revenue": 66192960000000,
+          "netIncome": 19788681000000
+        },
+        {
+          "year": "2023",
+          "revenue": 32765719000000,
+          "netIncome": -9112428000000
+        }
+      ]
     },
     "005930.KS": {
       "price": 360500.0,
@@ -343,7 +660,24 @@
       "profitMargin": 21.5,
       "revenue": 388338863308800,
       "netIncome": 83333740494848,
-      "finCurrency": "KRW"
+      "finCurrency": "KRW",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 333605938000000,
+          "netIncome": 44260956000000
+        },
+        {
+          "year": "2024",
+          "revenue": 300870903000000,
+          "netIncome": 33621363000000
+        },
+        {
+          "year": "2023",
+          "revenue": 258935494000000,
+          "netIncome": 14473401000000
+        }
+      ]
     },
     "SNDK": {
       "price": 1716.36,
@@ -358,7 +692,24 @@
       "netIncome": 4506999808,
       "eps": 29.18,
       "per": 58.8,
-      "finCurrency": "USD"
+      "finCurrency": "USD",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 7355000000,
+          "netIncome": -1641000000
+        },
+        {
+          "year": "2024",
+          "revenue": 6663000000,
+          "netIncome": -672000000
+        },
+        {
+          "year": "2023",
+          "revenue": 6086000000,
+          "netIncome": -2143000000
+        }
+      ]
     },
     "6506.T": {
       "price": 7152.0,
@@ -374,7 +725,24 @@
       "netIncome": 35240001536,
       "eps": 135.75,
       "per": 52.7,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 537682000000,
+          "netIncome": 56987000000
+        },
+        {
+          "year": "2024",
+          "revenue": 575658000000,
+          "netIncome": 50687000000
+        },
+        {
+          "year": "2023",
+          "revenue": 555955000000,
+          "netIncome": 51783000000
+        }
+      ]
     },
     "6861.T": {
       "price": 80630.0,
@@ -390,7 +758,19 @@
       "netIncome": 445184999424,
       "eps": 1833.16,
       "per": 44.0,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 1059145000000,
+          "netIncome": 398656000000
+        },
+        {
+          "year": "2024",
+          "revenue": 967288000000,
+          "netIncome": 369642000000
+        }
+      ]
     },
     "6324.T": {
       "price": 7410.0,
@@ -406,7 +786,19 @@
       "netIncome": 1608000000,
       "eps": 17.06,
       "per": 434.3,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 55645940000,
+          "netIncome": 3473539000
+        },
+        {
+          "year": "2024",
+          "revenue": 55796455000,
+          "netIncome": -24806996000
+        }
+      ]
     },
     "8306.T": {
       "price": 3137.0,
@@ -422,7 +814,24 @@
       "netIncome": 2427229044736,
       "eps": 212.31,
       "per": 14.8,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2026",
+          "revenue": 7521125000000,
+          "netIncome": 2427229000000
+        },
+        {
+          "year": "2025",
+          "revenue": 6838439000000,
+          "netIncome": 1862946000000
+        },
+        {
+          "year": "2024",
+          "revenue": 5879775000000,
+          "netIncome": 1490781000000
+        }
+      ]
     },
     "2502.T": {
       "price": 1490.0,
@@ -438,7 +847,24 @@
       "netIncome": 155562999808,
       "eps": 115.52,
       "per": 12.9,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2024",
+          "revenue": 2939422000000,
+          "netIncome": 192080000000
+        },
+        {
+          "year": "2023",
+          "revenue": 2769091000000,
+          "netIncome": 164073000000
+        },
+        {
+          "year": "2022",
+          "revenue": 2511108000000,
+          "netIncome": 151555000000
+        }
+      ]
     },
     "2768.T": {
       "price": 5157.0,
@@ -454,7 +880,19 @@
       "netIncome": 103610998784,
       "eps": 494.69,
       "per": 10.4,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 2509714000000,
+          "netIncome": 110636000000
+        },
+        {
+          "year": "2024",
+          "revenue": 2414648000000,
+          "netIncome": 100765000000
+        }
+      ]
     },
     "2914.T": {
       "price": 6112.0,
@@ -470,7 +908,24 @@
       "netIncome": 540890005504,
       "eps": 280.85,
       "per": 21.8,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 3467675000000,
+          "netIncome": 510175000000
+        },
+        {
+          "year": "2024",
+          "revenue": 3056709000000,
+          "netIncome": 179240000000
+        },
+        {
+          "year": "2023",
+          "revenue": 2841077000000,
+          "netIncome": 482289000000
+        }
+      ]
     },
     "4565.T": {
       "price": 953.0,
@@ -484,7 +939,24 @@
       "revenue": 34226999296,
       "netIncome": -9976999936,
       "eps": -138.8,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 29615000000,
+          "netIncome": -12530000000
+        },
+        {
+          "year": "2024",
+          "revenue": 28835000000,
+          "netIncome": -4838000000
+        },
+        {
+          "year": "2023",
+          "revenue": 12766000000,
+          "netIncome": -7193000000
+        }
+      ]
     },
     "4755.T": {
       "price": 792.5,
@@ -498,7 +970,24 @@
       "revenue": 2577454071808,
       "netIncome": -123063001088,
       "eps": -82.29,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 2496575000000,
+          "netIncome": -177886000000
+        },
+        {
+          "year": "2024",
+          "revenue": 2279233000000,
+          "netIncome": -162442000000
+        },
+        {
+          "year": "2023",
+          "revenue": 2071315000000,
+          "netIncome": -339473000000
+        }
+      ]
     },
     "7267.T": {
       "price": 1496.5,
@@ -513,7 +1002,24 @@
       "revenue": 21796610899968,
       "netIncome": -423941013504,
       "eps": -106.11,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 21688767000000,
+          "netIncome": 835837000000
+        },
+        {
+          "year": "2024",
+          "revenue": 20428802000000,
+          "netIncome": 1107174000000
+        },
+        {
+          "year": "2023",
+          "revenue": 16907725000000,
+          "netIncome": 651416000000
+        }
+      ]
     },
     "8058.T": {
       "price": 4979.0,
@@ -529,7 +1035,19 @@
       "netIncome": 800459980800,
       "eps": 209.76,
       "per": 23.7,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 18617601000000,
+          "netIncome": 950709000000
+        },
+        {
+          "year": "2024",
+          "revenue": 19567601000000,
+          "netIncome": 964034000000
+        }
+      ]
     },
     "8267.T": {
       "price": 1351.0,
@@ -545,7 +1063,24 @@
       "netIncome": 72676999168,
       "eps": 26.84,
       "per": 50.3,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2026",
+          "revenue": 10715341000000,
+          "netIncome": 72677000000
+        },
+        {
+          "year": "2025",
+          "revenue": 10134876000000,
+          "netIncome": 27168000000
+        },
+        {
+          "year": "2024",
+          "revenue": 9553556000000,
+          "netIncome": 44692000000
+        }
+      ]
     },
     "8591.T": {
       "price": 6300.0,
@@ -561,7 +1096,24 @@
       "netIncome": 447169003520,
       "eps": 399.32,
       "per": 15.8,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 1829238000000,
+          "netIncome": 351630000000
+        },
+        {
+          "year": "2024",
+          "revenue": 1796990000000,
+          "netIncome": 346132000000
+        },
+        {
+          "year": "2023",
+          "revenue": 1631081000000,
+          "netIncome": 290340000000
+        }
+      ]
     },
     "8729.T": {
       "price": 140.0,
@@ -577,7 +1129,17 @@
       "netIncome": 55497998336,
       "eps": 7.74,
       "per": 18.1,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 2414745000000
+        },
+        {
+          "year": "2024",
+          "revenue": 3193049000000
+        }
+      ]
     },
     "9432.T": {
       "price": 147.8,
@@ -593,7 +1155,19 @@
       "netIncome": 1037032030208,
       "eps": 12.62,
       "per": 11.7,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 13704727000000,
+          "netIncome": 1000016000000
+        },
+        {
+          "year": "2024",
+          "revenue": 13374569000000,
+          "netIncome": 1279521000000
+        }
+      ]
     },
     "9433.T": {
       "price": 2706.5,
@@ -609,7 +1183,19 @@
       "netIncome": 707112009728,
       "eps": 183.64,
       "per": 14.7,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 5835525000000,
+          "netIncome": 655416000000
+        },
+        {
+          "year": "2024",
+          "revenue": 5699724000000,
+          "netIncome": 600281000000
+        }
+      ]
     },
     "1417.T": {
       "price": 3828.0,
@@ -625,7 +1211,24 @@
       "netIncome": 23281999872,
       "eps": 261.92,
       "per": 14.6,
-      "finCurrency": "JPY"
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 578599000000,
+          "netIncome": 17179000000
+        },
+        {
+          "year": "2024",
+          "revenue": 518384000000,
+          "netIncome": 12535000000
+        },
+        {
+          "year": "2023",
+          "revenue": 483987000000,
+          "netIncome": 14781000000
+        }
+      ]
     }
   }
 }

@@ -4,22 +4,22 @@
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Microsoft Moves to Own the AI Stack From Device to Model at Build 2026",
+      "title": "Intel Sparks AI Shockwave With New Chips and Mega Partnerships",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-moves-own-ai-stack-121409756.html",
-      "time": "2026-06-03T12:14:09Z",
-      "titleJa": "Microsoft、Build 2026 でデバイスからモデルまで AI スタックの所有に移行",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/intel-sparks-ai-shockwave-chips-123021184.html",
+      "time": "2026-06-03T12:30:21Z",
+      "titleJa": "インテル、新しいチップとメガパートナーシップで AI ショックウェーブを引き起こす",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Berkshire Under Buffett’s Successor Makes $10 Billion AI Bet",
+      "title": "The Tax Math That Makes These Dividend Stocks Worth $19,200 More Inside a Roth",
       "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/03/berkshire-under-buffetts-successor-makes-10-billion-ai-bet/",
-      "time": "2026-06-03T12:11:21Z",
-      "titleJa": "バフェット氏の後任のバークシャーがAIに100億ドル賭ける",
-      "relevant": false
+      "link": "https://247wallst.com/investing/2026/06/03/the-tax-math-that-makes-these-dividend-stocks-worth-19200-more-inside-a-roth/",
+      "time": "2026-06-03T12:25:20Z",
+      "titleJa": "これらの配当株の価値を Roth 内で 19,200 ドル増やす税金の計算",
+      "relevant": true
     },
     {
       "ticker": "AVGO",
@@ -88,7 +88,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-valuation-111316119.html",
       "time": "2026-06-03T11:13:16Z",
-      "titleJa": "ソフトバンクグループ (東証:9984) 年初からの株価急騰を受けて評価額を確認",
+      "titleJa": "ソフトバンクグループ (東証:9984) 年初来の株価急騰を受けて評価額を確認",
       "relevant": true
     },
     {
@@ -238,7 +238,7 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-toyota-motor-led-103731567.html",
       "time": "2026-06-02T10:37:31Z",
-      "titleJa": "市場の話題: トヨタ自動車主導の業界、無駄を削減し供給を改善するために欠陥ルールを標準化へ",
+      "titleJa": "市場の話題: トヨタ自動車主導の業界、無駄を削減し供給を改善するために欠陥ルールを標準化",
       "relevant": false
     },
     {
@@ -348,7 +348,7 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/economy/articles/canada-apos-q1-current-account-124259963.html",
       "time": "2026-05-28T12:42:59Z",
-      "titleJa": "カナダの第1四半期の経常赤字は投資収益の減少と物資赤字の増加により予想を大幅に拡大",
+      "titleJa": "カナダの第1四半期の経常赤字は投資収入の減少と物資赤字の増加により予想より大幅に拡大",
       "relevant": false
     }
   ]
