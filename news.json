@@ -1,4 +1,125 @@
 {
-  "updated": "",
-  "items": []
+  "updated": "2026-06-03",
+  "items": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Is Meta's AI Spending Spree Reckless or Genius?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/03/is-metas-ai-spending-spree-reckless-or-genius/",
+      "time": "2026-06-03T10:21:00Z"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Why Arm Stock Skyrocketed 68% in May",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/03/why-arm-stock-is-up-best-ai-stocks/",
+      "time": "2026-06-03T10:20:00Z"
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Fresh AI Buzz Powers Taiwan Stocks Even Higher",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/fresh-ai-buzz-powers-taiwan-stocks-even-higher-jF86JMtwmG2YV9nC3yEb?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T09:12:29Z"
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
+      "time": "2026-06-03T09:05:23Z"
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
+      "time": "2026-06-03T09:05:23Z"
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Nasdaq, S&P 500 Futures Take A Breather Ahead Of ADP Jobs Data: Why PANW, AVGO, CRWD, PLTR, ASTC, GME, XOS Are In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-ease-iran-risks-avgo-crwd-panw-astc-xos-stocks-to-watch/cZ0S6cCRexd",
+      "time": "2026-06-03T08:46:56Z"
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "2 Factors To Remember When Investing in Micron Stock",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/03/2-factors-to-remember-when-investing-in-micron-sto/",
+      "time": "2026-06-03T08:45:00Z"
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy Right Now?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/03/nvidia-vs-broadcom-which-ai-chip-stock-is-the-bett/",
+      "time": "2026-06-03T08:25:00Z"
+    },
+    {
+      "ticker": "7735.T",
+      "company": "SCREEN HD",
+      "title": "Nikkei Closes at Record High, Driven by Chip-Related Stocks",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/nikkei-closes-at-record-high-driven-by-chip-related-stocks-B0pJJEiTaaJz0aX7eqvS?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T06:55:56Z"
+    },
+    {
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "World shares are mixed as Tokyo's Nikkei 225 follows Wall Street to an all-time high",
+      "publisher": "Associated Press",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tokyos-nikkei-225-index-tops-020136717.html",
+      "time": "2026-06-03T02:01:36Z"
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "Palo Alto CEO’s Pay, Now Nearly $100 Million, Is Most Rejected in Corporate America",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-ceo-pay-now-121504850.html",
+      "time": "2026-06-02T12:15:04Z"
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "Arm May Hit $15 Billion AI Chip Revenue Goal Early, CEO Says",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/arm-may-hit-15-billion-064305343.html",
+      "time": "2026-06-02T06:43:05Z"
+    },
+    {
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "Keysight Stock Rises 113.2% in the Past Year: How to Play the Stock",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/keysight-stock-rises-113-2-134300302.html",
+      "time": "2026-06-01T13:43:00Z"
+    },
+    {
+      "ticker": "6954.T",
+      "company": "ファナック",
+      "title": "Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute Transition",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/05/31/quantum-computing-just-hit-commercial-viability-and-these-3-etfs-sit-on-top-of-the-compute-transition/",
+      "time": "2026-05-31T15:15:35Z"
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "SK Hynix Just Hit a $1 Trillion Market Cap. Here's How You Can Buy the Stock for Around $60.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/05/30/sk-hynix-1-trillion-market-cap-buy-stock/",
+      "time": "2026-05-30T22:05:00Z"
+    }
+  ]
 }
