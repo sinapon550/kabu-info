@@ -2,6 +2,15 @@
   "updated": "2026-06-03",
   "items": [
     {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Rising Crude Prices Cap Wall Street Pre-Bell; Asia Up, Europe Off",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/rising-crude-prices-cap-wall-110923413.html",
+      "time": "2026-06-03T11:09:23Z",
+      "titleJa": "原油価格の上昇がウォール街のベル以前の上限に。アジアは上昇、ヨーロッパは停止"
+    },
+    {
       "ticker": "NVDA",
       "company": "NVIDIA",
       "title": "Intel's new AI chip skips the costly memory Nvidia relies on",
@@ -38,6 +47,15 @@
       "titleJa": "AI取引の次の段階はこの市場に属する可能性があるとバークレイズは言う"
     },
     {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "The next phase of the AI trade could belong to this market, Barclays says",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/next-phase-ai-trade-could-105819882.html",
+      "time": "2026-06-03T10:58:19Z",
+      "titleJa": "AI取引の次の段階はこの市場に属する可能性があるとバークレイズは言う"
+    },
+    {
       "ticker": "AVGO",
       "company": "Broadcom",
       "title": "Stocks to Watch: Marvell, GameStop, GitLab, Macy’s",
@@ -45,6 +63,33 @@
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026/card/stocks-to-watch-marvell-gamestop-gitlab-macy-s-HcT6mcfnsGhH2VoZwlUj?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-03T10:01:54Z",
       "titleJa": "注目株: マーベル、ゲームストップ、GitLab、メイシーズ"
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "DBS Singapore enables tap-to-phone card payments for merchants",
+      "publisher": "Electronic Payments",
+      "link": "https://www.electronicpaymentsinternational.com/news/dbs-singapore-enables-tap-to-phone-card-payments-for-merchants/",
+      "time": "2026-06-03T10:01:23Z",
+      "titleJa": "DBS シンガポール、加盟店向けのタップ・トゥ・フォン・カード決済を可能に"
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Marvell Stock Surges Again. This Could Be the Next Big Catalyst.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/marvell-stock-price-today-422c181f?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T09:37:00Z",
+      "titleJa": "マーベル株が再び急騰。これが次の大きな触媒となる可能性があります。"
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Air Liquide Invests $233 Million in South Korea to Back SK Hynix’s AI Chips Production",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/tech/air-liquide-invests-233-million-in-south-korea-to-back-sk-hynixs-ai-chips-production-92fde1f1?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-03T09:14:00Z",
+      "titleJa": "エア・リキード、SKハイニックスのAIチップ生産支援のため韓国に2億3,300万ドルを投資"
     },
     {
       "ticker": "TSM",
@@ -65,13 +110,13 @@
       "titleJa": "Nvidia CEO、億万長者家族に「非常識な」AI の復活を売り込む"
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Nasdaq, S&P 500 Futures Take A Breather Ahead Of ADP Jobs Data: Why PANW, AVGO, CRWD, PLTR, ASTC, GME, XOS Are In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-ease-iran-risks-avgo-crwd-panw-astc-xos-stocks-to-watch/cZ0S6cCRexd",
-      "time": "2026-06-03T08:46:56Z",
-      "titleJa": "ナスダック、S&P 500先物はADP雇用統計を前に一息つける：PANW、AVGO、CRWD、PLTR、ASTC、GME、XOSが注目される理由"
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Zacks Industry Outlook Highlights Western Digital, Sandisk and Netlist",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-western-081100330.html",
+      "time": "2026-06-03T08:11:00Z",
+      "titleJa": "ザックスの業界展望がウェスタンデジタル、サンディスク、ネットリストに焦点を当てる"
     },
     {
       "ticker": "9434.T",
@@ -126,6 +171,15 @@
       "link": "https://finance.yahoo.com/markets/world-indices/articles/tokyos-nikkei-225-index-tops-020136717.html",
       "time": "2026-06-03T02:01:36Z",
       "titleJa": "東京の日経平均株価がウォール街に続き史上最高値を更新する中、世界株はまちまち"
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Samsung Electronics Deepens AI And Connectivity Role With New Partnerships",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/samsung-electronics-deepens-ai-connectivity-230923607.html",
+      "time": "2026-06-02T23:09:23Z",
+      "titleJa": "サムスン電子、新たなパートナーシップでAIとコネクティビティの役割を強化"
     },
     {
       "ticker": "ASML",
@@ -211,6 +265,15 @@
     {
       "ticker": "6954.T",
       "company": "ファナック",
+      "title": "Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute Transition",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/05/31/quantum-computing-just-hit-commercial-viability-and-these-3-etfs-sit-on-top-of-the-compute-transition/",
+      "time": "2026-05-31T15:15:35Z",
+      "titleJa": "量子コンピューティングは商業化の可能性に達し、これら 3 つの ETF はコンピューティングの移行の頂点に位置します"
+    },
+    {
+      "ticker": "6861.T",
+      "company": "キーエンス",
       "title": "Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute Transition",
       "publisher": "24/7 Wall St.",
       "link": "https://247wallst.com/investing/2026/05/31/quantum-computing-just-hit-commercial-viability-and-these-3-etfs-sit-on-top-of-the-compute-transition/",
