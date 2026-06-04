@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-04",
+  "updated": "2026-06-05",
   "summary": "",
   "headlines": [
     {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Morgan Stanley makes bold new call on Micron stock",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-raises-price-target-on-micron-stock",
+      "time": "2026-06-04T22:07:00Z",
+      "titleJa": "モルガン・スタンレーがマイクロン株に対して大胆な新たな要求を行う"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Hits High, AI Stocks Shrug Off Broadcom, Ciena Sell-Offs; Jobs Report Looms",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-broadcom-ciena-jobs-report/?src=A00220&yptr=yahoo",
+      "time": "2026-06-04T22:04:20Z",
+      "titleJa": "ダウ・ジョーンズは高値を記録、AI株はブロードコムを無視、シエナの下落。ジョブレポートルーム"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, June 4: Nu Holdings Jumps After Board Approves $1 Billion Share Buyback",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/04/stock-market-today-june-4-nu-holdings-jumps-after-board-approves-usd1-billion-share-buyback/",
+      "time": "2026-06-04T21:51:55Z",
+      "titleJa": "今日の株式市場、6月4日: 取締役会が10億ドルの自社株買いを承認した後、Nu Holdingsが急騰"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 Consumer Stocks with Warning Signs",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-warning-signs-214930600.html",
+      "time": "2026-06-04T21:49:30Z",
+      "titleJa": "3 警告サインのある消費者株"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Stock Market Today, June 4: Bank of America Rises as Cross-Border Payments Plan Expands Transaction Banking",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/04/stock-market-today-june-4-bank-of-america-rises-as-cross-border-payments-plan-expands-transaction-banking/",
+      "time": "2026-06-04T21:37:20Z",
+      "titleJa": "今日の株式市場、6月4日: 国境を越えた決済計画によりトランザクションバンキングが拡大され、バンク・オブ・アメリカが上昇"
+    },
+    {
       "ticker": "^DJI",
       "company": "経済",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Iran war threatens to drag on",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-iran-war-threatens-to-drag-on-230054858.html",
-      "time": "2026-06-03T23:00:54Z",
-      "titleJa": "今日の株式市場：イラン戦争が長引く恐れがあるため、ダウ、S&P 500、ナスダック先物が下落"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Broadcom, CrowdStrike Dive On Earnings; SpaceX IPO Price Target Set",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-broadcom-crowdstrike-earnings-spacex-ipo-price-target/?src=A00220&yptr=yahoo",
-      "time": "2026-06-03T22:44:54Z",
-      "titleJa": "ダウ・ジョーンズ先物：ブロードコム、クラウドストライクが収益急落。 SpaceX IPO 価格目標設定"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Most Income Investors Have Never Heard of These 3 ETFs Paying Over 10 Percent Monthly",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/03/most-income-investors-have-never-heard-of-these-3-etfs-paying-over-10-percent-monthly/",
-      "time": "2026-06-03T22:27:26Z",
-      "titleJa": "ほとんどのインカム投資家は、これら 3 つの ETF が毎月 10% 以上支払うことを聞いたことがない"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Celestica (CLS) Suffers a Larger Drop Than the General Market: Key Insights",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/celestica-cls-suffers-larger-drop-214503918.html",
-      "time": "2026-06-03T21:45:03Z",
-      "titleJa": "Celestica (CLS) は一般市場よりも大きな下落に見舞われる：重要な洞察"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "BlackBerry (BB) Declines More Than Market: Some Information for Investors",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-bb-declines-more-market-214503610.html",
-      "time": "2026-06-03T21:45:03Z",
-      "titleJa": "BlackBerry (BB) は市場以上に下落: 投資家向けの情報"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Why Goldman Sachs (GS) Dipped More Than Broader Market Today",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-goldman-sachs-gs-dipped-214503838.html",
-      "time": "2026-06-03T21:45:03Z",
-      "titleJa": "ゴールドマン・サックス（GS）が今日市場全体を超えて下落した理由"
+      "title": "Oil drops, stocks mostly higher despite AI concerns",
+      "publisher": "AFP",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-drop-ai-rate-hike-030621040.html",
+      "time": "2026-06-04T21:36:56Z",
+      "titleJa": "AI懸念にもかかわらず、原油は下落、株価はほぼ上昇"
     }
   ]
 }
