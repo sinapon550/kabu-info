@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-05",
+  "updated": "2026-06-06",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Morgan Stanley makes bold new call on Micron stock",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-raises-price-target-on-micron-stock",
-      "time": "2026-06-04T22:07:00Z",
-      "titleJa": "モルガン・スタンレーがマイクロン株に対して大胆な新たな要求を行う"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Hits High, AI Stocks Shrug Off Broadcom, Ciena Sell-Offs; Jobs Report Looms",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-broadcom-ciena-jobs-report/?src=A00220&yptr=yahoo",
-      "time": "2026-06-04T22:04:20Z",
-      "titleJa": "ダウ・ジョーンズは高値を記録、AI株はブロードコムを無視、シエナの下落。ジョブレポートルーム"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, June 4: Nu Holdings Jumps After Board Approves $1 Billion Share Buyback",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/04/stock-market-today-june-4-nu-holdings-jumps-after-board-approves-usd1-billion-share-buyback/",
-      "time": "2026-06-04T21:51:55Z",
-      "titleJa": "今日の株式市場、6月4日: 取締役会が10億ドルの自社株買いを承認した後、Nu Holdingsが急騰"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "3 Consumer Stocks with Warning Signs",
+      "title": "3 Reasons ENOV is Risky and 1 Stock to Buy Instead",
       "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-warning-signs-214930600.html",
-      "time": "2026-06-04T21:49:30Z",
-      "titleJa": "3 警告サインのある消費者株"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-enov-risky-1-220014494.html",
+      "time": "2026-06-05T22:00:14Z",
+      "titleJa": "ENOV が危険である 3 つの理由と、代わりに買うべき 1 つの銘柄"
     },
     {
-      "ticker": "^IXIC",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 4: Bank of America Rises as Cross-Border Payments Plan Expands Transaction Banking",
+      "title": "Stock Market Today, June 5: Broadcom Falls as Strong AI Results Fail to Lift Guidance",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/04/stock-market-today-june-4-bank-of-america-rises-as-cross-border-payments-plan-expands-transaction-banking/",
-      "time": "2026-06-04T21:37:20Z",
-      "titleJa": "今日の株式市場、6月4日: 国境を越えた決済計画によりトランザクションバンキングが拡大され、バンク・オブ・アメリカが上昇"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/05/stock-market-today-june-5-broadcom-falls-as-strong-ai-results-fail-to-lift-guidance/",
+      "time": "2026-06-05T21:59:42Z",
+      "titleJa": "今日の株式市場、6 月 5 日: AI の好調な結果がガイダンスを解除できず、ブロードコムが下落"
     },
     {
-      "ticker": "^DJI",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Oil drops, stocks mostly higher despite AI concerns",
-      "publisher": "AFP",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-drop-ai-rate-hike-030621040.html",
-      "time": "2026-06-04T21:36:56Z",
-      "titleJa": "AI懸念にもかかわらず、原油は下落、株価はほぼ上昇"
+      "title": "Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+      "time": "2026-06-05T21:58:36Z",
+      "titleJa": "ダウ・ジョーンズ先物：相場上昇が最初の本当の試練に直面する中で何をすべきか。 SpaceX IPO、Apple、Oracle Loom"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Marvell Technology, Flex To Join S&P 500 Index In Quarterly Rebalance",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/news/sp-500-marvell-technology-flex-to-join-index-roku-quarterly-rebalance/?src=A00220&yptr=yahoo",
+      "time": "2026-06-05T21:56:51Z",
+      "titleJa": "マーベル・テクノロジー、フレックス、四半期リバランスでS&P 500指数に参加へ"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Marvell Stock Was Just Added to S&P 500. Here’s Who Else Was Included and Bumped.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/marvell-stock-added-sp-500-293d3230?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-05T21:54:00Z",
+      "titleJa": "マーベル株が S&P 500 に追加されました。他に誰が含まれ、値上がりしたのかをご紹介します。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 Reasons to Avoid IART and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-iart-1-215214615.html",
+      "time": "2026-06-05T21:52:14Z",
+      "titleJa": "IART を避けるべき 3 つの理由と、代わりに購入すべき 1 つの銘柄"
     }
   ]
 }
