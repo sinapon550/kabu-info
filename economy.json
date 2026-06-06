@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-06",
+  "updated": "2026-06-07",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons ENOV is Risky and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-enov-risky-1-220014494.html",
-      "time": "2026-06-05T22:00:14Z",
-      "titleJa": "ENOV が危険である 3 つの理由と、代わりに買うべき 1 つの銘柄"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, June 5: Broadcom Falls as Strong AI Results Fail to Lift Guidance",
+      "title": "Should You Really Invest in QQQ Right Now? Or Is IVV the Better Buy? Here's What the Data Suggests.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/05/stock-market-today-june-5-broadcom-falls-as-strong-ai-results-fail-to-lift-guidance/",
-      "time": "2026-06-05T21:59:42Z",
-      "titleJa": "今日の株式市場、6 月 5 日: AI の好調な結果がガイダンスを解除できず、ブロードコムが下落"
+      "link": "https://www.fool.com/coverage/etfs/2026/06/06/should-you-really-invest-in-qqq-right-now-or-is-ivv-the-better-buy-here-s-what-the-data-suggests/",
+      "time": "2026-06-06T21:26:17Z",
+      "titleJa": "本当に今QQQに投資すべきでしょうか?それともIVVを購入したほうが良いのでしょうか?データが示唆することは次のとおりです。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
-      "time": "2026-06-05T21:58:36Z",
-      "titleJa": "ダウ・ジョーンズ先物：相場上昇が最初の本当の試練に直面する中で何をすべきか。 SpaceX IPO、Apple、Oracle Loom"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Marvell Technology, Flex To Join S&P 500 Index In Quarterly Rebalance",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/news/sp-500-marvell-technology-flex-to-join-index-roku-quarterly-rebalance/?src=A00220&yptr=yahoo",
-      "time": "2026-06-05T21:56:51Z",
-      "titleJa": "マーベル・テクノロジー、フレックス、四半期リバランスでS&P 500指数に参加へ"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Marvell Stock Was Just Added to S&P 500. Here’s Who Else Was Included and Bumped.",
+      "title": "What Will SpaceX’s IPO Mean for Your Index Funds?",
       "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/marvell-stock-added-sp-500-293d3230?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-05T21:54:00Z",
-      "titleJa": "マーベル株が S&P 500 に追加されました。他に誰が含まれ、値上がりしたのかをご紹介します。"
+      "link": "https://www.barrons.com/articles/spacex-ipo-index-fund-investors-d74f2193?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-06T20:42:00Z",
+      "titleJa": "SpaceX の IPO はインデックス ファンドにとって何を意味しますか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons to Avoid IART and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-iart-1-215214615.html",
-      "time": "2026-06-05T21:52:14Z",
-      "titleJa": "IART を避けるべき 3 つの理由と、代わりに購入すべき 1 つの銘柄"
+      "title": "Marvell Gets Another Shout-Out: It (And Flex) Are Joining the S&P 500",
+      "publisher": "Investopedia",
+      "link": "https://www.investopedia.com/marvell-gets-another-shout-out-it-and-flex-are-joining-the-s-and-p-500-later-this-month-mrvl-stock-11992623",
+      "time": "2026-06-06T19:09:04Z",
+      "titleJa": "マーベルが再び大絶賛：マーベル（とフレックス）がS&P 500に加わる"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "VTI vs. VOO: Which Vanguard ETF Will Buy More SpaceX Stock After Its IPO?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/06/vti-vs-voo-buy-vanguard-etf-spacex-stock-ipo/",
+      "time": "2026-06-06T19:05:00Z",
+      "titleJa": "VTI 対 VOO: IPO 後、どのバンガード ETF がより多くの SpaceX 株を購入するでしょうか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Here's How SpaceX's IPO Will Affect S&P 500 and Nasdaq-100 Investors",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/06/how-spacex-ipo-affect-sp-500-nasdaq-100/",
+      "time": "2026-06-06T18:16:00Z",
+      "titleJa": "SpaceXのIPOがS&P 500とナスダック100の投資家に与える影響は次のとおりです。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Pfizer's 6.7% Yield Looks Scary -- but the Dividend Story Is Stronger Than It Seems",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/06/pfizers-67-yield-looks-scary-but-the-dividend-stor/",
+      "time": "2026-06-06T16:35:00Z",
+      "titleJa": "ファイザーの 6.7% の利回りは恐ろしく見える -- しかし配当の話は見かけより強い"
     }
   ]
 }
