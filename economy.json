@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-07",
+  "updated": "2026-06-08",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Should You Really Invest in QQQ Right Now? Or Is IVV the Better Buy? Here's What the Data Suggests.",
+      "title": "Dow Jones Futures Due As Iran Attacks Israel; Market Rally Faces First Real Test",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+      "time": "2026-06-07T21:55:52Z",
+      "titleJa": "イランがイスラエルを攻撃する中、ダウジョーンズ先物は期日を迎える。市場の上昇は最初の本当の試練に直面する"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Technology ETF Showdown: Is SOXX or IYW the Better Buy for Investors Right Now?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/06/06/should-you-really-invest-in-qqq-right-now-or-is-ivv-the-better-buy-here-s-what-the-data-suggests/",
-      "time": "2026-06-06T21:26:17Z",
-      "titleJa": "本当に今QQQに投資すべきでしょうか?それともIVVを購入したほうが良いのでしょうか?データが示唆することは次のとおりです。"
+      "link": "https://www.fool.com/coverage/etfs/2026/06/07/technology-etf-showdown-is-soxx-or-iyw-the-better-buy-for-investors-right-now/",
+      "time": "2026-06-07T21:10:41Z",
+      "titleJa": "テクノロジー ETF 対決: 投資家にとって今、SOXX と IYW のどちらを買うのが良いでしょうか?"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Market Rout Leaves Wall Street Bracing for Rockier Times",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/market-rout-leaves-wall-street-bracing-for-rockier-times-41feee60?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-07T21:00:00Z",
+      "titleJa": "市場の暴落でウォール街の緊張感がなくなり、より不安定な時代へ"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "What Will SpaceX’s IPO Mean for Your Index Funds?",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/spacex-ipo-index-fund-investors-d74f2193?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-06T20:42:00Z",
-      "titleJa": "SpaceX の IPO はインデックス ファンドにとって何を意味しますか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Marvell Gets Another Shout-Out: It (And Flex) Are Joining the S&P 500",
-      "publisher": "Investopedia",
-      "link": "https://www.investopedia.com/marvell-gets-another-shout-out-it-and-flex-are-joining-the-s-and-p-500-later-this-month-mrvl-stock-11992623",
-      "time": "2026-06-06T19:09:04Z",
-      "titleJa": "マーベルが再び大絶賛：マーベル（とフレックス）がS&P 500に加わる"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "VTI vs. VOO: Which Vanguard ETF Will Buy More SpaceX Stock After Its IPO?",
+      "title": "Time Is Running Out to Lock In This Financial Stock's Sky-High Yield",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/06/vti-vs-voo-buy-vanguard-etf-spacex-stock-ipo/",
-      "time": "2026-06-06T19:05:00Z",
-      "titleJa": "VTI 対 VOO: IPO 後、どのバンガード ETF がより多くの SpaceX 株を購入するでしょうか?"
+      "link": "https://www.fool.com/investing/2026/06/07/time-is-running-out-to-lock-in-this-financial-stoc/",
+      "time": "2026-06-07T19:20:00Z",
+      "titleJa": "この金融株の超高利回りを確定させるには時間がなくなりつつある"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Here's How SpaceX's IPO Will Affect S&P 500 and Nasdaq-100 Investors",
+      "title": "1 Costly Mistake Too Many Investors Make With the Vanguard S&P 500 ETF (VOO)",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/06/how-spacex-ipo-affect-sp-500-nasdaq-100/",
-      "time": "2026-06-06T18:16:00Z",
-      "titleJa": "SpaceXのIPOがS&P 500とナスダック100の投資家に与える影響は次のとおりです。"
+      "link": "https://www.fool.com/investing/2026/06/07/mistake-investors-make-vanguard-sp-500-etf-voo/",
+      "time": "2026-06-07T19:05:00Z",
+      "titleJa": "1 あまりにも多くの投資家がバンガード S&P 500 ETF (VOO) で犯す、大きな間違い"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Pfizer's 6.7% Yield Looks Scary -- but the Dividend Story Is Stronger Than It Seems",
+      "title": "Is VEA the Smartest Investment You Can Make Right Now?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/06/pfizers-67-yield-looks-scary-but-the-dividend-stor/",
-      "time": "2026-06-06T16:35:00Z",
-      "titleJa": "ファイザーの 6.7% の利回りは恐ろしく見える -- しかし配当の話は見かけより強い"
+      "link": "https://www.fool.com/investing/2026/06/07/is-vea-the-smartest-investment-you-can-make-right/",
+      "time": "2026-06-07T18:43:00Z",
+      "titleJa": "VEA は今できる最も賢明な投資ですか?"
     }
   ]
 }

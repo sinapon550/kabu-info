@@ -1,65 +1,185 @@
 {
-  "updated": "2026-06-07",
+  "updated": "2026-06-08",
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Are These 3 Energy Stocks About to Soar as Driving Season Kicks Off in the United States?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/06/are-these-3-energy-stocks-about-to-soar-as-driving/",
-      "time": "2026-06-06T21:35:00Z",
-      "titleJa": "米国でドライブシーズンが始まるにつれ、これら3つのエネルギー株は急騰しようとしているのだろうか？",
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Dow Jones Futures Due As Iran Attacks Israel; Market Rally Faces First Real Test",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+      "time": "2026-06-07T21:55:52Z",
+      "titleJa": "イランがイスラエルを攻撃する中、ダウジョーンズ先物は期日を迎える。市場の上昇は最初の本当の試練に直面する",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Dell's AI Factory Is Booming With a Backlog of $51 Billion, But Will It Lift Margins?",
+      "title": "3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/06/dells-ai-factory-is-booming-with-a-huge-backlog/",
-      "time": "2026-06-06T21:31:00Z",
-      "titleJa": "デルの AI 工場は 510 億ドルの受注残を抱えて急成長しているが、利益率は上昇するだろうか?",
+      "link": "https://www.fool.com/investing/2026/06/07/reasons-to-buy-spacex-stock-ipo-reason-wait/",
+      "time": "2026-06-07T21:35:00Z",
+      "titleJa": "SpaceX 株を IPO で購入する 3 つの理由 -- と待つべき 2 つの理由",
+      "relevant": true
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Here's the 1 Crypto I'd Buy if I Could Only Pick 1",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/07/heres-the-1-crypto-id-buy-if-i-could-only-pick-1/",
+      "time": "2026-06-07T21:27:00Z",
+      "titleJa": "1つだけ選ぶことができたら、私が購入したい1つの仮想通貨は次のとおりです",
+      "relevant": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Micron's Stock Is Up Over 270% This Year. Here's How It Can Still Double in 2026.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/07/microns-stock-is-up-over-270-this-year/",
+      "time": "2026-06-07T20:31:00Z",
+      "titleJa": "マイクロンの株価は今年270％以上上昇している。 2026 年になってもさらに 2 倍になる可能性がある方法をご紹介します。",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "TSMC Nvidia AI Partnership Puts Factory Efficiency And Valuation In Focus",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-nvidia-ai-partnership-puts-200726215.html",
+      "time": "2026-06-07T20:07:26Z",
+      "titleJa": "TSMC Nvidia AI パートナーシップにより工場の効率と評価が重視される",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Elon Musk In Direct Talks With ASML For $119B TeraFab Chip Plant: CEO Calls Him 'Very Serious'",
+      "publisher": "Benzinga",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-direct-talks-asml-200155324.html",
+      "time": "2026-06-07T20:01:55Z",
+      "titleJa": "イーロン・マスク氏、1190億ドルのTeraFabチップ工場でASMLと直接交渉：CEOは彼のことを「非常に真剣」と呼ぶ",
       "relevant": true
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "$10,000 in FNGU Became $8,392 in One Session as Tech Leverage Cut Both Ways",
+      "title": "NVDL Collapsed 12% in a Single Day as Nvidia Lost $279 Billion, Exposing How Leverage Compounds on Bad Tape",
       "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/06/10000-in-fngu-became-8392-in-one-session-as-tech-leverage-cut-both-ways/",
-      "time": "2026-06-06T21:15:16Z",
-      "titleJa": "テクノロジーのレバレッジが両方向に影響し、FNGU の 10,000 ドルが 1 回のセッションで 8,392 ドルに",
-      "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "$10,000 in Asia’s Biggest 50 Stocks Became $15,267 in Five Months: Here’s Why",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/06/10000-in-asias-biggest-50-stocks-became-15267-in-five-months-heres-why-2/",
-      "time": "2026-06-06T19:45:02Z",
-      "titleJa": "アジア最大の 50 銘柄の 10,000 ドルが 5 か月で 15,267 ドルになりました: その理由は次のとおりです",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/06/ai-chip-stocks-sold-off-this-week-is-amd-a-buying/",
-      "time": "2026-06-06T19:12:00Z",
-      "titleJa": "今週、AIチップ株が売られた。 AMDは買いのチャンスなのか、それとも落ちてくるナイフなのか?",
+      "link": "https://247wallst.com/investing/2026/06/07/nvdl-collapsed-12-in-a-single-day-as-nvidia-lost-279-billion-exposing-how-leverage-compounds-on-bad-tape/",
+      "time": "2026-06-07T19:15:11Z",
+      "titleJa": "Nvidiaが2,790億ドルを失い、NVDLは1日で12%暴落し、不良テープの化合物をどのように活用しているかが明らかになった",
       "relevant": false
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Retail Investors Are Beating Wall Street Benchmarks With AI Stocks. Why That Could Change Soon.",
-      "publisher": "Barchart",
-      "link": "https://www.barchart.com/story/news/2341386/retail-investors-are-beating-wall-street-benchmarks-with-ai-stocks-why-that-could-change-soon",
-      "time": "2026-06-06T15:30:02Z",
-      "titleJa": "個人投資家はAI株でウォール街のベンチマークを上回っている。それがすぐに変わる可能性がある理由。",
+      "title": "Up Nearly 700% This Year, Is Sandisk Still Worth Buying?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/07/up-nearly-700-this-year-is-sandisk-still-worth-buy/",
+      "time": "2026-06-07T17:20:00Z",
+      "titleJa": "今年は700％近く上昇、サンディスクはまだ買う価値があるのか​​？",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Intel was on the brink of downfall. A twist in the AI race could boost its revival",
+      "publisher": "CNN Business",
+      "link": "https://www.cnn.com/2026/06/07/business/intel-ai-race-ceo",
+      "time": "2026-06-07T16:55:01Z",
+      "titleJa": "インテルは崩壊の危機に瀕していた。 AI競争のひねりがAIの復活を後押しする可能性がある",
       "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Is ASML Holding N.V. (ASML) A Good Stock To Buy Now?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-164901824.html",
+      "time": "2026-06-07T16:49:01Z",
+      "titleJa": "ASML Holding N.V. (ASML) は今買うのに適した株ですか?",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "KORU Is Up 236% Year to Date but Just Lost Half Its Value in a Single Trading Day",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/07/koru-is-up-236-year-to-date-but-just-lost-half-its-value-in-a-single-trading-day/",
+      "time": "2026-06-07T15:30:26Z",
+      "titleJa": "KORUは年初から236%上昇しているが、1取引日で価値の半分を失ったばかり",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "KORU Is Up 236% Year to Date but Just Lost Half Its Value in a Single Trading Day",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/07/koru-is-up-236-year-to-date-but-just-lost-half-its-value-in-a-single-trading-day/",
+      "time": "2026-06-07T15:30:26Z",
+      "titleJa": "KORUは年初から236%上昇しているが、1取引日で価値の半分を失ったばかり",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "KORU Is Up 236% Year to Date but Just Lost Half Its Value in a Single Trading Day",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/07/koru-is-up-236-year-to-date-but-just-lost-half-its-value-in-a-single-trading-day/",
+      "time": "2026-06-07T15:30:26Z",
+      "titleJa": "KORUは年初から236%上昇しているが、1取引日で価値の半分を失ったばかり",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Nvidia and SK hynix to Partner as Jensen Huang Warns Memory Shortage Could ‘Last for Years’",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/07/nvidia-and-sk-hynix-to-partner-as-jensen-huang-warns-memory-shortage-could-last-for-years/",
+      "time": "2026-06-07T15:19:42Z",
+      "titleJa": "NvidiaとSK hynixが提携、ジェンスン・ファン氏がメモリ不足は「何年も続く」可能性があると警告",
+      "relevant": true
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "ABB Reshapes AI Data Center Focus As Robotics Move Nears SoftBank",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/abb-reshapes-ai-data-center-141353674.html",
+      "time": "2026-06-07T14:13:53Z",
+      "titleJa": "ABB、ロボット工学の進展がソフトバンクに近づく中、AI データセンターへの重点を再構築",
+      "relevant": true
+    },
+    {
+      "ticker": "9434.T",
+      "company": "ソフトバンク",
+      "title": "ABB Reshapes AI Data Center Focus As Robotics Move Nears SoftBank",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/abb-reshapes-ai-data-center-141353674.html",
+      "time": "2026-06-07T14:13:53Z",
+      "titleJa": "ABB、ロボット工学の進展がソフトバンクに近づく中、AI データセンターへの重点を再構築",
+      "relevant": true
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "A 5.54 Percent KOSPI Crash Became a 12 Percent KF Disaster – Here’s Why the Closed-End Wrapper Doubled the Damage",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/07/a-5-54-percent-kospi-crash-became-a-12-percent-kf-disaster-heres-why-the-closed-end-wrapper-doubled-the-damage/",
+      "time": "2026-06-07T10:15:15Z",
+      "titleJa": "5.54 パーセントの KOSPI クラッシュが 12 パーセントの KF 災害になった - クローズドエンド ラッパーが被害を 2 倍にした理由がここにあります",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Assessing Sandisk (SNDK) Valuation After A Sharp Three Month Share Price Surge",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-sandisk-sndk-valuation-sharp-231156302.html",
+      "time": "2026-06-06T23:11:56Z",
+      "titleJa": "3 か月にわたる株価急騰後のサンディスク (SNDK) の評価評価",
+      "relevant": true
     },
     {
       "ticker": "6981.T",
@@ -70,86 +190,6 @@
       "time": "2026-06-06T14:57:00Z",
       "titleJa": "これらは最も注目されている日本株の2つです。 1,000 ドルの投資を検討すべきですか?",
       "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "This Tech Stock Is in a League of Its Own in AI. It's Time to Double Down on It.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/06/this-tech-stock-is-in-a-league-of-its-own-in-ai/",
-      "time": "2026-06-06T12:20:00Z",
-      "titleJa": "このハイテク株は AI 分野で独自の地位にあります。倍増する時が来ました。",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "ASML Holding (ENXTAM:ASML) Is Up 5.6% After Sector-Wide AI Chip Sentiment Reset What's Changed",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-enxtam-asml-5-100715542.html",
-      "time": "2026-06-06T10:07:15Z",
-      "titleJa": "セクター全体の AI チップセンチメントのリセット後、ASML ホールディング (ENXTAM:ASML) は 5.6% 上昇 何が変わったのか",
-      "relevant": true
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Jensen Huang Commands Seoul Stage With Night of Street Theater",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/jensen-huang-commands-seoul-stage-071930094.html",
-      "time": "2026-06-06T07:19:30Z",
-      "titleJa": "ジェンセン・ファンが夜のストリート・シアターでソウルのステージを指揮",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Jensen Huang Commands Seoul Stage With Night of Street Theater",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/jensen-huang-commands-seoul-stage-071930094.html",
-      "time": "2026-06-06T07:19:30Z",
-      "titleJa": "ジェンセン・ファンが夜のストリート・シアターでソウルのステージを指揮",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Why Nvidia (NVDA) Shares Are Getting Obliterated Today",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-shares-getting-055214383.html",
-      "time": "2026-06-06T05:52:14Z",
-      "titleJa": "Nvidia (NVDA) 株が今日消滅しつつある理由",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Why Nvidia (NVDA) Shares Are Getting Obliterated Today",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-shares-getting-055214383.html",
-      "time": "2026-06-06T05:52:14Z",
-      "titleJa": "Nvidia (NVDA) 株が今日消滅しつつある理由",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Photronics, Qorvo, and Texas Instruments Shares Are Falling, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/photronics-qorvo-texas-instruments-shares-045614097.html",
-      "time": "2026-06-06T04:56:14Z",
-      "titleJa": "フォトロニクス、Qorvo、テキサス・インスツルメンツの株価下落、知っておくべきこと",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Jensen Huang Just Said This AI Chip Stock Could Be the Next $1 Trillion Company (Hint: It's Not AMD or Sandisk)",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/05/jensen-huang-suggests-next-trillion-dollar-stock/",
-      "time": "2026-06-06T02:33:00Z",
-      "titleJa": "ジェンセン・ファン氏は、この AI チップ株が次の 1 兆ドル企業になる可能性があると述べました (ヒント: AMD や Sandisk ではありません)",
-      "relevant": true
     },
     {
       "ticker": "9434.T",
@@ -212,33 +252,13 @@
       "relevant": false
     },
     {
-      "ticker": "9434.T",
-      "company": "ソフトバンク",
-      "title": "Will Son’s Massive Project Stargate AI Buildout Redefine SoftBank's (TSE:9434) Investment Narrative?",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/son-massive-project-stargate-ai-010805539.html",
-      "time": "2026-06-05T01:08:05Z",
-      "titleJa": "孫氏の大規模プロジェクト、スターゲイトAI構築はソフトバンク（東証：9434）の投資物語を再定義するだろうか？",
-      "relevant": true
-    },
-    {
       "ticker": "8035.T",
       "company": "東京エレクトロン",
       "title": "A Look At Tokyo Electron (TSE:8035) Valuation After Buyback Plan Stock Split And AI Driven Momentum",
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/look-tokyo-electron-tse-8035-191020776.html",
       "time": "2026-06-04T19:10:20Z",
-      "titleJa": "東京エレクトロン（東証：8035）の自社株買い計画後の評価額とAI主導の勢いを振り返る",
-      "relevant": true
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "SoftBank Shares Plunge 10% Amid Global AI Sector Selloff",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-shares-plunge-10-amid-165103018.html",
-      "time": "2026-06-04T16:51:03Z",
-      "titleJa": "世界的なAIセクターの下落でソフトバンク株が10％急落",
+      "titleJa": "東京エレクトロン (TSE:8035) 自社株買い計画後の株式分割後の評価額と AI 主導の勢いを振り返る",
       "relevant": true
     },
     {
@@ -339,16 +359,6 @@
       "link": "https://www.offshore-technology.com/news/fluor-jv-lntp-lng-canada-phase-2-expansion/",
       "time": "2026-06-02T08:37:42Z",
       "titleJa": "Fluor JV がカナダの LNG 第 2 段階拡張用に LNTP を受領",
-      "relevant": false
-    },
-    {
-      "ticker": "6857.T",
-      "company": "アドバンテスト",
-      "title": "Keysight Stock Rises 113.2% in the Past Year: How to Play the Stock",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/keysight-stock-rises-113-2-134300302.html",
-      "time": "2026-06-01T13:43:00Z",
-      "titleJa": "キーサイトの株価は過去 1 年間で 113.2% 上昇: 株の遊び方",
       "relevant": false
     }
   ]
