@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-08",
+  "updated": "2026-06-09",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^GSPC",
+      "ticker": "^DJI",
       "company": "経済",
-      "title": "Dow Jones Futures Due As Iran Attacks Israel; Market Rally Faces First Real Test",
+      "title": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
-      "time": "2026-06-07T21:55:52Z",
-      "titleJa": "イランがイスラエルを攻撃する中、ダウジョーンズ先物は期日を迎える。市場の上昇は最初の本当の試練に直面する"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Technology ETF Showdown: Is SOXX or IYW the Better Buy for Investors Right Now?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/06/07/technology-etf-showdown-is-soxx-or-iyw-the-better-buy-for-investors-right-now/",
-      "time": "2026-06-07T21:10:41Z",
-      "titleJa": "テクノロジー ETF 対決: 投資家にとって今、SOXX と IYW のどちらを買うのが良いでしょうか?"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-comments-micron-nvidia-sandisk/?src=A00220&yptr=yahoo",
+      "time": "2026-06-08T22:09:54Z",
+      "titleJa": "ダウ・ジョーンズ先物：トランプ大統領とイランのコメントがテクノロジーの反発を招く。 Apple、Micron、Nvidia、Sandisk、Tesla は大きな推進者です"
     },
     {
       "ticker": "^IXIC",
       "company": "経済",
-      "title": "Market Rout Leaves Wall Street Bracing for Rockier Times",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/market-rout-leaves-wall-street-bracing-for-rockier-times-41feee60?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-07T21:00:00Z",
-      "titleJa": "市場の暴落でウォール街の緊張感がなくなり、より不安定な時代へ"
+      "title": "Stock Market Today, June 8: SoFi Technologies Rises as Continued Innovation Draws Institutional Buying",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/08/stock-market-today-june-8-sofi-technologies-rises-as-continued-innovation-draws-institutional-buying/",
+      "time": "2026-06-08T22:07:22Z",
+      "titleJa": "今日の株式市場、6月8日: 継続的なイノベーションが機関投資家の買いを呼び込み、SoFiテクノロジーが上昇"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "How to buy SpaceX shares as its blockbuster IPO readies for liftoff",
+      "publisher": "CBS News",
+      "link": "https://www.cbsnews.com/news/spacex-ipo-how-to-buy-stock/",
+      "time": "2026-06-08T22:04:20Z",
+      "titleJa": "SpaceX の大ヒット IPO がリフトオフの準備が整う中、SpaceX 株を購入する方法"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Time Is Running Out to Lock In This Financial Stock's Sky-High Yield",
+      "title": "After Skyrocketing 340% in Just 12 Months, Is Marvell Technology Stock Still a Good Buy?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/07/time-is-running-out-to-lock-in-this-financial-stoc/",
-      "time": "2026-06-07T19:20:00Z",
-      "titleJa": "この金融株の超高利回りを確定させるには時間がなくなりつつある"
+      "link": "https://www.fool.com/investing/2026/06/08/after-skyrocketing-340-in-just-12-months-is-marvel/",
+      "time": "2026-06-08T21:35:00Z",
+      "titleJa": "わずか 12 か月で 340% 急騰したマーベル テクノロジー株はまだ買いやすいでしょうか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "1 Costly Mistake Too Many Investors Make With the Vanguard S&P 500 ETF (VOO)",
+      "title": "Stock Market Today, June 8: Apple Falls After Unveiling AI Siri and Apple Intelligence at WWDC",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/07/mistake-investors-make-vanguard-sp-500-etf-voo/",
-      "time": "2026-06-07T19:05:00Z",
-      "titleJa": "1 あまりにも多くの投資家がバンガード S&P 500 ETF (VOO) で犯す、大きな間違い"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/08/stock-market-today-june-8-apple-falls-after-unveiling-ai-siri-and-apple-intelligence-at-wwdc/",
+      "time": "2026-06-08T21:29:10Z",
+      "titleJa": "今日の株式市場、6 月 8 日: WWDC で AI Siri と Apple Intelligence を発表した後、Apple が下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Is VEA the Smartest Investment You Can Make Right Now?",
+      "title": "Stock Market Today, June 8: Intel Surges on Reported Google AI Chip Foundry Order",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/07/is-vea-the-smartest-investment-you-can-make-right/",
-      "time": "2026-06-07T18:43:00Z",
-      "titleJa": "VEA は今できる最も賢明な投資ですか?"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/08/stock-market-today-june-8-intel-surges-on-reported-google-ai-chip-foundry-order/",
+      "time": "2026-06-08T21:23:45Z",
+      "titleJa": "今日の株式市場、6 月 8 日: Google AI チップ ファウンドリの注文の報告を受けてインテルが急騰"
     }
   ]
 }
