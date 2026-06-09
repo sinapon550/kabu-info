@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-09",
+  "updated": "2026-06-10",
   "summary": "",
   "headlines": [
     {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures Fall On Iran News After Market Whipsaws; CPI Inflation On Tap",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-whipsaws-ai-fears-trump-iran-comments-cpi-inflation/?src=A00220&yptr=yahoo",
+      "time": "2026-06-09T22:06:29Z",
+      "titleJa": "市場のホイップソーを受けてダウジョーンズ先物はイランニュースで下落。 CPIインフレオンタップ"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, June 9: American Airlines Group Rises on Sustainable Fuel Deal",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-american-airlines-group-rises-on-sustainable-fuel-deal/",
+      "time": "2026-06-09T22:00:14Z",
+      "titleJa": "今日の株式市場、6月9日: アメリカン航空グループ、持続可能な燃料取引で上昇"
+    },
+    {
+      "ticker": "JPY=X",
+      "company": "経済",
+      "title": "Institutional Investors Drive Yen Short Bets to Highest Level Since 2024",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/yen-short-positions-highest-since-2024/",
+      "time": "2026-06-09T22:00:00Z",
+      "titleJa": "機関投資家が円ショートベットを2024年以来最高水準に引き上げる"
+    },
+    {
       "ticker": "^DJI",
       "company": "経済",
-      "title": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-comments-micron-nvidia-sandisk/?src=A00220&yptr=yahoo",
-      "time": "2026-06-08T22:09:54Z",
-      "titleJa": "ダウ・ジョーンズ先物：トランプ大統領とイランのコメントがテクノロジーの反発を招く。 Apple、Micron、Nvidia、Sandisk、Tesla は大きな推進者です"
+      "title": "Stock market today: S&P 500, Nasdaq futures fall as US launches strikes against Iran",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-futures-fall-as-us-launches-strikes-against-iran-215056688.html",
+      "time": "2026-06-09T21:50:56Z",
+      "titleJa": "今日の株式市場：米国がイランに対する攻撃を開始したため、S&P 500、ナスダック先物は下落"
     },
     {
       "ticker": "^IXIC",
       "company": "経済",
-      "title": "Stock Market Today, June 8: SoFi Technologies Rises as Continued Innovation Draws Institutional Buying",
+      "title": "Stock Market Today, June 9: Apple Falls as Siri AI Update Raises iPhone Upgrade Questions",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/08/stock-market-today-june-8-sofi-technologies-rises-as-continued-innovation-draws-institutional-buying/",
-      "time": "2026-06-08T22:07:22Z",
-      "titleJa": "今日の株式市場、6月8日: 継続的なイノベーションが機関投資家の買いを呼び込み、SoFiテクノロジーが上昇"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "How to buy SpaceX shares as its blockbuster IPO readies for liftoff",
-      "publisher": "CBS News",
-      "link": "https://www.cbsnews.com/news/spacex-ipo-how-to-buy-stock/",
-      "time": "2026-06-08T22:04:20Z",
-      "titleJa": "SpaceX の大ヒット IPO がリフトオフの準備が整う中、SpaceX 株を購入する方法"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-apple-falls-as-siri-ai-update-raises-iphone-upgrade-questions/",
+      "time": "2026-06-09T21:40:57Z",
+      "titleJa": "今日の株式市場、6月9日: Siri AIのアップデートでiPhoneのアップグレードに疑問が生じ、Appleが下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "After Skyrocketing 340% in Just 12 Months, Is Marvell Technology Stock Still a Good Buy?",
+      "title": "Stock Market Today, June 9: Aurora Innovation Falls After Uber Block Sale Weighs on Autonomous Trucking Stocks",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/08/after-skyrocketing-340-in-just-12-months-is-marvel/",
-      "time": "2026-06-08T21:35:00Z",
-      "titleJa": "わずか 12 か月で 340% 急騰したマーベル テクノロジー株はまだ買いやすいでしょうか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, June 8: Apple Falls After Unveiling AI Siri and Apple Intelligence at WWDC",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/08/stock-market-today-june-8-apple-falls-after-unveiling-ai-siri-and-apple-intelligence-at-wwdc/",
-      "time": "2026-06-08T21:29:10Z",
-      "titleJa": "今日の株式市場、6 月 8 日: WWDC で AI Siri と Apple Intelligence を発表した後、Apple が下落"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, June 8: Intel Surges on Reported Google AI Chip Foundry Order",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/08/stock-market-today-june-8-intel-surges-on-reported-google-ai-chip-foundry-order/",
-      "time": "2026-06-08T21:23:45Z",
-      "titleJa": "今日の株式市場、6 月 8 日: Google AI チップ ファウンドリの注文の報告を受けてインテルが急騰"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-aurora-innovation-falls-after-uber-block-sale-weighs-on-autonomous-trucking-stocks/",
+      "time": "2026-06-09T21:39:21Z",
+      "titleJa": "今日の株式市場、6月9日：ウーバーの一括セールが自動運転トラック株の重しとなり、オーロラ・イノベーションが下落"
     }
   ]
 }
