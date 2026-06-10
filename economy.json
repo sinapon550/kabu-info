@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-10",
+  "updated": "2026-06-11",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Fall On Iran News After Market Whipsaws; CPI Inflation On Tap",
+      "title": "Dow Jones Futures Fall As Trump Attacks Iran, Oracle Tumbles Late; SpaceX IPO On Launch Pad",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-whipsaws-ai-fears-trump-iran-comments-cpi-inflation/?src=A00220&yptr=yahoo",
-      "time": "2026-06-09T22:06:29Z",
-      "titleJa": "市場のホイップソーを受けてダウジョーンズ先物はイランニュースで下落。 CPIインフレオンタップ"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-fears-trump-oracle-earnings-spacex-ipo/?src=A00220&yptr=yahoo",
+      "time": "2026-06-10T22:47:01Z",
+      "titleJa": "トランプ大統領のイラン攻撃でダウジョーンズ先物は下落、オラクルは遅れて下落。 SpaceX が発射台で IPO"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 9: American Airlines Group Rises on Sustainable Fuel Deal",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-american-airlines-group-rises-on-sustainable-fuel-deal/",
-      "time": "2026-06-09T22:00:14Z",
-      "titleJa": "今日の株式市場、6月9日: アメリカン航空グループ、持続可能な燃料取引で上昇"
+      "title": "S&P 500, Nasdaq, Dow Drop As US-Iran War Jitters, Inflation Risk Spur Tech Selloffs  — SMCI, AMZN, OPEN, SEGG, TSLA In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-drop-as-us-iran-war-jitters-inflation-risk-spur-tech-selloffs-smci-amzn-open-segg-tsla-in-focus/cZ06yd5R7cQ",
+      "time": "2026-06-10T22:31:59Z",
+      "titleJa": "米国とイランの戦争不安でS&P 500、ナスダック、ダ​​ウが下落、インフレリスクがハイテク株の下落に拍車をかける - SMCI、AMZN、OPEN、SEGG、TSLAが注目"
     },
     {
-      "ticker": "JPY=X",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Institutional Investors Drive Yen Short Bets to Highest Level Since 2024",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/yen-short-positions-highest-since-2024/",
-      "time": "2026-06-09T22:00:00Z",
-      "titleJa": "機関投資家が円ショートベットを2024年以来最高水準に引き上げる"
+      "title": "Stock Market Today, June 10: Broadcom Falls as Strong AI Quarter Tests Stock’s Premium Valuation",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-broadcom-falls-as-strong-ai-quarter-tests-stock-s-premium-valuation/",
+      "time": "2026-06-10T22:11:12Z",
+      "titleJa": "今日の株式市場、6 月 10 日: 好調な AI 四半期が株価のプレミアム評価を試す中、ブロードコムが下落"
     },
     {
       "ticker": "^DJI",
       "company": "経済",
-      "title": "Stock market today: S&P 500, Nasdaq futures fall as US launches strikes against Iran",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-futures-fall-as-us-launches-strikes-against-iran-215056688.html",
-      "time": "2026-06-09T21:50:56Z",
-      "titleJa": "今日の株式市場：米国がイランに対する攻撃を開始したため、S&P 500、ナスダック先物は下落"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "Stock Market Today, June 9: Apple Falls as Siri AI Update Raises iPhone Upgrade Questions",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-apple-falls-as-siri-ai-update-raises-iphone-upgrade-questions/",
-      "time": "2026-06-09T21:40:57Z",
-      "titleJa": "今日の株式市場、6月9日: Siri AIのアップデートでiPhoneのアップグレードに疑問が生じ、Appleが下落"
+      "title": "The Dow Just Had Its Worst Day of 2026",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-06-10-2026/card/the-dow-just-had-its-worst-day-of-2026-7TqI0oZBkhjbQGxl56QK?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-10T22:07:31Z",
+      "titleJa": "ダウは2026年最悪の日を迎えた"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 9: Aurora Innovation Falls After Uber Block Sale Weighs on Autonomous Trucking Stocks",
+      "title": "Stock Market Today, June 10: Robinhood Markets Rises on IPO Underwriting Announcement",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-aurora-innovation-falls-after-uber-block-sale-weighs-on-autonomous-trucking-stocks/",
-      "time": "2026-06-09T21:39:21Z",
-      "titleJa": "今日の株式市場、6月9日：ウーバーの一括セールが自動運転トラック株の重しとなり、オーロラ・イノベーションが下落"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-robinhood-markets-rises-on-ipo-underwriting-announcement/",
+      "time": "2026-06-10T22:01:46Z",
+      "titleJa": "今日の株式市場、6月10日: IPO引受発表でロビンフッド市場が上昇"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "The Model 3 Era at Rivian Begins. Its Lower-Price EV Is Here.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/rivian-stock-price-r2-delivery-tesla-05c2390c?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-10T21:43:00Z",
+      "titleJa": "Rivian の Model 3 時代が始まります。その低価格EVが登場。"
     }
   ]
 }

@@ -1,145 +1,285 @@
 {
-  "updated": "2026-06-10",
+  "updated": "2026-06-11",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Dow Jones Futures Fall On Iran News After Market Whipsaws; CPI Inflation On Tap",
+      "title": "Dow Jones Futures Fall As Trump Attacks Iran, Oracle Tumbles Late; SpaceX IPO On Launch Pad",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-whipsaws-ai-fears-trump-iran-comments-cpi-inflation/?src=A00220&yptr=yahoo",
-      "time": "2026-06-09T22:06:29Z",
-      "titleJa": "市場のホイップソーを受けてダウジョーンズ先物はイランニュースで下落。 CPIインフレオンタップ",
-      "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Dow Jones Futures Fall On Iran News After Market Whipsaws; CPI Inflation On Tap",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-whipsaws-ai-fears-trump-iran-comments-cpi-inflation/?src=A00220&yptr=yahoo",
-      "time": "2026-06-09T22:06:29Z",
-      "titleJa": "市場のホイップソーを受けてダウジョーンズ先物はイランニュースで下落。 CPIインフレオンタップ",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Skyworks Solutions, Western Digital, and Teradyne Shares Are Falling, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/skyworks-solutions-western-digital-teradyne-215814576.html",
-      "time": "2026-06-09T21:58:14Z",
-      "titleJa": "Skyworks Solutions、Western Digital、Teradyne の株価が下落している、知っておくべきこと",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Seagate, Amtech, and Lattice Semiconductor Shares Are Falling, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-amtech-lattice-semiconductor-shares-215014522.html",
-      "time": "2026-06-09T21:50:14Z",
-      "titleJa": "Seagate、Amtech、Lattice Semiconductor の株価が下落している、知っておくべきこと",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Micron stock gets a shocking Wall Street price target",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/wells-fargo-raises-micron-stock-price-target",
-      "time": "2026-06-09T21:47:00Z",
-      "titleJa": "マイクロン株、ウォール街で衝撃的な目標株価を設定",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-fears-trump-oracle-earnings-spacex-ipo/?src=A00220&yptr=yahoo",
+      "time": "2026-06-10T22:36:21Z",
+      "titleJa": "トランプ大統領のイラン攻撃でダウジョーンズ先物は下落、オラクルは遅れて下落。 SpaceX が発射台で IPO",
       "relevant": true
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Why Signet Jewelers Stock Triumphed on Tuesday",
+      "title": "Iren's Ability to Rapidly Scale Its Data Center Footprint Makes It a Long-Term Winner",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/09/why-signet-jewelers-stock-triumphed-on-tuesday/",
-      "time": "2026-06-09T21:43:48Z",
-      "titleJa": "シグネット・ジュエラーズ株が火曜日に上昇した理由",
+      "link": "https://www.fool.com/investing/2026/06/10/irens-ability-to-rapidly-scale-its-data-center-foo/",
+      "time": "2026-06-10T22:33:00Z",
+      "titleJa": "Iren はデータセンターの設置面積を急速に拡張する能力により長期的な勝者となる",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Wall Street CIO: The AI Trade is “Technically Unsustainable.” Buy These Two Industries Instead.",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/10/wall-street-cio-the-ai-trade-is-technically-unsustainable-buy-these-two-industries-instead/",
+      "time": "2026-06-10T22:28:51Z",
+      "titleJa": "ウォール街 CIO: AI 貿易は「技術的に持続不可能」です。代わりにこれら 2 つの業界を購入してください。",
       "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Chip Stocks Tumble in Roller-Coaster Market",
+      "title": "Wall Street CIO: The AI Trade is “Technically Unsustainable.” Buy These Two Industries Instead.",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/10/wall-street-cio-the-ai-trade-is-technically-unsustainable-buy-these-two-industries-instead/",
+      "time": "2026-06-10T22:28:51Z",
+      "titleJa": "ウォール街 CIO: AI 貿易は「技術的に持続不可能」です。代わりにこれら 2 つの業界を購入してください。",
+      "relevant": false
+    },
+    {
+      "ticker": "8035.T",
+      "company": "東京エレクトロン",
+      "title": "Teradyne And Tokyo Electron Target AI Chiplet Test As Adoption Watchpoint",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-tokyo-electron-target-ai-221407126.html",
+      "time": "2026-06-10T22:14:07Z",
+      "titleJa": "テラダインと東京エレクトロニクス、AI チップレットのテストを導入の監視ポイントとしてターゲットに",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Stock Market Today, June 10: Broadcom Falls as Strong AI Quarter Tests Stock’s Premium Valuation",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-broadcom-falls-as-strong-ai-quarter-tests-stock-s-premium-valuation/",
+      "time": "2026-06-10T22:11:12Z",
+      "titleJa": "今日の株式市場、6 月 10 日: 好調な AI 四半期が株価のプレミアム評価を試す中、ブロードコムが下落",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "The Spill: Is Broadcom (AVGO) the Other AI Trade?",
+      "publisher": "IPO-Edge.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spill-broadcom-avgo-other-ai-214117164.html",
+      "time": "2026-06-10T21:41:17Z",
+      "titleJa": "流出: Broadcom (AVGO) はもう 1 つの AI 取引ですか?",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "Stocks to Watch Wednesday Recap: Cracker Barrel, SoftBank, Super Micro",
       "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-09-2026/card/chip-stocks-tumble-in-roller-coaster-market-Css8sUSiwG0Qe7bX4ynZ?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-09T21:28:53Z",
-      "titleJa": "ジェットコースター市場でチップ株が下落",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-06-10-2026/card/stocks-to-watch-wednesday-softbank-super-micro-cracker-barrel-vCnEQmMlF5vodzyAxxgP?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-10T21:37:46Z",
+      "titleJa": "水曜日の注目株まとめ：クラッカーバレル、ソフトバンク、スーパーマイクロ",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Stocks to Watch Wednesday Recap: Cracker Barrel, SoftBank, Super Micro",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-06-10-2026/card/stocks-to-watch-wednesday-softbank-super-micro-cracker-barrel-vCnEQmMlF5vodzyAxxgP?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-10T21:37:46Z",
+      "titleJa": "水曜日の注目株まとめ：クラッカーバレル、ソフトバンク、スーパーマイクロ",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Stocks to Watch Wednesday Recap: Cracker Barrel, SoftBank, Super Micro",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-06-10-2026/card/stocks-to-watch-wednesday-softbank-super-micro-cracker-barrel-vCnEQmMlF5vodzyAxxgP?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-10T21:37:46Z",
+      "titleJa": "水曜日の注目株まとめ：クラッカーバレル、ソフトバンク、スーパーマイクロ",
       "relevant": false
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Stock Market Today: Nasdaq Ends Off Steeper Loss, Dow Rises After Downturn; Credo Technology Advances",
+      "title": "If You Invested $30,000 in Sandisk Stock at Its Spinoff, Here's How Much You'd Have Today (Hint: You'd Be a Millionaire)",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/10/if-you-invested-30000-in-sandisk-stock-at-its-spin/",
+      "time": "2026-06-10T20:48:00Z",
+      "titleJa": "スピンオフ時にサンディスク株に 30,000 ドル投資した場合、今日の保有額は次のとおりです (ヒント: あなたは億万長者になれるでしょう)",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Applied Materials, Other Chip Gear Stocks Hit Record Highs",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-micron-sandisk/?src=A00220&yptr=yahoo",
-      "time": "2026-06-09T20:52:14Z",
-      "titleJa": "今日の株式市場: ナスダックは大幅な下落から脱し、ダウは下落後に上昇。 Credo テクノロジーの進歩",
+      "link": "https://www.investors.com/news/technology/applied-materials-chip-gear-peers-record-highs/?src=A00220&yptr=yahoo",
+      "time": "2026-06-10T20:46:40Z",
+      "titleJa": "アプライドマテリアルズ、その他チップギア株が過去最高値を更新",
       "relevant": false
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "There's more 'adoption of options' among retail traders: Schwab",
+      "title": "Why Sandisk Stock Fell Today After Being Up Big",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/10/why-sandisk-stock-fell-today-after-being-up-big/",
+      "time": "2026-06-10T20:42:42Z",
+      "titleJa": "なぜサンディスク株は大きく上昇した後、今日下落したのか",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Taiwan Semiconductor Sales Rise 30% In May, Remain On Target",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/news/technology/tsm-stock-tsmc-may-2026-sales/?src=A00220&yptr=yahoo",
+      "time": "2026-06-10T20:22:48Z",
+      "titleJa": "台湾半導体、5月の売上高は30％増加、目標を維持",
+      "relevant": true
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "SoftBank Drops 9.7% As $6 Billion OpenAI Loan Talks Stall",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-drops-9-7-6-195158191.html",
+      "time": "2026-06-10T19:51:58Z",
+      "titleJa": "ソフトバンク、60億ドルのOpenAI融資交渉行き詰まりで9.7％下落",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "ASML Surges 64%, Yet Trades At Cheapest Relative Valuation In A Decade",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-surges-64-yet-trades-194713064.html",
+      "time": "2026-06-10T19:47:13Z",
+      "titleJa": "ASMLは64%急騰しながらも、過去10年間で最も安い相対評価で取引されている",
+      "relevant": true
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "ASML Surges 64%, Yet Trades At Cheapest Relative Valuation In A Decade",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-surges-64-yet-trades-194713064.html",
+      "time": "2026-06-10T19:47:13Z",
+      "titleJa": "ASMLは64%急騰しながらも、過去10年間で最も安い相対評価で取引されている",
+      "relevant": false
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Even Japan's Big Banks are building a digital dollar",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/theres-more-adoption-of-options-among-retail-traders-schwab-205207901.html",
-      "time": "2026-06-09T20:52:07Z",
-      "titleJa": "小売りトレーダーの間で「オプションの採用」が増えている：シュワブ氏",
+      "link": "https://finance.yahoo.com/video/even-japans-big-banks-building-183000102.html",
+      "time": "2026-06-10T18:30:00Z",
+      "titleJa": "日本の大手銀行さえもデジタルドルを構築している",
+      "relevant": false
+    },
+    {
+      "ticker": "9433.T",
+      "company": "KDDI",
+      "title": "Toyota backs Tier IV in level 4 autonomous vehicle push",
+      "publisher": "Just Auto",
+      "link": "https://www.just-auto.com/news/toyota-tier-iv-l4-autonomous-vehicle-push/",
+      "time": "2026-06-10T18:14:09Z",
+      "titleJa": "トヨタ、レベル4自動運転車推進でTier IVを支援",
       "relevant": false
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Micron Selloff Was a ‘Buying Opportunity’—But the Stock Continues to Fall",
+      "title": "The Market Is Giddy. Is Your Portfolio at Risk?",
       "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/micron-stock-price-buy-selloff-905f0f29?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-09T20:52:00Z",
-      "titleJa": "マイクロンの下落は「買いの機会」だったが、株価は下落し続けている",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Micron Selloff Was a ‘Buying Opportunity’—But the Stock Continues to Fall",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/micron-stock-price-buy-selloff-905f0f29?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-09T20:52:00Z",
-      "titleJa": "マイクロンの下落は「買いの機会」だったが、株価は下落し続けている",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Apple's iOS 27 Reveals New Clues About $2,000 Foldable iPhone",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apples-ios-27-reveals-clues-200430046.html",
-      "time": "2026-06-09T20:04:30Z",
-      "titleJa": "AppleのiOS 27で2000ドルの折りたたみiPhoneに関する新たな手がかりが明らかに",
+      "link": "https://www.barrons.com/articles/panic-euphoria-index-stock-price-e00ffbbe?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-10T17:41:00Z",
+      "titleJa": "マーケットは目まぐるしい。あなたのポートフォリオは危険にさらされていますか?",
       "relevant": false
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "Elon Musk Says He’s Building a Chip “2 to 3 Times” Better Than NVIDIA at 10% The Cost. Is He Bluffing?",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/09/elon-musk-says-hes-building-a-chip-2-to-3-times-better-than-nvidia-at-10-the-cost-is-he-bluffing/",
-      "time": "2026-06-09T19:30:41Z",
-      "titleJa": "イーロン・マスク氏は、NVIDIA よりも 10% のコストで「2 ～ 3 倍」優れたチップを開発していると述べています。彼はハッタリをしているのか？",
+      "title": "SoftBank tried to borrow $6B against its OpenAI stake — then shares plunged 9.7%. Is the AI boom running into reality?",
+      "publisher": "Moneywise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-tried-borrow-6b-against-172000100.html",
+      "time": "2026-06-10T17:20:00Z",
+      "titleJa": "ソフトバンクはOpenAI株を担保に60億ドルを借りようとしたが、その後株価は9.7％急落した。 AIブームは現実のものになるのか？",
       "relevant": false
     },
     {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Is Marvell the Next Micron?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/09/is-marvell-the-next-micron/",
-      "time": "2026-06-09T19:10:00Z",
-      "titleJa": "マーベルは次のマイクロンになるのか？",
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "Teradyne's AI Push Gains Traction: Is the Growth Thesis Strengthening?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/teradynes-ai-push-gains-traction-171700757.html",
+      "time": "2026-06-10T17:17:00Z",
+      "titleJa": "テラダインの AI 推進が勢いを増す: 成長説は強化されているのか?",
       "relevant": false
+    },
+    {
+      "ticker": "8035.T",
+      "company": "東京エレクトロン",
+      "title": "Teradyne's AI Push Gains Traction: Is the Growth Thesis Strengthening?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/teradynes-ai-push-gains-traction-171700757.html",
+      "time": "2026-06-10T17:17:00Z",
+      "titleJa": "テラダインの AI 推進が勢いを増す: 成長説は強化されているのか?",
+      "relevant": false
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Japan's megabanks plan a joint Yen stablecoin",
+      "publisher": "CoinDesk",
+      "link": "http://videos.coindesk.com/previews/lHmpBixj",
+      "time": "2026-06-10T16:59:44Z",
+      "titleJa": "日本のメガバンクが共同円ステーブルコインを計画",
+      "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Is Honda Motor (TSE:7267) Undervalued After Recent Share Price Swings And Conflicting Cash Flow Signals",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/honda-motor-tse-7267-undervalued-151347268.html",
+      "time": "2026-06-10T15:13:47Z",
+      "titleJa": "最近の株価変動と相反するキャッシュフローシグナルの後、ホンダモーター (東証:7267) は過小評価されているのか",
+      "relevant": true
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Is It Time To Reassess Honda Motor (TSE:7267) After Its Recent Share Price Rebound?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/time-reassess-honda-motor-tse-051033226.html",
+      "time": "2026-06-10T05:10:33Z",
+      "titleJa": "ホンダ（東証：7267）の最近の株価反発を受けて再評価の時期が来たのか？",
+      "relevant": true
+    },
+    {
+      "ticker": "6981.T",
+      "company": "村田製作所",
+      "title": "Is Murata (TSE:6981) Quietly Reinforcing Its Automotive Moat With Miniaturized High‑Voltage MLCCs?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/murata-tse-6981-quietly-reinforcing-031442837.html",
+      "time": "2026-06-10T03:14:42Z",
+      "titleJa": "村田製作所 (東証:6981) は小型高耐圧 MLCC で静かに自動車の堀を強化しているのか?",
+      "relevant": true
+    },
+    {
+      "ticker": "9434.T",
+      "company": "ソフトバンク",
+      "title": "SoftBank's attempt to get $6 billion OpenAI margin loan stalls, Bloomberg News reports",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/softbanks-attempt-6-billion-openai-015639259.html",
+      "time": "2026-06-10T01:56:39Z",
+      "titleJa": "ソフトバンクが60億ドルのOpenAIマージンローンを獲得しようとして計画が停滞、ブルームバーグニュースが報じた",
+      "relevant": true
     },
     {
       "ticker": "6857.T",
@@ -150,26 +290,6 @@
       "time": "2026-06-09T19:09:27Z",
       "titleJa": "アドバンテスト（東証：6857）、複数年にわたり好調な株価が一時停止し、評価額をチェック",
       "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "BofA Remains Bullish on ASML Holding (ASML) – Here’s Why",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-remains-bullish-asml-holding-172426358.html",
-      "time": "2026-06-09T17:24:26Z",
-      "titleJa": "BofA は ASML ホールディング (ASML) に対して強気なまま – その理由は次のとおりです",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "One Factory to Rule Them All: How Musk’s Terafab Could Rewrite the Scale of U.S. Chip Production",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/09/one-factory-to-rule-them-all-how-musks-terafab-could-rewrite-the-scale-of-u-s-chip-production/",
-      "time": "2026-06-09T16:47:24Z",
-      "titleJa": "1 つの工場ですべてを支配: マスク氏のテラファブは米国のチップ生産規模をどのように書き換えられるのか",
-      "relevant": false
     },
     {
       "ticker": "9434.T",
@@ -192,48 +312,8 @@
       "relevant": true
     },
     {
-      "ticker": "2502.T",
-      "company": "アサヒグループHD",
-      "title": "A Look At Asahi Group Holdings (TSE:2502) Valuation After Prolonged Share Price Weakness",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/look-asahi-group-holdings-tse-130939198.html",
-      "time": "2026-06-09T13:09:39Z",
-      "titleJa": "長期にわたる株価低迷後のアサヒグループホールディングス（東証：2502）の評価額を振り返​​る",
-      "relevant": true
-    },
-    {
-      "ticker": "8035.T",
-      "company": "東京エレクトロン",
-      "title": "Taiwan Eyes Curbs on AI Chip Sales to China to Align With US",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/taiwan-eyes-curbs-ai-chip-125854688.html",
-      "time": "2026-06-09T12:58:54Z",
-      "titleJa": "台湾、米国と歩調を合わせるため中国へのAIチップ販売抑制に注目",
-      "relevant": false
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Canada's Merchandise Trade Surplus Widens as Expected; Surplus With U.S. Expands to Largest Level Since February 2025",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/economy/policy/articles/canada-apos-merchandise-trade-surplus-124840334.html",
-      "time": "2026-06-09T12:48:40Z",
-      "titleJa": "カナダの商品貿易黒字は予想通り拡大。米国との黒字は2025年2月以来最大レベルに拡大",
-      "relevant": false
-    },
-    {
       "ticker": "285A.T",
       "company": "キオクシア",
-      "title": "Chip Stocks Rebound Amid Dip Buying",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060926/card/chip-stocks-rebound-amid-dip-buying-JeqOxhaeDRG3PCt6Nx6Y?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-09T09:04:27Z",
-      "titleJa": "押し目買いのなかチップ株は反発",
-      "relevant": false
-    },
-    {
-      "ticker": "8035.T",
-      "company": "東京エレクトロン",
       "title": "Chip Stocks Rebound Amid Dip Buying",
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060926/card/chip-stocks-rebound-amid-dip-buying-JeqOxhaeDRG3PCt6Nx6Y?siteid=yhoof2&yptr=yahoo",
@@ -258,28 +338,8 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/fanuc-tse-6954-still-attractively-080856767.html",
       "time": "2026-06-09T08:08:56Z",
-      "titleJa": "ファナック (東証:6954) は、最近の株価低迷の後でも依然として魅力的な価値があるのでしょうか?",
+      "titleJa": "ファナック (東証:6954) は最近の株価低迷後も依然として魅力的な価値があるか?",
       "relevant": true
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Nikkei Slides 3.9% As AI Trade Breaks",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/nikkei-slides-3-9-ai-195506042.html",
-      "time": "2026-06-08T19:55:06Z",
-      "titleJa": "AI貿易のブレイクで日経平均株価は3.9%下落",
-      "relevant": false
-    },
-    {
-      "ticker": "9434.T",
-      "company": "ソフトバンク",
-      "title": "Nikkei Slides 3.9% As AI Trade Breaks",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/nikkei-slides-3-9-ai-195506042.html",
-      "time": "2026-06-08T19:55:06Z",
-      "titleJa": "AI貿易のブレイクで日経平均株価は3.9%下落",
-      "relevant": false
     },
     {
       "ticker": "285A.T",
@@ -302,16 +362,6 @@
       "relevant": false
     },
     {
-      "ticker": "6857.T",
-      "company": "アドバンテスト",
-      "title": "Should You Buy, Sell, or Hold TER Stock After a 312% Rise in One Year?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-ter-stock-170900980.html",
-      "time": "2026-06-08T17:09:00Z",
-      "titleJa": "1 年で 312% 上昇した TER 株は買うべきか、売るべきか、それとも保有すべきか?",
-      "relevant": false
-    },
-    {
       "ticker": "3436.T",
       "company": "SUMCO",
       "title": "Tech Rout Visits Asian Stock Markets",
@@ -319,26 +369,6 @@
       "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-rout-visits-asian-stock-103728805.html",
       "time": "2026-06-08T10:37:28Z",
       "titleJa": "Tech Routがアジアの株式市場を訪問",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Japanese Stocks Slide on Tech Pullback as Iran Tensions Deepen",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/japanese-stocks-slide-tech-pullback-065323285.html",
-      "time": "2026-06-08T06:53:23Z",
-      "titleJa": "イランの緊張が高まる中、ハイテク株の反動で日本株が下落",
-      "relevant": false
-    },
-    {
-      "ticker": "6981.T",
-      "company": "村田製作所",
-      "title": "These Are Two of the Hottest Japanese Stocks. Should You Consider a $1,000 Investment?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/06/two-of-the-hottest-japanese-stocks-should-you/",
-      "time": "2026-06-06T14:57:00Z",
-      "titleJa": "これらは最も注目されている日本株の2つです。 1,000 ドルの投資を検討すべきですか?",
       "relevant": false
     },
     {
@@ -362,16 +392,6 @@
       "relevant": true
     },
     {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Caliche green-lights Spindletop phase one expansion at GTS hub in Texas",
-      "publisher": "Offshore Technology",
-      "link": "https://www.offshore-technology.com/news/caliche-greenlights-spindletop-phase-1-expansion/",
-      "time": "2026-06-05T10:44:39Z",
-      "titleJa": "カリシュ、テキサス州の GTS ハブでスピンドルトップの第 1 段階拡張にゴーサインを出す",
-      "relevant": false
-    },
-    {
       "ticker": "3436.T",
       "company": "SUMCO",
       "title": "Tech Retreat, Persian Gulf Outlook Blunt Asian Stock Markets",
@@ -379,26 +399,6 @@
       "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-retreat-persian-gulf-outlook-103929223.html",
       "time": "2026-06-05T10:39:29Z",
       "titleJa": "ハイテク撤退、ペルシャ湾岸見通し鈍化アジア株式市場",
-      "relevant": false
-    },
-    {
-      "ticker": "8729.T",
-      "company": "ソニーフィナンシャルG",
-      "title": "Blackstone weighs sale of Japan payments provider SP.LINKS – report",
-      "publisher": "Electronic Payments",
-      "link": "https://www.electronicpaymentsinternational.com/news/blackstone-weighs-sale-sp-links/",
-      "time": "2026-06-04T07:07:59Z",
-      "titleJa": "ブラックストーン、日本の決済プロバイダーSP.LINKSの売却を検討 – レポート",
-      "relevant": false
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Mercedes doubles down on EVs as U.S. rivals pull back",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/automotive/mercedes-doubles-down-on-evs-as-u-s-rivals-pull-back",
-      "time": "2026-06-03T22:33:00Z",
-      "titleJa": "米国のライバルが撤退する中、メルセデスはEVに倍増する",
       "relevant": false
     }
   ]
