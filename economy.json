@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-11",
+  "updated": "2026-06-12",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Fall As Trump Attacks Iran, Oracle Tumbles Late; SpaceX IPO On Launch Pad",
+      "title": "Dow Jones Futures: Stock Market Jumps As Trump Says Iran Deal Close; SpaceX To Launch After Pricing IPO",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-fears-trump-oracle-earnings-spacex-ipo/?src=A00220&yptr=yahoo",
-      "time": "2026-06-10T22:47:01Z",
-      "titleJa": "トランプ大統領のイラン攻撃でダウジョーンズ先物は下落、オラクルは遅れて下落。 SpaceX が発射台で IPO"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-nasdaq-trump-iran-sandisk-spacex-ipo-prices-135/?src=A00220&yptr=yahoo",
+      "time": "2026-06-11T22:47:07Z",
+      "titleJa": "ダウジョーンズ先物：トランプ大統領がイランとの合意成立を表明したことで株式市場が急騰。 SpaceX、IPO価格設定後に発売へ"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P 500, Nasdaq, Dow Drop As US-Iran War Jitters, Inflation Risk Spur Tech Selloffs  — SMCI, AMZN, OPEN, SEGG, TSLA In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-drop-as-us-iran-war-jitters-inflation-risk-spur-tech-selloffs-smci-amzn-open-segg-tsla-in-focus/cZ06yd5R7cQ",
-      "time": "2026-06-10T22:31:59Z",
-      "titleJa": "米国とイランの戦争不安でS&P 500、ナスダック、ダ​​ウが下落、インフレリスクがハイテク株の下落に拍車をかける - SMCI、AMZN、OPEN、SEGG、TSLAが注目"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, June 10: Broadcom Falls as Strong AI Quarter Tests Stock’s Premium Valuation",
+      "title": "Should You Buy SpaceX on Its First Day of Trading?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-broadcom-falls-as-strong-ai-quarter-tests-stock-s-premium-valuation/",
-      "time": "2026-06-10T22:11:12Z",
-      "titleJa": "今日の株式市場、6 月 10 日: 好調な AI 四半期が株価のプレミアム評価を試す中、ブロードコムが下落"
+      "link": "https://www.fool.com/investing/2026/06/11/should-you-buy-spacex-on-its-first-day-of-trading/",
+      "time": "2026-06-11T22:30:00Z",
+      "titleJa": "SpaceXを取引初日に買うべきか?"
     },
     {
-      "ticker": "^DJI",
+      "ticker": "^IXIC",
       "company": "経済",
-      "title": "The Dow Just Had Its Worst Day of 2026",
+      "title": "Stock Market Today, June 11: Super Micro Rises as $7 Billion Financing Shifts Focus to AI Order Fulfillment",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/11/stock-market-today-june-11-super-micro-rises-as-usd7-billion-financing-shifts-focus-to-ai-order-fulfillment/",
+      "time": "2026-06-11T22:16:47Z",
+      "titleJa": "今日の株式市場、6 月 11 日: 70 億ドルの資金調達が AI 注文処理に焦点を移し、スーパーマイクロが上昇"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Volatility Is Back on Wall Street",
       "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-06-10-2026/card/the-dow-just-had-its-worst-day-of-2026-7TqI0oZBkhjbQGxl56QK?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-10T22:07:31Z",
-      "titleJa": "ダウは2026年最悪の日を迎えた"
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-11-2026/card/volatility-is-back-on-wall-street-X0XtMeWS4H49tQunqEKU?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-11T22:14:31Z",
+      "titleJa": "ウォール街にボラティリティが戻ってきた"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 10: Robinhood Markets Rises on IPO Underwriting Announcement",
+      "title": "Stock Market Today, June 11: AMC Entertainment Jumps After Completing $150 Million Equity Offering",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-robinhood-markets-rises-on-ipo-underwriting-announcement/",
-      "time": "2026-06-10T22:01:46Z",
-      "titleJa": "今日の株式市場、6月10日: IPO引受発表でロビンフッド市場が上昇"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/11/stock-market-today-june-11-amc-entertainment-jumps-after-completing-usd150-million-equity-offering/",
+      "time": "2026-06-11T22:03:35Z",
+      "titleJa": "今日の株式市場、6月11日: AMCエンターテインメントが1億5,000万ドルの株式公開を完了し急騰"
     },
     {
-      "ticker": "^GSPC",
+      "ticker": "^IXIC",
       "company": "経済",
-      "title": "The Model 3 Era at Rivian Begins. Its Lower-Price EV Is Here.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/rivian-stock-price-r2-delivery-tesla-05c2390c?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-10T21:43:00Z",
-      "titleJa": "Rivian の Model 3 時代が始まります。その低価格EVが登場。"
+      "title": "Musk's SpaceX raises $75 billion in largest IPO ever",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/musks-spacex-raises-75-billion-215239758.html",
+      "time": "2026-06-11T21:52:39Z",
+      "titleJa": "マスク氏のスペースX、史上最大のIPOで750億ドルを調達"
     }
   ]
 }
