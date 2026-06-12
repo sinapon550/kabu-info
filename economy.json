@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-12",
+  "updated": "2026-06-13",
   "summary": "",
   "headlines": [
     {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "SpaceX Just Went Public at $2.1 Trillion. Here's Where History Says the Stock Will Be in 1 Year.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/12/spacex-just-went-public-at-21-trillion-heres-where/",
+      "time": "2026-06-12T22:02:13Z",
+      "titleJa": "SpaceXは2.1兆ドルで上場したばかりです。歴史によれば、株価は1年後にはこうなるだろう。"
+    },
+    {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Stock Market Jumps As Trump Says Iran Deal Close; SpaceX To Launch After Pricing IPO",
+      "title": "Dow Jones Futures: Market Has Wild Week, 5 Stocks In Buy Areas; SpaceX's Next Test",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-nasdaq-trump-iran-sandisk-spacex-ipo-prices-135/?src=A00220&yptr=yahoo",
-      "time": "2026-06-11T22:47:07Z",
-      "titleJa": "ダウジョーンズ先物：トランプ大統領がイランとの合意成立を表明したことで株式市場が急騰。 SpaceX、IPO価格設定後に発売へ"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-week-5-stocks-buy-areas-spacex-next-test/?src=A00220&yptr=yahoo",
+      "time": "2026-06-12T22:00:01Z",
+      "titleJa": "ダウジョーンズ先物：市場は荒れた週、5銘柄が買い圏に。 SpaceX の次のテスト"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Should You Buy SpaceX on Its First Day of Trading?",
+      "title": "Why Navitas Semiconductor Stock Soared Today",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/11/should-you-buy-spacex-on-its-first-day-of-trading/",
-      "time": "2026-06-11T22:30:00Z",
-      "titleJa": "SpaceXを取引初日に買うべきか?"
+      "link": "https://www.fool.com/investing/2026/06/12/why-navitas-semiconductor-stock-soared-today/",
+      "time": "2026-06-12T21:58:13Z",
+      "titleJa": "今日ナビタスセミコンダクター株が急騰した理由"
     },
     {
       "ticker": "^IXIC",
       "company": "経済",
-      "title": "Stock Market Today, June 11: Super Micro Rises as $7 Billion Financing Shifts Focus to AI Order Fulfillment",
+      "title": "Stock Market Today, June 12: EchoStar Falls as SpaceX-Linked Rally Meets DISH DBS Payment Risk",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/11/stock-market-today-june-11-super-micro-rises-as-usd7-billion-financing-shifts-focus-to-ai-order-fulfillment/",
-      "time": "2026-06-11T22:16:47Z",
-      "titleJa": "今日の株式市場、6 月 11 日: 70 億ドルの資金調達が AI 注文処理に焦点を移し、スーパーマイクロが上昇"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "Volatility Is Back on Wall Street",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-11-2026/card/volatility-is-back-on-wall-street-X0XtMeWS4H49tQunqEKU?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-11T22:14:31Z",
-      "titleJa": "ウォール街にボラティリティが戻ってきた"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/12/stock-market-today-june-12-echostar-falls-as-spacex-linked-rally-meets-dish-dbs-payment-risk/",
+      "time": "2026-06-12T21:42:16Z",
+      "titleJa": "今日の株式市場、6月12日：SpaceX関連の集会がDISH DBSの支払いリスクに見舞われ、EchoStarが下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 11: AMC Entertainment Jumps After Completing $150 Million Equity Offering",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/11/stock-market-today-june-11-amc-entertainment-jumps-after-completing-usd150-million-equity-offering/",
-      "time": "2026-06-11T22:03:35Z",
-      "titleJa": "今日の株式市場、6月11日: AMCエンターテインメントが1億5,000万ドルの株式公開を完了し急騰"
+      "title": "Tesla, SpaceX, and the Battle to Be Musk’s Most Valuable Company",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/tesla-stock-price-spacex-musk-worth-more-21f83e7f?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-12T21:32:00Z",
+      "titleJa": "テスラ、スペースX、そしてマスク氏の最も価値ある企業になるための戦い"
     },
     {
-      "ticker": "^IXIC",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Musk's SpaceX raises $75 billion in largest IPO ever",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/musks-spacex-raises-75-billion-215239758.html",
-      "time": "2026-06-11T21:52:39Z",
-      "titleJa": "マスク氏のスペースX、史上最大のIPOで750億ドルを調達"
+      "title": "Stock Market Today, June 12: AST SpaceMobile Drops on Space Stock Shakeout After SpaceX Debut",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/12/stock-market-today-june-12-ast-spacemobile-drops-on-space-stock-shakeout-after-spacex-debut/",
+      "time": "2026-06-12T21:29:36Z",
+      "titleJa": "今日の株式市場、6月12日：スペースXデビュー後の宇宙株淘汰でASTスペースモバイルが下落"
     }
   ]
 }
