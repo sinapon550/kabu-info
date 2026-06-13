@@ -1,94 +1,174 @@
 {
-  "updated": "2026-06-13",
+  "updated": "2026-06-14",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-trading-220520438.html",
-      "time": "2026-06-12T22:05:20Z",
-      "titleJa": "クアルコム (QCOM) 株が今日上昇している理由",
+      "title": "U.S. Interest Expense Just Hit $1.6 Trillion Annually. Peter Schiff Warns a Dollar Crisis Arrives When It Hits $2 Trillion.",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/13/u-s-interest-expense-just-hit-1-6-trillion-annually-peter-schiff-warns-a-dollar-crisis-arrives-when-it-hits-2-trillion/",
+      "time": "2026-06-13T21:32:46Z",
+      "titleJa": "米国の利息支出は年間1.6兆ドルに達しました。ピーター・シフ氏は、2兆ドルに達するとドル危機が到来すると警告する。",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "SpaceX Just Went Public at $2.1 Trillion. Here's Where History Says the Stock Will Be in 1 Year.",
+      "title": "Fintech Stock Block Is Trying to Prove That the Ultimate Cryptocurrency Has a Real Use Case, But Will It Work?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/12/spacex-just-went-public-at-21-trillion-heres-where/",
-      "time": "2026-06-12T22:02:13Z",
-      "titleJa": "SpaceXは2.1兆ドルで上場したばかりです。歴史によれば、株価は1年後にはこうなるだろう。",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Why Goldman Is Cautious on Micron Stock Ahead of Earnings",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/micron-stock-price-target-goldman-earnings-f5f6475b?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-12T20:49:00Z",
-      "titleJa": "ゴールドマンが決算を控えてマイクロン株に慎重な理由",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Day One For SpaceX Is In the Books. It Was Remarkably Unremarkable.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/livecoverage/spacex-ipo-stock-price-spcx-elon-musk/card/day-one-for-spacex-is-in-the-books-it-was-remarkably-unremarkable--ElXwfo2Uw8sLg2lU51aH?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-12T20:17:46Z",
-      "titleJa": "SpaceX の初日が決まりました。それは驚くほど目立たなかった。",
+      "link": "https://www.fool.com/investing/2026/06/13/fintech-stock-ultimate-cryptocurrency-use-case/",
+      "time": "2026-06-13T20:24:00Z",
+      "titleJa": "フィンテック株ブロックは、究極の暗号通貨に実際の使用例があることを証明しようとしているが、うまくいくだろうか？",
       "relevant": false
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/spacex-stock-gains-space-companies-fall-chips-mixed-on-ipo-news-195735942.html",
-      "time": "2026-06-12T19:57:35Z",
-      "titleJa": "SpaceX株は上昇、宇宙企業は下落、IPOニュースではチップが混ざっている",
+      "title": "$35B AI Infrastructure Platform Plan Affirms Broadcom Inc. (AVGO) As a Promising Growth Stock to Buy",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/35b-ai-infrastructure-platform-plan-192530880.html",
+      "time": "2026-06-13T19:25:30Z",
+      "titleJa": "350億ドルのAIインフラストラクチャプラットフォーム計画、Broadcom Inc.（AVGO）を購入すべき有望な成長株として認定",
       "relevant": true
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "PayPay (PAYP), T&D Holdings Form AI-Driven Insurance and Fintech Alliance",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paypay-payp-t-d-holdings-183838021.html",
+      "time": "2026-06-13T18:38:38Z",
+      "titleJa": "PayPay（PAYP）とT&Dホールディングス、AIドリブン保険とフィンテック提携を締結",
+      "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/spacex-stock-gains-space-companies-fall-chips-mixed-on-ipo-news-195735942.html",
-      "time": "2026-06-12T19:57:35Z",
-      "titleJa": "SpaceX株は上昇、宇宙企業は下落、IPOニュースではチップが混ざっている",
-      "relevant": true
+      "title": "CoreWeave (CRWV) Deploys NVIDIA (NVDA) Vera Rubin NVL72, First to Validate at Rack Scale",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-deploys-nvidia-nvda-183752004.html",
+      "time": "2026-06-13T18:37:52Z",
+      "titleJa": "CoreWeave (CRWV) が NVIDIA (NVDA) Vera Rubin NVL72 を導入、初めてラックスケールで検証",
+      "relevant": false
     },
     {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/spacex-stock-gains-space-companies-fall-chips-mixed-on-ipo-news-195735942.html",
-      "time": "2026-06-12T19:57:35Z",
-      "titleJa": "SpaceX株は上昇、宇宙企業は下落、IPOニュースではチップが混ざっている",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/spacex-stock-gains-space-companies-fall-chips-mixed-on-ipo-news-195735942.html",
-      "time": "2026-06-12T19:57:35Z",
-      "titleJa": "SpaceX株は上昇、宇宙企業は下落、IPOニュースではチップが混ざっている",
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Broadcom (AVGO) Expands Spring Security With Largest Open-Source Update in 23-Year History",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-expands-spring-security-175955758.html",
+      "time": "2026-06-13T17:59:55Z",
+      "titleJa": "Broadcom (AVGO)、23 年の歴史の中で最大のオープンソース アップデートで Spring Security を拡張",
       "relevant": true
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "2 Unsung Heroes of Big Tech's $725 Billion AI Capex Spend",
+      "title": "Taiwan Semiconductor (TSM) Posts Strong May Sales, UBS Names Stock a Top Pick on Agentic AI Outlook",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-posts-strong-175952688.html",
+      "time": "2026-06-13T17:59:52Z",
+      "titleJa": "台湾積体電路（TSM）は5月の売上高が好調、UBSはエージェントティックAIの見通しで同社株を最優先銘柄に挙げる",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Taiwan Semiconductor (TSM) is This Famous Billionaire’s Biggest AI Stock Holding",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-famous-billionaire-154237082.html",
+      "time": "2026-06-13T15:42:37Z",
+      "titleJa": "台湾積体電路（TSM）はこの有名な億万長者の最大のAI株保有企業である",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Is Sandisk Corporation (SNDK) A Good Stock To Buy Now?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-good-stock-134054313.html",
+      "time": "2026-06-13T13:40:54Z",
+      "titleJa": "サンディスク コーポレーション (SNDK) は今買うのに適した株ですか?",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Is Sandisk Corporation (SNDK) A Good Stock To Buy Now?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-good-stock-134054313.html",
+      "time": "2026-06-13T13:40:54Z",
+      "titleJa": "サンディスク コーポレーション (SNDK) は今買うのに適した株ですか?",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Is Sandisk Corporation (SNDK) A Good Stock To Buy Now?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-good-stock-134054313.html",
+      "time": "2026-06-13T13:40:54Z",
+      "titleJa": "サンディスク コーポレーション (SNDK) は今買うのに適した株ですか?",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Is Sandisk Corporation (SNDK) A Good Stock To Buy Now?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-good-stock-134054313.html",
+      "time": "2026-06-13T13:40:54Z",
+      "titleJa": "サンディスク コーポレーション (SNDK) は今買うのに適した株ですか?",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "ASML’s Mistral AI Stake Adds New Angle To Hotly Valued Shares",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-mistral-ai-stake-adds-121132402.html",
+      "time": "2026-06-13T12:11:32Z",
+      "titleJa": "ASMLのミストラルAI株式は注目株に新たな視点を加える",
+      "relevant": true
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "South Korea Has a Chip Conundrum—Huge Profits and a Serious Selloff",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/south-korea-stocks-chips-6126199a?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-13T02:44:00Z",
+      "titleJa": "韓国はチップの難問を抱えている ― 巨額の利益と深刻な下落",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "AI Stocks Underestimate the Technology’s Potential, Says This Tech Investor",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/ai-stocks-nvidia-asml-samsara-chips-a80912ab?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-13T02:07:00Z",
+      "titleJa": "AI株はテクノロジーの可能性を過小評価している、とテクノロジー投資家が語る",
+      "relevant": false
+    },
+    {
+      "ticker": "9433.T",
+      "company": "KDDI",
+      "title": "KDDI (TSE:9433) Stock After 5‑Year 86% Return Is There Value Left?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kddi-tse-9433-stock-5-011145974.html",
+      "time": "2026-06-13T01:11:45Z",
+      "titleJa": "KDDI (東証:9433) の株価、5 年ぶりに 86% のリターンを達成 価値は残っているのか?",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Forget the \"Magnificent Seven\": These 3 Hypergrowth Artificial Intelligence (AI) Stocks Are Just Getting Started",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/12/2-unsung-heroes-of-big-techs-725-billion-ai-capex/",
-      "time": "2026-06-12T19:20:00Z",
-      "titleJa": "ビッグテックの 7,250 億ドルの AI 設備投資における 2 人の縁の下の力持ち",
+      "link": "https://www.fool.com/investing/2026/06/12/forget-the-magnificent-seven-these-3-hypergrowth-a/",
+      "time": "2026-06-13T00:35:00Z",
+      "titleJa": "「マグニフィセント・セブン」のことは忘れてください：これらの 3 つの超成長人工知能 (AI) 株はまだ始まったばかりです",
       "relevant": false
     },
     {
@@ -102,34 +182,14 @@
       "relevant": true
     },
     {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Momentum and Small-Caps Lead Market Amid Big IPO",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-061226/card/momentum-and-small-caps-lead-market-amid-big-ipo-rOBicGD7F1JoNk1voBHe?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-12T18:18:08Z",
-      "titleJa": "大規模な IPO の中で勢いと小型株が市場をリード",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Forget ASML: As Post-June 5 Volatility Shakes High-Beta Tech, This Dividend-Paying Chip Index Is a No-Brainer Buy",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/12/forget-asml-as-post-june-5-volatility-shakes-high-beta-tech-this-dividend-paying-chip-index-is-a-no-brainer-buy/",
-      "time": "2026-06-12T17:19:36Z",
-      "titleJa": "ASMLのことは忘れてください：6月5日以降のボラティリティがハイベータテクノロジーを揺るがす中、この配当金の出るチップ指数は迷わず買うべきです",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Goldman Sachs doubles down on stock market outlook for 2026",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/goldman-sachs-doubles-down-on-stock-market-outlook-for-2026",
-      "time": "2026-06-12T16:03:00Z",
-      "titleJa": "ゴールドマン・サックス、2026年の株式市場見通しを倍増",
-      "relevant": true
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Iran Ceasefire and a $1,250 Price Target: How to Play Micron Stock Here",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/2443746/iran-ceasefire-and-a-1-250-price-target-how-to-play-micron-stock-here",
+      "time": "2026-06-12T16:15:59Z",
+      "titleJa": "イラン停戦と1,250ドルの目標株価: ここでマイクロン株をプレイする方法",
+      "relevant": false
     },
     {
       "ticker": "9984.T",
@@ -140,26 +200,6 @@
       "time": "2026-06-12T14:48:49Z",
       "titleJa": "CoreWeave、欧州債券デビューで70億ユーロの注文を獲得",
       "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Italy's Meloni and South Korea's Lee agree to deepen ties in Rome talks",
-      "publisher": "Reuters",
-      "link": "https://uk.news.yahoo.com/italys-meloni-south-koreas-lee-141141092.html",
-      "time": "2026-06-12T14:17:14Z",
-      "titleJa": "Italy's Meloni and South Korea's Lee agree to deepen ties in Rome talks",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "SK Hynix to opt for Nasdaq for planned US listing, sources say",
-      "publisher": "Reuters Videos",
-      "link": "https://finance.yahoo.com/video/sk-hynix-opt-nasdaq-planned-140358826.html",
-      "time": "2026-06-12T14:03:58Z",
-      "titleJa": "SKハイニックス、米国上場計画でナスダックを選択、関係者が語る",
-      "relevant": true
     },
     {
       "ticker": "6981.T",
@@ -192,26 +232,6 @@
       "relevant": false
     },
     {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Exclusive-South Korea's SK Hynix to opt for Nasdaq for planned US listing, sources say",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-south-koreas-sk-hynix-112739431.html",
-      "time": "2026-06-12T11:27:39Z",
-      "titleJa": "独占-韓国のSKハイニックス、米国上場予定でナスダックを選択、関係者が語る",
-      "relevant": true
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Korea Pension Fund’s Pivot Amplified Stock Swings, Barclays Says",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/korea-pension-fund-pivot-amplified-092851818.html",
-      "time": "2026-06-12T09:28:51Z",
-      "titleJa": "韓国年金基金のピボットが株価変動を増幅、バークレイズが語る",
-      "relevant": false
-    },
-    {
       "ticker": "3436.T",
       "company": "SUMCO",
       "title": "Sumco (TSE:3436) Stock Valuation In Focus After Conflicting Analyst Calls And Tech Sector Slump",
@@ -220,16 +240,6 @@
       "time": "2026-06-12T09:08:49Z",
       "titleJa": "Sumco (東証:3436) アナリストの見解の矛盾とハイテクセクターの低迷後、株価評価が焦点",
       "relevant": true
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Kioxia Becomes Japan’s Most Valuable Firm as AI Mania Goes On",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/kioxia-becomes-japan-most-valuable-070022062.html",
-      "time": "2026-06-12T07:00:22Z",
-      "titleJa": "AIマニアが進むにつれ、キオクシアは日本で最も価値のある企業に",
-      "relevant": false
     },
     {
       "ticker": "285A.T",
