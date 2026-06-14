@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-14",
+  "updated": "2026-06-15",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Things to Watch This Week That Could Heavily Impact How the S&P 500 Does From Here on Out",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/13/3-things-to-watch-this-week-that-could-heavily-imp/",
-      "time": "2026-06-13T20:10:31Z",
-      "titleJa": "S&P 500 の今後の動向に大きな影響を与える可能性がある、今週注目すべき 3 つの事柄"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Bloom Energy’s S&P 500 Buzz Meets Renewed Wyoming AI Project Progress",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-p-500-buzz-200938721.html",
-      "time": "2026-06-13T20:09:38Z",
-      "titleJa": "ブルーム・エナジーのS&P 500の話題が新たなワイオミングAIプロジェクトの進捗と一致"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Trump Says Iran Deal 'Signed' Sunday; SpaceX's Next Test",
+      "title": "Dow Jones Futures Due As Trump Announces Iran Deal, Hormuz To Open; SpaceX's Next Test",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-week-5-stocks-buy-areas-spacex-next-test/?src=A00220&yptr=yahoo",
-      "time": "2026-06-13T19:10:49Z",
-      "titleJa": "ダウジョーンズ先物：トランプ大統領、日曜日にイラン合意に「署名した」と発言。 SpaceX の次のテスト"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo",
+      "time": "2026-06-14T21:42:57Z",
+      "titleJa": "トランプ大統領がイラン合意、ホルムズ取引を発表、ダウジョーンズ先物は期日を迎える。 SpaceX の次のテスト"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Consumer Sentiment Hit a New Low. Should Investors Be Worried Right Now?",
+      "title": "Tech Shakeup on the S&P 500",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/13/consumer-sentiment-hit-a-new-low-should-investors/",
-      "time": "2026-06-13T19:05:00Z",
-      "titleJa": "消費者心理は新たな最低値を記録。投資家は今心配すべきでしょうか?"
+      "link": "https://www.fool.com/investing/2026/06/14/tech-shakeup-on-the-s-and-p-500/",
+      "time": "2026-06-14T20:53:57Z",
+      "titleJa": "S&P 500 におけるテクノロジーの変革"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "A Once-in-a-Decade Opportunity: 3 of the Best Stocks to Buy in June",
+      "title": "Should You Buy VOO While the Market Is Near All-Time Highs?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/13/a-once-in-a-decade-opportunity-3-of-the-best-stock/",
-      "time": "2026-06-13T17:05:00Z",
-      "titleJa": "10年に一度のチャンス: 6月に買うべきベスト3銘柄"
+      "link": "https://www.fool.com/investing/2026/06/14/should-buy-voo-etf-while-market-near-high/",
+      "time": "2026-06-14T20:52:00Z",
+      "titleJa": "市場が史上最高値に近いときにVOOを購入する必要がありますか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Suze Orman to 54-Year-Old With $600,000: Skip the 1.5% Fee and Manage It Yourself",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/personal-finance/2026/06/13/suze-orman-to-54-year-old-with-600000-skip-the-1-5-fee-and-manage-it-yourself/",
-      "time": "2026-06-13T16:02:52Z",
-      "titleJa": "スーズ・オーマン、54歳の60万ドルへ：1.5％の手数料をスキップして自分で管理"
+      "title": "For the First Time in Over 155 Years, the Stock Market May Be Headed Here -- and It's Not Good News for Investors",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/14/for-the-first-time-in-155-years-the-stock-market/",
+      "time": "2026-06-14T18:50:00Z",
+      "titleJa": "155 年以上で初めて、株式市場がここに向かう可能性がある – それは投資家にとって良いニュースではない"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 AI Stocks Poised for Long-Term Gains Despite Strong Year-to-Date Performance",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/14/3-ai-stocks-poised-for-long-term-gains-despite-str/",
+      "time": "2026-06-14T18:35:00Z",
+      "titleJa": "年初からの好調な業績にも関わらず、長期的な上昇が見込まれる 3 つの AI 銘柄"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "As Artificial Intelligence (AI) Stocks Drive the Market Higher, Is Now the Time to Buy? These 9 Words From Warren Buffett Might Change Your Mind.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/14/as-ai-stocks-drive-the-market-higher-is-now/",
+      "time": "2026-06-14T17:50:00Z",
+      "titleJa": "人工知能（AI）株が市場を上昇させる中、今が買い時なのか？ウォーレン・バフェットの 9 つの言葉があなたの考えを変えるかもしれません。"
     }
   ]
 }

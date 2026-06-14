@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14",
+  "updated": "2026-06-15",
   "note": "GitHub Actions による自動更新（前営業日ベースの概算）",
   "stocks": {
     "9984.T": {
@@ -437,7 +437,7 @@
       "marketCap": 718245108429,
       "prevClose": 1917.56,
       "changePct": -2.82,
-      "target": 1701.91,
+      "target": 1707.64,
       "rating": "強い買い(15人)",
       "dividendYield": 0.31,
       "profitMargin": 29.7,
