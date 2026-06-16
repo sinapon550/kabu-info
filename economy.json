@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-16",
+  "updated": "2026-06-17",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Wall Street rallies, Dow ends with record on US-Iran deal",
-      "publisher": "Reuters Videos",
-      "link": "https://finance.yahoo.com/video/wall-street-rallies-dow-ends-223928887.html",
-      "time": "2026-06-15T22:39:28Z",
-      "titleJa": "ウォール街は反発、ダウは米国とイランの合意で記録で終了"
+      "title": "Dow Jones Hits High, SpaceX Keeps Rising, But AI Stocks Skid; Warsh's Fed Debut On Tap",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-ai-stocks-warsh-fed-debut/?src=A00220&yptr=yahoo",
+      "time": "2026-06-16T22:46:15Z",
+      "titleJa": "ダウ・ジョーンズは高値を記録、スペースXは上昇を続けるが、AI株は下落。ウォーシュ氏がFRBにデビュー"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "June 16 May be a Big Day for the Stock Market and Set the Stage for What Happens Next.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/15/june-16-may-be-a-big-day-for-the-stock-market-and/",
-      "time": "2026-06-15T22:30:00Z",
-      "titleJa": "6月16日は株式市場にとって重要な日となり、次に何が起こるかの舞台となるかもしれない。"
+      "title": "AI Powers Arista Networks Stock, But Its Real Strength Lies Elsewhere",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/603103/ai-powers-arista-networks-stock-but-its-real-strength-lies-elsewhere/2026-06-16",
+      "time": "2026-06-16T22:23:33Z",
+      "titleJa": "AI がアリスタネットワークスの株価を押し上げるが、その本当の強みは別のところにある"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 15: D-Wave Quantum Jumps After Mizuho Raises Price Target on Roadmap Progress",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/15/stock-market-today-june-15-d-wave-quantum-jumps-after-mizuho-raises-price-target-on-roadmap-progress/",
-      "time": "2026-06-15T22:28:52Z",
-      "titleJa": "今日の株式市場、6月15日：みずほがロードマップの進捗に基づいて目標株価を引き上げた後、Dウェーブ・クォンタムが上昇"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, June 15: Payoneer Global Jumps After Nuvei Agrees to Acquire Company for $2.75 Billion",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/15/stock-market-today-june-15-payoneer-global-jumps-after-nuvei-agrees-to-acquire-company-for-275-billion/",
-      "time": "2026-06-15T21:59:05Z",
-      "titleJa": "今日の株式市場、6月15日: Nuveiが27億5,000万ドルで会社を買収することに合意した後、Payoneer Globalが急騰"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "2 Reasons to Like SSB and 1 to Stay Skeptical",
+      "title": "Mohawk Industries (MHK): Buy, Sell, or Hold Post Q1 Earnings?",
       "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-ssb-1-stay-215607973.html",
-      "time": "2026-06-15T21:56:07Z",
-      "titleJa": "SSB を好む 2 つの理由と懐疑的であり続ける 1 つの理由"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mohawk-industries-mhk-buy-sell-221704921.html",
+      "time": "2026-06-16T22:17:04Z",
+      "titleJa": "モホーク インダストリーズ (MHK): 第 1 四半期の収益後、買うか、売るか、それとも保留するか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Hits Record High, Nasdaq And S&P 500 Jump On US-Iran Deal And SpaceX Optimism — SPCX, NVDA, ROKU, CRM, AMZN In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-hits-record-high-nasdaq-and-s-and-p-500-jump-on-us-iran-deal-and-space-x-optimism-spcx-nvda-roku-crm-amzn-in-focus/cZKfwt9R73v",
-      "time": "2026-06-15T21:52:23Z",
-      "titleJa": "ダウが過去最高値を更新、ナスダックとS&P 500は米国とイランの合意とSpaceXの楽観主義で上昇 — SPCX、NVDA、ROKU、CRM、AMZNが注目"
+      "title": "3 Reasons BOW Has Explosive Upside Potential",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-bow-explosive-upside-220904869.html",
+      "time": "2026-06-16T22:09:04Z",
+      "titleJa": "BOW に爆発的な上昇の可能性がある 3 つの理由"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 Reasons to Avoid BCC and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-bcc-1-215304358.html",
+      "time": "2026-06-16T21:53:04Z",
+      "titleJa": "BCC を避けるべき 3 つの理由と、代わりに購入すべき 1 つの銘柄"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "In 6 Words, Fed Governor Lisa Cook Issued a Stark Warning to Wall Street",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/16/in-6-words-fed-governor-lisa-cook-issued-a-stark-w/",
+      "time": "2026-06-16T21:50:00Z",
+      "titleJa": "リサ・クックFRB総裁は6語でウォール街に厳しい警告を発した"
     }
   ]
 }
