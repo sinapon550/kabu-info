@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-17",
+  "updated": "2026-06-18",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Hits High, SpaceX Keeps Rising, But AI Stocks Skid; Warsh's Fed Debut On Tap",
+      "title": "Dow Jones Futures Rise After Fed Rate Hike Bets Hit Stocks; SpaceX Falls As Robinhood Jumps",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-ai-stocks-warsh-fed-debut/?src=A00220&yptr=yahoo",
-      "time": "2026-06-16T22:46:15Z",
-      "titleJa": "ダウ・ジョーンズは高値を記録、スペースXは上昇を続けるが、AI株は下落。ウォーシュ氏がFRBにデビュー"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-rate-hike-spacex-robinhood/?src=A00220&yptr=yahoo",
+      "time": "2026-06-17T22:24:42Z",
+      "titleJa": "FRBの利上げ賭けが株価に影響し、ダウジョーンズ先物は上昇。ロビンフッドがジャンプするとスペースXが崩壊"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "AI Powers Arista Networks Stock, But Its Real Strength Lies Elsewhere",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/603103/ai-powers-arista-networks-stock-but-its-real-strength-lies-elsewhere/2026-06-16",
-      "time": "2026-06-16T22:23:33Z",
-      "titleJa": "AI がアリスタネットワークスの株価を押し上げるが、その本当の強みは別のところにある"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Mohawk Industries (MHK): Buy, Sell, or Hold Post Q1 Earnings?",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mohawk-industries-mhk-buy-sell-221704921.html",
-      "time": "2026-06-16T22:17:04Z",
-      "titleJa": "モホーク インダストリーズ (MHK): 第 1 四半期の収益後、買うか、売るか、それとも保留するか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "3 Reasons BOW Has Explosive Upside Potential",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-bow-explosive-upside-220904869.html",
-      "time": "2026-06-16T22:09:04Z",
-      "titleJa": "BOW に爆発的な上昇の可能性がある 3 つの理由"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "3 Reasons to Avoid BCC and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-bcc-1-215304358.html",
-      "time": "2026-06-16T21:53:04Z",
-      "titleJa": "BCC を避けるべき 3 つの理由と、代わりに購入すべき 1 つの銘柄"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "In 6 Words, Fed Governor Lisa Cook Issued a Stark Warning to Wall Street",
+      "title": "Which S&P 500 ETF Is the Better Buy: iShares' IVV or State Street's SPY?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/16/in-6-words-fed-governor-lisa-cook-issued-a-stark-w/",
-      "time": "2026-06-16T21:50:00Z",
-      "titleJa": "リサ・クックFRB総裁は6語でウォール街に厳しい警告を発した"
+      "link": "https://www.fool.com/coverage/etfs/2026/06/17/which-s-and-p-500-etf-is-the-better-buy-ishares-ivv-or-state-street-s-spy/",
+      "time": "2026-06-17T22:24:15Z",
+      "titleJa": "S&P 500 ETF は iShares の IVV と State Street の SPY のどちらを買うのが良いでしょうか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Wall Street closes lower on Fed rate hike bets",
+      "publisher": "Reuters Videos",
+      "link": "https://finance.yahoo.com/video/wall-street-closes-lower-fed-222319794.html",
+      "time": "2026-06-17T22:23:19Z",
+      "titleJa": "FRBの利上げ観測を受けてウォール街は下落して取引を終えた"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, June 17: Nu Holdings Rises as AI Credit Models Lift Lending Outlook",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/stock-market-today-june-17-nu-holdings-rises-as-ai-credit-models-lift-lending-outlook/",
+      "time": "2026-06-17T22:21:28Z",
+      "titleJa": "今日の株式市場、6 月 17 日: AI 信用モデルが融資見通しを引き上げたため、Nu Holdings が上昇"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, June 17: Eos Energy Enterprises Jumps After Announcing New Battery Storage Partnership",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/stock-market-today-june-17-eos-energy-enterprises-jumps-after-announcing-new-battery-storage-partnership/",
+      "time": "2026-06-17T22:05:25Z",
+      "titleJa": "今日、6月17日の株式市場：Eos Energy Enterprisesが新たなバッテリーストレージ提携を発表し急騰"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "iShares' URTH or Schwab's SCHF: Which International ETF Is the Better Buy?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/06/17/ishares-urth-or-schwab-s-schf-which-international-etf-is-the-better-buy/",
+      "time": "2026-06-17T22:04:30Z",
+      "titleJa": "iシェアーズのURTHとシュワブのSCHF：どちらの国際ETFを買うのが良いでしょうか？"
     }
   ]
 }
