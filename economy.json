@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-18",
+  "updated": "2026-06-19",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Rise After Fed Rate Hike Bets Hit Stocks; SpaceX Falls As Robinhood Jumps",
+      "title": "Dow Jones Futures: Nvidia Leads 5 Chips Near Buy Points; SpaceX Stock Needs This",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-rate-hike-spacex-robinhood/?src=A00220&yptr=yahoo",
-      "time": "2026-06-17T22:24:42Z",
-      "titleJa": "FRBの利上げ賭けが株価に影響し、ダウジョーンズ先物は上昇。ロビンフッドがジャンプするとスペースXが崩壊"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
+      "time": "2026-06-18T22:34:29Z",
+      "titleJa": "ダウジョーンズ先物：NVIDIAが買いポイント付近で5チップリード。 SpaceXの在庫にはこれが必要です"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Which S&P 500 ETF Is the Better Buy: iShares' IVV or State Street's SPY?",
+      "title": "Stock Market Today, June 18: Comcast Falls as Cable Pressure Builds Before July Earnings",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/06/17/which-s-and-p-500-etf-is-the-better-buy-ishares-ivv-or-state-street-s-spy/",
-      "time": "2026-06-17T22:24:15Z",
-      "titleJa": "S&P 500 ETF は iShares の IVV と State Street の SPY のどちらを買うのが良いでしょうか?"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-comcast-falls-as-cable-pressure-builds-before-july-earnings/",
+      "time": "2026-06-18T22:33:14Z",
+      "titleJa": "今日の株式市場、6月18日: 7月の決算を前にケーブル圧力が高まりコムキャストが下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Wall Street closes lower on Fed rate hike bets",
+      "title": "Wall Street ends higher on boost from chips, Iran optimism",
       "publisher": "Reuters Videos",
-      "link": "https://finance.yahoo.com/video/wall-street-closes-lower-fed-222319794.html",
-      "time": "2026-06-17T22:23:19Z",
-      "titleJa": "FRBの利上げ観測を受けてウォール街は下落して取引を終えた"
+      "link": "https://finance.yahoo.com/video/wall-street-ends-higher-boost-223205315.html",
+      "time": "2026-06-18T22:32:05Z",
+      "titleJa": "チップの恩恵とイランの楽観でウォール街が上昇して終了"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 17: Nu Holdings Rises as AI Credit Models Lift Lending Outlook",
+      "title": "S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal — SPCX, AMZN, ONDS, NFLX, TTWO In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-and-dow-end-holiday-shortened-week-higher-as-investors-cheer-us-iran-peace-deal-spcx-amzn-onds-nflx-ttwo-in-focus/cZKk181R77v",
+      "time": "2026-06-18T22:07:48Z",
+      "titleJa": "投資家が米国とイランの和平合意を支持し、S&P 500、ナスダック、ダ​​ウは休暇短縮週を終えて上昇 — SPCX、AMZN、ONDS、NFLX、TTWOが注目"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Stock Market Today, June 18: Netflix Edges Higher as Investors Weigh Pricing Upside Before Earnings",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/stock-market-today-june-17-nu-holdings-rises-as-ai-credit-models-lift-lending-outlook/",
-      "time": "2026-06-17T22:21:28Z",
-      "titleJa": "今日の株式市場、6 月 17 日: AI 信用モデルが融資見通しを引き上げたため、Nu Holdings が上昇"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-netflix-edges-higher-as-investors-weigh-pricing-upside-before-earnings/",
+      "time": "2026-06-18T22:03:36Z",
+      "titleJa": "今日の株式市場、6月18日: 投資家が利益よりも価格の上値を検討し、Netflixはじりじりと上昇"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 17: Eos Energy Enterprises Jumps After Announcing New Battery Storage Partnership",
+      "title": "VOO vs. SCHD: Which Is the Smarter Buy When Inflation Is Running Hot?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/stock-market-today-june-17-eos-energy-enterprises-jumps-after-announcing-new-battery-storage-partnership/",
-      "time": "2026-06-17T22:05:25Z",
-      "titleJa": "今日、6月17日の株式市場：Eos Energy Enterprisesが新たなバッテリーストレージ提携を発表し急騰"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "iShares' URTH or Schwab's SCHF: Which International ETF Is the Better Buy?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/06/17/ishares-urth-or-schwab-s-schf-which-international-etf-is-the-better-buy/",
-      "time": "2026-06-17T22:04:30Z",
-      "titleJa": "iシェアーズのURTHとシュワブのSCHF：どちらの国際ETFを買うのが良いでしょうか？"
+      "link": "https://www.fool.com/investing/2026/06/18/voo-vs-schd-which-is-smarter-buy-inflation-hot/",
+      "time": "2026-06-18T21:51:00Z",
+      "titleJa": "VOO と SCHD: インフレが激しくなっているときはどちらが賢明な購入でしょうか?"
     }
   ]
 }
