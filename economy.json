@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-19",
+  "updated": "2026-06-20",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Nvidia Leads 5 Chips Near Buy Points; SpaceX Stock Needs This",
+      "title": "Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/19/making-six-figures-but-betting-everything-on-u-s-stocks-avuv-fixes-that-problem/",
+      "time": "2026-06-19T21:30:35Z",
+      "titleJa": "6 桁を達成しても、すべてを米国株に賭けますか? AVUV はその問題を解決します"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "After Being Called the Next Trillion-Dollar AI Stock and Joining the S&P 500, Marvell's CFO Just Filed to Dump $65 Million of Stock. Here's Why.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/19/marvells-cfo-just-sold-65-million-of-stock-right-a/",
+      "time": "2026-06-19T21:27:00Z",
+      "titleJa": "次の1兆ドルAI株と呼ばれ、S&P 500に加わった後、マーベルのCFOは6,500万ドルの株式売却を申請したばかりだ。その理由は次のとおりです。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "If You’re 38 With $500K Saved, AVUV Fixes Your Tech-Heavy Portfolio",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/19/if-youre-38-with-500k-saved-avuv-fixes-your-tech-heavy-portfolio/",
+      "time": "2026-06-19T21:10:12Z",
+      "titleJa": "38 歳で 50 万ドルの貯蓄がある場合、AVUV がテクノロジー中心のポートフォリオを修正します"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-      "time": "2026-06-18T22:34:29Z",
-      "titleJa": "ダウジョーンズ先物：NVIDIAが買いポイント付近で5チップリード。 SpaceXの在庫にはこれが必要です"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, June 18: Comcast Falls as Cable Pressure Builds Before July Earnings",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-comcast-falls-as-cable-pressure-builds-before-july-earnings/",
-      "time": "2026-06-18T22:33:14Z",
-      "titleJa": "今日の株式市場、6月18日: 7月の決算を前にケーブル圧力が高まりコムキャストが下落"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Wall Street ends higher on boost from chips, Iran optimism",
-      "publisher": "Reuters Videos",
-      "link": "https://finance.yahoo.com/video/wall-street-ends-higher-boost-223205315.html",
-      "time": "2026-06-18T22:32:05Z",
-      "titleJa": "チップの恩恵とイランの楽観でウォール街が上昇して終了"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal — SPCX, AMZN, ONDS, NFLX, TTWO In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-and-dow-end-holiday-shortened-week-higher-as-investors-cheer-us-iran-peace-deal-spcx-amzn-onds-nflx-ttwo-in-focus/cZKk181R77v",
-      "time": "2026-06-18T22:07:48Z",
-      "titleJa": "投資家が米国とイランの和平合意を支持し、S&P 500、ナスダック、ダ​​ウは休暇短縮週を終えて上昇 — SPCX、AMZN、ONDS、NFLX、TTWOが注目"
+      "time": "2026-06-19T21:00:05Z",
+      "titleJa": "ダウジョーンズ先物は下落。 Nvidia が買いポイントに近い 5 銘柄をリード、SpaceX にはこれが必要"
     },
     {
       "ticker": "^IXIC",
       "company": "経済",
-      "title": "Stock Market Today, June 18: Netflix Edges Higher as Investors Weigh Pricing Upside Before Earnings",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-netflix-edges-higher-as-investors-weigh-pricing-upside-before-earnings/",
-      "time": "2026-06-18T22:03:36Z",
-      "titleJa": "今日の株式市場、6月18日: 投資家が利益よりも価格の上値を検討し、Netflixはじりじりと上昇"
+      "title": "If You’re 50+ and Tired of Watching Tech Boom Without You, Read This",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/19/if-youre-50-and-tired-of-watching-tech-boom-without-you-read-this/",
+      "time": "2026-06-19T20:51:02Z",
+      "titleJa": "50 歳以上で、自分のいないテクノロジー ブームを眺めるのにうんざりしている場合は、これをお読みください"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "VOO vs. SCHD: Which Is the Smarter Buy When Inflation Is Running Hot?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/18/voo-vs-schd-which-is-smarter-buy-inflation-hot/",
-      "time": "2026-06-18T21:51:00Z",
-      "titleJa": "VOO と SCHD: インフレが激しくなっているときはどちらが賢明な購入でしょうか?"
+      "title": "Stocks Stall as Iran Nuclear Talks Hit Early Snag: Markets Wrap",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-focus-shifts-iran-080450531.html",
+      "time": "2026-06-19T20:09:15Z",
+      "titleJa": "イラン核交渉が初期の難航に見舞われ、株価は失速：市場は一巡"
     }
   ]
 }
