@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/19/making-six-figures-but-betting-everything-on-u-s-stocks-avuv-fixes-that-problem/",
-      "time": "2026-06-19T21:30:35Z",
-      "titleJa": "6 桁を達成しても、すべてを米国株に賭けますか? AVUV はその問題を解決します"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "After Being Called the Next Trillion-Dollar AI Stock and Joining the S&P 500, Marvell's CFO Just Filed to Dump $65 Million of Stock. Here's Why.",
+      "title": "Is Netflix Stock Cheap or Overvalued? Here's What Investors Need to Know.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/19/marvells-cfo-just-sold-65-million-of-stock-right-a/",
-      "time": "2026-06-19T21:27:00Z",
-      "titleJa": "次の1兆ドルAI株と呼ばれ、S&P 500に加わった後、マーベルのCFOは6,500万ドルの株式売却を申請したばかりだ。その理由は次のとおりです。"
+      "link": "https://www.fool.com/investing/2026/06/20/netflix-stock-cheap-overvalued-investors-need-know/",
+      "time": "2026-06-20T21:49:00Z",
+      "titleJa": "Netflixの株は安いのか、それとも過大評価されているのか?投資家が知っておくべきことは次のとおりです。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "If You’re 38 With $500K Saved, AVUV Fixes Your Tech-Heavy Portfolio",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/19/if-youre-38-with-500k-saved-avuv-fixes-your-tech-heavy-portfolio/",
-      "time": "2026-06-19T21:10:12Z",
-      "titleJa": "38 歳で 50 万ドルの貯蓄がある場合、AVUV がテクノロジー中心のポートフォリオを修正します"
+      "title": "U.S. Real Estate Leaders or Global Property Markets? XLRE vs. RWO",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/06/20/u-s-real-estate-leaders-or-global-property-markets-xlre-vs-rwo/",
+      "time": "2026-06-20T21:45:48Z",
+      "titleJa": "米国の不動産リーダーか、それとも世界の不動産市場か? XLRE対RWO"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-      "time": "2026-06-19T21:00:05Z",
-      "titleJa": "ダウジョーンズ先物は下落。 Nvidia が買いポイントに近い 5 銘柄をリード、SpaceX にはこれが必要"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "If You’re 50+ and Tired of Watching Tech Boom Without You, Read This",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/19/if-youre-50-and-tired-of-watching-tech-boom-without-you-read-this/",
-      "time": "2026-06-19T20:51:02Z",
-      "titleJa": "50 歳以上で、自分のいないテクノロジー ブームを眺めるのにうんざりしている場合は、これをお読みください"
+      "title": "Pfizer's Dividend Yield is 10X Bigger Than Eli Lilly's. Does That Make It the Better Stock for Income Investors?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/20/pfizers-dividend-yield-is-10x-bigger-than-eli-lill/",
+      "time": "2026-06-20T21:35:00Z",
+      "titleJa": "ファイザーの配当利回りはイーライリリーの10倍です。それはインカム投資家にとってより良い銘柄になるでしょうか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stocks Stall as Iran Nuclear Talks Hit Early Snag: Markets Wrap",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-focus-shifts-iran-080450531.html",
-      "time": "2026-06-19T20:09:15Z",
-      "titleJa": "イラン核交渉が初期の難航に見舞われ、株価は失速：市場は一巡"
+      "title": "Cathie Wood buys $52 million of surging tech stock",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-52-million-of-surging-tech-stock",
+      "time": "2026-06-20T21:03:00Z",
+      "titleJa": "キャシー・ウッド、急騰するハイテク株を5,200万ドルで購入"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "The Vanguard S&P 500 ETF (VOO) Is the Most Popular ETF in the World. Here's One I Like Even Better.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/20/vanguard-sp-500-etf-voo-most-popular-voog/",
+      "time": "2026-06-20T19:49:00Z",
+      "titleJa": "バンガード S&P 500 ETF (VOO) は世界で最も人気のある ETF です。これが私がさらに気に入ったものです。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Enel Chile (ENIC) Among the Best Undervalued Penny Stocks, Here’s What You Need to Know",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/enel-chile-enic-among-best-185409319.html",
+      "time": "2026-06-20T18:54:09Z",
+      "titleJa": "エネル・チリ (ENIC) 最も過小評価されているペニー株の中で知っておくべきこと"
     }
   ]
 }

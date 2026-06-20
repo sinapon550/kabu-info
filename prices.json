@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "note": "GitHub Actions による自動更新（前営業日ベースの概算）",
   "stocks": {
     "9984.T": {
@@ -14,8 +14,8 @@
       "profitMargin": 64.1,
       "revenue": 7798649782272,
       "netIncome": 4983632166912,
-      "eps": 872.13,
-      "per": 8.2,
+      "eps": 872.52,
+      "per": 8.1,
       "finCurrency": "JPY",
       "history": [
         {
@@ -38,7 +38,7 @@
     "9434.T": {
       "price": 210.6,
       "currency": "JPY",
-      "marketCap": 10066946676115,
+      "marketCap": 10072775241884,
       "prevClose": 209.5,
       "changePct": 0.53,
       "target": 242.53,
@@ -47,10 +47,15 @@
       "profitMargin": 7.8,
       "revenue": 7038680170496,
       "netIncome": 541359013888,
-      "eps": 11.28,
+      "eps": 11.27,
       "per": 18.7,
       "finCurrency": "JPY",
       "history": [
+        {
+          "year": "2026",
+          "revenue": 7038680000000,
+          "netIncome": 550759000000
+        },
         {
           "year": "2025",
           "revenue": 6544349000000,
@@ -108,7 +113,7 @@
       "profitMargin": 46.5,
       "revenue": 4103904165888,
       "netIncome": 1908519600128,
-      "eps": 11.63,
+      "eps": 11.65,
       "per": 39.7,
       "finCurrency": "TWD",
       "history": [
@@ -141,8 +146,8 @@
       "profitMargin": 38.8,
       "revenue": 75464998912,
       "netIncome": 29316999168,
-      "eps": 6.03,
-      "per": 68.2,
+      "eps": 6.01,
+      "per": 68.4,
       "finCurrency": "USD",
       "history": [
         {
@@ -174,8 +179,8 @@
       "profitMargin": 41.5,
       "revenue": 58119000064,
       "netIncome": 24110999552,
-      "eps": 21.23,
-      "per": 53.4,
+      "eps": 21.21,
+      "per": 53.5,
       "finCurrency": "USD",
       "history": [
         {
@@ -206,8 +211,8 @@
       "profitMargin": 23.7,
       "revenue": 2337627963392,
       "netIncome": 554490003456,
-      "eps": 1013.5,
-      "per": 107.2,
+      "eps": 1009.98,
+      "per": 107.5,
       "finCurrency": "JPY",
       "history": [
         {
@@ -234,8 +239,8 @@
       "profitMargin": 33.3,
       "revenue": 1128610004992,
       "netIncome": 375353016320,
-      "eps": 512.75,
-      "per": 61.9,
+      "eps": 514.19,
+      "per": 61.7,
       "finCurrency": "JPY",
       "history": [
         {
@@ -267,9 +272,14 @@
       "profitMargin": -32.9,
       "revenue": 481148010496,
       "netIncome": -158442995712,
-      "eps": -410.59,
+      "eps": -410.42,
       "finCurrency": "JPY",
       "history": [
+        {
+          "year": "2026",
+          "revenue": 481148000000,
+          "netIncome": -158424000000
+        },
         {
           "year": "2025",
           "revenue": 448466000000,
@@ -294,7 +304,7 @@
       "profitMargin": 15.2,
       "revenue": 605748002816,
       "netIncome": 92003000320,
-      "eps": 486.53,
+      "eps": 487.28,
       "per": 34.4,
       "finCurrency": "JPY",
       "history": [
@@ -327,8 +337,8 @@
       "profitMargin": 2.7,
       "revenue": 1333894971392,
       "netIncome": 35560001536,
-      "eps": 160.95,
-      "per": 114.3,
+      "eps": 159.99,
+      "per": 114.9,
       "finCurrency": "JPY",
       "history": [
         {
@@ -360,7 +370,7 @@
       "profitMargin": 3.4,
       "revenue": 816878977024,
       "netIncome": 27861999616,
-      "eps": 137.42,
+      "eps": 137.6,
       "per": 29.7,
       "finCurrency": "JPY",
       "history": [
@@ -393,8 +403,8 @@
       "profitMargin": 19.4,
       "revenue": 857830981632,
       "netIncome": 166542999552,
-      "eps": 178.34,
-      "per": 41.9,
+      "eps": 178.6,
+      "per": 41.8,
       "finCurrency": "JPY",
       "history": [
         {
@@ -421,8 +431,8 @@
       "profitMargin": 12.8,
       "revenue": 1830856032256,
       "netIncome": 233829007360,
-      "eps": 127.41,
-      "per": 92.2,
+      "eps": 128.08,
+      "per": 91.7,
       "finCurrency": "JPY",
       "history": [
         {
@@ -449,8 +459,8 @@
       "profitMargin": 29.7,
       "revenue": 33692700672,
       "netIncome": 10011100160,
-      "eps": 29.94,
-      "per": 64.5,
+      "eps": 30.1,
+      "per": 64.1,
       "finCurrency": "EUR",
       "history": [
         {
@@ -482,8 +492,8 @@
       "profitMargin": 23.5,
       "revenue": 2443533090816,
       "netIncome": 574453972992,
-      "eps": 1254.22,
-      "per": 60.1,
+      "eps": 1250.98,
+      "per": 60.2,
       "finCurrency": "JPY",
       "history": [
         {
@@ -510,8 +520,8 @@
       "profitMargin": 35.2,
       "revenue": 252181004288,
       "netIncome": 88780996608,
-      "eps": 964.0,
-      "per": 57.2,
+      "eps": 964.25,
+      "per": 57.1,
       "finCurrency": "JPY",
       "history": [
         {
@@ -543,7 +553,7 @@
       "profitMargin": 31.0,
       "revenue": 436888993792,
       "netIncome": 135521001472,
-      "eps": 1247.72,
+      "eps": 1248.03,
       "per": 68.0,
       "finCurrency": "JPY",
       "history": [
@@ -576,10 +586,15 @@
       "profitMargin": 18.4,
       "revenue": 2573969129472,
       "netIncome": 474459013120,
-      "eps": 252.69,
-      "per": 28.9,
+      "eps": 252.2,
+      "per": 29.0,
       "finCurrency": "JPY",
       "history": [
+        {
+          "year": "2026",
+          "revenue": 2573969000000,
+          "netIncome": 474459000000
+        },
         {
           "year": "2025",
           "revenue": 2561249000000,
@@ -604,7 +619,7 @@
       "profitMargin": -5.7,
       "revenue": 408599986176,
       "netIncome": -23267000320,
-      "eps": -33.66,
+      "eps": -33.61,
       "finCurrency": "JPY",
       "history": [
         {
@@ -632,6 +647,7 @@
       "changePct": 2.94,
       "target": 2712489.0,
       "rating": "強い買い(38人)",
+      "dividendYield": 11.0,
       "profitMargin": 56.9,
       "revenue": 132083817119744,
       "netIncome": 75142382223360,
@@ -662,6 +678,7 @@
       "changePct": -2.34,
       "target": 428075.53,
       "rating": "強い買い(36人)",
+      "dividendYield": 42.0,
       "profitMargin": 21.5,
       "revenue": 388338863308800,
       "netIncome": 83333740494848,
@@ -728,7 +745,7 @@
       "profitMargin": 6.5,
       "revenue": 542121984000,
       "netIncome": 35240001536,
-      "eps": 135.53,
+      "eps": 135.43,
       "per": 52.6,
       "finCurrency": "JPY",
       "history": [
@@ -761,7 +778,7 @@
       "profitMargin": 38.1,
       "revenue": 1169288986624,
       "netIncome": 445184999424,
-      "eps": 1834.65,
+      "eps": 1833.72,
       "per": 42.4,
       "finCurrency": "JPY",
       "history": [
@@ -794,8 +811,8 @@
       "profitMargin": 2.7,
       "revenue": 59556999168,
       "netIncome": 1608000000,
-      "eps": 16.8,
-      "per": 462.5,
+      "eps": 17.09,
+      "per": 454.7,
       "finCurrency": "JPY",
       "history": [
         {
@@ -827,7 +844,7 @@
       "profitMargin": 28.5,
       "revenue": 8514254143488,
       "netIncome": 2427229044736,
-      "eps": 212.4,
+      "eps": 212.41,
       "per": 15.4,
       "finCurrency": "JPY",
       "history": [
@@ -860,7 +877,7 @@
       "profitMargin": 0.0,
       "revenue": 2926294073344,
       "netIncome": 155562999808,
-      "eps": 115.47,
+      "eps": 115.44,
       "per": 13.2,
       "finCurrency": "JPY",
       "history": [
@@ -893,7 +910,7 @@
       "profitMargin": 3.8,
       "revenue": 2757350129664,
       "netIncome": 103610998784,
-      "eps": 494.71,
+      "eps": 494.74,
       "per": 10.7,
       "finCurrency": "JPY",
       "history": [
@@ -921,7 +938,7 @@
       "profitMargin": 15.3,
       "revenue": 3589766119424,
       "netIncome": 540890005504,
-      "eps": 281.16,
+      "eps": 281.27,
       "per": 21.6,
       "finCurrency": "JPY",
       "history": [
@@ -953,7 +970,7 @@
       "profitMargin": -29.1,
       "revenue": 34226999296,
       "netIncome": -9976999936,
-      "eps": -138.81,
+      "eps": -138.77,
       "finCurrency": "JPY",
       "history": [
         {
@@ -1016,9 +1033,14 @@
       "profitMargin": -1.9,
       "revenue": 21796610899968,
       "netIncome": -423941013504,
-      "eps": -106.05,
+      "eps": -106.08,
       "finCurrency": "JPY",
       "history": [
+        {
+          "year": "2026",
+          "revenue": 21796610000000,
+          "netIncome": -423941000000
+        },
         {
           "year": "2025",
           "revenue": 21688767000000,
@@ -1028,11 +1050,6 @@
           "year": "2024",
           "revenue": 20428802000000,
           "netIncome": 1107174000000
-        },
-        {
-          "year": "2023",
-          "revenue": 16907725000000,
-          "netIncome": 651416000000
         }
       ]
     },
@@ -1048,7 +1065,7 @@
       "profitMargin": 4.2,
       "revenue": 18915994370048,
       "netIncome": 800459980800,
-      "eps": 209.99,
+      "eps": 209.75,
       "per": 21.6,
       "finCurrency": "JPY",
       "history": [
@@ -1081,7 +1098,7 @@
       "profitMargin": 0.7,
       "revenue": 10715341520896,
       "netIncome": 72676999168,
-      "eps": 26.81,
+      "eps": 26.83,
       "per": 49.0,
       "finCurrency": "JPY",
       "history": [
@@ -1210,7 +1227,7 @@
       "profitMargin": 11.6,
       "revenue": 6071915118592,
       "netIncome": 707112009728,
-      "eps": 183.5,
+      "eps": 183.43,
       "per": 14.8,
       "finCurrency": "JPY",
       "history": [
@@ -1238,7 +1255,7 @@
       "profitMargin": 3.9,
       "revenue": 602377027584,
       "netIncome": 23281999872,
-      "eps": 261.78,
+      "eps": 261.8,
       "per": 14.7,
       "finCurrency": "JPY",
       "history": [

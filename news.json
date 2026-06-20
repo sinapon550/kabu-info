@@ -1,55 +1,145 @@
 {
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Beyond the Trillion-Dollar Club: 3 High-Growth Tech Stocks to Buy Right Now",
+      "title": "Pfizer's Dividend Yield is 10X Bigger Than Eli Lilly's. Does That Make It the Better Stock for Income Investors?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/19/beyond-the-trillion-dollar-club-3-high-growth-tech/",
-      "time": "2026-06-19T21:41:00Z",
-      "titleJa": "1兆ドルクラブを超えて: 今すぐ買うべき3つの高成長ハイテク株",
-      "relevant": false
+      "link": "https://www.fool.com/investing/2026/06/20/pfizers-dividend-yield-is-10x-bigger-than-eli-lill/",
+      "time": "2026-06-20T21:35:00Z",
+      "titleJa": "ファイザーの配当利回りはイーライリリーの10倍です。それはインカム投資家にとってより良い銘柄になるでしょうか?",
+      "relevant": true
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "The Memory Boom Has Been a Gift to Micron. For Apple, It's Becoming a Problem. Or Is It?",
+      "title": "Ford Could Make $500 Million From AI. Is Now the Time to Buy?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/19/the-memory-boom-has-been-a-gift-to-micron-for-appl/",
-      "time": "2026-06-19T21:37:53Z",
-      "titleJa": "メモリブームはマイクロンへの贈り物でした。 Appleにとって、それは問題になりつつある。それともそうですか？",
+      "link": "https://www.fool.com/investing/2026/06/20/ford-could-make-500-million-from-ai-is-now-the-tim/",
+      "time": "2026-06-20T21:25:00Z",
+      "titleJa": "フォードは AI で 5 億ドルを稼ぐ可能性がある。今が買い時ですか?",
       "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "The Memory Boom Has Been a Gift to Micron. For Apple, It's Becoming a Problem. Or Is It?",
+      "title": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
+      "time": "2026-06-20T17:51:01Z",
+      "titleJa": "ダウジョーンズ先物：イランがホルムズ海峡を閉鎖。 Nvidia がバイポイントに近づいている、SpaceX の動きに注目",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Sandisk Stock Is Up More Than 5,900% Since It Spun Off From Western Digital. Is It Too Late to Buy?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/19/the-memory-boom-has-been-a-gift-to-micron-for-appl/",
-      "time": "2026-06-19T21:37:53Z",
-      "titleJa": "メモリブームはマイクロンへの贈り物でした。 Appleにとって、それは問題になりつつある。それともそうですか？",
+      "link": "https://www.fool.com/investing/2026/06/20/sandisk-stock-is-up-more-than-5900-since-it-spun-o/",
+      "time": "2026-06-20T14:21:00Z",
+      "titleJa": "サンディスクの株価は、ウエスタンデジタルから分離されて以来、5,900％以上上昇している。買うには遅すぎますか?",
       "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Wall Street Technician Declares Financials, Industrials, and Biotech Poised for Breakouts. 3 ETFs Could Soar.",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/20/wall-street-technician-declares-financials-industrials-and-biotech-poised-for-breakouts-3-etfs-could-soar/",
+      "time": "2026-06-20T14:05:06Z",
+      "titleJa": "ウォール街の技術者、金融、工業、バイオテクノロジーがブレイクアウトの準備ができていると宣言。 3つのETFが高騰する可能性がある。",
+      "relevant": false
     },
     {
       "ticker": "7267.T",
       "company": "本田技研工業",
-      "title": "QuantumScape (QS) And Honda Enter Multi Year Solid State Battery Research Deal",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-qs-honda-enter-multi-211218510.html",
-      "time": "2026-06-19T21:12:18Z",
-      "titleJa": "QuantumScape (QS) とホンダ、複数年にわたる全固体電池研究契約を締結",
+      "title": "Driving an EV in These US States Saves You the Most Money",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/energy/articles/driving-ev-us-states-saves-140016315.html",
+      "time": "2026-06-20T14:00:16Z",
+      "titleJa": "米国のこれらの州で EV を運転すると、最もお金を節約できます",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "SanDisk Stock Looks Wildly Overbought, But SNDK’s Chart and Fundamentals Say It Can Keep Climbing",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/2566847/sandisk-stock-looks-wildly-overbought-but-sndks-chart-and-fundamentals-say-it-can-keep-climbing",
+      "time": "2026-06-20T14:00:02Z",
+      "titleJa": "サンディスク株は非常に買われ過ぎのように見えるが、SNDKのチャートとファンダメンタルズは上昇し続ける可能性があると述べている",
       "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Amkor Soared on a Taiwan Semi Deal. How to Play AMKR Stock Here.",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/2566779/amkor-soared-on-a-taiwan-semi-deal-how-to-play-amkr-stock-here",
+      "time": "2026-06-20T13:30:02Z",
+      "titleJa": "Amkorは台湾の半取引で急騰した。 AMKR株のプレイ方法はこちら。",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "PayPay’s (PAYP) Subsidiary to Acquire 70% Stake in T&D Financial Life Insurance",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paypay-payp-subsidiary-acquire-70-132602610.html",
+      "time": "2026-06-20T13:26:02Z",
+      "titleJa": "ペイペイ（PAYP）子会社、T&Dフィナンシャル生命保険の株式70％を取得",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Prediction: The SpaceX Lockup Period Will Be an Absolute Train Wreck for Retail Investors",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/20/spacex-lockup-period-train-wreck-retail-investors/",
+      "time": "2026-06-20T13:26:00Z",
+      "titleJa": "予測：SpaceXのロックアップ期間は個人投資家にとって絶対的な大惨事となるだろう",
+      "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-      "time": "2026-06-19T21:00:05Z",
-      "titleJa": "ダウジョーンズ先物は下落。 Nvidia が買いポイントに近い 5 銘柄をリード、SpaceX にはこれが必要",
+      "title": "From FAANG to MANGOS — Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/from-faang-to-mangos--wall-street-is-searching-for-the-next-magnificent-7-chart-of-the-day-112331299.html",
+      "time": "2026-06-20T11:23:31Z",
+      "titleJa": "FAANG から MANGOS へ — ウォール街は次の「マグニフィセント 7」を探しています: 今日のチャート",
       "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Cramer's Intel bet rests on one unproven number",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/cramers-intel-bet-rests-on-central-processing-units-cpus",
+      "time": "2026-06-20T01:37:00Z",
+      "titleJa": "クレイマー氏のインテルへの賭けは、証明されていない数字に基づいている",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Why the Memory Crunch Is Almost Impossible to Solve",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/tech/why-the-memory-crunch-is-almost-impossible-to-solve-4023cb40?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-19T23:00:00Z",
+      "titleJa": "メモリクランチを解決するのがほぼ不可能な理由",
+      "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "QuantumScape (QS) Is Up 13.4% After Honda Joins Multi-Year Solid-State Battery Research Program",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-qs-13-4-honda-221209431.html",
+      "time": "2026-06-19T22:12:09Z",
+      "titleJa": "ホンダが複数年にわたる全固体電池研究プログラムに参加後、QuantumScape (QS) は 13.4% 上昇",
+      "relevant": true
     },
     {
       "ticker": "ASML",
@@ -62,26 +152,6 @@
       "relevant": false
     },
     {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Up 700% YTD, How High Can SanDisk Rally?",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/19/up-700-ytd-how-high-can-sandisk-rally/",
-      "time": "2026-06-19T20:00:42Z",
-      "titleJa": "年初来で 700% 増加、サンディスクはどこまで上昇できるでしょうか?",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Micron Gets the Headlines, But Sandisk Could Offer More Upside",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-gets-headlines-sandisk-could-190000313.html",
-      "time": "2026-06-19T19:00:00Z",
-      "titleJa": "マイクロンが注目を集めるが、サンディスクはさらなる利益をもたらす可能性がある",
-      "relevant": true
-    },
-    {
       "ticker": "ASML",
       "company": "ASML",
       "title": "ASML Faces Fresh China Export Scrutiny",
@@ -92,36 +162,6 @@
       "relevant": true
     },
     {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Analyst Warns Intel Valuation ‘Doesn’t Make Sense.’ Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/19/analyst-warns-intel-valuation-doesnt-make-sense-suggests-nvidia-amd-micron-and-broadcom-as-alternatives/",
-      "time": "2026-06-19T17:36:48Z",
-      "titleJa": "アナリストはインテルの評価は「意味がない」と警告し、代替としてNVIDIA、AMD、Micron、Broadcomを示唆。",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Analyst Warns Intel Valuation ‘Doesn’t Make Sense.’ Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/19/analyst-warns-intel-valuation-doesnt-make-sense-suggests-nvidia-amd-micron-and-broadcom-as-alternatives/",
-      "time": "2026-06-19T17:36:48Z",
-      "titleJa": "アナリストはインテルの評価は「意味がない」と警告し、代替としてNVIDIA、AMD、Micron、Broadcomを示唆。",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Google, SpaceX, Microsoft, and Amazon Are About to Spend ‘Twice the Entire U.S. Defense Budget’ on AI",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/19/google-spacex-microsoft-and-amazon-are-about-to-spend-twice-the-entire-u-s-defense-budget-on-ai/",
-      "time": "2026-06-19T17:19:02Z",
-      "titleJa": "Google、SpaceX、Microsoft、Amazon は AI に「米国国防予算全体の 2 倍」を費やそうとしている",
-      "relevant": false
-    },
-    {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
       "title": "Intel Adds Foundry Muscle",
@@ -129,16 +169,6 @@
       "link": "https://finance.yahoo.com/technology/articles/intel-adds-foundry-muscle-170623235.html",
       "time": "2026-06-19T17:06:23Z",
       "titleJa": "インテルがファウンドリ・マッスルを追加",
-      "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "ASML Draws Fresh China Scrutiny",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/articles/asml-draws-fresh-china-scrutiny-170543582.html",
-      "time": "2026-06-19T17:05:43Z",
-      "titleJa": "ASML、中国に対する新たな厳しい監視を受ける",
       "relevant": false
     },
     {
@@ -202,16 +232,6 @@
       "relevant": false
     },
     {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "South Korea’s KOSPI Tops 9,000 but Samsung and SK Hynix Did the Work",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/kospi-9000-samsung-sk-hynix-record/",
-      "time": "2026-06-19T01:52:03Z",
-      "titleJa": "韓国のKOSPIは9,000を突破したが、サムスンとSKハイニックスが功を奏した",
-      "relevant": true
-    },
-    {
       "ticker": "9984.T",
       "company": "ソフトバンクG",
       "title": "Hyundai to buy SoftBank's remaining stake in Boston Dynamics for $325 million, newspaper says",
@@ -230,26 +250,6 @@
       "time": "2026-06-18T22:12:19Z",
       "titleJa": "オリックス (東証:8591) 生命保険部門におけるアポロへの関心を検討",
       "relevant": true
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Stock Market Today, June 18: QuantumScape Jumps After Teaming Up With Honda on Solid-State Battery Research Agreement",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-quantumscape-jumps-after-teaming-up-with-honda-on-solid-state-battery-research-agreement/",
-      "time": "2026-06-18T21:03:01Z",
-      "titleJa": "今日、6月18日の株式市場：全固体電池研究契約でホンダと提携した後、QuantumScapeが急騰",
-      "relevant": true
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Intel Rallies to Record After Trump Touts Apple Chip Deal",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-shares-soar-trump-says-093534172.html",
-      "time": "2026-06-18T20:45:14Z",
-      "titleJa": "トランプ大統領がアップルチップ取引を宣伝した後、インテルが記録を回復",
-      "relevant": false
     },
     {
       "ticker": "2502.T",
@@ -288,7 +288,7 @@
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-8f220b57?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-17T20:54:00Z",
-      "titleJa": "基本的な材料のまとめ: マーケットトーク",
+      "titleJa": "基本資料のまとめ: マーケットトーク",
       "relevant": false
     },
     {
@@ -318,7 +318,7 @@
       "publisher": "Reuters",
       "link": "https://finance.yahoo.com/technology/ai/articles/softbank-launches-cybersecurity-product-based-093626120.html",
       "time": "2026-06-16T09:36:26Z",
-      "titleJa": "ソフトバンクがOpenAIモデルに基づくサイバーセキュリティ製品を発売",
+      "titleJa": "ソフトバンク、OpenAIモデルに基づくサイバーセキュリティ製品を発売",
       "relevant": true
     },
     {
