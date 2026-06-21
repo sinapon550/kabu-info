@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Is Netflix Stock Cheap or Overvalued? Here's What Investors Need to Know.",
+      "title": "The 2 Factors That Will Decide Whether XLV Finally Catches the S&P 500 in 2026",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/06/21/the-2-factors-that-will-decide-whether-xlv-finally-catches-the-sp-500-in-2026/",
+      "time": "2026-06-21T20:17:27Z",
+      "titleJa": "XLVが2026年にS&P 500に入るかどうかを決定する2つの要因"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Charles Schwab (SCHW) Launches Yes Or No S&P 500 Options With Cboe",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/options/articles/charles-schwab-schw-launches-yes-180727746.html",
+      "time": "2026-06-21T18:07:27Z",
+      "titleJa": "チャールズ・シュワブ (SCHW) が Cboe とイエス・オア・ノー S&P 500 オプションを開始"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/20/netflix-stock-cheap-overvalued-investors-need-know/",
-      "time": "2026-06-20T21:49:00Z",
-      "titleJa": "Netflixの株は安いのか、それとも過大評価されているのか?投資家が知っておくべきことは次のとおりです。"
+      "link": "https://www.fool.com/investing/2026/06/21/down-10-from-its-peak-is-amazon-stock-the-ultimate/",
+      "time": "2026-06-21T17:39:00Z",
+      "titleJa": "ピーク時から10％下落、アマゾン株は夏の究極の買い場か？"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "U.S. Real Estate Leaders or Global Property Markets? XLRE vs. RWO",
+      "title": "Which Is the Better International ETF, State Street's SPDW Targeting Developed Markets or Vanguard's Emerging Markets-Focused VWO?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/06/20/u-s-real-estate-leaders-or-global-property-markets-xlre-vs-rwo/",
-      "time": "2026-06-20T21:45:48Z",
-      "titleJa": "米国の不動産リーダーか、それとも世界の不動産市場か? XLRE対RWO"
+      "link": "https://www.fool.com/coverage/etfs/2026/06/21/which-is-the-better-international-etf-state-street-s-spdw-targeting-developed-markets-or-vanguard-s-emerging-markets-focused-vwo/",
+      "time": "2026-06-21T15:35:01Z",
+      "titleJa": "先進国市場を対象としたステート・ストリートのSPDWと新興国市場を対象としたバンガードのVWOではどちらが優れた国際ETFでしょうか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Pfizer's Dividend Yield is 10X Bigger Than Eli Lilly's. Does That Make It the Better Stock for Income Investors?",
+      "title": "Don't Forget About Western Digital Amid Sandisk Euphoria",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/20/pfizers-dividend-yield-is-10x-bigger-than-eli-lill/",
-      "time": "2026-06-20T21:35:00Z",
-      "titleJa": "ファイザーの配当利回りはイーライリリーの10倍です。それはインカム投資家にとってより良い銘柄になるでしょうか?"
+      "link": "https://www.fool.com/investing/2026/06/21/dont-forget-about-western-digital-amid-sandisk-eup/",
+      "time": "2026-06-21T15:22:00Z",
+      "titleJa": "サンディスクの高揚感の中でウエスタンデジタルを忘れるな"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Cathie Wood buys $52 million of surging tech stock",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-52-million-of-surging-tech-stock",
-      "time": "2026-06-20T21:03:00Z",
-      "titleJa": "キャシー・ウッド、急騰するハイテク株を5,200万ドルで購入"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "The Vanguard S&P 500 ETF (VOO) Is the Most Popular ETF in the World. Here's One I Like Even Better.",
+      "title": "What Will Nvidia Stock's Price Be in 1 Year?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/20/vanguard-sp-500-etf-voo-most-popular-voog/",
-      "time": "2026-06-20T19:49:00Z",
-      "titleJa": "バンガード S&P 500 ETF (VOO) は世界で最も人気のある ETF です。これが私がさらに気に入ったものです。"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Enel Chile (ENIC) Among the Best Undervalued Penny Stocks, Here’s What You Need to Know",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/enel-chile-enic-among-best-185409319.html",
-      "time": "2026-06-20T18:54:09Z",
-      "titleJa": "エネル・チリ (ENIC) 最も過小評価されているペニー株の中で知っておくべきこと"
+      "link": "https://www.fool.com/investing/2026/06/21/nvda-stock-1-year-price-prediction-target/",
+      "time": "2026-06-21T15:20:00Z",
+      "titleJa": "Nvidia の株価は 1 年後にはいくらになるでしょうか?"
     }
   ]
 }
