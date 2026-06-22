@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The 2 Factors That Will Decide Whether XLV Finally Catches the S&P 500 in 2026",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/21/the-2-factors-that-will-decide-whether-xlv-finally-catches-the-sp-500-in-2026/",
-      "time": "2026-06-21T20:17:27Z",
-      "titleJa": "XLVが2026年にS&P 500に入るかどうかを決定する2つの要因"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Charles Schwab (SCHW) Launches Yes Or No S&P 500 Options With Cboe",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/options/articles/charles-schwab-schw-launches-yes-180727746.html",
-      "time": "2026-06-21T18:07:27Z",
-      "titleJa": "チャールズ・シュワブ (SCHW) が Cboe とイエス・オア・ノー S&P 500 オプションを開始"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
+      "title": "Stock Market Today, June 22: Apogee Therapeutics Soars on AbbVie Cash Buyout Offer",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/21/down-10-from-its-peak-is-amazon-stock-the-ultimate/",
-      "time": "2026-06-21T17:39:00Z",
-      "titleJa": "ピーク時から10％下落、アマゾン株は夏の究極の買い場か？"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-apogee-therapeutics-soars-on-abbvie-cash-buyout-offer/",
+      "time": "2026-06-22T22:14:24Z",
+      "titleJa": "今日の株式市場、6月22日: Apogee TherapeuticsがAbbVieの現金買収提案で急騰"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Which Is the Better International ETF, State Street's SPDW Targeting Developed Markets or Vanguard's Emerging Markets-Focused VWO?",
+      "title": "Stock Market Today, June 22: UiPath Falls as Agentic Automation Push Faces ARR Growth Test",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/06/21/which-is-the-better-international-etf-state-street-s-spdw-targeting-developed-markets-or-vanguard-s-emerging-markets-focused-vwo/",
-      "time": "2026-06-21T15:35:01Z",
-      "titleJa": "先進国市場を対象としたステート・ストリートのSPDWと新興国市場を対象としたバンガードのVWOではどちらが優れた国際ETFでしょうか?"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-uipath-falls-as-agentic-automation-push-faces-arr-growth-test/",
+      "time": "2026-06-22T21:59:04Z",
+      "titleJa": "今日の株式市場、6月22日: エージェント自動化がARR成長テストに直面し、UiPathが下落"
+    },
+    {
+      "ticker": "JPY=X",
+      "company": "経済",
+      "title": "Japan's Katayama, US Treasury's Bessent hold online talks to discuss yen, TBS reports",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/japans-katayama-us-treasurys-bessent-214702154.html",
+      "time": "2026-06-22T21:47:02Z",
+      "titleJa": "日本の片山氏と米財務省のベセント氏が円を巡るオンライン会談を開催、TBS報道"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Don't Forget About Western Digital Amid Sandisk Euphoria",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/21/dont-forget-about-western-digital-amid-sandisk-eup/",
-      "time": "2026-06-21T15:22:00Z",
-      "titleJa": "サンディスクの高揚感の中でウエスタンデジタルを忘れるな"
+      "title": "S&P 500, Nasdaq Drop As SpaceX, Broader Tech Weakness Outweighs US-Iran Hopes — SPCX, GOOGL, NFLX, COIN, MU In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-drop-as-space-x-broader-tech-weakness-outweighs-us-iran-hopes-spcx-googl-nflx-coin-mu-in-focus/cZKMJLHR79B",
+      "time": "2026-06-22T21:37:56Z",
+      "titleJa": "S&P 500、ナスダックはSpaceXとして下落、広範なテクノロジーの弱さが米国とイランの期待を上回る — SPCX、GOOGL、NFLX、COIN、MUが注目"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "What Will Nvidia Stock's Price Be in 1 Year?",
+      "title": "Stock Market Today, June 22: Alphabet Falls as AlphaFold Co-Creator’s Exit Raises AI Talent Concerns",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/21/nvda-stock-1-year-price-prediction-target/",
-      "time": "2026-06-21T15:20:00Z",
-      "titleJa": "Nvidia の株価は 1 年後にはいくらになるでしょうか?"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-alphabet-falls-as-alphafold-co-creator-s-exit-raises-ai-talent-concerns/",
+      "time": "2026-06-22T21:34:02Z",
+      "titleJa": "今日の株式市場、6月22日: AlphaFold共同開発者の撤退でAI人材への懸念が高まり、Alphabetが下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, June 22: Super Micro Computer Jumps After Introducing New Platform Accelerating AI Server Backlog Growth",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-super-micro-computer-jumps-after-introducing-new-platform-accelerating-ai-server-backlog-growth/",
+      "time": "2026-06-22T21:30:59Z",
+      "titleJa": "今日の株式市場、6 月 22 日: 新しいプラットフォームの導入でスーパー マイクロ コンピューターが急騰、AI サーバーのバックログの増加が加速"
     }
   ]
 }
