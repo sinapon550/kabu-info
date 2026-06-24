@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-24",
+  "updated": "2026-06-25",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Vital Farms, BellRing Brands, and Conagra Stocks Trade Up, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vital-farms-bellring-brands-conagra-215246235.html",
-      "time": "2026-06-23T21:52:46Z",
-      "titleJa": "Vital Farms、BellRing Brands、および Conagra 株のトレードアップ、知っておくべきこと"
+      "title": "Stock Market Today, June 24: Sunrun Jumps After Announcing Deal With Tesla and Renew Home for 16 Gigawatts of Flexible Power",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/24/stock-market-today-june-24-sunrun-jumps-after-announcing-deal-with-tesla-and-renew-home-for-16-gigawatts-of-flexible-power/",
+      "time": "2026-06-24T22:08:24Z",
+      "titleJa": "今日、6月24日の株式市場：テスラとの契約と16ギガワットの柔軟な電力の住宅リニューアルを発表したサンランが急騰"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
+      "title": "Dow Jones Futures Rise As Micron Jumps On Earnings, Lifting Sandisk, AI Stocks; Fed Inflation Data Due",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/news/google-parent-alphabet-join-dow-jones-industrial-average-replacing-verizon/?src=A00220&yptr=yahoo",
-      "time": "2026-06-23T21:50:33Z",
-      "titleJa": "Googleの親会社であるAlphabetがVerizonに代わってダウジョーンズ工業株30種に加わる"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-earnings-sandisk-memory-chip-stocks-fed-inflation-data/?src=A00220&yptr=yahoo",
+      "time": "2026-06-24T21:50:10Z",
+      "titleJa": "マイクロンが利益を上げ、サンディスク、AI株を押し上げ、ダウジョーンズ先物は上昇。 FRBのインフレデータ提出期限"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Energizer, Cal-Maine, and B&G Foods Shares Are Soaring, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/energizer-cal-maine-b-g-214446138.html",
-      "time": "2026-06-23T21:44:46Z",
-      "titleJa": "エナジャイザー、カルメイン、B&Gフーズ株の急騰、知っておくべきこと"
+      "title": "Morgan Stanley pulls no punches after tech stock sell-off",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/morgan-stanley-tech-stock-sell-off-shows-healthy-market",
+      "time": "2026-06-24T21:47:00Z",
+      "titleJa": "モルガン・スタンレー、ハイテク株急落後も容赦なし"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why tech stocks are getting hammered",
-      "publisher": "LA Times",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tech-stocks-getting-hammered-214226305.html",
-      "time": "2026-06-23T21:42:26Z",
-      "titleJa": "ハイテク株が打撃を受けている理由"
+      "title": "Stocks edge lower as dollar rises to one-year high",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/news/asian-stocks-wobble-tech-led-014509887.html",
+      "time": "2026-06-24T21:31:25Z",
+      "titleJa": "ドルが1年ぶり高値に上昇、株価は小幅下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Rise After Nasdaq Breaks Support; FedEx, Cerebras Tumble Late With Micron Due",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-ai-sell-off-spacex-fedex-cerebras-micron-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-06-23T21:41:50Z",
-      "titleJa": "ナスダックがサポートを破った後、ダウジョーンズ先物は上昇。フェデックス、大脳がマイクロンの遅れで転落"
+      "title": "Stocks Mixed as AI Weakness Offset by Consumer Strength",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/stocks-mixed-as-ai-weakness-offset-by-consumer-strength-9c6cec69?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-24T21:29:00Z",
+      "titleJa": "AIの弱点を消費者の強さで相殺、株価はまちまち"
     },
     {
-      "ticker": "^IXIC",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Tech stocks tumble for a second day. Here's what's behind the selloff.",
-      "publisher": "CBS News",
-      "link": "https://www.cbsnews.com/news/tech-stock-selloff-ai-profits-nasdaq-nvidia-alphabet-spacex/",
-      "time": "2026-06-23T21:35:09Z",
-      "titleJa": "ハイテク株は２日続落。下落の背景にあるものは次のとおりです。"
+      "title": "Stock Market Today, June 24: Amazon Gains as Investors Monitor Strong Prime Day Demand and AI Shopping Activity",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/24/stock-market-today-june-24-amazon-gains-as-investors-monitor-strong-prime-day-demand-and-ai-shopping-activity/",
+      "time": "2026-06-24T21:21:46Z",
+      "titleJa": "今日の株式市場、6 月 24 日: 投資家がプライムデーの旺盛な需要と AI によるショッピング活動を監視し、アマゾンが上昇"
     }
   ]
 }
