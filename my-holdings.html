@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>株なるほどメモ｜自分の保有</title>
-<link rel="stylesheet" href="style.css?v=8">
+<link rel="stylesheet" href="style.css?v=9">
 <style>
   /* my-holdings 専用の追加スタイル（情報ぎっしり版） */
   .statgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:10px 0}
@@ -24,9 +24,11 @@
   .leg{font-size:12px;display:flex;flex-direction:column;gap:4px}
   .leg span{display:flex;align-items:center;gap:7px}
   .dot{width:11px;height:11px;border-radius:3px;flex:0 0 auto}
-  .themehead{display:flex;align-items:center;gap:8px;font-size:15px;font-weight:bold;color:var(--green-d);
+  .themehead{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:15px;font-weight:bold;color:var(--green-d);
     margin:18px 0 4px;padding-bottom:5px;border-bottom:2px solid var(--gold)}
-  .themehead .why{font-size:11px;font-weight:normal;color:var(--sub);margin-left:auto;text-align:right;max-width:55%}
+  .themehead .cert{font-size:11px;font-weight:bold;color:#9a6a00;background:#fff7e6;border:1px solid #f0d894;border-radius:10px;padding:1px 8px;white-space:nowrap}
+  .themehead .cert i{color:#e0a32e;font-style:normal}
+  .themehead .why{font-size:11px;font-weight:normal;color:var(--sub);margin-left:auto;text-align:right;max-width:52%}
   .role{color:var(--sub);font-size:11.5px}
   .newsmini{margin-top:6px;font-size:12.5px}
   .newsmini .co{font-size:12px}
@@ -145,7 +147,7 @@
     </div>
 
     <!-- ① 半導体・AI -->
-    <div class="themehead">🔬 半導体・AI<span class="why">AI・データセンター投資が世界的に拡大／メモリ・HBMは2030年代まで需要拡大の見立て</span></div>
+    <div class="themehead">🔬 半導体・AI<span class="cert">需要確実度 <i>★★★★☆</i></span><span class="why">AI・データセンター投資が世界的に拡大／メモリ・HBMは2030年代まで需要拡大の見立て</span></div>
     <div class="scroll">
     <table>
       <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>役割</th></tr>
@@ -160,7 +162,7 @@
     <div class="newsmini"><div class="news-auto card" data-relevant="1" data-group="company" data-per="1" data-tickers="8035.T,6857.T,6146.T,4063.T,3436.T,4062.T"><div class="kv">ニュース読み込み中…</div></div></div>
 
     <!-- ② 電力・電線 -->
-    <div class="themehead">⚡ 電力・電線<span class="why">AIデータセンターの電力需要が2026年に倍増予測／送電網の更新・電化</span></div>
+    <div class="themehead">⚡ 電力・電線<span class="cert">需要確実度 <i>★★★★★</i></span><span class="why">AIデータセンターの電力需要が2026年に倍増予測／送電網の更新・電化</span></div>
     <div class="scroll">
     <table>
       <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>役割</th></tr>
@@ -173,7 +175,7 @@
     <div class="newsmini"><div class="news-auto card" data-relevant="1" data-group="company" data-per="1" data-tickers="5803.T,5802.T,9502.T,6501.T"><div class="kv">ニュース読み込み中…</div></div></div>
 
     <!-- ③ データセンター・電気工事 -->
-    <div class="themehead">🏢 データセンター・電気工事<span class="why">国内で大型DC案件が続々／作る・つなぐ需要</span></div>
+    <div class="themehead">🏢 データセンター・電気工事<span class="cert">需要確実度 <i>★★★★☆</i></span><span class="why">国内で大型DC案件が続々／作る・つなぐ需要</span></div>
     <div class="scroll">
     <table>
       <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>役割</th></tr>
@@ -185,7 +187,7 @@
     <div class="newsmini"><div class="news-auto card" data-relevant="1" data-group="company" data-per="1" data-tickers="3778.T,1942.T,1417.T"><div class="kv">ニュース読み込み中…</div></div></div>
 
     <!-- ④ 防衛 -->
-    <div class="themehead">🛡️ 防衛<span class="why">防衛費を「構造的投資」に格上げ・2027年度まで増額が既定路線</span></div>
+    <div class="themehead">🛡️ 防衛<span class="cert">需要確実度 <i>★★★★★</i></span><span class="why">防衛費を「構造的投資」に格上げ・2027年度まで増額が既定路線</span></div>
     <div class="scroll">
     <table>
       <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>役割</th></tr>
@@ -197,7 +199,7 @@
     <div class="newsmini"><div class="news-auto card" data-relevant="1" data-group="company" data-per="1" data-tickers="7011.T,7012.T,7013.T"><div class="kv">ニュース読み込み中…</div></div></div>
 
     <!-- ⑤ サイバーセキュリティ -->
-    <div class="themehead">🔐 サイバーセキュリティ<span class="why">攻撃の多発＋アクティブ・サイバーディフェンス法など国の後押し</span></div>
+    <div class="themehead">🔐 サイバーセキュリティ<span class="cert">需要確実度 <i>★★★☆☆</i></span><span class="why">攻撃の多発＋アクティブ・サイバーディフェンス法など国の後押し</span></div>
     <div class="scroll">
     <table>
       <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>役割</th></tr>
@@ -255,6 +257,6 @@
   </div>
 </footer>
 
-<script src="prices.js?v=8"></script>
+<script src="prices.js?v=9"></script>
 </body>
 </html>

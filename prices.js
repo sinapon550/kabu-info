@@ -149,10 +149,13 @@
   // ===== 関連ニュース =====
   function newsLink(n){
     var date = n.time ? n.time.slice(0,10) : '';
-    var jurl = 'https://translate.google.com/translate?sl=auto&tl=ja&u=' + encodeURIComponent(n.link);
+    // リンク先は「日本のYahoo!ファイナンス（その銘柄のニュース）」。海外記事の翻訳版には飛ばさない。
+    var jurl = n.ticker
+      ? 'https://finance.yahoo.co.jp/quote/' + encodeURIComponent(n.ticker) + '/news'
+      : 'https://finance.yahoo.co.jp/';
     var title = n.titleJa || n.title;
     return '<a href="' + esc(jurl) + '" target="_blank" rel="noopener">' + esc(title) + '</a>'
-      + '<div class="src">' + esc(n.publisher) + (date ? ' ・ ' + esc(date) : '') + '</div>';
+      + '<div class="src">' + esc(n.publisher) + (date ? ' ・ ' + esc(date) : '') + ' ／ 日本語の詳細はYahoo!ファイナンスで</div>';
   }
   // 1つのニュース枠を描画する（複数枠に対応するため関数化）
   function renderNews(el, items){
