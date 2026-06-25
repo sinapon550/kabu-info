@@ -2,14 +2,44 @@
   "updated": "2026-06-26",
   "items": [
     {
+      "ticker": "4063.T",
+      "company": "信越化学",
+      "title": "Shin-Etsu Chemical Co Ltd: A Significant Move by Hennessy Japan Fund",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-chemical-co-ltd-230519962.html",
+      "time": "2026-06-25T23:05:19Z",
+      "titleJa": "信越化学工業株式会社：ヘネシー・ジャパン・ファンドによる重要な動き",
+      "relevant": true
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Micron's Blowout Earnings Could Be Great News for Nvidia Investors",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/25/microns-blowout-earnings-could-be-great-news-for-n/",
+      "time": "2026-06-25T23:03:00Z",
+      "titleJa": "Micron の爆発的な利益は Nvidia 投資家にとって素晴らしいニュースになる可能性がある",
+      "relevant": true
+    },
+    {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Stock Market Today, June 25: Apple Drops After Raising Device Prices to Offset Higher Memory Costs",
+      "title": "Micron's Blowout Earnings Could Be Great News for Nvidia Investors",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-apple-drops-after-raising-device-prices-to-offset-higher-memory-costs/",
-      "time": "2026-06-25T22:10:35Z",
-      "titleJa": "今日の株式市場、6 月 25 日: Apple、メモリコストの高騰を相殺するためにデバイスの価格を値上げした後、下落",
-      "relevant": false
+      "link": "https://www.fool.com/investing/2026/06/25/microns-blowout-earnings-could-be-great-news-for-n/",
+      "time": "2026-06-25T23:03:00Z",
+      "titleJa": "Micron の爆発的な利益は Nvidia 投資家にとって素晴らしいニュースになる可能性がある",
+      "relevant": true
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Samsung to invest 1,000 trillion won in South Korea, media report says",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/technology/articles/samsung-invest-1-000-trillion-225627830.html",
+      "time": "2026-06-25T22:56:27Z",
+      "titleJa": "サムスン、韓国に1000兆ウォン投資へ、メディア報道",
+      "relevant": true
     },
     {
       "ticker": "MU",
@@ -17,7 +47,7 @@
       "title": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-      "time": "2026-06-25T21:50:24Z",
+      "time": "2026-06-25T22:37:34Z",
       "titleJa": "ダウ・ジョーンズ先物：マイクロンの利益がアップルの痛手となる、まちまちの市場シグナル",
       "relevant": true
     },
@@ -27,38 +57,28 @@
       "title": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-      "time": "2026-06-25T21:50:24Z",
+      "time": "2026-06-25T22:37:34Z",
       "titleJa": "ダウ・ジョーンズ先物：マイクロンの利益がアップルの痛手となる、まちまちの市場シグナル",
       "relevant": true
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Investors Are Getting Another Great Opportunity to Buy This Incredible Artificial Intelligence (AI) Stock Right Now",
+      "title": "Why Qualcomm Stock Popped Today",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/25/investors-are-getting-another-great-opportunity-to/",
-      "time": "2026-06-25T21:50:00Z",
-      "titleJa": "投資家は今、この素晴らしい人工知能 (AI) 株を購入する絶好のチャンスを手にしています。",
+      "link": "https://www.fool.com/investing/2026/06/25/why-qualcomm-stock-is-up-today/",
+      "time": "2026-06-25T22:20:14Z",
+      "titleJa": "クアルコム株が今日急騰した理由",
       "relevant": false
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "OpenAI just built a chip to cut Nvidia out of one job",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/technology/openai-built-chip-challenge-nvidia-inference-dominance",
-      "time": "2026-06-25T21:47:00Z",
-      "titleJa": "OpenAI は、Nvidia の仕事を 1 つだけ削減するチップを開発しました",
-      "relevant": true
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "AI boom keeps memory chip makers in sweet spot, says expert",
-      "publisher": "Reuters Videos",
-      "link": "https://finance.yahoo.com/video/ai-boom-keeps-memory-chip-211540950.html",
-      "time": "2026-06-25T21:15:40Z",
-      "titleJa": "AIブームによりメモリチップメーカーはスイートスポットを維持していると専門家が語る",
+      "title": "Stocks to Watch: Micron, Apple, Wendy’s",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-25-2026/card/stocks-to-watch-micron-wendy-s-sandisk-A0BtXwb9Tds9q3tXbR94?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-25T21:48:26Z",
+      "titleJa": "注目株：マイクロン、アップル、ウェンディーズ",
       "relevant": false
     },
     {
@@ -108,7 +128,7 @@
       "publisher": "etf.com",
       "link": "http://www.etf.com/sections/equity/leveraged-tail-wags-dog-samsung-sk-hynex?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
       "time": "2026-06-25T19:50:06Z",
-      "titleJa": "レバレッジをかけた尻尾が犬を振り回す: サムスン SK ハイネックス",
+      "titleJa": "活用された尻尾は犬を振る：サムスン SK ハイネックス",
       "relevant": false
     },
     {
@@ -118,7 +138,7 @@
       "publisher": "etf.com",
       "link": "http://www.etf.com/sections/equity/leveraged-tail-wags-dog-samsung-sk-hynex?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
       "time": "2026-06-25T19:50:06Z",
-      "titleJa": "レバレッジをかけた尻尾が犬を振り回す: サムスン SK ハイネックス",
+      "titleJa": "活用された尻尾は犬を振る：サムスン SK ハイネックス",
       "relevant": true
     },
     {
@@ -129,16 +149,6 @@
       "link": "https://finance.yahoo.com/video/ford-wins-j-d-powers-194714664.html",
       "time": "2026-06-25T19:47:14Z",
       "titleJa": "フォードがJ.D.パワーのトップの座を獲得、CEOは「驚くべき成果」と称賛",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "AI Data Centers Will Consume 70% of All Memory Chips in 2026. Here Are the Only 2 Stocks That Matter.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/25/ai-data-centers-will-consume-70-of-all-memory-chip/",
-      "time": "2026-06-25T19:10:00Z",
-      "titleJa": "AI データセンターは 2026 年に全メモリ チップの 70% を消費するでしょう。重要な銘柄は 2 つだけです。",
       "relevant": false
     },
     {
@@ -188,7 +198,7 @@
       "publisher": "Reuters",
       "link": "https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html",
       "time": "2026-06-25T17:02:08Z",
-      "titleJa": "ヘルスケア株が広範な上昇を主導し、欧州株が記録的な終値を記録",
+      "titleJa": "ヘルスケア株が広範な上昇を主導し、欧州株は記録的な終値を記録した",
       "relevant": false
     },
     {
@@ -322,6 +332,16 @@
       "relevant": false
     },
     {
+      "ticker": "6501.T",
+      "company": "日立製作所",
+      "title": "India regulator clears Honda bid to buy extra 21% stake in Astemo from Hitachi",
+      "publisher": "Just Auto",
+      "link": "https://www.just-auto.com/news/cci-honda-stake-astemo-hitachi/",
+      "time": "2026-06-24T17:42:10Z",
+      "titleJa": "インド規制当局、ホンダが日立からアステモ株21％を追加購入する提案を承認",
+      "relevant": true
+    },
+    {
       "ticker": "6981.T",
       "company": "村田製作所",
       "title": "Earnings Estimates Moving Higher for Murata Manufacturing (MRAAY): Time to Buy?",
@@ -362,6 +382,16 @@
       "relevant": false
     },
     {
+      "ticker": "5803.T",
+      "company": "フジクラ",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-96b71b5f?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-22T21:07:00Z",
+      "titleJa": "テクノロジー、メディア、通信まとめ: マーケットトーク",
+      "relevant": false
+    },
+    {
       "ticker": "8058.T",
       "company": "三菱商事",
       "title": "Giga Metals Begins Property-Wide Geophysical Survey at the Turnagain Project",
@@ -378,7 +408,27 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/ix-vs-bam-stock-better-154005313.html",
       "time": "2026-06-22T15:40:05Z",
-      "titleJa": "IX 対 BAM: どちらの株がよりバリューの高いオプションですか?",
+      "titleJa": "IX 対 BAM: どちらの株がより価値のあるオプションですか?",
+      "relevant": false
+    },
+    {
+      "ticker": "6501.T",
+      "company": "日立製作所",
+      "title": "Could Intel (INTC) Be an Unexpected Winner of the AI Chip Shortage?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/technology/ai/articles/could-intel-intc-unexpected-winner-131059961.html",
+      "time": "2026-06-22T13:10:59Z",
+      "titleJa": "AI チップ不足でインテル (INTC) が予想外の勝者となる可能性はあるのか?",
+      "relevant": false
+    },
+    {
+      "ticker": "5803.T",
+      "company": "フジクラ",
+      "title": "Tech Optimism, Oil Outlook Lifts Asian Stock Markets",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-optimism-oil-outlook-lifts-103402470.html",
+      "time": "2026-06-22T10:34:02Z",
+      "titleJa": "ハイテク楽観主義、石油見通しがアジア株式市場を押し上げる",
       "relevant": false
     },
     {
@@ -389,6 +439,16 @@
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062226/card/japan-s-nikkei-closes-at-record-high-2a9WE6K5AfHViS8jhi2n?siteid=yhoof2&yptr=yahoo",
       "time": "2026-06-22T08:05:45Z",
       "titleJa": "日本の日経平均株価は過去最高値で取引を終えた",
+      "relevant": false
+    },
+    {
+      "ticker": "7011.T",
+      "company": "三菱重工業",
+      "title": "This Futuristic Japanese Warship Is on the Market and Winning Fans",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/world/asia/this-futuristic-japanese-warship-is-on-the-market-and-winning-fans-f26edc90?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-21T03:00:00Z",
+      "titleJa": "この未来的な日本の軍艦が市販され、ファンを獲得しています",
       "relevant": false
     }
   ]

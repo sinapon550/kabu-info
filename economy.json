@@ -5,6 +5,24 @@
     {
       "ticker": "^GSPC",
       "company": "経済",
+      "title": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
+      "time": "2026-06-25T22:37:34Z",
+      "titleJa": "ダウ・ジョーンズ先物：マイクロンの利益がアップルの痛手となる、まちまちの市場シグナル"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, June 25: Microsoft Falls as AI Spending Concerns Pressure Cloud Margin Outlook",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-microsoft-falls-as-ai-spending-concerns-pressure-cloud-margin-outlook/",
+      "time": "2026-06-25T22:20:32Z",
+      "titleJa": "今日の株式市場、6 月 25 日: AI 支出への懸念がクラウドマージン見通しを圧迫し、マイクロソフトが下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
       "title": "Stock Market Today, June 25: Apple Drops After Raising Device Prices to Offset Higher Memory Costs",
       "publisher": "Motley Fool",
       "link": "https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-apple-drops-after-raising-device-prices-to-offset-higher-memory-costs/",
@@ -14,47 +32,29 @@
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-      "time": "2026-06-25T21:50:24Z",
-      "titleJa": "ダウ・ジョーンズ先物：マイクロンの利益がアップルの痛手となる、まちまちの市場シグナル"
+      "title": "S&P 500 Ends Flat As Apple Weakness Offsets Micron Gains, Nasdaq 100 And Dow Post Modest Gains — MSFT, QCOM, SPCX, BMBL, SONO In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-ends-flat-as-apple-weakness-offsets-micron-gains-nasdaq-100-and-dow-post-modest-gains-msft-qcom-spcx-bmbl-sono-in-focus/cZ1GHa8R7Xo",
+      "time": "2026-06-25T21:54:13Z",
+      "titleJa": "アップルの弱さがマイクロンの上昇を相殺し、S&P 500は横ばいで終了、ナスダック100とダウは小幅上昇 — MSFT、QCOM、SPCX、BMBL、SONOが注目"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 25: Bio-Techne Surges After Merck KGaA Announces $73-Per-Share Cash Acquisition Offer",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-bio-techne-surges-after-merck-kgaa-announces-73-per-share-cash-acquisition-offer/",
-      "time": "2026-06-25T21:43:42Z",
-      "titleJa": "今日、6月25日の株式市場：メルクKGaAが1株当たり73ドルの現金買収提案を発表した後、バイオテクノロジーが急騰"
+      "title": "Cloudflare (NET) Increases Despite Market Slip: Here's What You Need to Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-increases-despite-market-215006106.html",
+      "time": "2026-06-25T21:50:06Z",
+      "titleJa": "Cloudflare (NET) は市場下落にも関わらず増加: 知っておくべきことは次のとおりです"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: US Equity Indexes Mixed as Micron Rally Fails to Lift Tech, Apple Drops After Product Price-Hike Reports",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-micron-214340719.html",
-      "time": "2026-06-25T21:43:40Z",
-      "titleJa": "最新情報：マイクロンラリーがテクノロジーを持ち上げられず、製品価格高騰報道を受けてアップルが下落、米国株式指数はまちまち"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "World stocks climb on chip rally; dollar steadies near one-year high",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/news/asian-stocks-surge-micron-earnings-012554974.html",
-      "time": "2026-06-25T21:40:28Z",
-      "titleJa": "チップラリーで世界株が上昇。ドルは1年ぶり高値付近で安定"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, June 25: Micron Surges, Apple Falls, and Inflation Data Weighs on Stocks",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-micron-surges-apple-falls-and-inflation-data-weighs-on-stocks/",
-      "time": "2026-06-25T21:24:34Z",
-      "titleJa": "今日の株式市場、6 月 25 日: マイクロンの急騰、アップルの下落、インフレデータが株価に重し"
+      "title": "Monday.com (MNDY) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/monday-com-mndy-declines-more-215006877.html",
+      "time": "2026-06-25T21:50:06Z",
+      "titleJa": "Monday.com (MNDY) は市場以上に下落: 投資家向け情報"
     }
   ]
 }

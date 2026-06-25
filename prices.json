@@ -170,7 +170,7 @@
     "MU": {
       "price": 1213.56,
       "currency": "USD",
-      "marketCap": 1368573001009,
+      "marketCap": 1370586418502,
       "prevClose": 1213.96,
       "changePct": -0.03,
       "target": 1365.08,
@@ -468,7 +468,7 @@
       "marketCap": 709623317145,
       "prevClose": 1860.0,
       "changePct": -1.01,
-      "target": 1743.58,
+      "target": 1742.98,
       "rating": "強い買い(15人)",
       "dividendYield": 0.33,
       "profitMargin": 29.7,
@@ -848,6 +848,396 @@
           "year": "2024",
           "revenue": 55796455000,
           "netIncome": -24806996000
+        }
+      ]
+    },
+    "4062.T": {
+      "price": 26370.0,
+      "currency": "JPY",
+      "marketCap": 7363704784320,
+      "prevClose": 24870.0,
+      "changePct": 6.03,
+      "target": 20662.5,
+      "rating": "買い(16人)",
+      "dividendYield": 0.1,
+      "profitMargin": 15.3,
+      "revenue": 416201015296,
+      "netIncome": 63713001472,
+      "eps": 213.6,
+      "per": 123.5,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2026",
+          "revenue": 416201000000,
+          "netIncome": 63713000000
+        },
+        {
+          "year": "2025",
+          "revenue": 369436000000,
+          "netIncome": 33704000000
+        },
+        {
+          "year": "2024",
+          "revenue": 370511000000,
+          "netIncome": 31490000000
+        }
+      ]
+    },
+    "5803.T": {
+      "price": 6436.0,
+      "currency": "JPY",
+      "marketCap": 10655823229056,
+      "prevClose": 6383.0,
+      "changePct": 0.83,
+      "target": 6976.67,
+      "rating": "強い買い(12人)",
+      "dividendYield": 0.59,
+      "profitMargin": 13.3,
+      "revenue": 1182358044672,
+      "netIncome": 157162995712,
+      "eps": 94.61,
+      "per": 68.0,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2026",
+          "revenue": 1182358000000,
+          "netIncome": 157163000000
+        },
+        {
+          "year": "2025",
+          "revenue": 979375000000,
+          "netIncome": 91123000000
+        },
+        {
+          "year": "2024",
+          "revenue": 799760000000,
+          "netIncome": 51011000000
+        }
+      ]
+    },
+    "5802.T": {
+      "price": 12240.0,
+      "currency": "JPY",
+      "marketCap": 9546219270000,
+      "prevClose": 12325.0,
+      "changePct": -0.69,
+      "target": 14998.0,
+      "rating": "強い買い(10人)",
+      "dividendYield": 1.26,
+      "profitMargin": 7.2,
+      "revenue": 5110171172864,
+      "netIncome": 369507991552,
+      "eps": 473.69,
+      "per": 25.8,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 4679789000000,
+          "netIncome": 193771000000
+        },
+        {
+          "year": "2024",
+          "revenue": 4402814000000,
+          "netIncome": 149723000000
+        },
+        {
+          "year": "2023",
+          "revenue": 4005561000000,
+          "netIncome": 112654000000
+        }
+      ]
+    },
+    "9502.T": {
+      "price": 3037.0,
+      "currency": "JPY",
+      "marketCap": 2294130174906,
+      "prevClose": 2919.5,
+      "changePct": 4.02,
+      "target": 2952.0,
+      "rating": "買い(5人)",
+      "dividendYield": 2.4,
+      "profitMargin": 6.4,
+      "revenue": 3546041024512,
+      "netIncome": 227794993152,
+      "eps": 301.57,
+      "per": 10.1,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2026",
+          "revenue": 3546041000000,
+          "netIncome": 227795000000
+        },
+        {
+          "year": "2025",
+          "revenue": 3669233000000,
+          "netIncome": 202087000000
+        },
+        {
+          "year": "2024",
+          "revenue": 3610414000000,
+          "netIncome": 403140000000
+        }
+      ]
+    },
+    "6501.T": {
+      "price": 4554.0,
+      "currency": "JPY",
+      "marketCap": 20478401324172,
+      "prevClose": 4668.0,
+      "changePct": -2.44,
+      "target": 5914.29,
+      "rating": "買い(14人)",
+      "dividendYield": 1.07,
+      "profitMargin": 7.6,
+      "revenue": 10586780860416,
+      "netIncome": 802367995904,
+      "eps": 176.7,
+      "per": 25.8,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2026",
+          "revenue": 10586781000000,
+          "netIncome": 802368000000
+        },
+        {
+          "year": "2025",
+          "revenue": 9783370000000,
+          "netIncome": 615724000000
+        },
+        {
+          "year": "2024",
+          "revenue": 9728716000000,
+          "netIncome": 589896000000
+        }
+      ]
+    },
+    "3778.T": {
+      "price": 2989.0,
+      "currency": "JPY",
+      "marketCap": 119633711729,
+      "prevClose": 2987.0,
+      "changePct": 0.07,
+      "target": 4536.5,
+      "rating": "買い(2人)",
+      "dividendYield": 0.17,
+      "profitMargin": 0.6,
+      "revenue": 35300999168,
+      "netIncome": 216000000,
+      "eps": 5.38,
+      "per": 555.6,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2026",
+          "revenue": 35301649000,
+          "netIncome": 216023000
+        },
+        {
+          "year": "2025",
+          "revenue": 31412382000,
+          "netIncome": 2937459000
+        },
+        {
+          "year": "2024",
+          "revenue": 21826794000,
+          "netIncome": 651716000
+        }
+      ]
+    },
+    "1942.T": {
+      "price": 6673.0,
+      "currency": "JPY",
+      "marketCap": 1328020115042,
+      "prevClose": 6774.0,
+      "changePct": -1.49,
+      "target": 6992.86,
+      "rating": "買い(7人)",
+      "dividendYield": 1.84,
+      "profitMargin": 8.6,
+      "revenue": 742021988352,
+      "netIncome": 63516000256,
+      "eps": 311.63,
+      "per": 21.4,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2026",
+          "revenue": 742022000000,
+          "netIncome": 63516000000
+        },
+        {
+          "year": "2025",
+          "revenue": 671888000000,
+          "netIncome": 42380000000
+        },
+        {
+          "year": "2024",
+          "revenue": 598427000000,
+          "netIncome": 27345000000
+        }
+      ]
+    },
+    "7011.T": {
+      "price": 3618.0,
+      "currency": "JPY",
+      "marketCap": 12157237392120,
+      "prevClose": 3753.0,
+      "changePct": -3.6,
+      "target": 5323.08,
+      "rating": "買い(16人)",
+      "dividendYield": 0.67,
+      "profitMargin": 6.7,
+      "revenue": 4974168244224,
+      "netIncome": 344574001152,
+      "eps": 101.3,
+      "per": 35.7,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 5027176000000,
+          "netIncome": 245447000000
+        },
+        {
+          "year": "2024",
+          "revenue": 4657147000000,
+          "netIncome": 222023000000
+        }
+      ]
+    },
+    "7012.T": {
+      "price": 2941.5,
+      "currency": "JPY",
+      "marketCap": 2458647068490,
+      "prevClose": 3063.0,
+      "changePct": -3.97,
+      "target": 3810.0,
+      "rating": "買い(13人)",
+      "dividendYield": 1.12,
+      "profitMargin": 4.7,
+      "revenue": 2311267024896,
+      "netIncome": 108157001728,
+      "eps": 129.43,
+      "per": 22.7,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2026",
+          "revenue": 2311267000000,
+          "netIncome": 108157000000
+        },
+        {
+          "year": "2025",
+          "revenue": 2129321000000,
+          "netIncome": 88001000000
+        },
+        {
+          "year": "2024",
+          "revenue": 1849287000000,
+          "netIncome": 25377000000
+        }
+      ]
+    },
+    "7013.T": {
+      "price": 2719.0,
+      "currency": "JPY",
+      "marketCap": 2882580282232,
+      "prevClose": 2792.0,
+      "changePct": -2.61,
+      "target": 3879.09,
+      "rating": "買い(11人)",
+      "dividendYield": 0.72,
+      "profitMargin": 9.8,
+      "revenue": 1643401969664,
+      "netIncome": 160992002048,
+      "eps": 151.99,
+      "per": 17.9,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2026",
+          "revenue": 1643402000000,
+          "netIncome": 160992000000
+        },
+        {
+          "year": "2025",
+          "revenue": 1626831000000,
+          "netIncome": 112740000000
+        },
+        {
+          "year": "2024",
+          "revenue": 1322591000000,
+          "netIncome": -68214000000
+        }
+      ]
+    },
+    "4704.T": {
+      "price": 5698.0,
+      "currency": "JPY",
+      "marketCap": 739414280528,
+      "prevClose": 5649.0,
+      "changePct": 0.87,
+      "target": 6566.67,
+      "rating": "中立(9人)",
+      "dividendYield": 3.28,
+      "profitMargin": 13.3,
+      "revenue": 282338983936,
+      "netIncome": 37440000000,
+      "eps": 260.97,
+      "per": 21.8,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 275984000000,
+          "netIncome": 34523000000
+        },
+        {
+          "year": "2024",
+          "revenue": 272638000000,
+          "netIncome": 34358000000
+        },
+        {
+          "year": "2023",
+          "revenue": 248691000000,
+          "netIncome": 10731000000
+        }
+      ]
+    },
+    "2326.T": {
+      "price": 3570.0,
+      "currency": "JPY",
+      "marketCap": 47887569450,
+      "prevClose": 3550.0,
+      "changePct": 0.56,
+      "target": 7600.0,
+      "dividendYield": 2.53,
+      "profitMargin": 31.6,
+      "revenue": 10835000320,
+      "netIncome": 3427000064,
+      "eps": 248.12,
+      "per": 14.4,
+      "finCurrency": "JPY",
+      "history": [
+        {
+          "year": "2025",
+          "revenue": 9982000000,
+          "netIncome": 3183000000
+        },
+        {
+          "year": "2024",
+          "revenue": 11512000000,
+          "netIncome": 4377000000
+        },
+        {
+          "year": "2023",
+          "revenue": 10436000000,
+          "netIncome": 3062000000
         }
       ]
     },
@@ -1237,7 +1627,7 @@
     "9433.T": {
       "price": 2668.5,
       "currency": "JPY",
-      "marketCap": 10159428974134,
+      "marketCap": 10159188694389,
       "prevClose": 2678.5,
       "changePct": -0.37,
       "target": 2810.07,
