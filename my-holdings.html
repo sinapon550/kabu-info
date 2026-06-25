@@ -4,7 +4,38 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>株なるほどメモ｜自分の保有</title>
-<link rel="stylesheet" href="style.css?v=7">
+<link rel="stylesheet" href="style.css?v=8">
+<style>
+  /* my-holdings 専用の追加スタイル（情報ぎっしり版） */
+  .statgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:10px 0}
+  .stat{background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px 6px;text-align:center}
+  .stat .n{font-size:21px;font-weight:bold;color:var(--green);font-family:Georgia,serif;line-height:1.2}
+  .stat .l{font-size:11px;color:var(--sub);margin-top:2px}
+  @media(max-width:560px){.statgrid{grid-template-columns:repeat(2,1fr)}}
+  .sgbar{display:flex;height:24px;border-radius:12px;overflow:hidden;font-size:11px;font-weight:bold;color:#fff;margin-top:4px}
+  .sgbar .d{background:var(--green);display:flex;align-items:center;justify-content:center}
+  .sgbar .a{background:var(--red);display:flex;align-items:center;justify-content:center}
+  .donutwrap{display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+  .donut{width:122px;height:122px;border-radius:50%;flex:0 0 auto;position:relative;
+    background:conic-gradient(#14503c 0 23%,#2f8d68 23% 38%,#e0a32e 38% 53%,#cdbb86 53% 76%,#7d8c84 76% 84%,#b07ad0 84% 92%,#c0492f 92% 100%)}
+  .donut .mid{position:absolute;inset:28px;border-radius:50%;background:#fff;display:flex;
+    flex-direction:column;align-items:center;justify-content:center;font-size:11px;color:var(--sub)}
+  .donut .mid b{font-size:16px;color:var(--green-d)}
+  .leg{font-size:12px;display:flex;flex-direction:column;gap:4px}
+  .leg span{display:flex;align-items:center;gap:7px}
+  .dot{width:11px;height:11px;border-radius:3px;flex:0 0 auto}
+  .themehead{display:flex;align-items:center;gap:8px;font-size:15px;font-weight:bold;color:var(--green-d);
+    margin:18px 0 4px;padding-bottom:5px;border-bottom:2px solid var(--gold)}
+  .themehead .why{font-size:11px;font-weight:normal;color:var(--sub);margin-left:auto;text-align:right;max-width:55%}
+  .role{color:var(--sub);font-size:11.5px}
+  .newsmini{margin-top:6px;font-size:12.5px}
+  .newsmini .co{font-size:12px}
+  .routebox{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:8px 0}
+  @media(max-width:560px){.routebox{grid-template-columns:1fr}}
+  .route{border:1px solid var(--line);border-radius:10px;padding:9px 11px;background:#fbfdfc}
+  .route b{font-size:12.5px;color:var(--green-d)}
+  .route .d{font-size:11.5px;color:var(--sub);margin-top:2px}
+</style>
 </head>
 <body>
 
@@ -12,7 +43,7 @@
   <div class="wrap">
     <span class="badge">家族専用</span>
     <h1>🙋 自分の保有</h1>
-    <p class="lead">自分が持っている銘柄のウォッチリスト。株価・前日比・配当利回り・時価総額・目標株価は毎朝自動更新。<br>（保有株数は非公開）</p>
+    <p class="lead">自分が持っている銘柄のウォッチリスト＋これから狙う「テーマ株」。株価・前日比・配当利回り・時価総額は毎朝自動更新。<br>（保有株数は非公開）</p>
     <p class="updated"><span id="auto-upd">株価は毎朝 自動更新</span>／家族の勉強メモ</p>
   </div>
 </header>
@@ -23,16 +54,47 @@
   <a class="navpage" href="holdings.html">👪 親の保有</a>
   <a class="navpage active" href="my-holdings.html">🙋 自分の保有</a>
   <span class="navsep"></span>
+  <a href="#summary">サマリー</a>
   <a href="#news">📰ニュース</a>
   <a href="#mine">保有銘柄</a>
+  <a href="#theme">⚔️テーマ株</a>
   <a href="#bunseki">分析</a>
 </div></nav>
 
 <div class="wrap">
 
   <div class="disc">
-    <b>⚠️ はじめに</b>：このページは保有の<b>把握用メモ</b>で、売買のおすすめではありません。<b>保有株数・金額は載せていません</b>。判断は最新の公式情報を見て自己責任で。
+    <b>⚠️ はじめに</b>：このページは保有とウォッチの<b>把握用メモ</b>で、売買のおすすめではありません。<b>保有株数・金額は載せていません</b>。判断は最新の公式情報を見て自己責任で。
   </div>
+
+  <!-- サマリー -->
+  <section id="summary">
+    <h2>ひと目サマリー<span class="en">AT A GLANCE</span></h2>
+    <div class="statgrid">
+      <div class="stat"><div class="n">13</div><div class="l">保有銘柄</div></div>
+      <div class="stat"><div class="n" id="avg-yield" data-tickers="2502.T,2768.T,2914.T,4565.T,4755.T,7267.T,8058.T,8267.T,8591.T,8729.T,9432.T,9433.T,1417.T">—</div><div class="l">平均配当利回り</div></div>
+      <div class="stat"><div class="n">7</div><div class="l">業種</div></div>
+      <div class="stat"><div class="n">5</div><div class="l">攻めテーマ</div></div>
+    </div>
+    <div class="card">
+      <div class="donutwrap">
+        <div class="donut"><div class="mid"><b>守り</b>多め</div></div>
+        <div class="leg">
+          <span><i class="dot" style="background:#14503c"></i>通信・インフラ 23%</span>
+          <span><i class="dot" style="background:#2f8d68"></i>商社 15%</span>
+          <span><i class="dot" style="background:#e0a32e"></i>金融 15%</span>
+          <span><i class="dot" style="background:#cdbb86"></i>生活・消費 23%</span>
+          <span><i class="dot" style="background:#7d8c84"></i>自動車 8%</span>
+          <span><i class="dot" style="background:#b07ad0"></i>製薬 8%</span>
+          <span><i class="dot" style="background:#c0492f"></i>攻め（半導体ほか） 8%</span>
+        </div>
+      </div>
+      <div style="margin-top:12px">
+        <div style="font-size:12px;color:var(--sub);margin-bottom:2px">🛡️ 守り と ⚔️ 攻め のバランス（ざっくり）</div>
+        <div class="sgbar"><div class="d" style="flex:0 0 78%">🛡️ 守り 78%</div><div class="a" style="flex:1">⚔️ 22%</div></div>
+      </div>
+    </div>
+  </section>
 
   <!-- 関連ニュース -->
   <section id="news">
@@ -67,14 +129,96 @@
     <p class="src">株価・配当利回り・時価総額・目標株価は自動更新（概算）。配当利回りは過去実績ベース。<b>ソフトバンク(9434)</b>は「<a href="holdings.html">👪 親の保有</a>」ページに掲載。</p>
   </section>
 
+  <!-- テーマ株ウォッチ -->
+  <section id="theme">
+    <h2>⚔️ テーマ株ウォッチ<span class="en">THEME WATCH</span></h2>
+    <p class="intro">これから少しずつ仕込みたい「攻め」の候補。選ぶ軸は<b>「需要が構造的に確実なもの（＝国策・物理的に必要）」だけ</b>。レアメタル・宇宙・創薬バイオのような読みにくいテーマは外しています。株価・前日比・利回りは自動更新、ニュースも毎朝自動収集。</p>
+
+    <div class="card" style="border-left:5px solid var(--gold)">
+      <b style="color:var(--green-d)">💳 GMOクリック証券での買い方（3ルート）</b>
+      <div class="routebox">
+        <div class="route"><b>🇯🇵 日本株 現物</b><div class="d">下の銘柄を現物で。NISA成長枠OK・売買もNISAも0円</div></div>
+        <div class="route"><b>📦 投資信託</b><div class="d">ニッセイSOX(0.18%)／eMAXIS日経半導体。月100円〜・購入時無料</div></div>
+        <div class="route"><b>📈 国内ETF</b><div class="d">東証の半導体ETFなど。売買ずっと0円・1本で分散</div></div>
+      </div>
+      <div class="disc" style="margin:6px 0 0">💡 <b>米国の個別株（NVDA等）の現物はGMOでは買えません</b>。買うならSBI/楽天/マネックス等の口座を別に（NISAは1人1口座なので新規は課税口座）。GMO内で米国を取るなら投信/ETF/CFDで。</div>
+    </div>
+
+    <!-- ① 半導体・AI -->
+    <div class="themehead">🔬 半導体・AI<span class="why">AI・データセンター投資が世界的に拡大／メモリ・HBMは2030年代まで需要拡大の見立て</span></div>
+    <div class="scroll">
+    <table>
+      <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>役割</th></tr>
+      <tr><td><b>東京エレクトロン</b><br>8035<br><a href="tokyo-electron.html"><b>🔬</b></a></td><td class="px" data-ticker="8035.T">—</td><td class="dy" data-ticker="8035.T">—</td><td class="role">製造装置の本丸。HBM増産の追い風</td></tr>
+      <tr><td><b>アドバンテスト</b><br>6857<br><a href="advantest.html"><b>🔬</b></a></td><td class="px" data-ticker="6857.T">—</td><td class="dy" data-ticker="6857.T">—</td><td class="role">半導体テスタ。DRAM向け世界トップ</td></tr>
+      <tr><td><b>ディスコ</b><br>6146<br><a href="disco.html"><b>🔬</b></a></td><td class="px" data-ticker="6146.T">—</td><td class="dy" data-ticker="6146.T">—</td><td class="role">切る・削る装置。HBM後工程で必須</td></tr>
+      <tr><td><b>信越化学</b><br>4063<br><a href="shinetsu.html"><b>🔬</b></a></td><td class="px" data-ticker="4063.T">—</td><td class="dy" data-ticker="4063.T">—</td><td class="role">シリコンウエハー世界首位級・材料</td></tr>
+      <tr><td><b>SUMCO</b><br>3436<br><a href="sumco.html"><b>🔬</b></a></td><td class="px" data-ticker="3436.T">—</td><td class="dy" data-ticker="3436.T">—</td><td class="role">ウエハー大手。数量増が直接効く</td></tr>
+      <tr><td><b>イビデン</b><br>4062</td><td class="px" data-ticker="4062.T">—</td><td class="dy" data-ticker="4062.T">—</td><td class="role">半導体パッケージ基板の有力企業</td></tr>
+    </table>
+    </div>
+    <div class="newsmini"><div class="news-auto card" data-relevant="1" data-group="company" data-per="1" data-tickers="8035.T,6857.T,6146.T,4063.T,3436.T,4062.T"><div class="kv">ニュース読み込み中…</div></div></div>
+
+    <!-- ② 電力・電線 -->
+    <div class="themehead">⚡ 電力・電線<span class="why">AIデータセンターの電力需要が2026年に倍増予測／送電網の更新・電化</span></div>
+    <div class="scroll">
+    <table>
+      <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>役割</th></tr>
+      <tr><td><b>フジクラ</b><br>5803</td><td class="px" data-ticker="5803.T">—</td><td class="dy" data-ticker="5803.T">—</td><td class="role">電線・DC向け光配線。テーマの本命格</td></tr>
+      <tr><td><b>住友電工</b><br>5802</td><td class="px" data-ticker="5802.T">—</td><td class="dy" data-ticker="5802.T">—</td><td class="role">電線・送電インフラの大手</td></tr>
+      <tr><td><b>中部電力</b><br>9502</td><td class="px" data-ticker="9502.T">—</td><td class="dy" data-ticker="9502.T">—</td><td class="role">電力会社。安定・配当狙い</td></tr>
+      <tr><td><b>日立製作所</b><br>6501</td><td class="px" data-ticker="6501.T">—</td><td class="dy" data-ticker="6501.T">—</td><td class="role">重電・送配電・DX。総合力で恩恵</td></tr>
+    </table>
+    </div>
+    <div class="newsmini"><div class="news-auto card" data-relevant="1" data-group="company" data-per="1" data-tickers="5803.T,5802.T,9502.T,6501.T"><div class="kv">ニュース読み込み中…</div></div></div>
+
+    <!-- ③ データセンター・電気工事 -->
+    <div class="themehead">🏢 データセンター・電気工事<span class="why">国内で大型DC案件が続々／作る・つなぐ需要</span></div>
+    <div class="scroll">
+    <table>
+      <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>役割</th></tr>
+      <tr><td><b>さくらインターネット</b><br>3778</td><td class="px" data-ticker="3778.T">—</td><td class="dy" data-ticker="3778.T">—</td><td class="role">国産クラウド・DC。生成AI基盤で注目</td></tr>
+      <tr><td><b>関電工</b><br>1942</td><td class="px" data-ticker="1942.T">—</td><td class="dy" data-ticker="1942.T">—</td><td class="role">電気工事大手。DC建設の受け皿</td></tr>
+      <tr><td><b>ミライト・ワン</b><br>1417<br><a href="mirait.html"><b>💎</b></a></td><td class="px" data-ticker="1417.T">—</td><td class="dy" data-ticker="1417.T">—</td><td class="role">※保有中。通信建設・DC・再エネ工事</td></tr>
+    </table>
+    </div>
+    <div class="newsmini"><div class="news-auto card" data-relevant="1" data-group="company" data-per="1" data-tickers="3778.T,1942.T,1417.T"><div class="kv">ニュース読み込み中…</div></div></div>
+
+    <!-- ④ 防衛 -->
+    <div class="themehead">🛡️ 防衛<span class="why">防衛費を「構造的投資」に格上げ・2027年度まで増額が既定路線</span></div>
+    <div class="scroll">
+    <table>
+      <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>役割</th></tr>
+      <tr><td><b>三菱重工業</b><br>7011</td><td class="px" data-ticker="7011.T">—</td><td class="dy" data-ticker="7011.T">—</td><td class="role">防衛の中核。装備品の本命格</td></tr>
+      <tr><td><b>川崎重工業</b><br>7012</td><td class="px" data-ticker="7012.T">—</td><td class="dy" data-ticker="7012.T">—</td><td class="role">航空・艦艇・潜水艦など</td></tr>
+      <tr><td><b>IHI</b><br>7013</td><td class="px" data-ticker="7013.T">—</td><td class="dy" data-ticker="7013.T">—</td><td class="role">航空エンジン・防衛関連</td></tr>
+    </table>
+    </div>
+    <div class="newsmini"><div class="news-auto card" data-relevant="1" data-group="company" data-per="1" data-tickers="7011.T,7012.T,7013.T"><div class="kv">ニュース読み込み中…</div></div></div>
+
+    <!-- ⑤ サイバーセキュリティ -->
+    <div class="themehead">🔐 サイバーセキュリティ<span class="why">攻撃の多発＋アクティブ・サイバーディフェンス法など国の後押し</span></div>
+    <div class="scroll">
+    <table>
+      <tr><th>銘柄</th><th>株価<br>前日比</th><th>配当<br>利回り</th><th>役割</th></tr>
+      <tr><td><b>トレンドマイクロ</b><br>4704</td><td class="px" data-ticker="4704.T">—</td><td class="dy" data-ticker="4704.T">—</td><td class="role">総合セキュリティ大手</td></tr>
+      <tr><td><b>デジタルアーツ</b><br>2326</td><td class="px" data-ticker="2326.T">—</td><td class="dy" data-ticker="2326.T">—</td><td class="role">情報フィルタリング。官公庁に強い</td></tr>
+    </table>
+    </div>
+    <div class="newsmini"><div class="news-auto card" data-relevant="1" data-group="company" data-per="1" data-tickers="4704.T,2326.T"><div class="kv">ニュース読み込み中…</div></div></div>
+
+    <p class="src">テーマ株は「攻め」枠＝値動きは保有の主力より大きめ。<b>集中せず少しずつ・分散</b>が相性◎。掲載は研究用で売買のおすすめではありません。新しく追加した銘柄のニュースは、翌朝の自動更新から表示されます。</p>
+  </section>
+
   <!-- 分析 -->
   <section id="bunseki">
     <h2>🔎 自分のポートフォリオ分析<span class="en">ANALYSIS</span></h2>
     <div class="card" style="border-left:5px solid var(--green)">
       <h3>📊 全体の性格</h3>
       <div class="kv">
-        <b>高配当・安定・ディフェンシブ中心</b>の構成。値動きの激しいAI／ハイテク株は少なく、<b>“守り重視”</b>。
-        通信・商社・金融・生活など、生活に根ざした会社が多く、<b>配当（インカム）狙い</b>に向いた組み立てです。
+        いまは<b>高配当・安定・ディフェンシブ中心</b>の構成で<b>“守り重視”</b>。
+        そこへ、需要が確実な<b>「攻めのテーマ株」（半導体・電力・データセンター・防衛・サイバー）</b>を少しずつ足していく方針。
+        守りで配当を受け取りつつ、攻めで成長を取りにいく組み立てです。
       </div>
     </div>
     <div class="card">
@@ -85,6 +229,7 @@
         ・<b>金融</b>：オリックス・ソニーフィナンシャルG<br>
         ・<b>生活・消費</b>：アサヒ・JT・イオン（ディフェンシブ）<br>
         ・<b>自動車</b>：ホンダ ／ <b>製薬</b>：ネクセラファーマ<br>
+        ・<b>攻め（これから）</b>：半導体・電力・データセンター・防衛・サイバー（→ <a href="#theme">⚔️テーマ株ウォッチ</a>）<br>
         → 景気に強い銘柄と、景気に左右されにくい銘柄が<b>混ざってリスク分散</b>できています。
       </div>
     </div>
@@ -92,9 +237,10 @@
       <h3>💡 気づき（あくまで見方）</h3>
       <div class="kv">
         ・<b>通信に厚め</b>（NTT・KDDI・ミライト）。通信が崩れると影響が出やすい点は意識。<br>
-        ・<b>ネクセラ（バイオ）・楽天（再建途上）</b>は値動きが大きめ＝この2つが“攻め”。<br>
+        ・<b>ネクセラ（バイオ）・楽天（再建途上）</b>は値動きが大きめ＝既存の“攻め”。<br>
+        ・テーマ株は<b>需要が確実なもの限定</b>（国策・物理的に必要）。レアメタル・宇宙・創薬バイオは外す方針。<br>
+        ・半導体の本命メモリ（HBM）は<b>海外勢</b>中心。GMOで取るなら<b>投信／ETF</b>が現実的。<br>
         ・全体に<b>高配当株が多い</b>ので、株価より<b>配当の継続性</b>を見るのが相性◎。<br>
-        ・成長（AI・半導体）の比率は低め。気になるなら「<a href="companies.html">📈 いま熱い企業</a>」で“攻め”の研究も。<br>
         <span style="color:var(--sub);font-size:12px">※これは情報整理であり、売買のおすすめではありません。</span>
       </div>
     </div>
@@ -109,6 +255,6 @@
   </div>
 </footer>
 
-<script src="prices.js?v=7"></script>
+<script src="prices.js?v=8"></script>
 </body>
 </html>

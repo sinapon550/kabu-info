@@ -73,6 +73,18 @@
         if(!info){ return; }
         td.innerHTML = (info.dividendYield != null) ? info.dividendYield.toFixed(2) + '%' : '—';
       });
+      // 平均配当利回り（#avg-yield に data-tickers で指定された銘柄の平均）
+      var ay = document.getElementById('avg-yield');
+      if(ay){
+        var list = (ay.getAttribute('data-tickers') || '').split(',')
+          .map(function(x){ return x.trim(); }).filter(Boolean);
+        var sum = 0, cnt = 0;
+        list.forEach(function(tk){
+          var i = s[tk];
+          if(i && i.dividendYield != null){ sum += i.dividendYield; cnt++; }
+        });
+        if(cnt){ ay.textContent = (sum / cnt).toFixed(1) + '%'; }
+      }
       document.querySelectorAll('td.pm[data-ticker]').forEach(function(td){
         var info = s[td.getAttribute('data-ticker')];
         if(!info){ return; }
@@ -142,55 +154,67 @@
     return '<a href="' + esc(jurl) + '" target="_blank" rel="noopener">' + esc(title) + '</a>'
       + '<div class="src">' + esc(n.publisher) + (date ? ' ・ ' + esc(date) : '') + '</div>';
   }
-  var newsEl = document.getElementById('news-list');
-  if(newsEl){
-    var scope = (newsEl.getAttribute('data-tickers') || '').split(',')
+  // 1つのニュース枠を描画する（複数枠に対応するため関数化）
+  function renderNews(el, items){
+    var scope = (el.getAttribute('data-tickers') || '').split(',')
       .map(function(x){ return x.trim(); }).filter(Boolean);
-    var limit = parseInt(newsEl.getAttribute('data-limit') || '10', 10);
-    var grouped = newsEl.getAttribute('data-group') === 'company';
-    var per = parseInt(newsEl.getAttribute('data-per') || '2', 10);
-    var relOnly = newsEl.getAttribute('data-relevant') === '1';
+    var limit = parseInt(el.getAttribute('data-limit') || '10', 10);
+    var grouped = el.getAttribute('data-group') === 'company';
+    var per = parseInt(el.getAttribute('data-per') || '2', 10);
+    var relOnly = el.getAttribute('data-relevant') === '1';
+    var list = items.slice();
+    if(scope.length){
+      list = list.filter(function(n){ return scope.indexOf(n.ticker) >= 0; });
+    }
+    if(relOnly){
+      list = list.filter(function(n){ return n.relevant; });
+    }
+    var seen = {}, uniq = [];
+    list.forEach(function(n){ if(!seen[n.link]){ seen[n.link] = 1; uniq.push(n); } });
+    if(!uniq.length){
+      el.innerHTML = '<div class="kv">最近の関連ニュースは見つかりませんでした。</div>';
+      return;
+    }
+    if(grouped){
+      // 会社ごとにまとめる（各社 per 件まで）
+      var order = [], groups = {};
+      uniq.forEach(function(n){
+        if(!groups[n.company]){ groups[n.company] = []; order.push(n.company); }
+        if(groups[n.company].length < per){ groups[n.company].push(n); }
+      });
+      el.innerHTML = order.map(function(co){
+        return '<div class="newsgroup"><div class="co">' + esc(co) + '</div>'
+          + groups[co].map(function(n){
+              return '<div style="padding:5px 0;border-bottom:1px solid var(--line)">' + newsLink(n) + '</div>';
+            }).join('')
+          + '</div>';
+      }).join('');
+    } else {
+      el.innerHTML = uniq.slice(0, limit).map(function(n){
+        return '<div style="padding:9px 0;border-bottom:1px solid var(--line)">'
+          + '<span class="pill">' + esc(n.company) + '</span> ' + newsLink(n) + '</div>';
+      }).join('');
+    }
+  }
+
+  // #news-list（既存）＋ テーマ別の .news-auto 枠 をまとめて描画
+  var newsEls = [];
+  document.querySelectorAll('#news-list, .news-auto').forEach(function(el){
+    if(newsEls.indexOf(el) < 0){ newsEls.push(el); }
+  });
+  if(newsEls.length){
     fetch('news.json?t=' + Date.now())
       .then(function(r){ return r.json(); })
       .then(function(d){
         var items = d.items || [];
         var nu = document.getElementById('news-updated');
         if(nu && d.updated){ nu.textContent = '（' + d.updated + ' 時点）'; }
-        if(scope.length){
-          items = items.filter(function(n){ return scope.indexOf(n.ticker) >= 0; });
-        }
-        if(relOnly){
-          items = items.filter(function(n){ return n.relevant; });
-        }
-        var seen = {}, uniq = [];
-        items.forEach(function(n){ if(!seen[n.link]){ seen[n.link] = 1; uniq.push(n); } });
-        if(!uniq.length){
-          newsEl.innerHTML = '<div class="kv">最近の関連ニュースは見つかりませんでした。</div>';
-          return;
-        }
-        if(grouped){
-          // 会社ごとにまとめる（各社 per 件まで）
-          var order = [], groups = {};
-          uniq.forEach(function(n){
-            if(!groups[n.company]){ groups[n.company] = []; order.push(n.company); }
-            if(groups[n.company].length < per){ groups[n.company].push(n); }
-          });
-          newsEl.innerHTML = order.map(function(co){
-            return '<div class="newsgroup"><div class="co">' + esc(co) + '</div>'
-              + groups[co].map(function(n){
-                  return '<div style="padding:5px 0;border-bottom:1px solid var(--line)">' + newsLink(n) + '</div>';
-                }).join('')
-              + '</div>';
-          }).join('');
-        } else {
-          newsEl.innerHTML = uniq.slice(0, limit).map(function(n){
-            return '<div style="padding:9px 0;border-bottom:1px solid var(--line)">'
-              + '<span class="pill">' + esc(n.company) + '</span> ' + newsLink(n) + '</div>';
-          }).join('');
-        }
+        newsEls.forEach(function(el){ renderNews(el, items); });
       })
       .catch(function(){
-        newsEl.innerHTML = '<div class="kv">ニュースの読み込みに失敗しました。</div>';
+        newsEls.forEach(function(el){
+          el.innerHTML = '<div class="kv">ニュースの読み込みに失敗しました。</div>';
+        });
       });
   }
 
