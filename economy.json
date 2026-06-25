@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 24: Sunrun Jumps After Announcing Deal With Tesla and Renew Home for 16 Gigawatts of Flexible Power",
+      "title": "Stock Market Today, June 25: Apple Drops After Raising Device Prices to Offset Higher Memory Costs",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/24/stock-market-today-june-24-sunrun-jumps-after-announcing-deal-with-tesla-and-renew-home-for-16-gigawatts-of-flexible-power/",
-      "time": "2026-06-24T22:08:24Z",
-      "titleJa": "今日、6月24日の株式市場：テスラとの契約と16ギガワットの柔軟な電力の住宅リニューアルを発表したサンランが急騰"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-apple-drops-after-raising-device-prices-to-offset-higher-memory-costs/",
+      "time": "2026-06-25T22:10:35Z",
+      "titleJa": "今日の株式市場、6 月 25 日: Apple、メモリコストの高騰を相殺するためにデバイスの価格を値上げした後、下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Rise As Micron Jumps On Earnings, Lifting Sandisk, AI Stocks; Fed Inflation Data Due",
+      "title": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-earnings-sandisk-memory-chip-stocks-fed-inflation-data/?src=A00220&yptr=yahoo",
-      "time": "2026-06-24T21:50:10Z",
-      "titleJa": "マイクロンが利益を上げ、サンディスク、AI株を押し上げ、ダウジョーンズ先物は上昇。 FRBのインフレデータ提出期限"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
+      "time": "2026-06-25T21:50:24Z",
+      "titleJa": "ダウ・ジョーンズ先物：マイクロンの利益がアップルの痛手となる、まちまちの市場シグナル"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Morgan Stanley pulls no punches after tech stock sell-off",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/morgan-stanley-tech-stock-sell-off-shows-healthy-market",
-      "time": "2026-06-24T21:47:00Z",
-      "titleJa": "モルガン・スタンレー、ハイテク株急落後も容赦なし"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stocks edge lower as dollar rises to one-year high",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/news/asian-stocks-wobble-tech-led-014509887.html",
-      "time": "2026-06-24T21:31:25Z",
-      "titleJa": "ドルが1年ぶり高値に上昇、株価は小幅下落"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stocks Mixed as AI Weakness Offset by Consumer Strength",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/stocks-mixed-as-ai-weakness-offset-by-consumer-strength-9c6cec69?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-24T21:29:00Z",
-      "titleJa": "AIの弱点を消費者の強さで相殺、株価はまちまち"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, June 24: Amazon Gains as Investors Monitor Strong Prime Day Demand and AI Shopping Activity",
+      "title": "Stock Market Today, June 25: Bio-Techne Surges After Merck KGaA Announces $73-Per-Share Cash Acquisition Offer",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/24/stock-market-today-june-24-amazon-gains-as-investors-monitor-strong-prime-day-demand-and-ai-shopping-activity/",
-      "time": "2026-06-24T21:21:46Z",
-      "titleJa": "今日の株式市場、6 月 24 日: 投資家がプライムデーの旺盛な需要と AI によるショッピング活動を監視し、アマゾンが上昇"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-bio-techne-surges-after-merck-kgaa-announces-73-per-share-cash-acquisition-offer/",
+      "time": "2026-06-25T21:43:42Z",
+      "titleJa": "今日、6月25日の株式市場：メルクKGaAが1株当たり73ドルの現金買収提案を発表した後、バイオテクノロジーが急騰"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Update: US Equity Indexes Mixed as Micron Rally Fails to Lift Tech, Apple Drops After Product Price-Hike Reports",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-micron-214340719.html",
+      "time": "2026-06-25T21:43:40Z",
+      "titleJa": "最新情報：マイクロンラリーがテクノロジーを持ち上げられず、製品価格高騰報道を受けてアップルが下落、米国株式指数はまちまち"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "World stocks climb on chip rally; dollar steadies near one-year high",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/news/asian-stocks-surge-micron-earnings-012554974.html",
+      "time": "2026-06-25T21:40:28Z",
+      "titleJa": "チップラリーで世界株が上昇。ドルは1年ぶり高値付近で安定"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, June 25: Micron Surges, Apple Falls, and Inflation Data Weighs on Stocks",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-micron-surges-apple-falls-and-inflation-data-weighs-on-stocks/",
+      "time": "2026-06-25T21:24:34Z",
+      "titleJa": "今日の株式市場、6 月 25 日: マイクロンの急騰、アップルの下落、インフレデータが株価に重し"
     }
   ]
 }
