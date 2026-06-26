@@ -198,6 +198,10 @@ def get_extras(tk, ticker):
             d2 = info.get("dividendYield")
             if d2 is not None:
                 out["dividendYield"] = round(float(d2) if d2 > 1 else float(d2) * 100, 2)
+        # 異常値ガード：利回りが極端（ETF等でyfinanceが誤った値を返すことがある）なら捨てる
+        dyv = out.get("dividendYield")
+        if dyv is not None and (dyv > 20 or dyv < 0):
+            out.pop("dividendYield", None)
         pm = info.get("profitMargins")
         if pm is not None:
             out["profitMargin"] = round(float(pm) * 100, 1)

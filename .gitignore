@@ -1,0 +1,17 @@
+# --- 秘密・認証情報(git-sync 安全対策 / 公開リポ用) ---
+.env
+.env.*
+*secret*
+*token*
+*password*
+*credential*
+*.key
+*.pem
+id_rsa*
+secrets.env
+
+# --- 作業ゴミ ---
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
