@@ -2,6 +2,66 @@
   "updated": "2026-06-26",
   "items": [
     {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Dow Jones Futures: What To Do Amid Mixed Market Signals; Micron's Gain Is Apple's Pain",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
+      "time": "2026-06-26T02:15:05Z",
+      "titleJa": "ダウ・ジョーンズ先物：市場シグナルがまちまちの中で何をすべきか。マイクロンの利益はアップルの苦痛である",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Dow Jones Futures: What To Do Amid Mixed Market Signals; Micron's Gain Is Apple's Pain",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
+      "time": "2026-06-26T02:15:05Z",
+      "titleJa": "ダウ・ジョーンズ先物：市場シグナルがまちまちの中で何をすべきか。マイクロンの利益はアップルの苦痛である",
+      "relevant": true
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Why Is Nvidia Stock So Cheap? This Is the Only Plausible Answer",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/25/why-is-nvidia-stock-so-cheap-this-is-the-only-plau/",
+      "time": "2026-06-26T01:50:00Z",
+      "titleJa": "Nvidiaの株価はなぜこんなに安いのでしょうか?これが唯一妥当な答えです",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Why Is Nvidia Stock So Cheap? This Is the Only Plausible Answer",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/25/why-is-nvidia-stock-so-cheap-this-is-the-only-plau/",
+      "time": "2026-06-26T01:50:00Z",
+      "titleJa": "Nvidiaの株価はなぜこんなに安いのでしょうか?これが唯一妥当な答えです",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Why Is Nvidia Stock So Cheap? This Is the Only Plausible Answer",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/25/why-is-nvidia-stock-so-cheap-this-is-the-only-plau/",
+      "time": "2026-06-26T01:50:00Z",
+      "titleJa": "Nvidiaの株価はなぜこんなに安いのでしょうか?これが唯一妥当な答えです",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Analog Devices Stock Is More Market, More Punch",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/603818/analog-devices-stock-is-more-market-more-punch/2026-06-25",
+      "time": "2026-06-26T01:49:58Z",
+      "titleJa": "アナログ・デバイセズ株は市場性を高め、パンチ力を高める",
+      "relevant": false
+    },
+    {
       "ticker": "NVDA",
       "company": "NVIDIA",
       "title": "1 Unstoppable Space Trend to Invest $1,000 in Right Now (Hint: It's Not SpaceX)",
@@ -9,56 +69,6 @@
       "link": "https://www.fool.com/investing/2026/06/25/1-unstoppable-space-trend-to-invest-1000-in-now/",
       "time": "2026-06-26T01:33:00Z",
       "titleJa": "1 今すぐ 1,000 ドル投資すべき止められない宇宙トレンド (ヒント: SpaceX ではありません)",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Dow Jones Futures Rise Amid Mixed Market Signals; Micron's Gain Is Apple's Pain",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-      "time": "2026-06-26T01:20:04Z",
-      "titleJa": "ダウジョーンズ先物は市場シグナルがまちまちの中で上昇。マイクロンの利益はアップルの苦痛である",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Dow Jones Futures Rise Amid Mixed Market Signals; Micron's Gain Is Apple's Pain",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-      "time": "2026-06-26T01:20:04Z",
-      "titleJa": "ダウジョーンズ先物は市場シグナルがまちまちの中で上昇。マイクロンの利益はアップルの苦痛である",
-      "relevant": true
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "JPMorgan Chase Pairs a 10% Dividend Hike With a New $50 Billion Buyback After Clearing the Fed's Stress Test",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/25/jpmorgan-chase-pairs-a-10-dividend-hike-with-a-new-50-billion-buyback-after-clearing-the-feds-stress-test/",
-      "time": "2026-06-26T01:04:37Z",
-      "titleJa": "JPモルガン・チェース、FRBのストレステストをクリアした後、10%の増配と新たな500億ドルの自社株買いを組み合わせる",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Why Micron Stock Skyrocketed to a New All-Time High Today",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/25/why-micron-stock-surged-to-new-all-time-high-today/",
-      "time": "2026-06-26T00:57:46Z",
-      "titleJa": "なぜ今日マイクロン株は史上最高値を更新したのか",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "This Memory Stock Has Soared From About $40 to More Than $2,300 in a Year. Is It Too Late to Buy?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/25/this-memory-stock-has-soared-from-about-40-to-more/",
-      "time": "2026-06-26T00:33:00Z",
-      "titleJa": "このメモリ株は1年間で約40ドルから2,300ドル以上まで急騰した。買うには遅すぎますか？",
       "relevant": false
     },
     {
@@ -130,16 +140,6 @@
       "time": "2026-06-25T20:37:19Z",
       "titleJa": "ブレイクアウト ウォッチ: この企業は、Nvidia、TSM、Intel による AI アイデアの市場投入を支援しています",
       "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Battle of the Artificial Intelligence (AI) Computing Companies: Is AMD, Broadcom, Nvidia, or Marvell the Best Stock to Buy Now?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/25/battle-of-the-artificial-intelligence-computing-co/",
-      "time": "2026-06-25T20:37:00Z",
-      "titleJa": "人工知能 (AI) コンピューティング企業の戦い: AMD、Broadcom、Nvidia、または Marvell が今買うのに最適な株ですか?",
-      "relevant": true
     },
     {
       "ticker": "000660.KS",
