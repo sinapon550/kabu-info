@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>株なるほどメモ｜ポートフォリオ分析</title>
+<link rel="stylesheet" href="style.css?v=12">
+<link rel="stylesheet" href="holdings.css?v=1">
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <span class="badge">家族専用</span>
+    <h1>🔎 ポートフォリオ分析</h1>
+    <p class="lead">いまの組み立ての性格・業種バランス・気づきをやさしく。これは情報整理で、売買のおすすめではありません。</p>
+    <p class="updated">家族の勉強メモ</p>
+  </div>
+</header>
+
+<nav><div class="wrap">
+  <a class="navpage" href="index.html">📘 基本</a>
+  <a class="navpage" href="companies.html">📈 いま熱い企業・株</a>
+  <a class="navpage" href="holdings.html">👪 親の保有</a>
+  <a class="navpage active" href="my-holdings.html">🙋 自分の保有</a>
+</div></nav>
+
+<div class="wrap">
+
+  <div class="subnav">
+    <a href="my-holdings.html">🏠 ハブ</a>
+    <a href="my-stocks.html">💼 保有銘柄</a>
+    <a href="my-funds.html">📦 積立</a>
+    <a href="my-themes.html">⚔️ テーマ株</a>
+    <a class="cur" href="my-analysis.html">🔎 分析</a>
+  </div>
+
+  <section id="bunseki">
+    <h2 style="margin-top:14px">🔎 ポートフォリオ分析<span class="en">ANALYSIS</span></h2>
+    <div class="card" style="border-left:5px solid var(--green)">
+      <h3>📊 全体の性格</h3>
+      <div class="kv">
+        <b>3階建て</b>の組み立て。①<b>コア＝積立投信（オルカン・S&amp;P500）</b>で世界に広く分散、②<b>守り＝高配当・ディフェンシブの個別株</b>で配当を受け取り、③<b>攻め＝FANG+・日本の半導体ETF(200A)＋テーマ株</b>で成長を取りにいく。
+        コアと守りはドル資産も多いので、攻めは<b>円建ての日本半導体（為替の影響を増やさない）</b>に寄せているのが今の方針です。
+      </div>
+    </div>
+    <div class="card">
+      <h3>🧩 業種のバランス</h3>
+      <div class="kv">
+        ・<b>通信／インフラ</b>：NTT・KDDI・ミライト・ワン（安定の柱）<br>
+        ・<b>商社</b>：三菱商事・双日（景気敏感＋高配当）<br>
+        ・<b>金融</b>：オリックス・ソニーフィナンシャルG<br>
+        ・<b>生活・消費</b>：アサヒ・JT・イオン（ディフェンシブ）<br>
+        ・<b>自動車</b>：ホンダ ／ <b>製薬</b>：ネクセラファーマ<br>
+        ・<b>攻め（これから）</b>：半導体・電力・データセンター・防衛・サイバー（→ <a href="my-themes.html">⚔️テーマ株ウォッチ</a>）<br>
+        → 景気に強い銘柄と、景気に左右されにくい銘柄が<b>混ざってリスク分散</b>できています。
+      </div>
+    </div>
+    <div class="card tsuru">
+      <h3>💡 気づき（あくまで見方）</h3>
+      <div class="kv">
+        ・<b>通信に厚め</b>（NTT・KDDI・ミライト）。通信が崩れると影響が出やすい点は意識。<br>
+        ・<b>ネクセラ（バイオ）・楽天（再建途上）</b>は値動きが大きめ＝既存の“攻め”。<br>
+        ・テーマ株は<b>需要が確実なもの限定</b>（国策・物理的に必要）。レアメタル・宇宙・創薬バイオは外す方針。<br>
+        ・半導体の本命メモリ（HBM）は<b>海外勢</b>中心。GMOで取るなら<b>投信／ETF（200A）</b>が現実的。<br>
+        ・全体に<b>高配当株が多い</b>ので、株価より<b>配当の継続性</b>を見るのが相性◎。<br>
+        <span style="color:var(--sub);font-size:12px">※これは情報整理であり、売買のおすすめではありません。</span>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <div class="wrap">
+    <b>株なるほどメモ</b>｜<a href="my-holdings.html">🙋 自分の保有（ハブ）へ戻る</a>
+  </div>
+</footer>
+
+<script src="prices.js?v=12"></script>
+</body>
+</html>

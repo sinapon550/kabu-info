@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>株なるほどメモ｜積立（投信・ETF）</title>
+<link rel="stylesheet" href="style.css?v=12">
+<link rel="stylesheet" href="holdings.css?v=1">
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <span class="badge">家族専用</span>
+    <h1>📦 積立（投信・ETF）</h1>
+    <p class="lead">コツコツ積み立てている投信・ETF。<b>コア（守りの土台）＝全世界・米国に幅広く</b>、<b>攻め＝日本の半導体ETF</b>。中身を円グラフで見える化。</p>
+    <p class="updated"><span id="auto-upd">株価は毎朝 自動更新</span>／家族の勉強メモ</p>
+  </div>
+</header>
+
+<nav><div class="wrap">
+  <a class="navpage" href="index.html">📘 基本</a>
+  <a class="navpage" href="companies.html">📈 いま熱い企業・株</a>
+  <a class="navpage" href="holdings.html">👪 親の保有</a>
+  <a class="navpage active" href="my-holdings.html">🙋 自分の保有</a>
+</div></nav>
+
+<div class="wrap">
+
+  <div class="subnav">
+    <a href="my-holdings.html">🏠 ハブ</a>
+    <a href="my-stocks.html">💼 保有銘柄</a>
+    <a class="cur" href="my-funds.html">📦 積立</a>
+    <a href="my-themes.html">⚔️ テーマ株</a>
+    <a href="my-analysis.html">🔎 分析</a>
+  </div>
+
+  <!-- 積立一覧 -->
+  <section id="funds">
+    <h2>積立中の投信・ETF<span class="en">FUNDS &amp; ETF</span></h2>
+    <p class="intro">ETF(200A)は株価を自動更新、投信は基準価額の自動取得はしていません（手動掲載）。</p>
+    <div class="scroll">
+    <table>
+      <tr><th>商品</th><th>種別</th><th>株価/前日比</th><th>中身（ざっくり）</th><th>役割</th></tr>
+      <tr><td><b>日経半導体ETF</b><br>200A</td><td>国内ETF<br><small>円建て</small></td><td class="px" data-ticker="200A.T">—</td><td>日本の半導体30社。<b>キオクシア(メモリ)約16%</b>＋東エレ・アドテスト等。<b>為替の直接影響なし</b></td><td><b style="color:var(--red)">⚔️攻め</b><br><small>保有開始</small></td></tr>
+      <tr><td><b>オルカン</b><br><small>全世界株式</small></td><td>投信<br><small>NISA</small></td><td><small style="color:var(--sub)">手動</small></td><td>全世界の株にまるごと分散（オール・カントリー）</td><td><b style="color:var(--green-d)">🛡️コア</b></td></tr>
+      <tr><td><b>S&amp;P500</b><br><small>米国大型</small></td><td>投信<br><small>NISA</small></td><td><small style="color:var(--sub)">手動</small></td><td>米国の主要500社。世界経済の中心</td><td><b style="color:var(--green-d)">🛡️コア</b></td></tr>
+      <tr><td><b>FANG+</b><br><small>米メガテック</small></td><td>投信<br><small>NISA</small></td><td><small style="color:var(--sub)">手動</small></td><td>NVIDIA等の米巨大ハイテク10銘柄に集中</td><td><b style="color:var(--red)">⚔️攻め</b></td></tr>
+    </table>
+    </div>
+    <p class="src">コア（オルカン・S&amp;P500）で世界に広く分散しつつ、攻め（FANG+＝米メガテック／200A＝日本の半導体）で成長を取りにいく形。<b>オルカン・S&amp;P500・FANG+はドル資産（為替の影響あり）</b>なので、為替を増やしたくない分は円建ての<b>200A（日本の半導体）</b>で攻める方針。</p>
+  </section>
+
+  <!-- 中身の円グラフ -->
+  <section id="naka">
+    <h2>📊 中身をのぞく<span class="en">WHAT'S INSIDE</span></h2>
+    <p class="intro">「半導体・AIに乗る」とき、何にどれだけ乗っているのか。上位の重みと半導体の比率を円グラフで。</p>
+
+    <div class="card">
+      <h3 style="font-size:15px;color:var(--green-d);margin-bottom:8px">🇯🇵 日経半導体ETF(200A)の中身</h3>
+      <div class="donutwrap">
+        <div class="donut dn-sox"><div class="mid"><b>キオクシア</b>約16%</div></div>
+        <div class="leg">
+          <span><i class="dot" style="background:#c0492f"></i>キオクシア（メモリ）約16%</span>
+          <span><i class="dot" style="background:#14503c"></i>東京エレクトロン 約14%</span>
+          <span><i class="dot" style="background:#2f8d68"></i>アドバンテスト 約11%</span>
+          <span><i class="dot" style="background:#e0a32e"></i>ディスコ 約10%</span>
+          <span><i class="dot" style="background:#cdbb86"></i>その他（信越・ルネサス等）約49%</span>
+        </div>
+      </div>
+      <div class="kv" style="margin-top:8px;font-size:12.5px">日本の<b>メモリ＋装置＋材料</b>がまるごと。<b>メモリ専業キオクシアが最大の組入れ</b>＝「メモリにブッパ」を一番素直に表現できる。円建てなので為替の直接影響なし。</div>
+    </div>
+
+    <div class="card">
+      <h3 style="font-size:15px;color:var(--green-d);margin-bottom:8px">🇺🇸 NASDAQ100（FANG+の親戚）の中身</h3>
+      <div class="donutwrap">
+        <div class="donut dn-nas"><div class="mid"><b>半導体</b>約25%</div></div>
+        <div class="leg">
+          <span><i class="dot" style="background:#c0492f"></i>半導体（NVIDIA・Broadcom等）約25%</span>
+          <span><i class="dot" style="background:#14503c"></i>ソフト・ハード（Apple・MS）約25%</span>
+          <span><i class="dot" style="background:#2f8d68"></i>通信（Google・Meta）約15%</span>
+          <span><i class="dot" style="background:#e0a32e"></i>消費（Amazon・Tesla）約15%</span>
+          <span><i class="dot" style="background:#cdbb86"></i>その他 約20%</span>
+        </div>
+      </div>
+      <div class="kv" style="margin-top:8px;font-size:12.5px"><b>半導体が約2割ビルトイン</b>（NVIDIA・Broadcom＋米メモリのMicronまで）。FANG+(10銘柄集中)より分散が効くのに半導体は十分。ただし<b>米ドル資産＝為替の影響あり</b>。</div>
+    </div>
+
+    <div class="card" style="border-left:5px solid var(--gold)">
+      <b style="color:var(--green-d)">💳 GMOクリック証券での買い方</b>
+      <div class="routebox">
+        <div class="route"><b>🇯🇵 日本株 現物</b><div class="d">テーマ株を現物で。NISA成長枠OK・売買もNISAも0円</div></div>
+        <div class="route"><b>📦 投資信託</b><div class="d">月100円〜・購入時無料。NISAでコア積立</div></div>
+        <div class="route"><b>📈 国内ETF</b><div class="d">200A等。売買ずっと0円・円建てで為替フリー</div></div>
+      </div>
+      <div class="disc" style="margin:6px 0 0">💡 <b>米国の個別株（NVDA等）の現物はGMOでは買えません</b>。買うならSBI/楽天/マネックス等を別口座で（NISAは1人1口座なので新規は課税口座）。</div>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <div class="wrap">
+    <b>株なるほどメモ</b>｜<a href="my-holdings.html">🙋 自分の保有（ハブ）へ戻る</a>
+  </div>
+</footer>
+
+<script src="prices.js?v=12"></script>
+</body>
+</html>
