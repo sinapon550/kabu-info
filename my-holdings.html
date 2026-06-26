@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>株なるほどメモ｜自分の保有</title>
-<link rel="stylesheet" href="style.css?v=9">
+<link rel="stylesheet" href="style.css?v=10">
 <style>
   /* my-holdings 専用の追加スタイル（情報ぎっしり版） */
   .statgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:10px 0}
@@ -59,6 +59,7 @@
   <a href="#summary">サマリー</a>
   <a href="#news">📰ニュース</a>
   <a href="#mine">保有銘柄</a>
+  <a href="#tsumitate">📦積立</a>
   <a href="#theme">⚔️テーマ株</a>
   <a href="#bunseki">分析</a>
 </div></nav>
@@ -129,6 +130,22 @@
     </table>
     </div>
     <p class="src">株価・配当利回り・時価総額・目標株価は自動更新（概算）。配当利回りは過去実績ベース。<b>ソフトバンク(9434)</b>は「<a href="holdings.html">👪 親の保有</a>」ページに掲載。</p>
+  </section>
+
+  <!-- 積立（投信・ETF） -->
+  <section id="tsumitate">
+    <h2>📦 積立中（投信・ETF）<span class="en">FUNDS &amp; ETF</span></h2>
+    <p class="intro">コツコツ積み立てている投信・ETF。<b>コア（守りの土台）＝全世界・米国に幅広く</b>、<b>攻め＝日本の半導体ETF</b>。ETF(200A)は株価を自動更新、投信は基準価額の自動取得はしていません（手動掲載）。</p>
+    <div class="scroll">
+    <table>
+      <tr><th>商品</th><th>種別</th><th>株価/前日比</th><th>中身（ざっくり）</th><th>役割</th></tr>
+      <tr><td><b>日経半導体ETF</b><br>200A</td><td>国内ETF<br><small>円建て</small></td><td class="px" data-ticker="200A.T">—</td><td>日本の半導体30社。<b>キオクシア(メモリ)約16%</b>＋東エレ・アドテスト等。<b>為替の直接影響なし</b></td><td><b style="color:var(--red)">⚔️攻め</b><br><small>保有開始</small></td></tr>
+      <tr><td><b>オルカン</b><br><small>全世界株式</small></td><td>投信<br><small>NISA</small></td><td><small style="color:var(--sub)">手動</small></td><td>全世界の株にまるごと分散（オール・カントリー）</td><td><b style="color:var(--green-d)">🛡️コア</b></td></tr>
+      <tr><td><b>S&amp;P500</b><br><small>米国大型</small></td><td>投信<br><small>NISA</small></td><td><small style="color:var(--sub)">手動</small></td><td>米国の主要500社。世界経済の中心</td><td><b style="color:var(--green-d)">🛡️コア</b></td></tr>
+      <tr><td><b>FANG+</b><br><small>米メガテック</small></td><td>投信<br><small>NISA</small></td><td><small style="color:var(--sub)">手動</small></td><td>NVIDIA等の米巨大ハイテク10銘柄に集中</td><td><b style="color:var(--red)">⚔️攻め</b></td></tr>
+    </table>
+    </div>
+    <p class="src">コア（オルカン・S&amp;P500）で世界に広く分散しつつ、攻め（FANG+＝米メガテック／200A＝日本の半導体）で成長を取りにいく形。<b>オルカン・S&amp;P500・FANG+はドル資産（為替の影響あり）</b>なので、為替を増やしたくない分は円建ての<b>200A（日本の半導体）</b>で攻める方針。</p>
   </section>
 
   <!-- テーマ株ウォッチ -->
@@ -218,9 +235,8 @@
     <div class="card" style="border-left:5px solid var(--green)">
       <h3>📊 全体の性格</h3>
       <div class="kv">
-        いまは<b>高配当・安定・ディフェンシブ中心</b>の構成で<b>“守り重視”</b>。
-        そこへ、需要が確実な<b>「攻めのテーマ株」（半導体・電力・データセンター・防衛・サイバー）</b>を少しずつ足していく方針。
-        守りで配当を受け取りつつ、攻めで成長を取りにいく組み立てです。
+        <b>3階建て</b>の組み立て。①<b>コア＝積立投信（オルカン・S&amp;P500）</b>で世界に広く分散、②<b>守り＝高配当・ディフェンシブの個別株</b>で配当を受け取り、③<b>攻め＝FANG+・日本の半導体ETF(200A)＋テーマ株</b>で成長を取りにいく。
+        コアと守りはドル資産も多いので、攻めは<b>円建ての日本半導体（為替の影響を増やさない）</b>に寄せているのが今の方針です。
       </div>
     </div>
     <div class="card">
@@ -257,6 +273,6 @@
   </div>
 </footer>
 
-<script src="prices.js?v=9"></script>
+<script src="prices.js?v=10"></script>
 </body>
 </html>
