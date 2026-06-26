@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: What To Do Amid Mixed Market Signals; Micron's Gain Is Apple's Pain",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-      "time": "2026-06-26T02:15:05Z",
-      "titleJa": "ダウ・ジョーンズ先物：市場シグナルがまちまちの中で何をすべきか。マイクロンの利益はアップルの苦痛である"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "S&P 500, Dow Futures Climb As Markets Look Past Big Tech Declines, Hotter-Than-Expected Inflation: AAPL, MSFT, BABA, MSTR, SNDK, FIG In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/sp500-dow-futures-climb-as-markets-look-past-big-tech-declines-hotter-than-expected-inflation/cZ1cIjUR7Xv",
-      "time": "2026-06-26T01:58:49Z",
-      "titleJa": "市場が大手ハイテク株の下落を見過ごす中、S&P 500、ダウ先物は上昇、予想を上回るインフレ：AAPL、MSFT、BABA、MSTR、SNDK、FIGが注目"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Analog Devices Stock Is More Market, More Punch",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/603818/analog-devices-stock-is-more-market-more-punch/2026-06-25",
-      "time": "2026-06-26T01:49:58Z",
-      "titleJa": "アナログ・デバイセズ株は市場性を高め、パンチ力を高める"
-    },
-    {
-      "ticker": "JPY=X",
-      "company": "経済",
-      "title": "Yen wobbles near 40-year low as dollar pauses for breath",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/news/yen-wobbles-near-40-low-010511440.html",
-      "time": "2026-06-26T01:14:49Z",
-      "titleJa": "ドルが一息つく中、円は40年ぶり安値付近で動揺"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Retirement Savings in Your 20s and 30s: How Do You Stack Up?",
-      "publisher": "Investopedia",
-      "link": "https://www.investopedia.com/retirement-savings-in-your-20s-and-30s-how-do-you-stack-up-12005499",
-      "time": "2026-06-26T01:00:33Z",
-      "titleJa": "20代と30代の退職後の貯蓄：どうやって貯めますか？"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "This Memory Stock Has Soared From About $40 to More Than $2,300 in a Year. Is It Too Late to Buy?",
+      "title": "Why Braze Stock Jumped Today",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/25/this-memory-stock-has-soared-from-about-40-to-more/",
-      "time": "2026-06-26T00:33:00Z",
-      "titleJa": "このメモリ株は1年間で約40ドルから2,300ドル以上まで急騰した。買うには遅すぎますか？"
+      "link": "https://www.fool.com/investing/2026/06/26/why-braze-stock-jumped-today/",
+      "time": "2026-06-26T21:49:14Z",
+      "titleJa": "今日ブレイズの株が急騰した理由"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Rally Collides With a New Slate of Worries",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/stock-rally-collides-with-a-new-slate-of-worries-5843a9e0?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-26T21:32:00Z",
+      "titleJa": "株価上昇が新たな懸念と衝突する"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, June 26: Sandisk Tumbles and Tech Weakness Weighs on Markets",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/26/stock-market-today-june-26-sandisk-tumbles-and-tech-weakness-weighs-on-markets/",
+      "time": "2026-06-26T21:23:57Z",
+      "titleJa": "今日の株式市場、6 月 26 日: サンディスクの暴落とテクノロジーの弱さが市場に重し"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Why Palantir Stock Soared Today",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/26/why-palantir-stock-soared-today/",
+      "time": "2026-06-26T21:10:52Z",
+      "titleJa": "今日パランティア株が急騰した理由"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "U.S. Stocks Down as AI Fears Offset Fuel-Price Relief",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-down-as-ai-fears-offset-fuel-price-relief-61c76586?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-06-26T21:04:00Z",
+      "titleJa": "AIによる燃料価格緩和の懸念で米国株下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "World stocks edge lower as tech selloff drags markets",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/news/asian-shares-fall-apples-price-022516064.html",
+      "time": "2026-06-26T21:01:05Z",
+      "titleJa": "ハイテク株の下落が市場の足を引っ張る中、世界株は小幅下落"
     }
   ]
 }
