@@ -2,6 +2,96 @@
   "updated": "2026-06-26",
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "1 Unstoppable Space Trend to Invest $1,000 in Right Now (Hint: It's Not SpaceX)",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/25/1-unstoppable-space-trend-to-invest-1000-in-now/",
+      "time": "2026-06-26T01:33:00Z",
+      "titleJa": "1 今すぐ 1,000 ドル投資すべき止められない宇宙トレンド (ヒント: SpaceX ではありません)",
+      "relevant": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Dow Jones Futures Rise Amid Mixed Market Signals; Micron's Gain Is Apple's Pain",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
+      "time": "2026-06-26T01:20:04Z",
+      "titleJa": "ダウジョーンズ先物は市場シグナルがまちまちの中で上昇。マイクロンの利益はアップルの苦痛である",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Dow Jones Futures Rise Amid Mixed Market Signals; Micron's Gain Is Apple's Pain",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
+      "time": "2026-06-26T01:20:04Z",
+      "titleJa": "ダウジョーンズ先物は市場シグナルがまちまちの中で上昇。マイクロンの利益はアップルの苦痛である",
+      "relevant": true
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "JPMorgan Chase Pairs a 10% Dividend Hike With a New $50 Billion Buyback After Clearing the Fed's Stress Test",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/25/jpmorgan-chase-pairs-a-10-dividend-hike-with-a-new-50-billion-buyback-after-clearing-the-feds-stress-test/",
+      "time": "2026-06-26T01:04:37Z",
+      "titleJa": "JPモルガン・チェース、FRBのストレステストをクリアした後、10%の増配と新たな500億ドルの自社株買いを組み合わせる",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Why Micron Stock Skyrocketed to a New All-Time High Today",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/25/why-micron-stock-surged-to-new-all-time-high-today/",
+      "time": "2026-06-26T00:57:46Z",
+      "titleJa": "なぜ今日マイクロン株は史上最高値を更新したのか",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "This Memory Stock Has Soared From About $40 to More Than $2,300 in a Year. Is It Too Late to Buy?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/25/this-memory-stock-has-soared-from-about-40-to-more/",
+      "time": "2026-06-26T00:33:00Z",
+      "titleJa": "このメモリ株は1年間で約40ドルから2,300ドル以上まで急騰した。買うには遅すぎますか？",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "IBM stock surged again: The reason sounds like sci-fi",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/technology/ibm-stock-surged-again-nanostack-7-angstrom-chip",
+      "time": "2026-06-25T23:57:10Z",
+      "titleJa": "IBM株が再び急騰：その理由はまるでSFのようだ",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "IBM stock surged again: The reason sounds like sci-fi",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/technology/ibm-stock-surged-again-nanostack-7-angstrom-chip",
+      "time": "2026-06-25T23:57:10Z",
+      "titleJa": "IBM株が再び急騰：その理由はまるでSFのようだ",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Broadcom Built OpenAI’s First Chip in Record Time, but the Money Went Elsewhere",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/broadcom-openai-jalapeno-chip-stock-price-impact/",
+      "time": "2026-06-25T23:30:00Z",
+      "titleJa": "Broadcom が OpenAI の最初のチップを記録的な速さで構築したが、その資金はどこかへ行ってしまった",
+      "relevant": true
+    },
+    {
       "ticker": "4063.T",
       "company": "信越化学",
       "title": "Shin-Etsu Chemical Co Ltd: A Significant Move by Hennessy Japan Fund",
@@ -12,74 +102,24 @@
       "relevant": true
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Micron's Blowout Earnings Could Be Great News for Nvidia Investors",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/25/microns-blowout-earnings-could-be-great-news-for-n/",
-      "time": "2026-06-25T23:03:00Z",
-      "titleJa": "Micron の爆発的な利益は Nvidia 投資家にとって素晴らしいニュースになる可能性がある",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Micron's Blowout Earnings Could Be Great News for Nvidia Investors",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/25/microns-blowout-earnings-could-be-great-news-for-n/",
-      "time": "2026-06-25T23:03:00Z",
-      "titleJa": "Micron の爆発的な利益は Nvidia 投資家にとって素晴らしいニュースになる可能性がある",
-      "relevant": true
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Samsung Group to unveil $648 billion South Korea investments, including for chip plants, report says",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/technology/articles/samsung-invest-1-000-trillion-225627830.html",
+      "time": "2026-06-25T22:56:27Z",
+      "titleJa": "サムスングループ、チップ工場を含む韓国への6,480億ドルの投資を発表へ 報道によると",
+      "relevant": false
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "Samsung to invest 1,000 trillion won in South Korea, media report says",
+      "title": "Samsung Group to unveil $648 billion South Korea investments, including for chip plants, report says",
       "publisher": "Reuters",
       "link": "https://finance.yahoo.com/technology/articles/samsung-invest-1-000-trillion-225627830.html",
       "time": "2026-06-25T22:56:27Z",
-      "titleJa": "サムスン、韓国に1000兆ウォン投資へ、メディア報道",
+      "titleJa": "サムスングループ、チップ工場を含む韓国への6,480億ドルの投資を発表へ 報道によると",
       "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-      "time": "2026-06-25T22:37:34Z",
-      "titleJa": "ダウ・ジョーンズ先物：マイクロンの利益がアップルの痛手となる、まちまちの市場シグナル",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-      "time": "2026-06-25T22:37:34Z",
-      "titleJa": "ダウ・ジョーンズ先物：マイクロンの利益がアップルの痛手となる、まちまちの市場シグナル",
-      "relevant": true
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Why Qualcomm Stock Popped Today",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/25/why-qualcomm-stock-is-up-today/",
-      "time": "2026-06-25T22:20:14Z",
-      "titleJa": "クアルコム株が今日急騰した理由",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Stocks to Watch: Micron, Apple, Wendy’s",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-25-2026/card/stocks-to-watch-micron-wendy-s-sandisk-A0BtXwb9Tds9q3tXbR94?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-25T21:48:26Z",
-      "titleJa": "注目株：マイクロン、アップル、ウェンディーズ",
-      "relevant": false
     },
     {
       "ticker": "TSM",
@@ -98,27 +138,7 @@
       "publisher": "Motley Fool",
       "link": "https://www.fool.com/investing/2026/06/25/battle-of-the-artificial-intelligence-computing-co/",
       "time": "2026-06-25T20:37:00Z",
-      "titleJa": "人工知能 (AI) コンピューティング企業の戦い: 今買うのに最適な株は AMD、Broadcom、Nvidia、または Marvell ですか?",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Melius Research: “Buy the chip dip, skip hyperscalers” until AI payoff becomes clear",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/25/melius-research-buy-the-chip-dip-skip-hyperscalers-until-ai-payoff-becomes-clear/",
-      "time": "2026-06-25T20:19:17Z",
-      "titleJa": "Melius Research: AI の見返りが明らかになるまでは「チップの下落は買い、ハイパースケーラーはスキップ」",
-      "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Intel vs. TSMC: Which is the Better Semiconductor Stock to Buy Right Now?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/25/intel-vs-tsmc-better-semiconductor-stock-buy/",
-      "time": "2026-06-25T20:08:00Z",
-      "titleJa": "Intel vs. TSMC: 今買うべき半導体株はどちらでしょうか?",
+      "titleJa": "人工知能 (AI) コンピューティング企業の戦い: AMD、Broadcom、Nvidia、または Marvell が今買うのに最適な株ですか?",
       "relevant": true
     },
     {
@@ -128,18 +148,8 @@
       "publisher": "etf.com",
       "link": "http://www.etf.com/sections/equity/leveraged-tail-wags-dog-samsung-sk-hynex?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
       "time": "2026-06-25T19:50:06Z",
-      "titleJa": "活用された尻尾は犬を振る：サムスン SK ハイネックス",
+      "titleJa": "レバレッジをかけた尻尾が犬を振り回す: サムスン SK ハイネックス",
       "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "The Leveraged Tail Wags the Dog: Samsung  SK Hynex",
-      "publisher": "etf.com",
-      "link": "http://www.etf.com/sections/equity/leveraged-tail-wags-dog-samsung-sk-hynex?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
-      "time": "2026-06-25T19:50:06Z",
-      "titleJa": "活用された尻尾は犬を振る：サムスン SK ハイネックス",
-      "relevant": true
     },
     {
       "ticker": "7267.T",
@@ -149,16 +159,6 @@
       "link": "https://finance.yahoo.com/video/ford-wins-j-d-powers-194714664.html",
       "time": "2026-06-25T19:47:14Z",
       "titleJa": "フォードがJ.D.パワーのトップの座を獲得、CEOは「驚くべき成果」と称賛",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Bank of America Sees Durable Chip Rally Ahead",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/articles/bank-america-sees-durable-chip-184701545.html",
-      "time": "2026-06-25T18:47:01Z",
-      "titleJa": "バンク・オブ・アメリカは耐久性のあるチップの上昇を見据えている",
       "relevant": false
     },
     {
@@ -258,7 +258,7 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-revives-oil-dives-asian-105156503.html",
       "time": "2026-06-25T10:51:56Z",
-      "titleJa": "テクノロジーが復活し、アジア株式市場では原油が急落",
+      "titleJa": "テクノロジーが復活し、アジア株式市場で原油急落",
       "relevant": false
     },
     {
@@ -408,7 +408,7 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/ix-vs-bam-stock-better-154005313.html",
       "time": "2026-06-22T15:40:05Z",
-      "titleJa": "IX 対 BAM: どちらの株がより価値のあるオプションですか?",
+      "titleJa": "IX 対 BAM: どちらの株がよりバリューの高いオプションですか?",
       "relevant": false
     },
     {
