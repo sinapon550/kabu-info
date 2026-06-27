@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-27",
+  "updated": "2026-06-28",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why Braze Stock Jumped Today",
+      "title": "1 Reason Why Passively Managed Index Funds Could Save You More Money Than Mutual Funds",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/26/why-braze-stock-jumped-today/",
-      "time": "2026-06-26T21:49:14Z",
-      "titleJa": "今日ブレイズの株が急騰した理由"
+      "link": "https://www.fool.com/investing/2026/06/27/1-reason-passive-managed-index-funds-could-save/",
+      "time": "2026-06-27T20:05:00Z",
+      "titleJa": "パッシブ運用のインデックスファンドが投資信託よりもお金を節約できる1つの理由"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Rally Collides With a New Slate of Worries",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/stock-rally-collides-with-a-new-slate-of-worries-5843a9e0?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-26T21:32:00Z",
-      "titleJa": "株価上昇が新たな懸念と衝突する"
+      "title": "Is Airbnb (ABNB) the Most Profitable S&P 500 Stocks to Invest In?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-most-profitable-p-193546547.html",
+      "time": "2026-06-27T19:35:46Z",
+      "titleJa": "Airbnb (ABNB) は投資対象として最も収益性の高い S&P 500 銘柄ですか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 26: Sandisk Tumbles and Tech Weakness Weighs on Markets",
+      "title": "Opinion: Pfizer Is a Fantastic Dividend Stock for Income Investors to Buy Right Now",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/26/stock-market-today-june-26-sandisk-tumbles-and-tech-weakness-weighs-on-markets/",
-      "time": "2026-06-26T21:23:57Z",
-      "titleJa": "今日の株式市場、6 月 26 日: サンディスクの暴落とテクノロジーの弱さが市場に重し"
+      "link": "https://www.fool.com/investing/2026/06/27/opinion-pfizer-is-a-fantastic-dividend-stock-for-i/",
+      "time": "2026-06-27T19:35:00Z",
+      "titleJa": "意見: ファイザーはインカム投資家にとって今すぐ購入すべき素晴らしい配当株です"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why Palantir Stock Soared Today",
+      "title": "Nancy Pelosi places big bets on two surging tech stocks",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/nancy-pelosi-uber-intel-call-options",
+      "time": "2026-06-27T19:13:00Z",
+      "titleJa": "ナンシー・ペロシ氏、急騰する2つのハイテク株に大きな賭けをする"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "The Market Just Pulled Back Again. These 3 Blue Chips Are the Ones to Buy.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/26/why-palantir-stock-soared-today/",
-      "time": "2026-06-26T21:10:52Z",
-      "titleJa": "今日パランティア株が急騰した理由"
+      "link": "https://www.fool.com/investing/2026/06/27/the-market-just-pulled-back-these-3-blue-chips/",
+      "time": "2026-06-27T19:05:00Z",
+      "titleJa": "市場は再び反落した。これら 3 つの優良チップが買うべきものです。"
     },
     {
-      "ticker": "^GSPC",
+      "ticker": "^DJI",
       "company": "経済",
-      "title": "U.S. Stocks Down as AI Fears Offset Fuel-Price Relief",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-down-as-ai-fears-offset-fuel-price-relief-61c76586?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-06-26T21:04:00Z",
-      "titleJa": "AIによる燃料価格緩和の懸念で米国株下落"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "World stocks edge lower as tech selloff drags markets",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/news/asian-shares-fall-apples-price-022516064.html",
-      "time": "2026-06-26T21:01:05Z",
-      "titleJa": "ハイテク株の下落が市場の足を引っ張る中、世界株は小幅下落"
+      "title": "Dow Jones goes in hard on Verizon",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/sp-dow-jones-remove-verizon-replace-alphabet",
+      "time": "2026-06-27T18:17:00Z",
+      "titleJa": "ダウ・ジョーンズがベライゾンに猛攻をかける"
     }
   ]
 }
