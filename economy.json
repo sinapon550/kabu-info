@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-28",
+  "updated": "2026-06-29",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "1 Reason Why Passively Managed Index Funds Could Save You More Money Than Mutual Funds",
+      "title": "Dow Jones Futures: Market At Tipping Point With Iran News, AI Fears In Focus. Tesla, Jobs On Tap.",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
+      "time": "2026-06-28T20:57:10Z",
+      "titleJa": "ダウ・ジョーンズ先物：イラン報道で市場は転換点に、AIへの懸念が焦点に。テスラ、ジョブズオンタップ。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Alphabet Pulled Back Hard. Here Are My Top 3 Megacaps to Buy on the Dip.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/27/1-reason-passive-managed-index-funds-could-save/",
-      "time": "2026-06-27T20:05:00Z",
-      "titleJa": "パッシブ運用のインデックスファンドが投資信託よりもお金を節約できる1つの理由"
+      "link": "https://www.fool.com/investing/2026/06/28/alphabet-pull-back-hard-top-megacap-buy-dip/",
+      "time": "2026-06-28T20:50:00Z",
+      "titleJa": "アルファベットは激しく引き戻されました。下落時に買うべきメガキャップのトップ3は次のとおりです。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Is Airbnb (ABNB) the Most Profitable S&P 500 Stocks to Invest In?",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-most-profitable-p-193546547.html",
-      "time": "2026-06-27T19:35:46Z",
-      "titleJa": "Airbnb (ABNB) は投資対象として最も収益性の高い S&P 500 銘柄ですか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Opinion: Pfizer Is a Fantastic Dividend Stock for Income Investors to Buy Right Now",
+      "title": "Which Is the Better Intermediate-Term Bond ETF, Vanguard's VCIT or iShares' Treasury-Focused IEI?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/27/opinion-pfizer-is-a-fantastic-dividend-stock-for-i/",
-      "time": "2026-06-27T19:35:00Z",
-      "titleJa": "意見: ファイザーはインカム投資家にとって今すぐ購入すべき素晴らしい配当株です"
+      "link": "https://www.fool.com/coverage/etfs/2026/06/28/which-is-the-better-intermediate-term-bond-etf-vanguard-s-vcit-or-ishares-treasury-focused-iei/",
+      "time": "2026-06-28T20:12:01Z",
+      "titleJa": "バンガードのVCITとiシェアーズの国債重視のIEI、中期債券ETFはどちらが優れていますか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Nancy Pelosi places big bets on two surging tech stocks",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/nancy-pelosi-uber-intel-call-options",
-      "time": "2026-06-27T19:13:00Z",
-      "titleJa": "ナンシー・ペロシ氏、急騰する2つのハイテク株に大きな賭けをする"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "The Market Just Pulled Back Again. These 3 Blue Chips Are the Ones to Buy.",
+      "title": "3 Dividend Stocks Yielding Over 8.5% to Buy With $1,000 Right Now -- and Hold for a Lifetime of Passive Income",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/27/the-market-just-pulled-back-these-3-blue-chips/",
-      "time": "2026-06-27T19:05:00Z",
-      "titleJa": "市場は再び反落した。これら 3 つの優良チップが買うべきものです。"
+      "link": "https://www.fool.com/investing/2026/06/28/3-dividend-stocks-yielding-over-85-to-buy-with-100/",
+      "time": "2026-06-28T19:20:00Z",
+      "titleJa": "利回り 8.5% 以上の 3 つの配当株を今すぐ 1,000 ドルで購入 -- 生涯保有して不労所得"
     },
     {
-      "ticker": "^DJI",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones goes in hard on Verizon",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/sp-dow-jones-remove-verizon-replace-alphabet",
-      "time": "2026-06-27T18:17:00Z",
-      "titleJa": "ダウ・ジョーンズがベライゾンに猛攻をかける"
+      "title": "Could Buying This Magnificent Seven ETF Today Set You Up for Life?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/28/buy-magnificent-seven-etf-today-set-you-up-mags/",
+      "time": "2026-06-28T19:02:00Z",
+      "titleJa": "この素晴らしいセブン ETF を今買うことで、一生を終えることができるでしょうか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Why Braiin Stock Plummeted This Week",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/06/28/why-braiin-stock-plummeted-this-week/",
+      "time": "2026-06-28T18:56:07Z",
+      "titleJa": "今週ブレイン株が急落した理由"
     }
   ]
 }
