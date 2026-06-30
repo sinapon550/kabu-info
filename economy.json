@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-30",
+  "updated": "2026-07-01",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Here Are Tuesday’s Best Wall Street Analyst Research Calls:",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/06/29/here-are-tuesdays-best-wall-street-analyst-research-calls/",
-      "time": "2026-06-29T21:42:49Z",
-      "titleJa": "火曜日のウォール街アナリストのベスト・リサーチ・コールは次のとおりです。"
+      "title": "Dow Jones Futures: Market Extends Rebound, Bloom Energy Soars Late. SpaceX's First Entry?",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rebound-bloom-energy-spacex-buy-point/?src=A00220&yptr=yahoo",
+      "time": "2026-06-30T22:05:03Z",
+      "titleJa": "ダウジョーンズ先物：市場は反発を拡大し、ブルームエネルギーは終盤に急騰。 SpaceX初参入？"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 29: Nasdaq Composite Outperforms as Tech Stocks Gain on Easing Geopolitical Tensions",
+      "title": "Stock Market Today, June 30: QXO Falls After TopBuild Merger-Election Results Show Most Shareholders Opt for Cash",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/29/stock-market-today-june-29-nasdaq-composite-outperforms-as-tech-stocks-gain-on-easing-geopolitical-tensions/",
-      "time": "2026-06-29T21:38:17Z",
-      "titleJa": "今日の株式市場、6月29日：地政学的な緊張の緩和でハイテク株が上昇し、ナスダック総合株価指数はアウトパフォーム"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/30/stock-market-today-june-30-qxo-falls-after-topbuild-merger-election-results-show-most-shareholders-opt-for-cash/",
+      "time": "2026-06-30T21:47:29Z",
+      "titleJa": "今日の株式市場、6月30日：TopBuildの合併・選挙結果で大多数の株主が現金を選択したことを受けてQXOが下落"
     },
     {
-      "ticker": "^GSPC",
+      "ticker": "^DJI",
       "company": "経済",
-      "title": "Why Tenable Stock Raced Higher Today",
+      "title": "Stock Market Today, June 30: Verizon Falls as Investors Weigh Dow Removal and BT Venture Costs",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/29/why-tenable-stock-raced-higher-today/",
-      "time": "2026-06-29T21:36:15Z",
-      "titleJa": "今日テナブル株が急上昇した理由"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/30/stock-market-today-june-30-verizon-drops-after-dow-jones-removal-headlines/",
+      "time": "2026-06-30T21:46:35Z",
+      "titleJa": "今日の株式市場、6月30日: 投資家がダウ銘柄の引き下げとBTベンチャーコストを検討し、ベライゾンが下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "These 2 Industrial Giants Have Crushed Tesla's Returns Over the Last 12 Months. Will The Party Continue?",
+      "title": "Stock Market Today, June 30: Rocket Lab Soars on Acquisition and Major Indexes Gain",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/06/29/these-2-industrial-giants-have-crushed-teslas-retu/",
-      "time": "2026-06-29T21:35:00Z",
-      "titleJa": "これら 2 つの巨大産業企業は、過去 12 か月間でテスラの利益を打ち砕きました。パーティーは続きますか？"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/30/stock-market-today-june-30-rocket-lab-soars-on-acquisition-and-major-indexes-gain/",
+      "time": "2026-06-30T21:23:28Z",
+      "titleJa": "今日の株式市場、6月30日: Rocket Labが買収で急騰、主要指数が上昇"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Trading Day: Wall Street gains, Dow hits record closing high as fragile U.S.-Iran truce holds",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trading-day-wall-street-gains-212627220.html",
-      "time": "2026-06-29T21:26:27Z",
-      "titleJa": "取引日: 脆弱な米国とイランの停戦が維持される中、ウォール街は上昇、ダウは終値最高値を更新"
+      "title": "Strong earnings, easing oil prices drive Q2 stock rally",
+      "publisher": "Axios",
+      "link": "https://www.axios.com/2026/06/30/stocks-market-second-quarter-rally#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+      "time": "2026-06-30T21:10:05Z",
+      "titleJa": "好調な収益と原油価格の緩和が第2四半期の株価上昇を牽引"
     },
     {
-      "ticker": "^GSPC",
+      "ticker": "JPY=X",
       "company": "経済",
-      "title": "Stock Market Today, June 29: Verizon Drops After Dow Removal and BT Group Joint Venture Drives Heavy Selling",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/29/stock-market-today-june-29-verizon-drops-after-dow-removal-and-bt-group-joint-venture-drives-heavy-selling/",
-      "time": "2026-06-29T21:13:44Z",
-      "titleJa": "今日の株式市場、6月29日：ダウ銘柄の削除を受けてベライゾンが下落、BTグループの合弁会社が大幅な売りを牽引"
+      "title": "Nasdaq ends best quarter in 6 years as yen extends drop against dollar",
+      "publisher": "AFP",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-unable-track-wall-025330586.html",
+      "time": "2026-06-30T21:03:47Z",
+      "titleJa": "円がドルに対して下落幅を拡大し、ナスダックは6年ぶりの最高四半期を終了"
     }
   ]
 }
