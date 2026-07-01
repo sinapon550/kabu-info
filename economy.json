@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Market Extends Rebound, Bloom Energy Soars Late. SpaceX's First Entry?",
+      "title": "Dow Jones Futures: Meta Jumps But Hits SpaceX, Micron; Tesla, Jobs Report Ahead",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rebound-bloom-energy-spacex-buy-point/?src=A00220&yptr=yahoo",
-      "time": "2026-06-30T22:05:03Z",
-      "titleJa": "ダウジョーンズ先物：市場は反発を拡大し、ブルームエネルギーは終盤に急騰。 SpaceX初参入？"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-jumps-spacex-micron-tesla-deliveries-jobs-report/?src=A00220&yptr=yahoo",
+      "time": "2026-07-01T22:04:32Z",
+      "titleJa": "ダウジョーンズ先物：メタは急騰するもスペースXとマイクロンに打撃。テスラ、雇用報告を控える"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Stock Market Today, July 1: CoreWeave Stock Tumbles as Meta Cloud Report Raises Customer Concerns",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-coreweave-stock-tumbles-as-meta-cloud-report-raises-customer-concerns/",
+      "time": "2026-07-01T21:53:13Z",
+      "titleJa": "今日の株式市場、7月1日: メタクラウドレポートで顧客の懸念が高まり、CoreWeave株が下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 30: QXO Falls After TopBuild Merger-Election Results Show Most Shareholders Opt for Cash",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/30/stock-market-today-june-30-qxo-falls-after-topbuild-merger-election-results-show-most-shareholders-opt-for-cash/",
-      "time": "2026-06-30T21:47:29Z",
-      "titleJa": "今日の株式市場、6月30日：TopBuildの合併・選挙結果で大多数の株主が現金を選択したことを受けてQXOが下落"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "Stock Market Today, June 30: Verizon Falls as Investors Weigh Dow Removal and BT Venture Costs",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/30/stock-market-today-june-30-verizon-drops-after-dow-jones-removal-headlines/",
-      "time": "2026-06-30T21:46:35Z",
-      "titleJa": "今日の株式市場、6月30日: 投資家がダウ銘柄の引き下げとBTベンチャーコストを検討し、ベライゾンが下落"
+      "title": "S&P 500, Nasdaq End Lower As Investors Continue Rotation Out Of Tech And Chipmakers —  WMT, META, GM, KR, QCOM In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-as-investors-continue-rotation-out-of-tech-and-chipmakers/cZm3qaER71K",
+      "time": "2026-07-01T21:51:06Z",
+      "titleJa": "投資家がハイテク企業やチップメーカーからのローテーションを続ける中、S&P 500、ナスダックは下落して終了 — WMT、META、GM、KR、QCOMが注目"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, June 30: Rocket Lab Soars on Acquisition and Major Indexes Gain",
+      "title": "Stock Market Today, July 1: Meta Surges on Reported Plan for AI Cloud Business",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/30/stock-market-today-june-30-rocket-lab-soars-on-acquisition-and-major-indexes-gain/",
-      "time": "2026-06-30T21:23:28Z",
-      "titleJa": "今日の株式市場、6月30日: Rocket Labが買収で急騰、主要指数が上昇"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-meta-surges-on-reported-plan-for-ai-cloud-business/",
+      "time": "2026-07-01T21:36:16Z",
+      "titleJa": "今日、7月1日の株式市場：AIクラウド事業の計画報告でメタ急騰"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Strong earnings, easing oil prices drive Q2 stock rally",
-      "publisher": "Axios",
-      "link": "https://www.axios.com/2026/06/30/stocks-market-second-quarter-rally#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
-      "time": "2026-06-30T21:10:05Z",
-      "titleJa": "好調な収益と原油価格の緩和が第2四半期の株価上昇を牽引"
+      "title": "Stock Market Today, July 1: Meta Shakes Up Cloud Sector and Tech Stocks Weigh on Markets",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-meta-shakes-up-cloud-sector-and-tech-stocks-weigh-on-markets/",
+      "time": "2026-07-01T21:32:52Z",
+      "titleJa": "今日、7月1日の株式市場: メタがクラウドセクターを揺るがし、ハイテク株が市場の重しとなる"
     },
     {
-      "ticker": "JPY=X",
+      "ticker": "^IXIC",
       "company": "経済",
-      "title": "Nasdaq ends best quarter in 6 years as yen extends drop against dollar",
-      "publisher": "AFP",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-unable-track-wall-025330586.html",
-      "time": "2026-06-30T21:03:47Z",
-      "titleJa": "円がドルに対して下落幅を拡大し、ナスダックは6年ぶりの最高四半期を終了"
+      "title": "Stock Market Today, July 1: Nike Jumps After Quarterly Results Beat Analyst Estimates",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-nike-jumps-after-quarterly-results-beat-analyst-estimates/",
+      "time": "2026-07-01T21:19:40Z",
+      "titleJa": "今日の株式市場、7月1日: 四半期決算がアナリストの予想を上回り、ナイキが急騰"
     }
   ]
 }
