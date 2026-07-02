@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Meta Jumps But Hits SpaceX, Micron; Tesla, Jobs Report Ahead",
+      "title": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-jumps-spacex-micron-tesla-deliveries-jobs-report/?src=A00220&yptr=yahoo",
-      "time": "2026-07-01T22:04:32Z",
-      "titleJa": "ダウジョーンズ先物：メタは急騰するもスペースXとマイクロンに打撃。テスラ、雇用報告を控える"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
+      "time": "2026-07-02T21:45:49Z",
+      "titleJa": "ダウ・ジョーンズ先物：ダウは最高値を記録したがAIは下落。アップル、ロビンフッドがテスラ、サンディスクと同様に買収される"
     },
     {
-      "ticker": "^IXIC",
+      "ticker": "^DJI",
       "company": "経済",
-      "title": "Stock Market Today, July 1: CoreWeave Stock Tumbles as Meta Cloud Report Raises Customer Concerns",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-coreweave-stock-tumbles-as-meta-cloud-report-raises-customer-concerns/",
-      "time": "2026-07-01T21:53:13Z",
-      "titleJa": "今日の株式市場、7月1日: メタクラウドレポートで顧客の懸念が高まり、CoreWeave株が下落"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "S&P 500, Nasdaq End Lower As Investors Continue Rotation Out Of Tech And Chipmakers —  WMT, META, GM, KR, QCOM In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-as-investors-continue-rotation-out-of-tech-and-chipmakers/cZm3qaER71K",
-      "time": "2026-07-01T21:51:06Z",
-      "titleJa": "投資家がハイテク企業やチップメーカーからのローテーションを続ける中、S&P 500、ナスダックは下落して終了 — WMT、META、GM、KR、QCOMが注目"
+      "title": "Weak Jobs Report Prompts Wall Street to Change Strategy",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/business/weak-jobs-report-prompts-wall-street-to-change-strategy-f7bd350a?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-02T21:44:00Z",
+      "titleJa": "雇用低迷報告書がウォール街に戦略変更を促す"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 1: Meta Surges on Reported Plan for AI Cloud Business",
+      "title": "Stock Market Today, July 2: Rivian Jumps on Raised 2026 Delivery Guidance",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-meta-surges-on-reported-plan-for-ai-cloud-business/",
-      "time": "2026-07-01T21:36:16Z",
-      "titleJa": "今日、7月1日の株式市場：AIクラウド事業の計画報告でメタ急騰"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/02/stock-market-today-july-2-rivian-jumps-on-raised-2026-delivery-guidance/",
+      "time": "2026-07-02T21:35:07Z",
+      "titleJa": "今日の株式市場、7月2日：リビアンは2026年の納期ガイダンスの引き上げにジャンプ"
+    },
+    {
+      "ticker": "JPY=X",
+      "company": "経済",
+      "title": "WSJ Dollar Index Falls 0.47% to 97.25",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/currencies/yen-consolidates-ahead-of-u-s-nonfarm-payrolls-report-94a64c4a?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-02T21:28:00Z",
+      "titleJa": "WSJドル指数は0.47%下落して97.25"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 1: Meta Shakes Up Cloud Sector and Tech Stocks Weigh on Markets",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-meta-shakes-up-cloud-sector-and-tech-stocks-weigh-on-markets/",
-      "time": "2026-07-01T21:32:52Z",
-      "titleJa": "今日、7月1日の株式市場: メタがクラウドセクターを揺るがし、ハイテク株が市場の重しとなる"
+      "title": "Small-Caps Just Had Their Best First Half Since 1991. The Rally Isn’t Over.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/small-caps-just-had-their-best-first-half-since-1991-the-rally-isnt-over-31bef315?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-02T21:26:00Z",
+      "titleJa": "小型株は 1991 年以来最高の上半期を迎えました。上昇相場はまだ終わっていません。"
     },
     {
-      "ticker": "^IXIC",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 1: Nike Jumps After Quarterly Results Beat Analyst Estimates",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-nike-jumps-after-quarterly-results-beat-analyst-estimates/",
-      "time": "2026-07-01T21:19:40Z",
-      "titleJa": "今日の株式市場、7月1日: 四半期決算がアナリストの予想を上回り、ナイキが急騰"
+      "title": "Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-muted-investors-093344268.html",
+      "time": "2026-07-02T21:21:17Z",
+      "titleJa": "軟調な米国雇用統計を受けてダウが終値最高値に上昇、ナスダックはチップ株で下落"
     }
   ]
 }
