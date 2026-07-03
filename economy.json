@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive",
+      "title": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
-      "time": "2026-07-02T21:45:49Z",
-      "titleJa": "ダウ・ジョーンズ先物：ダウは最高値を記録したがAIは下落。アップル、ロビンフッドがテスラ、サンディスクと同様に買収される"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "Weak Jobs Report Prompts Wall Street to Change Strategy",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/business/weak-jobs-report-prompts-wall-street-to-change-strategy-f7bd350a?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-02T21:44:00Z",
-      "titleJa": "雇用低迷報告書がウォール街に戦略変更を促す"
+      "time": "2026-07-03T20:53:55Z",
+      "titleJa": "ダウ・ジョーンズ先物：ハイテク企業の上昇シグナル AIトレンドは終わっていない。アップル、ロビンフッドのフラッシュ購入シグナル"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 2: Rivian Jumps on Raised 2026 Delivery Guidance",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/02/stock-market-today-july-2-rivian-jumps-on-raised-2026-delivery-guidance/",
-      "time": "2026-07-02T21:35:07Z",
-      "titleJa": "今日の株式市場、7月2日：リビアンは2026年の納期ガイダンスの引き上げにジャンプ"
-    },
-    {
-      "ticker": "JPY=X",
-      "company": "経済",
-      "title": "WSJ Dollar Index Falls 0.47% to 97.25",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/currencies/yen-consolidates-ahead-of-u-s-nonfarm-payrolls-report-94a64c4a?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-02T21:28:00Z",
-      "titleJa": "WSJドル指数は0.47%下落して97.25"
+      "title": "Conagra (CAG) Stock May Be Below Fair Value As New Product Rollout Lands",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/conagra-cag-stock-may-below-201129544.html",
+      "time": "2026-07-03T20:11:29Z",
+      "titleJa": "新製品の展開により、コナグラ（CAG）の株価は公正価値を下回る可能性がある"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Small-Caps Just Had Their Best First Half Since 1991. The Rally Isn’t Over.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/small-caps-just-had-their-best-first-half-since-1991-the-rally-isnt-over-31bef315?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-02T21:26:00Z",
-      "titleJa": "小型株は 1991 年以来最高の上半期を迎えました。上昇相場はまだ終わっていません。"
+      "title": "3 Reasons ECHO is Risky and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-echo-risky-1-200206466.html",
+      "time": "2026-07-03T20:02:06Z",
+      "titleJa": "ECHOが危険な3つの理由と代わりに買うべき1つの銘柄"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-muted-investors-093344268.html",
-      "time": "2026-07-02T21:21:17Z",
-      "titleJa": "軟調な米国雇用統計を受けてダウが終値最高値に上昇、ナスダックはチップ株で下落"
+      "title": "Western Alliance Bancorporation (WAL): Buy, Sell, or Hold Post Q1 Earnings?",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/western-alliance-bancorporation-wal-buy-195406236.html",
+      "time": "2026-07-03T19:54:06Z",
+      "titleJa": "Western Alliance Bancorporation (WAL): 第 1 四半期の収益後、購入、売却、または保留?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 Reasons ONB is Risky and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-onb-risky-1-194606069.html",
+      "time": "2026-07-03T19:46:06Z",
+      "titleJa": "ONB がリスクである 3 つの理由と、代わりに購入すべき 1 つの銘柄"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 Reasons to Sell ARHS and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-arhs-1-193806482.html",
+      "time": "2026-07-03T19:38:06Z",
+      "titleJa": "ARHSを売る3つの理由と代わりに買うべき1銘柄"
     }
   ]
 }
