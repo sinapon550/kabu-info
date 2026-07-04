@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
-      "time": "2026-07-03T20:53:55Z",
-      "titleJa": "ダウ・ジョーンズ先物：ハイテク企業の上昇シグナル AIトレンドは終わっていない。アップル、ロビンフッドのフラッシュ購入シグナル"
+      "title": "Which Is the Better High Dividend ETF, iShares' HDV or Fidelity's FDVV?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/04/which-is-the-better-high-dividend-etf-ishares-hdv-or-fidelity-s-fdvv/",
+      "time": "2026-07-04T21:25:01Z",
+      "titleJa": "高配当ETFはiシェアーズのHDVとフィデリティのFDVVどちらが良いのでしょうか？"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Conagra (CAG) Stock May Be Below Fair Value As New Product Rollout Lands",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/conagra-cag-stock-may-below-201129544.html",
-      "time": "2026-07-03T20:11:29Z",
-      "titleJa": "新製品の展開により、コナグラ（CAG）の株価は公正価値を下回る可能性がある"
+      "title": "Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/04/nvidia-stock-is-flat-for-2026-time-to-cash-out-or/",
+      "time": "2026-07-04T20:50:00Z",
+      "titleJa": "Nvidia の株価は 2026 年に向けてほぼ横ばい。現金化する時期か、それとも株式を買い増す時期か?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons ECHO is Risky and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-echo-risky-1-200206466.html",
-      "time": "2026-07-03T20:02:06Z",
-      "titleJa": "ECHOが危険な3つの理由と代わりに買うべき1つの銘柄"
+      "title": "Which Pharmaceutical ETF Is Better, VanEck's PPH or Invesco's PJP?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/04/which-pharmaceutical-etf-is-better-vaneck-s-pph-or-invesco-s-pjp/",
+      "time": "2026-07-04T20:31:01Z",
+      "titleJa": "VanEckのPPHとInvescoのPJPではどちらの製薬ETFが優れていますか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Western Alliance Bancorporation (WAL): Buy, Sell, or Hold Post Q1 Earnings?",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/western-alliance-bancorporation-wal-buy-195406236.html",
-      "time": "2026-07-03T19:54:06Z",
-      "titleJa": "Western Alliance Bancorporation (WAL): 第 1 四半期の収益後、購入、売却、または保留?"
+      "title": "Which iShares Value ETF Is Better, the Small Cap-Focused IWN or IJJ Targeting Mid-Cap Stocks?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/04/which-ishares-value-etf-is-better-the-russell-2000-focused-iwn-or-ijj-targeting-mid-cap-stocks/",
+      "time": "2026-07-04T19:55:01Z",
+      "titleJa": "iシェアーズ・バリューETFは小型株中心のIWNと中型株中心のIJJのどちらが良いのでしょうか？"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons ONB is Risky and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-onb-risky-1-194606069.html",
-      "time": "2026-07-03T19:46:06Z",
-      "titleJa": "ONB がリスクである 3 つの理由と、代わりに購入すべき 1 つの銘柄"
+      "title": "The Smartest Vanguard ETF to Buy With $1,000 Right Now",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/04/smartest-vanguard-etf-to-buy-right-now-vti/",
+      "time": "2026-07-04T19:37:00Z",
+      "titleJa": "今すぐ1,000ドルで購入できる最も賢いバンガードETF"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons to Sell ARHS and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-arhs-1-193806482.html",
-      "time": "2026-07-03T19:38:06Z",
-      "titleJa": "ARHSを売る3つの理由と代わりに買うべき1銘柄"
+      "title": "Meet the High-Yield Dividend Stock That's Quietly Crushing the S&P 500 and Nasdaq. Here's Why There's Plenty of Room to Run.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/04/high-yield-dividend-stock-beat-sp500-nasdaq/",
+      "time": "2026-07-04T19:05:00Z",
+      "titleJa": "S&P 500 とナスダックを静かに押しつぶしている高配当株をご紹介します。実行する余地が十分にある理由は次のとおりです。"
     }
   ]
 }

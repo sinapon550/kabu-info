@@ -1,85 +1,175 @@
 {
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Apple Is About 4% Away From Overtaking Nvidia as the World's Most Valuable Company. Could It Happen This Month?",
+      "title": "1 Reason to Buy This Wide-Moat Stock Right Now",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/03/apple-is-about-4-away-from-overtaking-nvidia-as-th/",
-      "time": "2026-07-03T21:43:00Z",
-      "titleJa": "Apple は、世界で最も価値のある企業として Nvidia を追い越すまで、あと約 4% となっています。それは今月起こる可能性がありますか？",
-      "relevant": true
+      "link": "https://www.fool.com/investing/2026/07/04/1-reason-to-buy-this-wide-moat-stock-right-now/",
+      "time": "2026-07-04T21:20:00Z",
+      "titleJa": "このワイドモート株を今すぐ購入すべき 1 つの理由",
+      "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Dividend ETFs vs. Bond ETFs: Which Is the Better Investment in 2026?",
+      "title": "If You'd Put $10,000 Into Intel Stock at the Start of 2026, Here's How Much You'd Have Today",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/03/dividend-etf-vs-bond-etf-better-invest-schd-bnd/",
-      "time": "2026-07-03T21:35:00Z",
-      "titleJa": "配当ETFと債券ETF：2026年にはどちらがより良い投資ですか?",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Can Micron Stock Really Hit $2,000?",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-really-hit-2-212120295.html",
-      "time": "2026-07-03T21:21:20Z",
-      "titleJa": "マイクロン株は本当に2000ドルに達するのか？",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
-      "time": "2026-07-03T20:53:55Z",
-      "titleJa": "ダウ・ジョーンズ先物：ハイテク企業の上昇シグナル AIトレンドは終わっていない。アップル、ロビンフッドのフラッシュ購入シグナル",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
-      "time": "2026-07-03T20:53:55Z",
-      "titleJa": "ダウ・ジョーンズ先物：ハイテク企業の上昇シグナル AIトレンドは終わっていない。アップル、ロビンフッドのフラッシュ購入シグナル",
+      "link": "https://www.fool.com/investing/2026/07/04/if-youd-put-10000-into-intel-stock-at-the-start-of/",
+      "time": "2026-07-04T21:10:00Z",
+      "titleJa": "2026 年の初めにインテル株に 10,000 ドルを投資した場合、現在いくらになるかは次のとおりです",
       "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Micron & 2 Profitable Stocks to Buy in July for Explosive Upside",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-2-profitable-stocks-buy-190000663.html",
-      "time": "2026-07-03T19:00:00Z",
-      "titleJa": "マイクロンと2つの収益性の高い株、爆発的な上昇を目指して7月に購入すべき",
+      "title": "The Artificial Intelligence (AI) Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/04/the-artificial-intelligence-ai-memory-supercycle-i/",
+      "time": "2026-07-04T19:50:00Z",
+      "titleJa": "人工知能 (AI) のメモリ スーパーサイクルはますます強力になっています。 100ドル未満でこのブームから利益を得る方法は次のとおりです",
       "relevant": true
     },
     {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Top Invesco Analyst: The AI Trade That “Lifted All Boats” Is Over. Now Profitability Decides Winners As “Capacity Will Catch Up”",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/07/03/top-invesco-analyst-the-ai-trade-that-lifted-all-boats-is-over-now-profitability-decides-winners-as-capacity-will-catch-up/",
-      "time": "2026-07-03T18:47:11Z",
-      "titleJa": "インベスコのトップアナリスト：「すべてのボートを持ち上げた」AI貿易は終わった。 「生産能力が追いつく」今、勝者は収益性で決まる",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Jim Cramer Mentions Sandisk (SNDK) As He Discusses Biggest Gainers of Q2",
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Why Did General Motors (GM) Just Partner With Micron?",
       "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-mentions-sandisk-sndk-081611369.html",
-      "time": "2026-07-03T18:03:11Z",
-      "titleJa": "ジム・クレイマー氏が第 2 四半期の最大の利益について語る中でサンディスク (SNDK) について言及",
+      "link": "https://finance.yahoo.com/technology/articles/why-did-general-motors-gm-191731528.html",
+      "time": "2026-07-04T19:17:31Z",
+      "titleJa": "なぜゼネラルモーターズ (GM) はマイクロンと提携したのでしょうか?",
       "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Hovering Around $1,800 a Share, Is an ASML Stock Split Imminent?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/04/1800-share-asml-stock-split-imminent/",
+      "time": "2026-07-04T18:10:00Z",
+      "titleJa": "1株あたり1,800ドル付近で推移しているASMLの株式分割は差し迫っているのか？",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "DGRO vs. VIG: Which Dividend-Growth ETF Compounds Your Income Faster?",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/07/04/dgro-vs-vig-which-dividend-growth-etf-compounds-your-income-faster/",
+      "time": "2026-07-04T17:21:57Z",
+      "titleJa": "DGRO と VIG: どちらの配当成長 ETF がより早く収入を増やしますか?",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "1 Unstoppable Stock to Buy Before It Joins Google, Apple, Microsoft, and Nvidia in the $3 Trillion Club",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/04/1-unstoppable-stock-to-buy-before-it-joins-tril/",
+      "time": "2026-07-04T16:05:00Z",
+      "titleJa": "Google、Apple、Microsoft、NVIDIA が 3 兆ドルクラブに加わる前に購入すべき 1 つの止められない銘柄",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "publisher": "TechCrunch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mistral-ai-everything-know-openai-194318445.html",
+      "time": "2026-07-04T15:51:32Z",
+      "titleJa": "ミストラルAIとは何ですか？ OpenAI の競合他社について知っておくべきことすべて",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Missed the First Wave of Artificial Intelligence (AI) Stocks? These 2 Aggressive Plays Are Your Second-Chance Buys",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/04/missed-the-first-wave-of-artificial-intelligence/",
+      "time": "2026-07-04T14:20:00Z",
+      "titleJa": "人工知能 (AI) 株の第一波に乗り遅れましたか?これら 2 つのアグレッシブなプレーはセカンドチャンスです",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Missed the First Wave of Artificial Intelligence (AI) Stocks? These 2 Aggressive Plays Are Your Second-Chance Buys",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/04/missed-the-first-wave-of-artificial-intelligence/",
+      "time": "2026-07-04T14:20:00Z",
+      "titleJa": "人工知能 (AI) 株の第一波に乗り遅れましたか?これら 2 つのアグレッシブなプレーはセカンドチャンスです",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Microsoft (MSFT): One of the Best AI and Technology Stocks to Buy Now",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-one-best-ai-140839126.html",
+      "time": "2026-07-04T14:08:39Z",
+      "titleJa": "マイクロソフト (MSFT): 今買うのに最適な AI およびテクノロジー株の 1 つ",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Sandisk Stock Was the Biggest Winner in the First Half of 2026. What's Next for the Second Half?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/04/sandisk-stock-was-the-biggest-winner-in-the-first/",
+      "time": "2026-07-04T13:50:00Z",
+      "titleJa": "サンディスク株は 2026 年上半期に最大の勝者でした。下半期はどうなるでしょうか?",
+      "relevant": true
+    },
+    {
+      "ticker": "8035.T",
+      "company": "東京エレクトロン",
+      "title": "BofA Boosts Teradyne (TER) Price Target on Industry Growth",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-boosts-teradyne-ter-price-134801547.html",
+      "time": "2026-07-04T13:48:01Z",
+      "titleJa": "BofA、業界の成長に向けてテラダイン（TER）の価格目標を引き上げ",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
+      "time": "2026-07-04T12:31:02Z",
+      "titleJa": "ダウ・ジョーンズ先物：ハイテク企業の上昇シグナル AIトレンドは終わっていない。アップル、ロビンフッドのフラッシュ購入シグナル",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "SoftBank (TSE:9984) Launches SB Neo As It Pursues $10 Billion OpenAI Loan",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-tse-9984-launches-sb-080946409.html",
+      "time": "2026-07-04T08:09:46Z",
+      "titleJa": "ソフトバンク (東証:9984) が 100 億ドルの OpenAI 融資を目指して SB Neo を立ち上げる",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "SK Hynix weighs 0.5% underwriting fee for blockbuster U.S. share sale",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-weighs-0-5-051316607.html",
+      "time": "2026-07-04T05:13:16Z",
+      "titleJa": "SKハイニックス、大ヒット米国株売却の引受手数料0.5％を検討",
+      "relevant": true
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Anthropic quietly joins the race to build its own chips",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/technology/anthropic-samsung-custom-chip-talks",
+      "time": "2026-07-04T00:03:00Z",
+      "titleJa": "Anthropic が独自のチップを構築する競争に静かに参加",
+      "relevant": false
     },
     {
       "ticker": "7267.T",
@@ -92,16 +182,6 @@
       "relevant": true
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Jim Cramer Explains Why You Need to Own NVIDIA Now",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-nvidia-change-082356845.html",
-      "time": "2026-07-03T17:44:56Z",
-      "titleJa": "Jim Cramer が、今 NVIDIA を所有する必要がある理由を説明します",
-      "relevant": false
-    },
-    {
       "ticker": "005930.KS",
       "company": "サムスン電子",
       "title": "Meta Could Hand Samsung Its Biggest AI Chip Order Yet in $6.5 Billion Deal",
@@ -110,16 +190,6 @@
       "time": "2026-07-03T16:58:53Z",
       "titleJa": "メタ社、65億ドルの取引で過去最大のAIチップ受注をサムスンに渡す可能性",
       "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amds-valuation-stretched-54-08x-165000812.html",
-      "time": "2026-07-03T16:50:00Z",
-      "titleJa": "AMDの評価額はPER54.08倍に上昇：株式を買うか、売るか、それとも保持するか？",
-      "relevant": false
     },
     {
       "ticker": "285A.T",
@@ -142,26 +212,6 @@
       "relevant": false
     },
     {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Korea Stocks Rebound 5.8% as Samsung, SK Hynix Jump",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/korea-stocks-rebound-5-8-161052467.html",
-      "time": "2026-07-03T16:10:52Z",
-      "titleJa": "サムスンとSKハイニックスが急騰し、韓国株が5.8%上昇",
-      "relevant": true
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Korea Stocks Rebound 5.8% as Samsung, SK Hynix Jump",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/korea-stocks-rebound-5-8-161052467.html",
-      "time": "2026-07-03T16:10:52Z",
-      "titleJa": "サムスンとSKハイニックスが急騰し、韓国株が5.8%上昇",
-      "relevant": true
-    },
-    {
       "ticker": "2914.T",
       "company": "日本たばこ産業",
       "title": "JAPAN TOB (JAPAY) Upgraded to Buy: Here's What You Should Know",
@@ -172,23 +222,13 @@
       "relevant": false
     },
     {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Tech Stocks Deliver Boost to Global Markets as Rate-Hike Worries Fade",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stock-markets-today-898e597a?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-03T12:13:00Z",
-      "titleJa": "利上げ懸念が薄れ、ハイテク株が世界市場を押し上げる",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Tech Stocks Deliver Boost to Global Markets as Rate-Hike Worries Fade",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stock-markets-today-898e597a?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-03T12:13:00Z",
-      "titleJa": "利上げ懸念が薄れ、ハイテク株が世界市場を押し上げる",
+      "ticker": "4755.T",
+      "company": "楽天グループ",
+      "title": "AST SpaceMobile’s Japan Catalyst Puts Its Rollout Story Back in Focus",
+      "publisher": "MarketBeat",
+      "link": "https://www.marketbeat.com/articles/ast-spacemobiles-japan-catalyst-puts-its-rollout-story-back-in-focus/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "time": "2026-07-03T15:05:00Z",
+      "titleJa": "AST SpaceMobile の Japan Catalyst が展開ストーリーに焦点を戻す",
       "relevant": false
     },
     {
@@ -212,28 +252,8 @@
       "relevant": true
     },
     {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "European Chip Stocks Rebound After Thursday Selloff",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-electronics-tech-stock-fc233590?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-03T08:54:00Z",
-      "titleJa": "欧州チップ株、木曜下落後反発",
-      "relevant": false
-    },
-    {
       "ticker": "285A.T",
       "company": "キオクシア",
-      "title": "European Chip Stocks Rebound After Thursday Selloff",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-electronics-tech-stock-fc233590?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-03T08:54:00Z",
-      "titleJa": "欧州チップ株、木曜下落後反発",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
       "title": "European Chip Stocks Rebound After Thursday Selloff",
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-electronics-tech-stock-fc233590?siteid=yhoof2&yptr=yahoo",
@@ -249,16 +269,6 @@
       "link": "https://www.euronews.com/2026/07/03/asian-stocks-rally-after-dow-sets-fresh-record-though-chip-weakness-lingers",
       "time": "2026-07-03T08:11:40Z",
       "titleJa": "半導体市場の弱さは残るものの、ダウが新記録を樹立したことでアジア株は上昇",
-      "relevant": false
-    },
-    {
-      "ticker": "8035.T",
-      "company": "東京エレクトロン",
-      "title": "World shares are mixed after Dow hits a new record, as some AI shares bounce back",
-      "publisher": "Associated Press",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rally-dow-hits-042205669.html",
-      "time": "2026-07-03T04:22:05Z",
-      "titleJa": "一部のAI株が反発する中、ダウが新記録を達成した後、世界株はまちまち",
       "relevant": false
     },
     {
@@ -379,16 +389,6 @@
       "link": "https://www.just-auto.com/news/mitsubishis-global-vehicle-output-falls-13-in-may/",
       "time": "2026-07-02T08:58:23Z",
       "titleJa": "三菱自動車の世界自動車生産台数は5月に13％減少",
-      "relevant": false
-    },
-    {
-      "ticker": "4755.T",
-      "company": "楽天グループ",
-      "title": "Your complete Amex Membership Rewards guide",
-      "publisher": "Yahoo Personal Finance",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/american-express-membership-rewards-guide-195145350.html",
-      "time": "2026-07-01T19:51:45Z",
-      "titleJa": "Amex メンバーシップ リワードの完全ガイド",
       "relevant": false
     },
     {
