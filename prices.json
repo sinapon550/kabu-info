@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "note": "GitHub Actions による自動更新（前営業日ベースの概算）",
   "stocks": {
     "9984.T": {
@@ -272,7 +272,7 @@
       "prevClose": 5211.0,
       "changePct": 14.18,
       "target": 5430.0,
-      "rating": "中立(10人)",
+      "rating": "買い(10人)",
       "dividendYield": 0.96,
       "profitMargin": -32.9,
       "revenue": 481148010496,
@@ -439,7 +439,7 @@
       "dividendYield": 0.6,
       "profitMargin": 12.8,
       "revenue": 1830856032256,
-      "netIncome": 233920004096,
+      "netIncome": 233829007360,
       "eps": 127.42,
       "per": 87.0,
       "finCurrency": "JPY",
@@ -467,7 +467,7 @@
       "marketCap": 681927162336,
       "prevClose": 1850.9,
       "changePct": -4.41,
-      "target": 1782.83,
+      "target": 1782.62,
       "rating": "強い買い(14人)",
       "dividendYield": 0.32,
       "profitMargin": 29.7,

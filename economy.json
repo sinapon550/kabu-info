@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Which Is the Better High Dividend ETF, iShares' HDV or Fidelity's FDVV?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/04/which-is-the-better-high-dividend-etf-ishares-hdv-or-fidelity-s-fdvv/",
-      "time": "2026-07-04T21:25:01Z",
-      "titleJa": "高配当ETFはiシェアーズのHDVとフィデリティのFDVVどちらが良いのでしょうか？"
+      "title": "Stock Futures Kick Off Week that Includes Fed Minutes",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stock-futures-fed-minutes-pepsi-delta-earnings-47dbcac0?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-05T20:56:00Z",
+      "titleJa": "FRB議事録を含む株式先物キックオフ週"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares?",
+      "title": "Buying VOO Near All-Time Highs Could Still Be a Smart Move",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/04/nvidia-stock-is-flat-for-2026-time-to-cash-out-or/",
-      "time": "2026-07-04T20:50:00Z",
-      "titleJa": "Nvidia の株価は 2026 年に向けてほぼ横ばい。現金化する時期か、それとも株式を買い増す時期か?"
+      "link": "https://www.fool.com/investing/2026/07/05/buying-voo-all-time-highs-still-smart-spy/",
+      "time": "2026-07-05T19:50:00Z",
+      "titleJa": "VOOを史上最高値付近で買うのは依然として賢明な選択である可能性がある"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Which Pharmaceutical ETF Is Better, VanEck's PPH or Invesco's PJP?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/04/which-pharmaceutical-etf-is-better-vaneck-s-pph-or-invesco-s-pjp/",
-      "time": "2026-07-04T20:31:01Z",
-      "titleJa": "VanEckのPPHとInvescoのPJPではどちらの製薬ETFが優れていますか?"
+      "title": "3 iShares ETFs Crushing the S&P 500 by 30 Points in 2026",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/05/3-ishares-etfs-crushing-the-sp-500-by-30-points-in-2026/",
+      "time": "2026-07-05T19:10:14Z",
+      "titleJa": "3つのiシェアーズETFが2026年にS&P 500を30ポイント押しつぶす"
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
+      "time": "2026-07-05T19:04:07Z",
+      "titleJa": "ダウ・ジョーンズ先物：市場の花火を期待してください。アップル、スペースX、サンディスク、ロビンフッドが注目"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Which iShares Value ETF Is Better, the Small Cap-Focused IWN or IJJ Targeting Mid-Cap Stocks?",
+      "title": "Coca-Cola Is Crushing the Nasdaq and S&P 500 in 2026, but This Higher-Yield Dividend King Could Be an Even Better Stock to Buy for the Second Half of 2026",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/04/which-ishares-value-etf-is-better-the-russell-2000-focused-iwn-or-ijj-targeting-mid-cap-stocks/",
-      "time": "2026-07-04T19:55:01Z",
-      "titleJa": "iシェアーズ・バリューETFは小型株中心のIWNと中型株中心のIJJのどちらが良いのでしょうか？"
+      "link": "https://www.fool.com/investing/2026/07/05/coca-cola-is-crushing-the-nasdaq-and-sp-500-in-202/",
+      "time": "2026-07-05T18:25:00Z",
+      "titleJa": "コカ・コーラは2026年にナスダックとS&P 500を押しつぶすことになるが、この高配当株は2026年下半期に購入するのにさらに良い銘柄になる可能性がある"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The Smartest Vanguard ETF to Buy With $1,000 Right Now",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/04/smartest-vanguard-etf-to-buy-right-now-vti/",
-      "time": "2026-07-04T19:37:00Z",
-      "titleJa": "今すぐ1,000ドルで購入できる最も賢いバンガードETF"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Meet the High-Yield Dividend Stock That's Quietly Crushing the S&P 500 and Nasdaq. Here's Why There's Plenty of Room to Run.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/04/high-yield-dividend-stock-beat-sp500-nasdaq/",
-      "time": "2026-07-04T19:05:00Z",
-      "titleJa": "S&P 500 とナスダックを静かに押しつぶしている高配当株をご紹介します。実行する余地が十分にある理由は次のとおりです。"
+      "title": "Fed Minutes, Home Sales, Pepsi, Delta, and More to Watch This Week",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/fed-minutes-home-sales-pepsi-delta-f7191594?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-05T18:00:00Z",
+      "titleJa": "今週注目すべきFRB議事録、住宅販売、ペプシ、デルタなど"
     }
   ]
 }
