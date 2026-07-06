@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Futures Kick Off Week that Includes Fed Minutes",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stock-futures-fed-minutes-pepsi-delta-earnings-47dbcac0?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-05T20:56:00Z",
-      "titleJa": "FRB議事録を含む株式先物キックオフ週"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Buying VOO Near All-Time Highs Could Still Be a Smart Move",
+      "title": "Why Abacus Global Management Stock Inched Higher Today",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/05/buying-voo-all-time-highs-still-smart-spy/",
-      "time": "2026-07-05T19:50:00Z",
-      "titleJa": "VOOを史上最高値付近で買うのは依然として賢明な選択である可能性がある"
+      "link": "https://www.fool.com/investing/2026/07/06/why-abacus-global-management-stock-inched-higher-t/",
+      "time": "2026-07-06T21:42:45Z",
+      "titleJa": "アバカス・グローバル・マネジメントの株価が今日少しずつ上昇した理由"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 iShares ETFs Crushing the S&P 500 by 30 Points in 2026",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/07/05/3-ishares-etfs-crushing-the-sp-500-by-30-points-in-2026/",
-      "time": "2026-07-05T19:10:14Z",
-      "titleJa": "3つのiシェアーズETFが2026年にS&P 500を30ポイント押しつぶす"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
-      "time": "2026-07-05T19:04:07Z",
-      "titleJa": "ダウ・ジョーンズ先物：市場の花火を期待してください。アップル、スペースX、サンディスク、ロビンフッドが注目"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Coca-Cola Is Crushing the Nasdaq and S&P 500 in 2026, but This Higher-Yield Dividend King Could Be an Even Better Stock to Buy for the Second Half of 2026",
+      "title": "Stock Market Today, July 6: Semiconductor Momentum Lifts Nasdaq as Dow Closes Above 53,000",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/05/coca-cola-is-crushing-the-nasdaq-and-sp-500-in-202/",
-      "time": "2026-07-05T18:25:00Z",
-      "titleJa": "コカ・コーラは2026年にナスダックとS&P 500を押しつぶすことになるが、この高配当株は2026年下半期に購入するのにさらに良い銘柄になる可能性がある"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/06/stock-market-today-july-6-semiconductor-momentum-lifts-nasdaq-as-dow-closes-above-53-000/",
+      "time": "2026-07-06T21:41:11Z",
+      "titleJa": "今日、7月6日の株式市場: ダウ終値が53,000ドルを超え、半導体の勢いでナスダックが上昇"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Fed Minutes, Home Sales, Pepsi, Delta, and More to Watch This Week",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/fed-minutes-home-sales-pepsi-delta-f7191594?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-05T18:00:00Z",
-      "titleJa": "今週注目すべきFRB議事録、住宅販売、ペプシ、デルタなど"
+      "title": "Nvidia rivals get a rare break in AI race",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/technology/nvidia-rivals-get-a-rare-break-in-ai-race",
+      "time": "2026-07-06T21:33:00Z",
+      "titleJa": "Nvidia のライバルが AI レースでまれにブレイク"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "VTES vs. VCSH: Which Vanguard Bond ETF Is the Better Fit for Your Portfolio?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/06/vtes-vs-vcsh-which-vanguard-bond-etf-is-the-better-fit-for-your-portfolio/",
+      "time": "2026-07-06T21:26:01Z",
+      "titleJa": "VTES vs. VCSH: あなたのポートフォリオに適したバンガード債券ETFはどれですか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "S&P 500, Nasdaq End Higher On Support From Strong Tech Gains Led By Nvidia, Dow Hits Record Highs — MSFT, NVDA, LMT, AVGO, SPCX In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-on-support-from-strong-tech-gains-led-by-nvidia-dow-hits-record-highs-msft-nvda-lmt-avgo-spcx-in-focus/cZm1YfaR7lU",
+      "time": "2026-07-06T21:24:38Z",
+      "titleJa": "S&P 500、ナスダックはNVIDIA主導による力強いハイテク上昇に支えられ上昇、ダウは過去最高値を更新 — MSFT、NVDA、LMT、AVGO、SPCXが注目"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stocks surge on chip news, oil holds at pre-war levels",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/news/shares-edge-higher-asia-oil-005923908.html",
+      "time": "2026-07-06T21:18:43Z",
+      "titleJa": "半導体ニュースで株価急騰、原油保有は戦前の水準に"
     }
   ]
 }
