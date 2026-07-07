@@ -1,144 +1,274 @@
 {
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "items": [
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Allegro MicroSystems and Penguin Solutions Shares Skyrocket, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-penguin-solutions-shares-220401752.html",
-      "time": "2026-07-06T22:04:01Z",
-      "titleJa": "Allegro MicroSystems とペンギン ソリューションの株価が急上昇、知っておくべきこと",
-      "relevant": false
-    },
-    {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Allegro MicroSystems and Penguin Solutions Shares Skyrocket, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-penguin-solutions-shares-220401752.html",
-      "time": "2026-07-06T22:04:01Z",
-      "titleJa": "Allegro MicroSystems とペンギン ソリューションの株価が急上昇、知っておくべきこと",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "MACOM and Universal Display Shares Are Soaring, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/macom-universal-display-shares-soaring-215601643.html",
-      "time": "2026-07-06T21:56:01Z",
-      "titleJa": "MACOM と Universal Display のシェアが急上昇中、知っておくべきこと",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "MACOM and Universal Display Shares Are Soaring, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/macom-universal-display-shares-soaring-215601643.html",
-      "time": "2026-07-06T21:56:01Z",
-      "titleJa": "MACOM と Universal Display のシェアが急上昇中、知っておくべきこと",
-      "relevant": false
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Meta Platforms Is Entering the Neocloud Business. Here's Why CoreWeave Investors Should Not Worry.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/06/meta-platforms-is-entering-the-neocloud-business-h/",
-      "time": "2026-07-06T21:50:00Z",
-      "titleJa": "Meta Platforms がネオクラウド ビジネスに参入します。 CoreWeave 投資家が心配する必要がない理由は次のとおりです。",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Apple's $2,500 foldable iPhone could sell out instantly",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/apples-2-500-foldable-iphone-214500723.html",
-      "time": "2026-07-06T21:45:00Z",
-      "titleJa": "Appleの2,500ドルの折りたたみ式iPhoneは即完売の可能性がある",
-      "relevant": false
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Why Abacus Global Management Stock Inched Higher Today",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/06/why-abacus-global-management-stock-inched-higher-t/",
-      "time": "2026-07-06T21:42:45Z",
-      "titleJa": "アバカス・グローバル・マネジメントの株価が今日少しずつ上昇した理由",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Why Dan Ives Sees NVDA And Korea Memory Stocks Driving AI Demand",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-dan-ives-sees-nvda-korean-memory-stocks-driving-ai-demand/cZm1YQ1R7ly",
-      "time": "2026-07-06T21:25:12Z",
-      "titleJa": "Dan Ives 氏が NVDA と韓国メモリ株が AI 需要を牽引していると考える理由",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Why Dan Ives Sees NVDA And Korea Memory Stocks Driving AI Demand",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-dan-ives-sees-nvda-korean-memory-stocks-driving-ai-demand/cZm1YQ1R7ly",
-      "time": "2026-07-06T21:25:12Z",
-      "titleJa": "Dan Ives 氏が NVDA と韓国メモリ株が AI 需要を牽引していると考える理由",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "S&P 500, Nasdaq End Higher On Support From Strong Tech Gains Led By Nvidia, Dow Hits Record Highs — MSFT, NVDA, LMT, AVGO, SPCX In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-on-support-from-strong-tech-gains-led-by-nvidia-dow-hits-record-highs-msft-nvda-lmt-avgo-spcx-in-focus/cZm1YfaR7lU",
-      "time": "2026-07-06T21:24:38Z",
-      "titleJa": "S&P 500、ナスダックはNVIDIA主導による力強いハイテク上昇に支えられ上昇、ダウは過去最高値を更新 — MSFT、NVDA、LMT、AVGO、SPCXが注目",
-      "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Credo Leads Rebound For Semiconductor Stocks",
+      "title": "Dow Jones Futures: Nasdaq Slumps As Samsung Fans AI Fears, Oil Prices Jump On Iran News",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/news/technology/credo-stock-leads-philadelphia-semiconductor-index-sox/?src=A00220&yptr=yahoo",
-      "time": "2026-07-06T20:31:47Z",
-      "titleJa": "Credoが半導体株の反発をリード",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-samsung-ai-fears-oil-prices-jump-iran-news/?src=A00220&yptr=yahoo",
+      "time": "2026-07-07T21:52:21Z",
+      "titleJa": "ダウジョーンズ先物：サムスンファンのAI懸念でナスダックは下落、原油価格はイランニュースで急騰",
       "relevant": false
     },
     {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "AMD, Nvidia, Micron, Intel, Dell, O’Reilly, Rivian, and More Stocks That Explain Today’s Market",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stock-movers-a817c1db?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-06T20:28:00Z",
-      "titleJa": "AMD、Nvidia、Micron、Intel、Dell、O’Reilly、Rivian など、今日の市場を説明する銘柄",
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Dow Jones Futures: Nasdaq Slumps As Samsung Fans AI Fears, Oil Prices Jump On Iran News",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-samsung-ai-fears-oil-prices-jump-iran-news/?src=A00220&yptr=yahoo",
+      "time": "2026-07-07T21:52:21Z",
+      "titleJa": "ダウジョーンズ先物：サムスンファンのAI懸念でナスダックは下落、原油価格はイランニュースで急騰",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Dow Jones Futures: Nasdaq Slumps As Samsung Fans AI Fears, Oil Prices Jump On Iran News",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-samsung-ai-fears-oil-prices-jump-iran-news/?src=A00220&yptr=yahoo",
+      "time": "2026-07-07T21:52:21Z",
+      "titleJa": "ダウジョーンズ先物：サムスンファンのAI懸念でナスダックは下落、原油価格はイランニュースで急騰",
+      "relevant": false
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Microsoft Looks to Make a Major Reset as It Says This Area of Its Business \"Is Not Healthy\"",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/07/microsoft-looks-to-make-a-major-reset-as-it-says-t/",
+      "time": "2026-07-07T21:51:02Z",
+      "titleJa": "Microsoft、自社のビジネスのこの分野は「健全ではない」として大規模なリセットを検討",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Samsung Fails to Impress—Heard on the Street Recap",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/samsung-fails-to-impress-heard-on-the-street-recap-lKzPzheWZ8QNiDwvftPs?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-07T21:45:31Z",
+      "titleJa": "サムスンは好印象を与えられなかった—街頭で聞かれた総括",
+      "relevant": true
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Nervous About the Stock Market? These 7 Words From Warren Buffett Might Change Your Mind.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/07/nervous-about-stock-market-7-words-warren-buffett/",
+      "time": "2026-07-07T21:35:00Z",
+      "titleJa": "株式市場について不安ですか?ウォーレン・バフェットのこれら 7 つの言葉はあなたの考えを変えるかもしれません。",
+      "relevant": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "The Number That Could Test The New SanDisk Stock Story",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/605934/the-number-that-could-test-the-new-sandisk-stock-story/2026-07-07",
+      "time": "2026-07-07T21:34:57Z",
+      "titleJa": "新しいサンディスク株の物語を試す可能性のある数字",
       "relevant": false
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "AMD, Nvidia, Micron, Intel, Dell, O’Reilly, Rivian, and More Stocks That Explain Today’s Market",
+      "title": "The Number That Could Test The New SanDisk Stock Story",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/605934/the-number-that-could-test-the-new-sandisk-stock-story/2026-07-07",
+      "time": "2026-07-07T21:34:57Z",
+      "titleJa": "新しいサンディスク株の物語を試す可能性のある数字",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Oil spikes, Wall Street drops as US-Iran tensions rebuild",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/news/stocks-ease-despite-upbeat-samsung-020825000.html",
+      "time": "2026-07-07T21:20:18Z",
+      "titleJa": "米国とイランの緊張再構築で原油高騰、ウォール街は下落",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "A Circuit Board Problem Just Delayed Nvidia’s Next AI System to 2028 And Chip Stocks Are Already Feeling the Fallout",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/07/a-circuit-board-problem-just-delayed-nvidias-next-ai-system-to-2028-and-chip-stocks-are-already-feeling-the-fallout/",
+      "time": "2026-07-07T21:18:31Z",
+      "titleJa": "回路基板の問題により、Nvidia の次期 AI システムが 2028 年に延期され、チップ株はすでに暴落を感じている",
+      "relevant": false
+    },
+    {
+      "ticker": "4062.T",
+      "company": "イビデン",
+      "title": "Jim Cramer sends strong signal to Nvidia stock investors amid rumors",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-strong-signal-to-nvidia-stock-investors-bullish-buy",
+      "time": "2026-07-07T21:03:00Z",
+      "titleJa": "ジム・クレイマー氏、噂の渦中にあるNVIDIA株投資家に強いシグナルを送る",
+      "relevant": false
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Basic Materials Roundup: Market Talk",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e0cfe53e?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-07T21:01:00Z",
+      "titleJa": "基本的な材料のまとめ: マーケットトーク",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "📉 Which Tech Stocks Fell the Most Today?",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-which-tech-stocks-are-falling-the-most-today--ZJ8L41EcRW26zRtVSy9v?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-07T20:53:46Z",
+      "titleJa": "📉 今日最も下落したハイテク株はどれですか?",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Samsung’s Huge Earnings Beat Wasn’t Enough for the Stock, and What It Means for Taiwan Semi",
       "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stock-movers-a817c1db?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-06T20:28:00Z",
-      "titleJa": "AMD、Nvidia、Micron、Intel、Dell、O’Reilly、Rivian など、今日の市場を説明する銘柄",
+      "link": "https://www.barrons.com/articles/samsung-earnings-stock-price-27b6be7c?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-07T20:53:00Z",
+      "titleJa": "サムスンの巨額利益のビートは株価にとって十分ではなかった、そしてそれが台湾半導体にとって何を意味するのか",
       "relevant": false
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "3 Robotics ETFs Positioned to Capitalize on America’s Reshoring Boom in 2026",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/07/06/3-robotics-etfs-positioned-to-capitalize-on-americas-reshoring-boom-in-2026/",
-      "time": "2026-07-06T19:41:43Z",
-      "titleJa": "3つのロボットETFは2026年のアメリカのリショアリングブームを活用する位置付け",
+      "title": "DeepSeek looks to reduce reliance on Nvidia with own AI chip",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/deepseek-looks-to-reduce-reliance-on-nvidia-with-own-ai-chip-203313261.html",
+      "time": "2026-07-07T20:33:13Z",
+      "titleJa": "DeepSeekは独自のAIチップでNvidiaへの依存を軽減しようとしている",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Samsung saw a record quarter, but it's not enough for investors. Here's why.",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/samsung-saw-a-record-quarter-but-its-not-enough-for-investors-heres-why-203148500.html",
+      "time": "2026-07-07T20:31:48Z",
+      "titleJa": "サムスンは記録的な四半期を記録したが、投資家にとってはそれだけでは十分ではない。その理由は次のとおりです。",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Samsung saw a record quarter, but it's not enough for investors. Here's why.",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/samsung-saw-a-record-quarter-but-its-not-enough-for-investors-heres-why-203148500.html",
+      "time": "2026-07-07T20:31:48Z",
+      "titleJa": "サムスンは記録的な四半期を記録したが、投資家にとってはそれだけでは十分ではない。その理由は次のとおりです。",
+      "relevant": true
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Crude Jumps As U.S. Revokes Iran Authorization to Sell Oil",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-possible-position-adjustments-before-expected-resumption-of-u-s-iran-talks-ead21cdc?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-07T19:37:00Z",
+      "titleJa": "米国がイラン石油販売許可を取り消し、原油価格が高騰",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Why ASML Stock Dropped Today",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/07/why-asml-stock-dropped-today/",
+      "time": "2026-07-07T19:36:52Z",
+      "titleJa": "ASML株が今日下落した理由",
+      "relevant": true
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "Samsung's 19-Fold Profit Surge Fails to Stop 10% Stock Drop",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/samsungs-19-fold-profit-surge-191533241.html",
+      "time": "2026-07-07T19:15:33Z",
+      "titleJa": "サムスンの19倍の利益急増も10％の株価下落を阻止できず",
+      "relevant": false
+    },
+    {
+      "ticker": "6501.T",
+      "company": "日立製作所",
+      "title": "X-Energy Declines 18.9% in a Month: How Should You Play the Stock Now?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/x-energy-declines-18-9-162100956.html",
+      "time": "2026-07-07T16:21:00Z",
+      "titleJa": "X-Energy が 1 か月で 18.9% 下落: 今株をどうプレイすべきか?",
+      "relevant": false
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "Synopsys to phase out chip manufacturing software as AI design becomes strategic focus (SNPS)",
+      "publisher": "InvestorsHub",
+      "link": "https://investorshub.advfn.com/market-news/article/31446/synopsys-to-phase-out-chip-manufacturing-software-as-ai-design-becomes-strategic-focus-snps",
+      "time": "2026-07-07T10:41:29Z",
+      "titleJa": "シノプシス、AI設計が戦略的焦点となる中、チップ製造ソフトウェアを段階的に廃止へ (SNPS)",
+      "relevant": false
+    },
+    {
+      "ticker": "3436.T",
+      "company": "SUMCO",
+      "title": "Tech Wariness Blunts Asian Stock Markets",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-wariness-blunts-asian-stock-103413817.html",
+      "time": "2026-07-07T10:34:13Z",
+      "titleJa": "ハイテクへの警戒感がアジア株式市場を鈍らせる",
+      "relevant": false
+    },
+    {
+      "ticker": "8035.T",
+      "company": "東京エレクトロン",
+      "title": "Korean Stocks Flirt With Bear Territory, Leading Asian Markets Lower",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/asian-equities-mostly-lower-as-ai-led-rally-takes-breather-cd0615b1?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-07T07:46:00Z",
+      "titleJa": "韓国株が弱気の領域に入り込み、アジア市場の下落を主導",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "Masa Son’s greatest gamble",
+      "publisher": "Financial Times",
+      "link": "https://finance.yahoo.com/technology/ai/articles/masa-son-greatest-gamble-040029557.html",
+      "time": "2026-07-07T04:00:29Z",
+      "titleJa": "孫正義氏の最大の賭け",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "U.S. and China dominate AI, leaving everyone else scrambling",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/technology/us-china-ai-dominance-softbank-france-ai-deal",
+      "time": "2026-07-06T23:37:00Z",
+      "titleJa": "米国と中国が AI を独占し、他の国々はスクランブルを掛けている",
+      "relevant": false
+    },
+    {
+      "ticker": "4062.T",
+      "company": "イビデン",
+      "title": "Jim Cramer Says Buy Nvidia as Chipmaker Rejects 2028 AI Delay Claims",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/jim-cramer-buy-nvidia-delay-claims/",
+      "time": "2026-07-06T22:30:00Z",
+      "titleJa": "ジム・クレイマー氏、チップメーカーが2028年のAI遅延主張を拒否したためNvidiaを買収すると発言",
       "relevant": false
     },
     {
@@ -152,63 +282,13 @@
       "relevant": false
     },
     {
-      "ticker": "285A.T",
-      "company": "キオクシア",
-      "title": "Tepper’s Appaloosa soars 32% in H1 on prescient memory-chip bets - report",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tepper-appaloosa-soars-32-h1-192008692.html",
-      "time": "2026-07-06T19:20:08Z",
-      "titleJa": "テッパーズ・アパルーサ、先見の明のあるメモリチップへの賭けで上半期に32%急騰 - レポート",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Tepper’s Appaloosa soars 32% in H1 on prescient memory-chip bets - report",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tepper-appaloosa-soars-32-h1-192008692.html",
-      "time": "2026-07-06T19:20:08Z",
-      "titleJa": "テッパーズ・アパルーサ、先見の明のあるメモリチップへの賭けで上半期に32%急騰 - レポート",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "The Anti-Magnificent Seven Trade? VGK Is Quietly Creeping Toward Record Highs",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/personal-finance/2026/07/06/the-anti-magnificent-seven-trade-vgk-is-quietly-creeping-toward-record-highs/",
-      "time": "2026-07-06T19:15:45Z",
-      "titleJa": "対マグニフィセントセブン貿易? VGKは記録的高値に向けて静かに忍び寄っている",
-      "relevant": false
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Oil Futures Slip While Holding Near Pre-Conflict Level",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-opec-decision-to-increase-output-again-1a0d0c9d?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-06T19:03:00Z",
-      "titleJa": "原油先物は紛争前の水準に近い水準を維持しながら下落",
-      "relevant": false
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "MUFG CEO warns weak yen inflation may stifle demand, threaten growth",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/economy/policy/articles/mufg-ceo-warns-weak-yen-150201388.html",
-      "time": "2026-07-06T15:02:01Z",
-      "titleJa": "MUFG CEO、円安インフレが需要を抑制し成長を脅かす可能性があると警告",
-      "relevant": true
-    },
-    {
       "ticker": "7267.T",
       "company": "本田技研工業",
       "title": "Asian Equities Traded in the US as American Depositary Receipts Soar in Monday Trading",
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144711286.html",
       "time": "2026-07-06T14:47:11Z",
-      "titleJa": "月曜日の取引で米国の預託金が急騰する中、米国でアジア株が取引",
+      "titleJa": "月曜日の取引で米国の預託金が急騰し、アジア株が米国で取引",
       "relevant": false
     },
     {
@@ -219,16 +299,6 @@
       "link": "https://www.power-technology.com/news/ecowendes-760mw-offshore-wind-farm-first-power/",
       "time": "2026-07-06T13:46:48Z",
       "titleJa": "Ecowende の 760MW 洋上風力発電所がオランダの送電網に最初の電力を供給",
-      "relevant": false
-    },
-    {
-      "ticker": "4062.T",
-      "company": "イビデン",
-      "title": "Nvidia Kyber Delay Hits Asian AI Suppliers",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-kyber-delay-hits-asian-134103513.html",
-      "time": "2026-07-06T13:41:03Z",
-      "titleJa": "Nvidia Kyber の遅延がアジアの AI サプライヤーに打撃",
       "relevant": false
     },
     {
@@ -272,33 +342,13 @@
       "relevant": true
     },
     {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "European Indexes Edge Higher at Open",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-electronics-tech-stock-fc233590?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-06T07:33:00Z",
-      "titleJa": "欧州指数は寄り付きで上昇",
-      "relevant": false
-    },
-    {
       "ticker": "6954.T",
       "company": "ファナック",
       "title": "How Cognex Corporation’s (CGNX) Machine Vision Focus Keeps It Close to AI-Enabled Factory Automation",
       "publisher": "Insider Monkey",
       "link": "https://finance.yahoo.com/technology/ai/articles/cognex-corporation-cgnx-machine-vision-021811128.html",
       "time": "2026-07-06T02:18:11Z",
-      "titleJa": "コグネックス コーポレーション (CGNX) のマシン ビジョンへの注力により、AI 対応のファクトリー オートメーションにどのように近づけるか",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Kospi Opens Over 2% as Samsung and SK Hynix Lead Chip Rally",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/kospi-samsung-sk-hynix-chip-rally/",
-      "time": "2026-07-06T01:27:45Z",
-      "titleJa": "サムスンとSKハイニックスがチップラリーをリードし、コスピが2%超でオープン",
+      "titleJa": "コグネックス コーポレーション (CGNX) のマシン ビジョンへの注力により、AI を活用したファクトリー オートメーションにどのように近づけるか",
       "relevant": false
     },
     {
@@ -320,16 +370,6 @@
       "time": "2026-07-04T13:48:01Z",
       "titleJa": "BofA、業界の成長に向けてテラダイン（TER）の価格目標を引き上げ",
       "relevant": false
-    },
-    {
-      "ticker": "285A.T",
-      "company": "キオクシア",
-      "title": "Kioxia Shares Jump 9.2% As AI Storage Push Accelerates",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/kioxia-shares-jump-9-2-162429794.html",
-      "time": "2026-07-03T16:24:29Z",
-      "titleJa": "AIストレージの推進が加速し、キオクシア株が9.2%上昇",
-      "relevant": true
     },
     {
       "ticker": "7011.T",
@@ -362,16 +402,6 @@
       "relevant": false
     },
     {
-      "ticker": "8035.T",
-      "company": "東京エレクトロン",
-      "title": "Asian stocks rally after Dow sets fresh record, though chip weakness lingers",
-      "publisher": "Euronews",
-      "link": "https://www.euronews.com/2026/07/03/asian-stocks-rally-after-dow-sets-fresh-record-though-chip-weakness-lingers",
-      "time": "2026-07-03T08:11:40Z",
-      "titleJa": "半導体市場の弱さは残るものの、ダウが新記録を樹立したことでアジア株は上昇",
-      "relevant": false
-    },
-    {
       "ticker": "8058.T",
       "company": "三菱商事",
       "title": "Here’s Why Sony Group (SONY) is One of the Cheap Stocks That Are About to Explode",
@@ -400,16 +430,6 @@
       "time": "2026-07-02T17:43:00Z",
       "titleJa": "AIクラウド計画が当面の障害に見舞われ、メタ株が下落",
       "relevant": false
-    },
-    {
-      "ticker": "6501.T",
-      "company": "日立製作所",
-      "title": "Does Hitachi’s 2026 Share Buyback and US Investments Reframe Its Capital Priorities for TSE:6501?",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-hitachi-2026-share-buyback-161315829.html",
-      "time": "2026-07-02T16:13:15Z",
-      "titleJa": "日立の2026年の自社株買いと米国投資は東証6501の資本優先事項を再構築するのか?",
-      "relevant": true
     },
     {
       "ticker": "6857.T",
@@ -449,16 +469,6 @@
       "link": "https://www.just-auto.com/news/mitsubishis-global-vehicle-output-falls-13-in-may/",
       "time": "2026-07-02T08:58:23Z",
       "titleJa": "三菱自動車の世界自動車生産台数は5月に13％減少",
-      "relevant": false
-    },
-    {
-      "ticker": "3436.T",
-      "company": "SUMCO",
-      "title": "Tech Gyrations, Persian Gulf View Roil Asian Stock Markets",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-gyrations-persian-gulf-view-103536048.html",
-      "time": "2026-07-01T10:35:36Z",
-      "titleJa": "テクノロジーの循環、ペルシャ湾がアジアの株式市場を動揺させる",
       "relevant": false
     }
   ]

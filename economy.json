@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why Abacus Global Management Stock Inched Higher Today",
+      "title": "Dow Jones Futures: Nasdaq Slumps As Samsung Fans AI Fears, Oil Prices Jump On Iran News",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-samsung-ai-fears-oil-prices-jump-iran-news/?src=A00220&yptr=yahoo",
+      "time": "2026-07-07T21:52:21Z",
+      "titleJa": "ダウジョーンズ先物：サムスンファンのAI懸念でナスダックは下落、原油価格はイランニュースで急騰"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Stock Market Today, July 7: AMC Slides as Box Office Success Fails to Ease Dilution Concerns",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/06/why-abacus-global-management-stock-inched-higher-t/",
-      "time": "2026-07-06T21:42:45Z",
-      "titleJa": "アバカス・グローバル・マネジメントの株価が今日少しずつ上昇した理由"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/07/stock-market-today-july-7-amc-slides-as-box-office-success-fails-to-ease-dilution-concerns/",
+      "time": "2026-07-07T21:51:56Z",
+      "titleJa": "今日の株式市場、7月7日：興行収入の成功も希薄化懸念を払拭できず、AMCは下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 6: Semiconductor Momentum Lifts Nasdaq as Dow Closes Above 53,000",
+      "title": "U.S. Stocks Retreat on Worries About AI Trade, Hormuz Fears",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-retreat-on-worries-about-ai-trade-hormuz-fears-710d0e7e?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-07T21:40:00Z",
+      "titleJa": "AI貿易への懸念とホルムズ懸念で米国株が反落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, July 7: Eos Energy Slides After Power Project Selection News",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/06/stock-market-today-july-6-semiconductor-momentum-lifts-nasdaq-as-dow-closes-above-53-000/",
-      "time": "2026-07-06T21:41:11Z",
-      "titleJa": "今日、7月6日の株式市場: ダウ終値が53,000ドルを超え、半導体の勢いでナスダックが上昇"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/07/stock-market-today-july-7-eos-energy-slides-after-power-project-selection-news/",
+      "time": "2026-07-07T21:25:46Z",
+      "titleJa": "今日の株式市場、7 月 7 日: Eos Energy が電力プロジェクト選択後に下落 ニュース"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Nvidia rivals get a rare break in AI race",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/technology/nvidia-rivals-get-a-rare-break-in-ai-race",
-      "time": "2026-07-06T21:33:00Z",
-      "titleJa": "Nvidia のライバルが AI レースでまれにブレイク"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "VTES vs. VCSH: Which Vanguard Bond ETF Is the Better Fit for Your Portfolio?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/06/vtes-vs-vcsh-which-vanguard-bond-etf-is-the-better-fit-for-your-portfolio/",
-      "time": "2026-07-06T21:26:01Z",
-      "titleJa": "VTES vs. VCSH: あなたのポートフォリオに適したバンガード債券ETFはどれですか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "S&P 500, Nasdaq End Higher On Support From Strong Tech Gains Led By Nvidia, Dow Hits Record Highs — MSFT, NVDA, LMT, AVGO, SPCX In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-on-support-from-strong-tech-gains-led-by-nvidia-dow-hits-record-highs-msft-nvda-lmt-avgo-spcx-in-focus/cZm1YfaR7lU",
-      "time": "2026-07-06T21:24:38Z",
-      "titleJa": "S&P 500、ナスダックはNVIDIA主導による力強いハイテク上昇に支えられ上昇、ダウは過去最高値を更新 — MSFT、NVDA、LMT、AVGO、SPCXが注目"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stocks surge on chip news, oil holds at pre-war levels",
+      "title": "Oil spikes, Wall Street drops as US-Iran tensions rebuild",
       "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/news/shares-edge-higher-asia-oil-005923908.html",
-      "time": "2026-07-06T21:18:43Z",
-      "titleJa": "半導体ニュースで株価急騰、原油保有は戦前の水準に"
+      "link": "https://finance.yahoo.com/news/stocks-ease-despite-upbeat-samsung-020825000.html",
+      "time": "2026-07-07T21:20:18Z",
+      "titleJa": "米国とイランの緊張再構築で原油高騰、ウォール街は下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Update: US Equity Indexes Drop as Mega-Cap Chipmakers Slump, Treasury Revokes Iran Oil General License",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-mega-211205369.html",
+      "time": "2026-07-07T21:12:05Z",
+      "titleJa": "最新情報：超大型チップメーカーの低迷で米国株指数下落、財務省がイラン石油一般認可を取り消す"
     }
   ]
 }
