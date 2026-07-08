@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Nasdaq Slumps As Samsung Fans AI Fears, Oil Prices Jump On Iran News",
+      "title": "Dow Jones Futures: Oil Spikes On Iran News, But Nvidia, Valero, Dell Rise; SpaceX Hits New Low",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-samsung-ai-fears-oil-prices-jump-iran-news/?src=A00220&yptr=yahoo",
-      "time": "2026-07-07T21:52:21Z",
-      "titleJa": "ダウジョーンズ先物：サムスンファンのAI懸念でナスダックは下落、原油価格はイランニュースで急騰"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-spikes-iran-news-nvidia-valero-dell-spacex-low/?src=A00220&yptr=yahoo",
+      "time": "2026-07-08T21:42:42Z",
+      "titleJa": "ダウジョーンズ先物：イランニュースで原油急騰、しかしエヌビディア、バレロ、デルは上昇。 SpaceXが新安値を更新"
     },
     {
-      "ticker": "^IXIC",
+      "ticker": "^DJI",
       "company": "経済",
-      "title": "Stock Market Today, July 7: AMC Slides as Box Office Success Fails to Ease Dilution Concerns",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/07/stock-market-today-july-7-amc-slides-as-box-office-success-fails-to-ease-dilution-concerns/",
-      "time": "2026-07-07T21:51:56Z",
-      "titleJa": "今日の株式市場、7月7日：興行収入の成功も希薄化懸念を払拭できず、AMCは下落"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "U.S. Stocks Retreat on Worries About AI Trade, Hormuz Fears",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-retreat-on-worries-about-ai-trade-hormuz-fears-710d0e7e?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-07T21:40:00Z",
-      "titleJa": "AI貿易への懸念とホルムズ懸念で米国株が反落"
+      "title": "Luxury Retail Gets Swept Up in Stock Market Uncertainty",
+      "publisher": "WWD",
+      "link": "https://wwd.com/business-news/financial/luxury-retail-stock-market-uncertainty-1239059457/",
+      "time": "2026-07-08T21:19:41Z",
+      "titleJa": "Luxury Retail Gets Swept Up in Stock Market Uncertainty"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 7: Eos Energy Slides After Power Project Selection News",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/07/stock-market-today-july-7-eos-energy-slides-after-power-project-selection-news/",
-      "time": "2026-07-07T21:25:46Z",
-      "titleJa": "今日の株式市場、7 月 7 日: Eos Energy が電力プロジェクト選択後に下落 ニュース"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Oil spikes, Wall Street drops as US-Iran tensions rebuild",
+      "title": "Trading Day: War on, risk-off: Stocks drop, crude jumps as Trump calls Iran peace deal 'over'",
       "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/news/stocks-ease-despite-upbeat-samsung-020825000.html",
-      "time": "2026-07-07T21:20:18Z",
-      "titleJa": "米国とイランの緊張再構築で原油高騰、ウォール街は下落"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trading-day-war-risk-off-211137458.html",
+      "time": "2026-07-08T21:11:37Z",
+      "titleJa": "取引日: 戦争オン、リスクオフ: トランプ大統領がイラン和平合意を「終わった」と主張、株価は下落、原油は高騰"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: US Equity Indexes Drop as Mega-Cap Chipmakers Slump, Treasury Revokes Iran Oil General License",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-mega-211205369.html",
-      "time": "2026-07-07T21:12:05Z",
-      "titleJa": "最新情報：超大型チップメーカーの低迷で米国株指数下落、財務省がイラン石油一般認可を取り消す"
+      "title": "Oil hits multi-week high, Wall Street slips as Iran tensions reignite",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/energy/articles/oil-jumps-bonds-dip-us-231724953.html",
+      "time": "2026-07-08T20:53:40Z",
+      "titleJa": "原油価格は数週間ぶりの高値に達し、イランの緊張が再燃する中ウォール街は下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "State Street's SPLB or iShares' TLT: Which Long-Term Bond ETF Should Investors Choose?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/08/state-street-s-splb-or-ishares-tlt-which-long-term-bond-etf-should-investors-choose/",
+      "time": "2026-07-08T20:53:12Z",
+      "titleJa": "ステート・ストリートのSPLBとiシェアーズのTLT：投資家はどちらの長期債券ETFを選ぶべきか？"
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "U.S. Stocks Mostly Lower After Trump Threatens to Strike Iran, Declaring Ceasefire Over",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mostly-lower-after-trump-threatens-to-strike-iran-declaring-ceasefire-over-ed68fedd?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-08T20:51:00Z",
+      "titleJa": "トランプ大統領がイラン攻撃をちらつかせ、停戦終了を宣言後、米国株はほぼ下落"
     }
   ]
 }
