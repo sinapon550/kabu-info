@@ -1,144 +1,274 @@
 {
-  "updated": "2026-07-09",
+  "updated": "2026-07-10",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Elon Musk’s AI jobs prediction gets harsh reality check",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/employment/elon-musks-ai-jobs-prediction-gets-reality-check-from-michael-burry",
-      "time": "2026-07-08T21:47:00Z",
-      "titleJa": "イーロン・マスクのAI雇用予測が厳しい現実チェックを受ける",
+      "title": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-micron-sandisk-jump-delta-taiwan-semi-sk-hynix/?src=A00220&yptr=yahoo",
+      "time": "2026-07-09T22:02:15Z",
+      "titleJa": "ダウ・ジョーンズ先物：ナスダックが主要水準を上回る中、マイクロンとサンディスクが上昇。デルタ、台湾セミ、SKハイニックスドゥーエ",
       "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-micron-sandisk-jump-delta-taiwan-semi-sk-hynix/?src=A00220&yptr=yahoo",
+      "time": "2026-07-09T22:02:15Z",
+      "titleJa": "ダウ・ジョーンズ先物：ナスダックが主要水準を上回る中、マイクロンとサンディスクが上昇。デルタ、台湾セミ、SKハイニックスドゥーエ",
+      "relevant": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-micron-sandisk-jump-delta-taiwan-semi-sk-hynix/?src=A00220&yptr=yahoo",
+      "time": "2026-07-09T22:02:15Z",
+      "titleJa": "ダウ・ジョーンズ先物：ナスダックが主要水準を上回る中、マイクロンとサンディスクが上昇。デルタ、台湾セミ、SKハイニックスドゥーエ",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-micron-sandisk-jump-delta-taiwan-semi-sk-hynix/?src=A00220&yptr=yahoo",
+      "time": "2026-07-09T22:02:15Z",
+      "titleJa": "ダウ・ジョーンズ先物：ナスダックが主要水準を上回る中、マイクロンとサンディスクが上昇。デルタ、台湾セミ、SKハイニックスドゥーエ",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-micron-sandisk-jump-delta-taiwan-semi-sk-hynix/?src=A00220&yptr=yahoo",
+      "time": "2026-07-09T22:02:15Z",
+      "titleJa": "ダウ・ジョーンズ先物：ナスダックが主要水準を上回る中、マイクロンとサンディスクが上昇。デルタ、台湾セミ、SKハイニックスドゥーエ",
+      "relevant": true
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Dow Jones Futures: Oil Spikes On Iran News, But Nvidia, Valero, Dell Rise; SpaceX Hits New Low",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-spikes-iran-news-nvidia-valero-dell-spacex-low/?src=A00220&yptr=yahoo",
-      "time": "2026-07-08T21:42:42Z",
-      "titleJa": "ダウジョーンズ先物：イランニュースで原油急騰、しかしエヌビディア、バレロ、デルは上昇。 SpaceXが新安値を更新",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Dow Jones Futures: Oil Spikes On Iran News, But Nvidia, Valero, Dell Rise; SpaceX Hits New Low",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-spikes-iran-news-nvidia-valero-dell-spacex-low/?src=A00220&yptr=yahoo",
-      "time": "2026-07-08T21:42:42Z",
-      "titleJa": "ダウジョーンズ先物：イランニュースで原油急騰、しかしエヌビディア、バレロ、デルは上昇。 SpaceXが新安値を更新",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Micron, Broadcom, Palantir, Delta, SpaceX, and More Stocks That Explain Today’s Market",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stock-movers-f03ec33d?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-08T20:50:00Z",
-      "titleJa": "今日の市場を説明するマイクロン、ブロードコム、パランティア、デルタ、スペースXなどの銘柄",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Micron, Broadcom, Palantir, Delta, SpaceX, and More Stocks That Explain Today’s Market",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stock-movers-f03ec33d?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-08T20:50:00Z",
-      "titleJa": "マイクロン、ブロードコム、パランティア、デルタ、スペースXなど、今日の市場を説明する銘柄",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Sandisk (SNDK): Among the Most Profitable Cheap Stocks to Invest In",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-among-most-profitable-204127790.html",
-      "time": "2026-07-08T20:41:27Z",
-      "titleJa": "サンディスク (SNDK): 投資対象として最も収益性の高い格安株の一つ",
-      "relevant": true
-    },
-    {
-      "ticker": "8729.T",
-      "company": "ソニーフィナンシャルG",
-      "title": "Sony gets conditional approval to establish US trust bank",
-      "publisher": "American Banker",
-      "link": "https://www.americanbanker.com/news/sony-gets-conditional-approval-to-establish-us-trust-bank",
-      "time": "2026-07-08T20:41:24Z",
-      "titleJa": "ソニー、米信託銀行設立に条件付き承認を取得",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Is Micron (MU) One of the Most Profitable Cheap Stocks to Buy Right Now?",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-one-most-profitable-204108584.html",
-      "time": "2026-07-08T20:41:08Z",
-      "titleJa": "マイクロン (MU) は今買うべき最も収益性の高い格安株の 1 つですか?",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Update: Dow Logs Worst Day in 4 Weeks Amid Renewed US-Iran Tensions",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-logs-worst-day-4-204002072.html",
-      "time": "2026-07-08T20:40:02Z",
-      "titleJa": "最新情報: 米国とイランの緊張が再燃する中、ダウは4週間で最悪の日を記録",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-      "publisher": "TechCrunch",
-      "link": "https://finance.yahoo.com/technology/articles/eu-backing-quantumdiamonds-aims-speed-202950030.html",
-      "time": "2026-07-08T20:29:50Z",
-      "titleJa": "EUの支援を受けて、QuantumDiamondsはチップ製造のスピードアップを目指す",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Here Are Investment Pros’ Favorite Funds for Today’s Choppy Market",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/advisor/articles/best-etfs-funds-stock-market-now-a2d31811?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-08T19:36:00Z",
-      "titleJa": "今日の不安定な市場向けに投資のプロが選んだファンドは次のとおりです",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Micron Stock Drops 10%+ After Earnings - Is This a Buying Opportunity?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-drops-10-earnings-190000013.html",
-      "time": "2026-07-08T19:00:00Z",
-      "titleJa": "マイクロン株、決算後に10%以上下落 – これは買いのチャンスか?",
+      "title": "Chip titan SK hynix readies for mega US listing",
+      "publisher": "AFP",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chip-titan-sk-hynix-set-025602686.html",
+      "time": "2026-07-09T22:01:04Z",
+      "titleJa": "チップ大手のSKハイニックス、米国での巨大上場を準備",
       "relevant": false
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Micron Stock Rises After Entering Bear Market",
+      "title": "Chip titan SK hynix readies for mega US listing",
+      "publisher": "AFP",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chip-titan-sk-hynix-set-025602686.html",
+      "time": "2026-07-09T22:01:04Z",
+      "titleJa": "チップ大手のSKハイニックス、米国での巨大上場を準備",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Why Micron Stock Surged Today",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/09/why-micron-stock-surged-today/",
+      "time": "2026-07-09T21:50:33Z",
+      "titleJa": "今日マイクロン株が急騰した理由",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Broadcom Stock Investors Just Got Incredible News from Apple CEO Tim Cook",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/09/broadcom-stock-investors-just-got-incredible-news-from-apple-ceo-tim-cook/",
+      "time": "2026-07-09T21:31:36Z",
+      "titleJa": "ブロードコム株式投資家は、Apple CEO ティム・クックから信じられないニュースを入手しました",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Semiconductor chip plants cost a ton of money. Here's why",
+      "publisher": "Quartz",
+      "link": "https://qz.com/semiconductor-fab-cost-breakdown-hidden-expenses-070626",
+      "time": "2026-07-09T20:55:24Z",
+      "titleJa": "半導体チップ工場には莫大な費用がかかります。その理由は次のとおりです",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Nvidia owns the AI chips market. Google, Amazon, and others are coming",
+      "publisher": "Quartz",
+      "link": "https://qz.com/custom-ai-chips-openai-google-amazon-microsoft-meta-tesla-070626",
+      "time": "2026-07-09T20:51:36Z",
+      "titleJa": "Nvidia は AI チップ市場を所有しています。 Google、Amazonなどが登場する",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Lumentum, Sandisk, Applied Materials, AstraZeneca, and More Stocks That Explain Today’s Market",
       "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/micron-stock-price-bear-market-0e7a6756?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-08T18:59:00Z",
-      "titleJa": "マイクロン株、弱気相場入り後に上昇",
+      "link": "https://www.barrons.com/articles/stock-movers-35ab3cc0?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-09T20:47:00Z",
+      "titleJa": "ルメンタム、サンディスク、アプライド マテリアルズ、アストラゼネカなど、今日の市場を説明する銘柄",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Stock Market Today: Nasdaq Leads Rally As Chip, AI Stocks Shine; SpaceX Halts 3-Day Drop",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-micron-sandisk/?src=A00220&yptr=yahoo",
+      "time": "2026-07-09T20:36:08Z",
+      "titleJa": "今日の株式市場：チップ、AI株が輝き、ナスダックが上昇をリード。 SpaceX、3日間のドロップを停止",
       "relevant": false
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "Micron Stock Rises After Entering Bear Market",
+      "title": "Will SK Hynix's US share sale 'reinvigorate' the memory chip rally?",
+      "publisher": "Reuters Videos",
+      "link": "https://finance.yahoo.com/video/sk-hynixs-us-share-sale-203428326.html",
+      "time": "2026-07-09T20:34:28Z",
+      "titleJa": "SKハイニックスの米国株売却はメモリチップの上昇を「再活性化」させるだろうか？",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "How SK Hynix’s U.S. Listing Will Help Close the Gap With Micron Stock",
       "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/micron-stock-price-bear-market-0e7a6756?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-08T18:59:00Z",
-      "titleJa": "マイクロン株、弱気相場入り後に上昇",
+      "link": "https://www.barrons.com/articles/sk-hynix-us-stock-listing-micron-72a48c03?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-09T19:25:00Z",
+      "titleJa": "SKハイニックスの米国上場はマイクロン株とのギャップを埋めるのにどのように役立つのか",
+      "relevant": false
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "SK Hynix’s $26.5 Billion Listing Reopens Asia Route to US Market",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-26-5-billion-191825835.html",
+      "time": "2026-07-09T19:18:25Z",
+      "titleJa": "SKハイニックスの265億ドル上場で米国市場へのアジア路線が再開",
+      "relevant": false
+    },
+    {
+      "ticker": "8729.T",
+      "company": "ソニーフィナンシャルG",
+      "title": "Sony (TSE:6758) Wins OCC Approval To Launch Connectia Trust Stablecoin Bank",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/sony-tse-6758-wins-occ-191016518.html",
+      "time": "2026-07-09T19:10:16Z",
+      "titleJa": "ソニー (東証:6758) が Connectia Trust Stablecoin Bank の立ち上げに関して OCC の承認を獲得",
+      "relevant": false
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "Bain Exits Kioxia After Stock Surges More Than 4,500% Since IPO",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bain-exits-kioxia-stock-surges-184521886.html",
+      "time": "2026-07-09T18:45:21Z",
+      "titleJa": "ベイン、株式公開以来4,500％以上急騰、キオクシアを撤退",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "ASML Holdings (ASML): Best QQQ Stocks to Invest in",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-holdings-asml-best-qqq-183745732.html",
+      "time": "2026-07-09T18:37:45Z",
+      "titleJa": "ASML Holdings (ASML): 投資に最適な QQQ 株",
+      "relevant": true
+    },
+    {
+      "ticker": "2914.T",
+      "company": "日本たばこ産業",
+      "title": "Altria vs. Turning Point Brands: Which Tobacco Stock Is a Better Buy in 2026?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/better-buy/2026/07/09/altria-vs-turning-point-brands-which-tobacco-stock-is-a-better-buy-in-2026/",
+      "time": "2026-07-09T17:27:05Z",
+      "titleJa": "アルトリア vs. ターニングポイント銘柄: 2026 年に買うべきタバコ株はどれか?",
+      "relevant": false
+    },
+    {
+      "ticker": "5802.T",
+      "company": "住友電工",
+      "title": "Meta’s new AI chips will begin production in September",
+      "publisher": "TechCrunch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-ai-chips-begin-production-171737841.html",
+      "time": "2026-07-09T17:17:37Z",
+      "titleJa": "メタの新しいAIチップは9月に生産開始予定",
+      "relevant": false
+    },
+    {
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "Teradyne Stock Rides on Strong Datacenter Growth: More Upside Ahead?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-stock-rides-strong-datacenter-171500994.html",
+      "time": "2026-07-09T17:15:00Z",
+      "titleJa": "テラダイン株はデータセンターの堅調な成長に乗って上昇：さらなる上昇局面が待っている?",
+      "relevant": false
+    },
+    {
+      "ticker": "5802.T",
+      "company": "住友電工",
+      "title": "Why Sandisk Stock Popped Again Today",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/09/why-sandisk-stock-popped-again-today/",
+      "time": "2026-07-09T15:42:32Z",
+      "titleJa": "サンディスク株が今日再び急騰した理由",
+      "relevant": false
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Swift starts blockchain ledger with initial set of 16 banks",
+      "publisher": "Reuters",
+      "link": "https://uk.news.yahoo.com/swift-starts-blockchain-ledger-initial-123253667.html",
+      "time": "2026-07-09T12:32:53Z",
+      "titleJa": "Swift が 16 の銀行の初期セットでブロックチェーン台帳を開始",
+      "relevant": false
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Swift starts blockchain ledger with initial set of 17 banks",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/swift-starts-blockchain-ledger-initial-123253617.html",
+      "time": "2026-07-09T12:32:53Z",
+      "titleJa": "Swift が 17 銀行の初期セットでブロックチェーン台帳を開始",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "DeFi veteran Gauntlet raises $125 million from Japanese financial giant SBI Holdings",
+      "publisher": "Fortune",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/defi-veteran-gauntlet-raises-125-120000442.html",
+      "time": "2026-07-09T12:00:00Z",
+      "titleJa": "DeFiのベテラン、ガントレットが日本の金融大手SBIホールディングスから1億2500万ドルを調達",
+      "relevant": false
+    },
+    {
+      "ticker": "8729.T",
+      "company": "ソニーフィナンシャルG",
+      "title": "Sony Bank Clears OCC Hurdle for Dollar Stablecoin",
+      "publisher": "decrypt",
+      "link": "https://decrypt.co/373109/sony-bank-clears-occ-hurdle-for-dollar-stablecoin",
+      "time": "2026-07-09T11:03:08Z",
+      "titleJa": "ソニー銀行、ドルステーブルコインのOCCハードルをクリア",
       "relevant": false
     },
     {
@@ -150,16 +280,6 @@
       "time": "2026-07-08T18:38:02Z",
       "titleJa": "日産CEO：ホンダとの提携の可能性に関するニュースは「近日中に発表」",
       "relevant": true
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "The AI Stock Rally Isn’t Over—It’s Just Moved to China",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/alibaba-stock-price-ai-rally-china-fa4e07ee?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-08T18:35:00Z",
-      "titleJa": "AI の株価上昇は終わっていない - 舞台は中国に移っただけ",
-      "relevant": false
     },
     {
       "ticker": "8058.T",
@@ -179,16 +299,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/west-texas-cowboys-cashing-ai-180000409.html",
       "time": "2026-07-08T18:00:00Z",
       "titleJa": "西テキサスのカウボーイが AI ランドラッシュで利益を上げている",
-      "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Veteran analyst drops massive Micron valuation prediction",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/mu-micron-trillion-dollar-prediction-melius-research",
-      "time": "2026-07-08T17:33:00Z",
-      "titleJa": "ベテランアナリストがマイクロンの巨額の株価予測を取り下げる",
       "relevant": false
     },
     {
@@ -212,36 +322,6 @@
       "relevant": false
     },
     {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street’s Radar",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/revenue-growth-outlook-affirm-why-153912617.html",
-      "time": "2026-07-08T15:39:12Z",
-      "titleJa": "台湾積体電路製造（TSM）がウォール街のレーダーでトップのAI株である理由を収益と成長の見通しが裏付ける",
-      "relevant": true
-    },
-    {
-      "ticker": "8729.T",
-      "company": "ソニーフィナンシャルG",
-      "title": "Sony receives OCC’s conditional approval for trust charter",
-      "publisher": "Banking Dive",
-      "link": "https://www.bankingdive.com/news/occ-conditional-approve-sony-trust-bank-charter/824673/",
-      "time": "2026-07-08T09:32:38Z",
-      "titleJa": "ソニー、OCCから信託憲章の条件付き承認を取得",
-      "relevant": false
-    },
-    {
-      "ticker": "285A.T",
-      "company": "キオクシア",
-      "title": "Samsung Mass Produces Storage Drives for Nvidia’s Vera Rubin",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/technology/articles/samsung-mass-produces-storage-drives-231000912.html",
-      "time": "2026-07-07T23:10:00Z",
-      "titleJa": "Samsung、NvidiaのVera Rubin向けストレージドライブを量産",
-      "relevant": false
-    },
-    {
       "ticker": "4062.T",
       "company": "イビデン",
       "title": "Jim Cramer sends strong signal to Nvidia stock investors amid rumors",
@@ -249,36 +329,6 @@
       "link": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-strong-signal-to-nvidia-stock-investors-bullish-buy",
       "time": "2026-07-07T21:03:00Z",
       "titleJa": "ジム・クレイマー氏、噂の渦中にあるNVIDIA株投資家に強いシグナルを送る",
-      "relevant": false
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Basic Materials Roundup: Market Talk",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e0cfe53e?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-07T21:01:00Z",
-      "titleJa": "基本的な材料のまとめ: マーケットトーク",
-      "relevant": false
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Crude Jumps As U.S. Revokes Iran Authorization to Sell Oil",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-possible-position-adjustments-before-expected-resumption-of-u-s-iran-talks-ead21cdc?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-07T19:37:00Z",
-      "titleJa": "米国がイラン石油販売許可を取り消し、原油価格が高騰",
-      "relevant": false
-    },
-    {
-      "ticker": "285A.T",
-      "company": "キオクシア",
-      "title": "Samsung's 19-Fold Profit Surge Fails to Stop 10% Stock Drop",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsungs-19-fold-profit-surge-191533241.html",
-      "time": "2026-07-07T19:15:33Z",
-      "titleJa": "サムスンの19倍の利益急増も10％の株価下落を阻止できず",
       "relevant": false
     },
     {
@@ -312,16 +362,6 @@
       "relevant": false
     },
     {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Masa Son’s greatest gamble",
-      "publisher": "Financial Times",
-      "link": "https://finance.yahoo.com/technology/ai/articles/masa-son-greatest-gamble-040029557.html",
-      "time": "2026-07-07T04:00:29Z",
-      "titleJa": "孫正義氏の最大の賭け",
-      "relevant": false
-    },
-    {
       "ticker": "4062.T",
       "company": "イビデン",
       "title": "Jim Cramer Says Buy Nvidia as Chipmaker Rejects 2028 AI Delay Claims",
@@ -338,7 +378,7 @@
       "publisher": "24/7 Wall St.",
       "link": "https://247wallst.com/personal-finance/2026/07/06/ais-next-act-isnt-chatbots-its-robots-and-botz-is-the-bet/",
       "time": "2026-07-06T19:30:52Z",
-      "titleJa": "AI の次なる動きはチャットボットではありません。それはロボット、BOTZ が賭けです",
+      "titleJa": "AI の次なる動きはチャットボットではありません。それはロボット、そしてBOTZが賭けです",
       "relevant": false
     },
     {
@@ -419,46 +459,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-boosts-teradyne-ter-price-134801547.html",
       "time": "2026-07-04T13:48:01Z",
       "titleJa": "BofA、業界の成長に向けてテラダイン（TER）の価格目標を引き上げ",
-      "relevant": false
-    },
-    {
-      "ticker": "7011.T",
-      "company": "三菱重工業",
-      "title": "U.K., Italian, Japanese Fighter Jet Venture Wins $6.14 Billion Contract",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/business/u-k-italian-japan-fighter-jet-venture-wins-6-14-billion-contract-e63655a3?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-03T16:13:00Z",
-      "titleJa": "英国、イタリア、日本の戦闘機ベンチャーが61億4000万ドルの契約を獲得",
-      "relevant": false
-    },
-    {
-      "ticker": "2914.T",
-      "company": "日本たばこ産業",
-      "title": "JAPAN TOB (JAPAY) Upgraded to Buy: Here's What You Should Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/japan-tob-japay-upgraded-buy-160003382.html",
-      "time": "2026-07-03T16:00:03Z",
-      "titleJa": "JAPAN TOB (JAPAY) が購入可能にアップグレード: 知っておくべきことは次のとおりです",
-      "relevant": false
-    },
-    {
-      "ticker": "4755.T",
-      "company": "楽天グループ",
-      "title": "AST SpaceMobile’s Japan Catalyst Puts Its Rollout Story Back in Focus",
-      "publisher": "MarketBeat",
-      "link": "https://www.marketbeat.com/articles/ast-spacemobiles-japan-catalyst-puts-its-rollout-story-back-in-focus/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "time": "2026-07-03T15:05:00Z",
-      "titleJa": "AST SpaceMobile の Japan Catalyst が展開ストーリーに焦点を戻す",
-      "relevant": false
-    },
-    {
-      "ticker": "8058.T",
-      "company": "三菱商事",
-      "title": "Here’s Why Sony Group (SONY) is One of the Cheap Stocks That Are About to Explode",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-sony-group-sony-one-221431788.html",
-      "time": "2026-07-02T22:13:33Z",
-      "titleJa": "ソニーグループ（SONY）がこれから爆発する割安株の一つである理由",
       "relevant": false
     }
   ]
