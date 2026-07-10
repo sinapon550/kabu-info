@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "Coinbase and Grayscale Executives Step Down After Major Crypto Wins",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/coinbase-grayscale-executives-step-down/",
-      "time": "2026-07-09T22:05:41Z",
-      "titleJa": "CoinbaseとGrayscaleの幹部が大手仮想通貨の勝利を受けて辞任"
-    },
-    {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-micron-sandisk-jump-delta-taiwan-semi-sk-hynix/?src=A00220&yptr=yahoo",
-      "time": "2026-07-09T22:02:15Z",
-      "titleJa": "ダウ・ジョーンズ先物：ナスダックが主要水準を上回る中、マイクロンとサンディスクが上昇。デルタ、台湾セミ、SKハイニックスドゥーエ"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "Chip titan SK hynix readies for mega US listing",
-      "publisher": "AFP",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/chip-titan-sk-hynix-set-025602686.html",
-      "time": "2026-07-09T22:01:04Z",
-      "titleJa": "チップ大手のSKハイニックス、米国での巨大上場を準備"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "S&P 500, Nasdaq, Dow End Higher Led By Chipmaker Stocks As Investors Look Past US-Iran Hostility — ORCL, SBUX, WULF, PANW, FATE In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-higher-led-by-chipmaker-stocks-as-investors-look-past-us-iran-hostility/cZmY9vSR7nz",
-      "time": "2026-07-09T21:28:17Z",
-      "titleJa": "投資家が米国とイランの敵対関係を見過ごす中、S&P 500、ナスダック、ダ​​ウエンドは半導体メーカー株主導で上昇 — ORCL、SBUX、WULF、PANW、運命に注目"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Update: US Equity Indexes Jump as Washington's Strikes to Prevent Iran From Controlling Hormuz Drive Crude Oil Lower",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-jump-washington-212353210.html",
-      "time": "2026-07-09T21:23:53Z",
-      "titleJa": "最新情報：イランのホルムズ支配を阻止するためのワシントンの攻撃で原油価格が下落、米国株指数が上昇"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "Crypto Market Today, July 9: Bitcoin Holds Firm as Risk Appetite Returns Despite Geopolitical Noise",
+      "title": "Stock Market Today, July 10: Markets Edge Higher and SK Hynix Soars on Debut",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/09/crypto-market-today-july-9-bitcoin-holds-firm-as-risk-appetite-returns-despite-geopolitical-noise/",
-      "time": "2026-07-09T21:22:43Z",
-      "titleJa": "今日、7月9日の仮想通貨市場：地政学的ノイズにもかかわらず、リスク選好の回復によりビットコインは堅調"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/10/stock-market-today-july-10-markets-edge-higher-and-sk-hynix-soars-on-debut/",
+      "time": "2026-07-10T21:25:05Z",
+      "titleJa": "今日、7月10日の株式市場: 市場はじり高、SKハイニックスはデビューで急騰"
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "U.S. Stock Market Ticks Higher With Memory Chip Maker’s Big Debut",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stock-market-ticks-higher-with-memory-chip-makers-big-debut-e3193b33?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-10T21:20:00Z",
+      "titleJa": "メモリチップメーカーの大々的なデビューで米国株式市場が上昇"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Subversive Capital files 'Ex-Elon' ETFs with the SEC that strip Tesla and SpaceX from the S&P 500 and Nasdaq-100",
+      "publisher": "Moneywise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/subversive-capital-files-ex-elon-211500636.html",
+      "time": "2026-07-10T21:15:00Z",
+      "titleJa": "Subversive Capital、テスラとスペースXをS&P 500とナスダック100から剥奪する「Ex-Elon」ETFをSECに申請"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "This Stock Market Is Full of Bargains, Our Roundtable Pros Say. 45 Picks for the Second Half.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/barrons-roundtable-stock-picks-top-investors-ab1990a9?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-10T21:13:00Z",
+      "titleJa": "この株式市場はお買い得品に満ちている、とラウンドテーブルのプロは言います。後半の45ピック。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "How Hewlett Packard Built A Fortress Out Of Its Backlog",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/606606/how-hewlett-packard-built-a-fortress-out-of-its-backlog/2026-07-10",
+      "time": "2026-07-10T21:12:27Z",
+      "titleJa": "ヒューレット・パッカードはどのようにして受注残から要塞を構築したか"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Stocks to Watch Recap: SK Hynix, EasyJet, Circle, Vodafone",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-10-2026/card/stocks-to-watch-sk-hynix-easyjet-vodafone-9jRubZCK4RwBfuX2M50M?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-10T21:07:54Z",
+      "titleJa": "注目銘柄の要約: SK Hynix、EasyJet、Circle、Vodafone"
     }
   ]
 }
