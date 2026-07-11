@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 10: Markets Edge Higher and SK Hynix Soars on Debut",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/10/stock-market-today-july-10-markets-edge-higher-and-sk-hynix-soars-on-debut/",
-      "time": "2026-07-10T21:25:05Z",
-      "titleJa": "今日、7月10日の株式市場: 市場はじり高、SKハイニックスはデビューで急騰"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "U.S. Stock Market Ticks Higher With Memory Chip Maker’s Big Debut",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stock-market-ticks-higher-with-memory-chip-makers-big-debut-e3193b33?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-10T21:20:00Z",
-      "titleJa": "メモリチップメーカーの大々的なデビューで米国株式市場が上昇"
+      "title": "Everyone Owns VOO. This Overlooked S&P 500 ETF Is Somehow Cheaper",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/11/everyone-owns-voo-this-overlooked-sp-500-etf-is-somehow-cheaper/",
+      "time": "2026-07-11T21:22:48Z",
+      "titleJa": "誰もが VOO を所有しています。見落とされていたS&P 500 ETFはなぜか割安"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Subversive Capital files 'Ex-Elon' ETFs with the SEC that strip Tesla and SpaceX from the S&P 500 and Nasdaq-100",
-      "publisher": "Moneywise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/subversive-capital-files-ex-elon-211500636.html",
-      "time": "2026-07-10T21:15:00Z",
-      "titleJa": "Subversive Capital、テスラとスペースXをS&P 500とナスダック100から剥奪する「Ex-Elon」ETFをSECに申請"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "This Stock Market Is Full of Bargains, Our Roundtable Pros Say. 45 Picks for the Second Half.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/barrons-roundtable-stock-picks-top-investors-ab1990a9?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-10T21:13:00Z",
-      "titleJa": "この株式市場はお買い得品に満ちている、とラウンドテーブルのプロは言います。後半の45ピック。"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "How Hewlett Packard Built A Fortress Out Of Its Backlog",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/606606/how-hewlett-packard-built-a-fortress-out-of-its-backlog/2026-07-10",
-      "time": "2026-07-10T21:12:27Z",
-      "titleJa": "ヒューレット・パッカードはどのようにして受注残から要塞を構築したか"
+      "title": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+      "time": "2026-07-11T20:05:42Z",
+      "titleJa": "ダウ・ジョーンズ先物: 市場の準備はできていますか? Nvidia、Micron、Sandisk が大きな利益を期待してポイント購入間近"
     },
     {
       "ticker": "^IXIC",
       "company": "経済",
-      "title": "Stocks to Watch Recap: SK Hynix, EasyJet, Circle, Vodafone",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-10-2026/card/stocks-to-watch-sk-hynix-easyjet-vodafone-9jRubZCK4RwBfuX2M50M?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-10T21:07:54Z",
-      "titleJa": "注目銘柄の要約: SK Hynix、EasyJet、Circle、Vodafone"
+      "title": "Artificial Intelligence (AI) Stocks Have Crushed the Broader Market in 2026. Here Are 2 Top Stocks to Buy Before They Soar Higher This Earnings Season and Beyond",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/11/artificial-intelligence-ai-stocks-have-crushed-the/",
+      "time": "2026-07-11T19:59:00Z",
+      "titleJa": "人工知能 (AI) 株は 2026 年に市場全体を壊滅させた。今期以降の株価が急騰する前に買うべき上位 2 銘柄を紹介する"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "The SEC Is Rethinking Its Approach to ETFs. Here's What It Could Mean For Crypto Investors",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/11/the-sec-is-rethinking-its-approach-to-etfs-heres-w/",
+      "time": "2026-07-11T19:35:00Z",
+      "titleJa": "SEC は ETF に対するアプローチを再考しています。仮想通貨投資家にとってそれが何を意味するか"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Nasdaq 'Cheated and Changed the Laws' to Fit SpaceX in, Famed Investor Jeremy Grantham Says",
+      "publisher": "Benzinga",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-cheated-changed-laws-fit-193113947.html",
+      "time": "2026-07-11T19:31:13Z",
+      "titleJa": "ナスダックはスペースXを取り込むために「騙して法律を変えた」と著名投資家ジェレミー・グランサム氏が語る"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 Trump Moves That Shook Markets This Week",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/trump-market-moves-this-week/",
+      "time": "2026-07-11T18:51:22Z",
+      "titleJa": "今週市場を揺るがしたトランプ大統領の 3 つの動き"
     }
   ]
 }
