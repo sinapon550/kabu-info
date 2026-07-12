@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Everyone Owns VOO. This Overlooked S&P 500 ETF Is Somehow Cheaper",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/07/11/everyone-owns-voo-this-overlooked-sp-500-etf-is-somehow-cheaper/",
-      "time": "2026-07-11T21:22:48Z",
-      "titleJa": "誰もが VOO を所有しています。見落とされていたS&P 500 ETFはなぜか割安"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
+      "title": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
-      "time": "2026-07-11T20:05:42Z",
-      "titleJa": "ダウ・ジョーンズ先物: 市場の準備はできていますか? Nvidia、Micron、Sandisk が大きな利益を期待してポイント購入間近"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
+      "time": "2026-07-12T20:20:36Z",
+      "titleJa": "米国とイランによる新たな攻撃の最中にダウジョーンズ先物が迫る。 Nvidia、Micron、Sandisk 近くの購入ポイント"
     },
     {
-      "ticker": "^IXIC",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Artificial Intelligence (AI) Stocks Have Crushed the Broader Market in 2026. Here Are 2 Top Stocks to Buy Before They Soar Higher This Earnings Season and Beyond",
+      "title": "iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/11/artificial-intelligence-ai-stocks-have-crushed-the/",
-      "time": "2026-07-11T19:59:00Z",
-      "titleJa": "人工知能 (AI) 株は 2026 年に市場全体を壊滅させた。今期以降の株価が急騰する前に買うべき上位 2 銘柄を紹介する"
+      "link": "https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/",
+      "time": "2026-07-12T19:49:01Z",
+      "titleJa": "iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: 多様化は勝利の仮想通貨戦略か?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The SEC Is Rethinking Its Approach to ETFs. Here's What It Could Mean For Crypto Investors",
+      "title": "LQD vs TLT: How Do These Two Popular Fixed Income ETFs Compare?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/11/the-sec-is-rethinking-its-approach-to-etfs-heres-w/",
-      "time": "2026-07-11T19:35:00Z",
-      "titleJa": "SEC は ETF に対するアプローチを再考しています。仮想通貨投資家にとってそれが何を意味するか"
+      "link": "https://www.fool.com/coverage/etfs/2026/07/12/lqd-vs-tlt-how-do-these-two-popular-fixed-income-etfs-compare/",
+      "time": "2026-07-12T19:10:01Z",
+      "titleJa": "LQD と TLT: これら 2 つの人気の債券 ETF をどう比較しますか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Nasdaq 'Cheated and Changed the Laws' to Fit SpaceX in, Famed Investor Jeremy Grantham Says",
-      "publisher": "Benzinga",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-cheated-changed-laws-fit-193113947.html",
-      "time": "2026-07-11T19:31:13Z",
-      "titleJa": "ナスダックはスペースXを取り込むために「騙して法律を変えた」と著名投資家ジェレミー・グランサム氏が語る"
+      "title": "Is the AI Bubble About to Burst?",
+      "publisher": "Oilprice.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html",
+      "time": "2026-07-12T19:00:00Z",
+      "titleJa": "AIバブルはもうすぐ崩壊するのか？"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Trump Moves That Shook Markets This Week",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/trump-market-moves-this-week/",
-      "time": "2026-07-11T18:51:22Z",
-      "titleJa": "今週市場を揺るがしたトランプ大統領の 3 つの動き"
+      "title": "Inflation, Bank of America, Wells Fargo, Goldman, ASML, J&J, and More to Watch This Week",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/inflation-bank-of-america-wells-fargo-goldman-asml-j-j-and-more-to-watch-this-week-71bddc40?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-12T18:00:00Z",
+      "titleJa": "今週注目すべきインフレ、バンク・オブ・アメリカ、ウェルズ・ファーゴ、ゴールドマン、ASML、J&J など"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Why Western Digital (WDC) Is Benefiting From AI-Driven Storage Demand and Tight HDD Supply Conditions",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-western-digital-nasdaq-wdc-123127857.html",
+      "time": "2026-07-12T17:25:27Z",
+      "titleJa": "Western Digital (WDC) が AI 主導のストレージ需要と逼迫した HDD 供給条件から恩恵を受ける理由"
     }
   ]
 }
