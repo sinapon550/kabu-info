@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^GSPC",
+      "ticker": "JPY=X",
       "company": "経済",
-      "title": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
-      "time": "2026-07-12T20:20:36Z",
-      "titleJa": "米国とイランによる新たな攻撃の最中にダウジョーンズ先物が迫る。 Nvidia、Micron、Sandisk 近くの購入ポイント"
+      "title": "Dollar edges higher on escalating US-Iran tension, yen slides on pension doubts",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-jumps-renewed-middle-east-004051619.html",
+      "time": "2026-07-13T21:21:19Z",
+      "titleJa": "米国とイランの緊張激化でドルは上昇、年金不安で円は下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/",
-      "time": "2026-07-12T19:49:01Z",
-      "titleJa": "iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: 多様化は勝利の仮想通貨戦略か?"
+      "title": "3 Reasons WST is Risky and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-wst-risky-1-211039744.html",
+      "time": "2026-07-13T21:10:39Z",
+      "titleJa": "WSTが危険である3つの理由と代わりに買うべき1つの銘柄"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "LQD vs TLT: How Do These Two Popular Fixed Income ETFs Compare?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/12/lqd-vs-tlt-how-do-these-two-popular-fixed-income-etfs-compare/",
-      "time": "2026-07-12T19:10:01Z",
-      "titleJa": "LQD と TLT: これら 2 つの人気の債券 ETF をどう比較しますか?"
+      "title": "Update: US Equity Indexes Slump, Crude Oil Soars as Trump Plans to Reinstate Iran Blockade, Impose 20% Toll on Hormuz Cargo",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/articles/us-equity-indexes-slump-crude-210947416.html",
+      "time": "2026-07-13T21:09:47Z",
+      "titleJa": "最新情報：トランプ大統領がイラン封鎖を再開し、ホルムズ貨物に20％の関税を課す計画で米国株指数は下落、原油は高騰"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Is the AI Bubble About to Burst?",
-      "publisher": "Oilprice.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html",
-      "time": "2026-07-12T19:00:00Z",
-      "titleJa": "AIバブルはもうすぐ崩壊するのか？"
+      "title": "Goldman Sachs does an about-face on overlooked software stock",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/goldman-sachs-upgrades-toast-tost-stock-buy-rating-price-target",
+      "time": "2026-07-13T21:03:00Z",
+      "titleJa": "ゴールドマン・サックス、見落とされていたソフトウェア株の見直しを行う"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Inflation, Bank of America, Wells Fargo, Goldman, ASML, J&J, and More to Watch This Week",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/inflation-bank-of-america-wells-fargo-goldman-asml-j-j-and-more-to-watch-this-week-71bddc40?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-12T18:00:00Z",
-      "titleJa": "今週注目すべきインフレ、バンク・オブ・アメリカ、ウェルズ・ファーゴ、ゴールドマン、ASML、J&J など"
+      "title": "Investors Buy the Semiconductor Dip in $40 Billion Flows Week",
+      "publisher": "etf.com",
+      "link": "http://www.etf.com/sections/weekly-etf-flows/investors-buy-semiconductor-dip-40-billion-flows-week?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+      "time": "2026-07-13T21:00:18Z",
+      "titleJa": "投資家は400億ドルのフロー週間で半導体の下落を買う"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why Western Digital (WDC) Is Benefiting From AI-Driven Storage Demand and Tight HDD Supply Conditions",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/why-western-digital-nasdaq-wdc-123127857.html",
-      "time": "2026-07-12T17:25:27Z",
-      "titleJa": "Western Digital (WDC) が AI 主導のストレージ需要と逼迫した HDD 供給条件から恩恵を受ける理由"
+      "title": "3 Reasons We Love BGC (BGC)",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-love-bgc-bgc-205439307.html",
+      "time": "2026-07-13T20:54:39Z",
+      "titleJa": "私たちが BGC (BGC) を愛する 3 つの理由"
     }
   ]
 }
