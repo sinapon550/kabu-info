@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "summary": "",
   "headlines": [
     {
-      "ticker": "JPY=X",
+      "ticker": "^DJI",
       "company": "経済",
-      "title": "Dollar edges higher on escalating US-Iran tension, yen slides on pension doubts",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-jumps-renewed-middle-east-004051619.html",
-      "time": "2026-07-13T21:21:19Z",
-      "titleJa": "米国とイランの緊張激化でドルは上昇、年金不安で円は下落"
+      "title": "Bank Stocks Diverge Post-Earnings. Citi Drops, While Goldman Hits Fresh Record.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/livecoverage/wells-fargo-bank-of-america-goldman-sachs-jpmorgan-chase-citigroup-bank-earnings/card/bank-stocks-diverge-post-earnings-citi-drops-goldman-hits-fresh-record-C7bswtafPp1YJq4o5syg?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-14T21:46:15Z",
+      "titleJa": "銀行株は決算後に乖離。シティは下落、ゴールドマンは新記録を樹立。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons WST is Risky and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-wst-risky-1-211039744.html",
-      "time": "2026-07-13T21:10:39Z",
-      "titleJa": "WSTが危険である3つの理由と代わりに買うべき1つの銘柄"
+      "title": "S&P 500, Nasdaq End Higher On Support From Chipmakers, Cybersecurity Stocks And Soft Inflation Data — NVDA, GS, SKHY, VZ, LCID In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-as-consumer-price-inflation-eases/cZZRBCFR7qq",
+      "time": "2026-07-14T21:43:04Z",
+      "titleJa": "S&P 500、ナスダックは、半導体メーカー、サイバーセキュリティ株、ソフトインフレデータからの支援を受けて上昇して終了 — NVDA、GS、SKHY、VZ、LCIDが注目"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: US Equity Indexes Slump, Crude Oil Soars as Trump Plans to Reinstate Iran Blockade, Impose 20% Toll on Hormuz Cargo",
+      "title": "Stock Market Today, July 14: Lucid Group Plunges but Denies Reports About Bankruptcy Filing",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/14/stock-market-today-july-14-lucid-group-plunges-but-denies-reports-about-bankruptcy-filing/",
+      "time": "2026-07-14T21:41:38Z",
+      "titleJa": "Stock Market Today, July 14: Lucid Group Plunges but Denies Reports About Bankruptcy Filing"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Conagra and 6 More Food Stock Dividends That Are at Risk",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/conagra-food-stock-dividends-95efd7c1?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-14T21:36:00Z",
+      "titleJa": "コナグラとその他6社の食品株配当が危機に瀕"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Fastenal Stock Drops, Then Pops After Earnings Report",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/fastenal-earnings-stock-price-68c81fe9?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-14T21:33:00Z",
+      "titleJa": "ファステナル株が下落、その後決算発表後に急騰"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Update: US Equity Indexes Rise as Cooling Inflation Eases Interest-Rate Pressure on Tech While IBM Sell-Off Restrains Dow",
       "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/articles/us-equity-indexes-slump-crude-210947416.html",
-      "time": "2026-07-13T21:09:47Z",
-      "titleJa": "最新情報：トランプ大統領がイラン封鎖を再開し、ホルムズ貨物に20％の関税を課す計画で米国株指数は下落、原油は高騰"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Goldman Sachs does an about-face on overlooked software stock",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/goldman-sachs-upgrades-toast-tost-stock-buy-rating-price-target",
-      "time": "2026-07-13T21:03:00Z",
-      "titleJa": "ゴールドマン・サックス、見落とされていたソフトウェア株の見直しを行う"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Investors Buy the Semiconductor Dip in $40 Billion Flows Week",
-      "publisher": "etf.com",
-      "link": "http://www.etf.com/sections/weekly-etf-flows/investors-buy-semiconductor-dip-40-billion-flows-week?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "time": "2026-07-13T21:00:18Z",
-      "titleJa": "投資家は400億ドルのフロー週間で半導体の下落を買う"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "3 Reasons We Love BGC (BGC)",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-love-bgc-bgc-205439307.html",
-      "time": "2026-07-13T20:54:39Z",
-      "titleJa": "私たちが BGC (BGC) を愛する 3 つの理由"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-cooling-211132501.html",
+      "time": "2026-07-14T21:11:32Z",
+      "titleJa": "最新情報：IBMの売却がダウを抑制する一方、インフレの沈静化によりハイテク製品に対する金利圧力が緩和され、米国株式指数は上昇"
     }
   ]
 }
