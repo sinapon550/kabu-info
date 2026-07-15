@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^DJI",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Bank Stocks Diverge Post-Earnings. Citi Drops, While Goldman Hits Fresh Record.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/livecoverage/wells-fargo-bank-of-america-goldman-sachs-jpmorgan-chase-citigroup-bank-earnings/card/bank-stocks-diverge-post-earnings-citi-drops-goldman-hits-fresh-record-C7bswtafPp1YJq4o5syg?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-14T21:46:15Z",
-      "titleJa": "銀行株は決算後に乖離。シティは下落、ゴールドマンは新記録を樹立。"
+      "title": "Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-google-dell-sandisk-micron-sell-off-spacex-ipo-price-taiwan-semiconductor-ge-aero/?src=A00220&yptr=yahoo",
+      "time": "2026-07-15T21:39:55Z",
+      "titleJa": "ダウジョーンズ先物：アップル、グーグルマスク、デル、サンディスク、マイクロンの売却。 J.B. ハントが遅れてジャンプ"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P 500, Nasdaq End Higher On Support From Chipmakers, Cybersecurity Stocks And Soft Inflation Data — NVDA, GS, SKHY, VZ, LCID In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-as-consumer-price-inflation-eases/cZZRBCFR7qq",
-      "time": "2026-07-14T21:43:04Z",
-      "titleJa": "S&P 500、ナスダックは、半導体メーカー、サイバーセキュリティ株、ソフトインフレデータからの支援を受けて上昇して終了 — NVDA、GS、SKHY、VZ、LCIDが注目"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, July 14: Lucid Group Plunges but Denies Reports About Bankruptcy Filing",
+      "title": "Vanguard Financials ETF vs iShares Regional Banks ETF. Which Fund Is the Best  Bet to Play Banking Trends in 2026?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/14/stock-market-today-july-14-lucid-group-plunges-but-denies-reports-about-bankruptcy-filing/",
-      "time": "2026-07-14T21:41:38Z",
-      "titleJa": "Stock Market Today, July 14: Lucid Group Plunges but Denies Reports About Bankruptcy Filing"
+      "link": "https://www.fool.com/coverage/etfs/2026/07/15/vanguard-financials-etf-vs-ishares-regional-banks-etf-which-fund-is-the-best-bet-to-play-banking-trends-in-2026/",
+      "time": "2026-07-15T21:26:01Z",
+      "titleJa": "バンガード・ファイナンシャルズETFとiシェアーズ地方銀行ETF。 2026 年の銀行トレンドを予測するにはどのファンドが最適ですか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Conagra and 6 More Food Stock Dividends That Are at Risk",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/conagra-food-stock-dividends-95efd7c1?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-14T21:36:00Z",
-      "titleJa": "コナグラとその他6社の食品株配当が危機に瀕"
+      "title": "Stock Market Today, July 15: American Airlines Is About to Announce Earnings: Here's What Investors Are Watching",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/15/stock-market-today-july-15-american-airlines-is-about-to-announce-earnings-here-s-what-investors-are-watching/",
+      "time": "2026-07-15T21:24:21Z",
+      "titleJa": "今日の株式市場、7 月 15 日: アメリカン航空が決算を発表しようとしています: 投資家が注目しているのはここです"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Fastenal Stock Drops, Then Pops After Earnings Report",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/fastenal-earnings-stock-price-68c81fe9?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-14T21:33:00Z",
-      "titleJa": "ファステナル株が下落、その後決算発表後に急騰"
+      "title": "If You Invest $5,000 in the Vanguard Information Technology ETF Today, Here's What You Might Have in 20 Years",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/15/if-you-invest-in-vgt-how-much-in-20-years/",
+      "time": "2026-07-15T21:20:00Z",
+      "titleJa": "今、バンガード情報技術 ETF に 5,000 ドル投資すると、20 年後に得られる可能性があるものは次のとおりです"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: US Equity Indexes Rise as Cooling Inflation Eases Interest-Rate Pressure on Tech While IBM Sell-Off Restrains Dow",
+      "title": "Update: US Equity Indexes Climb as Unexpected Decline in Inflation Helps Counter Sharp Deterioration in Iran Geopolitics",
       "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-cooling-211132501.html",
-      "time": "2026-07-14T21:11:32Z",
-      "titleJa": "最新情報：IBMの売却がダウを抑制する一方、インフレの沈静化によりハイテク製品に対する金利圧力が緩和され、米国株式指数は上昇"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-climb-unexpected-211946378.html",
+      "time": "2026-07-15T21:19:46Z",
+      "titleJa": "最新情報：予想外のインフレ低下がイラン地政学の急激な悪化に対抗するため、米国の株価指数が上昇"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, July 15: Markets Rise on Cooler Inflation and Strong Earnings Start",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/15/stock-market-today-july-15-markets-rise-on-cooler-inflation-and-strong-earnings-start/",
+      "time": "2026-07-15T21:16:13Z",
+      "titleJa": "今日の株式市場、7 月 15 日: インフレの鈍化と好業績のスタートで市場は上昇"
     }
   ]
 }
