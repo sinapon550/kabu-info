@@ -1,164 +1,304 @@
 {
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "items": [
     {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Dow Jones Futures: Micron, Sandisk, Google Lead AI Sell-Off, But These Groups Are Strong; SpaceX Starship Launch Due",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-sandisk-google-ai-sell-off-spacex-starship-launch/?src=A00220&yptr=yahoo",
-      "time": "2026-07-16T21:49:01Z",
-      "titleJa": "ダウ・ジョーンズ先物：マイクロン、サンディスク、グーグルがAIの下落を主導、しかしこれらのグループは強い。 SpaceX スターシップの打ち上げ予定日",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Dow Jones Futures: Micron, Sandisk, Google Lead AI Sell-Off, But These Groups Are Strong; SpaceX Starship Launch Due",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-sandisk-google-ai-sell-off-spacex-starship-launch/?src=A00220&yptr=yahoo",
-      "time": "2026-07-16T21:49:01Z",
-      "titleJa": "ダウ・ジョーンズ先物：マイクロン、サンディスク、グーグルがAIの下落を主導、しかしこれらのグループは強い。 SpaceX スターシップの打ち上げ予定日",
-      "relevant": true
-    },
-    {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Nvidia’s Rubin reassurance protects a much bigger AI bet",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/nvidia-rubin-reassurance-protects-bigger-ai-bet",
-      "time": "2026-07-16T21:47:00Z",
-      "titleJa": "Nvidia の Rubin の安心感が、はるかに大きな AI への賭けを守る",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Why Reddit (RDDT) Stock Is Falling Today",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-rddt-stock-falling-214522845.html",
-      "time": "2026-07-16T21:45:22Z",
-      "titleJa": "今日レディット（RDDT）株が下落している理由",
-      "relevant": false
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Boeing Delivered 64 Jets in June. Here's What That Means for Its July 28 Earnings.",
+      "title": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/16/boeing-delivered-64-jets-in-june-heres-what-that-m/",
-      "time": "2026-07-16T21:43:00Z",
-      "titleJa": "ボーイングは6月に64機のジェット機を納入した。これが7月28日の決算の意味するところだ。",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-stocks-slide-as-semiconductor-rout-deepens/",
+      "time": "2026-07-17T21:33:59Z",
+      "titleJa": "今日、7月17日の株式市場：半導体不況の深刻化で株価下落",
+      "relevant": false
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Dell Technologies vs. NVIDIA: Which Artificial Intelligence Stock Is a Better Buy in 2026?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/better-buy/2026/07/17/dell-technologies-vs-nvidia-which-artificial-intelligence-stock-is-a-better-buy-in-2026/",
+      "time": "2026-07-17T21:24:01Z",
+      "titleJa": "Dell Technologies vs. NVIDIA: 2026 年に買ったほうがよい人工知能関連銘柄はどれですか?",
       "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "FormFactor and Kulicke and Soffa Shares Are Falling, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/formfactor-kulicke-soffa-shares-falling-213722395.html",
-      "time": "2026-07-16T21:37:22Z",
-      "titleJa": "フォームファクターとクリッケ・アンド・ソファの株価が下落している、知っておくべきこと",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "FormFactor and Kulicke and Soffa Shares Are Falling, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/formfactor-kulicke-soffa-shares-falling-213722395.html",
-      "time": "2026-07-16T21:37:22Z",
-      "titleJa": "フォームファクターとクリッケ・アンド・ソファの株価が下落している、知っておくべきこと",
-      "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Chip Stocks Pummeled. SK Hynix Dives. SOX Socked Again.",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/news/technology/chip-stocks-sk-hynix-sox-index-fall/?src=A00220&yptr=yahoo",
-      "time": "2026-07-16T21:37:04Z",
-      "titleJa": "チップ株が暴落。 SKハイニックスダイブ。 SOX が再び靴下に入った。",
+      "title": "Here’s What Can End Micron’s Stock Pain",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-2acd8eb5?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-17T20:56:00Z",
+      "titleJa": "マイクロンの株痛に終止符を打つにはどうすればよいか",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "China’s Moonshot AI Adds to Chip Investors’ Worries",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/chinas-moonshot-ai-adds-to-chip-investors-worries-82b01792?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-17T20:49:00Z",
+      "titleJa": "中国のムーンショット AI がチップ投資家の不安を増大",
       "relevant": false
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Chip Stocks Pummeled. SK Hynix Dives. SOX Socked Again.",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/news/technology/chip-stocks-sk-hynix-sox-index-fall/?src=A00220&yptr=yahoo",
-      "time": "2026-07-16T21:37:04Z",
-      "titleJa": "チップ株が暴落。 SKハイニックスダイブ。 SOX が再び靴下に入った。",
+      "title": "Long-Term Investors Should Listen Up",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/long-term-investors-should-listen-up-fc5cdbfc?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-17T20:30:00Z",
+      "titleJa": "長期投資家は耳を傾けるべきだ",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Long-Term Investors Should Listen Up",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/long-term-investors-should-listen-up-fc5cdbfc?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-17T20:30:00Z",
+      "titleJa": "長期投資家は耳を傾けるべきだ",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Micron, Nvidia, Netflix, SK Hynix, Alphabet, Intuitive Surgical, and More Stocks That Explain Today’s Market",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stock-movers-34bb7bed?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-17T20:29:00Z",
+      "titleJa": "Micron、Nvidia、Netflix、SK Hynix、Alphabet、Intuitive Surgical など、今日の市場を説明する銘柄",
       "relevant": true
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Chip Stocks Pummeled. SK Hynix Dives. SOX Socked Again.",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/news/technology/chip-stocks-sk-hynix-sox-index-fall/?src=A00220&yptr=yahoo",
-      "time": "2026-07-16T21:37:04Z",
-      "titleJa": "チップ株が暴落。 SKハイニックスダイブ。 SOX が再び靴下に入った。",
+      "title": "Micron, Nvidia, Netflix, SK Hynix, Alphabet, Intuitive Surgical, and More Stocks That Explain Today’s Market",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stock-movers-34bb7bed?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-17T20:29:00Z",
+      "titleJa": "Micron、Nvidia、Netflix、SK Hynix、Alphabet、Intuitive Surgical など、今日の市場を説明する銘柄",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "US stocks sink this week, semiconductors walloped amid sell-off",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/us-stocks-sink-this-week-semiconductors-walloped-amid-sell-off-201117763.html",
+      "time": "2026-07-17T20:11:17Z",
+      "titleJa": "今週の米国株は下落、半導体は急落の中で急落",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "publisher": "TechCrunch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-driven-memory-crunch-jolts-200927386.html",
+      "time": "2026-07-17T20:09:27Z",
+      "titleJa": "AIによるメモリ不足がインドのスマートフォン市場を震撼させる",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Nvidia and AMD Hit by AI Selloff",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-hit-ai-selloff-200109203.html",
+      "time": "2026-07-17T20:01:09Z",
+      "titleJa": "NvidiaとAMDがAI売却の打撃を受ける",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Nvidia and AMD Hit by AI Selloff",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-hit-ai-selloff-200109203.html",
+      "time": "2026-07-17T20:01:09Z",
+      "titleJa": "NvidiaとAMDがAI売却の打撃を受ける",
+      "relevant": false
+    },
+    {
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "Nvidia and AMD Hit by AI Selloff",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-hit-ai-selloff-200109203.html",
+      "time": "2026-07-17T20:01:09Z",
+      "titleJa": "NvidiaとAMDがAI売却の打撃を受ける",
       "relevant": false
     },
     {
       "ticker": "ASML",
       "company": "ASML",
-      "title": "Western Digital and Vishay Intertechnology Stocks Trade Down, What You Need To Know",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-vishay-intertechnology-stocks-212922638.html",
-      "time": "2026-07-16T21:29:22Z",
-      "titleJa": "ウェスタンデジタルとビシェイ・インターテクノロジー株の株価下落、知っておくべきこと",
+      "title": "Nvidia and AMD Hit by AI Selloff",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-hit-ai-selloff-200109203.html",
+      "time": "2026-07-17T20:01:09Z",
+      "titleJa": "NvidiaとAMDがAI売却の打撃を受ける",
       "relevant": false
     },
     {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "As SK Hynix Stock Drops, Regulators Try to Impose Stability",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/sk-hynix-stock-price-volatility-c4785be7?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-16T21:06:00Z",
-      "titleJa": "SKハイニックスの株価が下落する中、規制当局は安定を課そうとする",
-      "relevant": true
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Nvidia Pushes Into a Big New AI Market That Could Rally the Stock",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/nvidia-stock-price-today-ai-9af33ec6?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-16T21:04:00Z",
-      "titleJa": "Nvidia、株価上昇の可能性のある新たな大きな AI 市場に参入",
+      "ticker": "8035.T",
+      "company": "東京エレクトロン",
+      "title": "Nvidia and AMD Hit by AI Selloff",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-hit-ai-selloff-200109203.html",
+      "time": "2026-07-17T20:01:09Z",
+      "titleJa": "NvidiaとAMDがAI売却の打撃を受ける",
       "relevant": false
     },
     {
       "ticker": "7267.T",
       "company": "本田技研工業",
-      "title": "Nvidia Pushes Into a Big New AI Market That Could Rally the Stock",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/nvidia-stock-price-today-ai-9af33ec6?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-16T21:04:00Z",
-      "titleJa": "Nvidia、株価上昇の可能性のある新たな大きな AI 市場に参入",
+      "title": "Honda (TSE:7267) Is Ending Prologue EV Sales In The U.S. To Back Hybrids",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/honda-tse-7267-ending-prologue-190806073.html",
+      "time": "2026-07-17T19:08:06Z",
+      "titleJa": "ホンダ（東証：7267）、ハイブリッド車支持のため米国でのプロローグEV販売を終了",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Micron vs. TSMC: Which AI Semiconductor Stock Is a Better Buy Now?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-tsmc-ai-semiconductor-190000377.html",
+      "time": "2026-07-17T19:00:00Z",
+      "titleJa": "マイクロン vs. TSMC: 今買うべき AI 半導体株はどれですか?",
+      "relevant": true
+    },
+    {
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-mircon-tsmc-shares-175211072.html",
+      "time": "2026-07-17T17:52:11Z",
+      "titleJa": "中国が強力な新しいAIモデルを発表、Nvidia、AMD、Mircon、TSMCの株価が下落",
+      "relevant": false
+    },
+    {
+      "ticker": "8035.T",
+      "company": "東京エレクトロン",
+      "title": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-mircon-tsmc-shares-175211072.html",
+      "time": "2026-07-17T17:52:11Z",
+      "titleJa": "中国が強力な新しいAIモデルを発表、Nvidia、AMD、Mircon、TSMCの株価が下落",
+      "relevant": false
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Comex Gold Ends the Week 2.23% Lower at $4012.70",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-central-bank-buying-likely-to-remain-structural-driver-f10d22c2?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-17T17:46:00Z",
+      "titleJa": "コメックスゴールドは2.23%安の4012.70ドルで今週を終えた。",
       "relevant": false
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "Most Stocks Gained, but Chip Selloff Drags Market",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-071626/card/most-stocks-gained-but-chip-selloff-drags-market-i0I4NTWo7q5InmwR6KFh?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-16T20:01:34Z",
-      "titleJa": "ほとんどの銘柄が上昇したが、チップの下落が市場の足を引っ張る",
+      "title": "Apollo Likens Risky Private Credit to Mere ‘Sprinkle’ on Cupcake",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-likens-risky-private-credit-172723079.html",
+      "time": "2026-07-17T17:27:23Z",
+      "titleJa": "アポロ、危険な私的信用を単なるカップケーキの「ふりかけ」に喩える",
       "relevant": false
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "AI Has Upended Chip Stocks. This Chart Shows How Much.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/taiwan-semiconductor-manufacturing-chip-stocks-ai-bb1a044a?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-16T19:49:00Z",
-      "titleJa": "AI がチップ株を一変させた。このグラフはその金額を示しています。",
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Sector Update: Tech Stocks Mixed Friday Afternoon",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-friday-172459105.html",
+      "time": "2026-07-17T17:24:59Z",
+      "titleJa": "セクター最新情報: 金曜午後のハイテク株はまちまち",
+      "relevant": false
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "CoreWeave launches $2.6B term loan to support acquisition of GPUs",
+      "publisher": "Pitchbook",
+      "link": "https://pitchbook.com/news/articles/coreweave-launches-2-6b-term-loan-to-support-acquisition-of-gpus",
+      "time": "2026-07-17T16:28:18Z",
+      "titleJa": "CoreWeave が GPU の買収を支援するために 26 億ドルの定期融資を開始",
+      "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Honda ending U.S. sales of Prologue electric vehicle",
+      "publisher": "Quartz",
+      "link": "https://qz.com/honda-prologue-ev-discontinued-us-sales-071726",
+      "time": "2026-07-17T13:05:22Z",
+      "titleJa": "ホンダ、電気自動車プロローグの米国販売を終了",
+      "relevant": true
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "U.S. Stock Futures Lower as Chip Selloff Deepens",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-lower-as-chip-selloff-rocks-markets-aeac8c1b?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-17T10:41:00Z",
+      "titleJa": "チップ下落の深刻化で米国株先物は下落",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "‘Lehman Brothers of AI’: Why One Critic Thinks OpenAI Will Crash the Entire AI Industry",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/17/lehman-brothers-of-ai-why-one-critic-thinks-openai-will-crash-the-entire-ai-industry/",
+      "time": "2026-07-17T10:17:18Z",
+      "titleJa": "「AI のリーマン ブラザーズ」: ある評論家が OpenAI が AI 業界全体を崩壊させると考える理由",
+      "relevant": false
+    },
+    {
+      "ticker": "6501.T",
+      "company": "日立製作所",
+      "title": "Hitachi Energy signs deal to develop electrical infrastructure for Eve's 'flying car'",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/energy/articles/hitachi-energy-signs-deal-develop-080144326.html",
+      "time": "2026-07-17T08:01:44Z",
+      "titleJa": "日立エナジー、イブの「空飛ぶ自動車」の電気インフラ開発契約に署名",
+      "relevant": true
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "Chip Stock Selloff Deepens in Asia as TSMC Fails to Impress",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stock-selloff-deepens-asia-035114530.html",
+      "time": "2026-07-17T03:51:14Z",
+      "titleJa": "TSMCが好印象を示せず、アジアでチップ株の下落が深刻化",
+      "relevant": false
+    },
+    {
+      "ticker": "6920.T",
+      "company": "レーザーテック",
+      "title": "Chip Stock Selloff Deepens in Asia as TSMC Fails to Impress",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stock-selloff-deepens-asia-035114530.html",
+      "time": "2026-07-17T03:51:14Z",
+      "titleJa": "TSMCが好印象を示せず、アジアでチップ株の下落が深刻化",
+      "relevant": false
+    },
+    {
+      "ticker": "6954.T",
+      "company": "ファナック",
+      "title": "Nvidia (NVDA) Deepens Japan AI Push With Factory Deal And Robotics Tie Ups",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-deepens-japan-ai-001838639.html",
+      "time": "2026-07-17T00:18:38Z",
+      "titleJa": "Nvidia (NVDA)、工場契約とロボティクス提携で日本の AI 推進を強化",
       "relevant": false
     },
     {
@@ -182,68 +322,28 @@
       "relevant": false
     },
     {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Sector Update: Consumer Stocks Rise Late Afternoon",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-afternoon-194220504.html",
-      "time": "2026-07-16T19:42:20Z",
-      "titleJa": "セクター最新情報: 午後遅くに消費者株が上昇",
+      "ticker": "6501.T",
+      "company": "日立製作所",
+      "title": "NVDA Stock Alert: What to Know as Nvidia Launches New AI Model",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/3324212/nvda-stock-alert-what-to-know-as-nvidia-launches-new-ai-model",
+      "time": "2026-07-16T19:23:34Z",
+      "titleJa": "NVDA 株式アラート: Nvidia が新しい AI モデルを発表する際に知っておくべきこと",
       "relevant": false
     },
     {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Oil Futures Settle Lower in Choppy Trade",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-escalating-mideast-conflict-7f8ab657?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-16T19:27:00Z",
-      "titleJa": "不安定な取引で原油先物は下落",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Nvidia Lands Japan Rubin Chip Order",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-lands-japan-rubin-chip-191235497.html",
-      "time": "2026-07-16T19:12:35Z",
-      "titleJa": "Nvidiaが日本にRubinチップを発注",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Nasdaq Declines as Chip Stocks Come Under Pressure",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-on-fresh-ai-wobble-a7d12092?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-16T19:09:00Z",
-      "titleJa": "ナスダックはチップ株に圧力がかかり下落",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "3 Reasons Why Micron Stock Keeps Falling",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/micron-stock-price-memory-chips-9d1d2e37?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-16T18:48:00Z",
-      "titleJa": "マイクロン株が下落し続ける3つの理由",
+      "ticker": "7012.T",
+      "company": "川崎重工業",
+      "title": "NVDA Stock Alert: What to Know as Nvidia Launches New AI Model",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/3324212/nvda-stock-alert-what-to-know-as-nvidia-launches-new-ai-model",
+      "time": "2026-07-16T19:23:34Z",
+      "titleJa": "NVDA 株式アラート: Nvidia が新しい AI モデルを発表する際に知っておくべきこと",
       "relevant": false
     },
     {
       "ticker": "6954.T",
       "company": "ファナック",
-      "title": "Nvidia Expands AI Push in Japan",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-expands-ai-push-japan-171354251.html",
-      "time": "2026-07-16T17:13:54Z",
-      "titleJa": "Nvidia、日本での AI 推進を拡大",
-      "relevant": false
-    },
-    {
-      "ticker": "6501.T",
-      "company": "日立製作所",
       "title": "Nvidia Expands AI Push in Japan",
       "publisher": "GuruFocus.com",
       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-expands-ai-push-japan-171354251.html",
@@ -259,16 +359,6 @@
       "link": "https://www.barrons.com/articles/buy-subaru-stock-price-pick-35aaf843?siteid=yhoof2&yptr=yahoo",
       "time": "2026-07-16T13:59:00Z",
       "titleJa": "スバル車にはカルト的な人気があります。株式が投資家に愛される理由。",
-      "relevant": false
-    },
-    {
-      "ticker": "6954.T",
-      "company": "ファナック",
-      "title": "Nvidia Stock Fans Just Got Good News From Japan",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-fans-just-got-120346201.html",
-      "time": "2026-07-16T12:03:46Z",
-      "titleJa": "Nvidia 株ファンに日本から朗報が届きました",
       "relevant": false
     },
     {
@@ -362,26 +452,6 @@
       "relevant": false
     },
     {
-      "ticker": "285A.T",
-      "company": "キオクシア",
-      "title": "Nvidia’s Huang Courts Japanese Suppliers With Kanda Pork Skewers",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-huang-courts-japanese-suppliers-032600382.html",
-      "time": "2026-07-16T03:26:00Z",
-      "titleJa": "Nvidia の Huang が日本のサプライヤーに神田豚串をアピール",
-      "relevant": false
-    },
-    {
-      "ticker": "8035.T",
-      "company": "東京エレクトロン",
-      "title": "Nvidia’s Huang Courts Japanese Suppliers With Kanda Pork Skewers",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-huang-courts-japanese-suppliers-032600382.html",
-      "time": "2026-07-16T03:26:00Z",
-      "titleJa": "Nvidia の Huang が日本のサプライヤーに神田豚串をアピール",
-      "relevant": false
-    },
-    {
       "ticker": "4063.T",
       "company": "信越化学",
       "title": "Nvidia’s Huang Courts Japanese Suppliers With Kanda Pork Skewers",
@@ -402,36 +472,6 @@
       "relevant": false
     },
     {
-      "ticker": "6857.T",
-      "company": "アドバンテスト",
-      "title": "SK Hynix Drops Near 11% as KOSPI Hits 37th Sidecar of 2026",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/sk-hynix-drops-kospi-sidecar-2026/",
-      "time": "2026-07-16T01:59:30Z",
-      "titleJa": "KOSPIが2026年の37番目のサイドカーに達すると、SKハイニックスは11％近く下落",
-      "relevant": false
-    },
-    {
-      "ticker": "8035.T",
-      "company": "東京エレクトロン",
-      "title": "SK Hynix Drops Near 11% as KOSPI Hits 37th Sidecar of 2026",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/sk-hynix-drops-kospi-sidecar-2026/",
-      "time": "2026-07-16T01:59:30Z",
-      "titleJa": "KOSPIが2026年の37番目のサイドカーに達すると、SKハイニックスは11％近く下落",
-      "relevant": false
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "MUFG Sees Limited Upside for Canadian Dollar Ahead of BoC Decision",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/mufg-sees-limited-upside-canadian-110835746.html",
-      "time": "2026-07-15T11:08:35Z",
-      "titleJa": "MUFG、中銀の決定を前にカナダドルの上値余地は限定的とみている",
-      "relevant": true
-    },
-    {
       "ticker": "6920.T",
       "company": "レーザーテック",
       "title": "Tech Recovery Lifts Asian Stock Markets",
@@ -439,16 +479,6 @@
       "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-recovery-lifts-asian-stock-103941309.html",
       "time": "2026-07-15T10:39:41Z",
       "titleJa": "テクノロジーの回復がアジアの株式市場を上昇させる",
-      "relevant": false
-    },
-    {
-      "ticker": "7012.T",
-      "company": "川崎重工業",
-      "title": "Nvidia’s Huang Declares Vera Rubin on Track Despite Delay Talk",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-huang-declares-vera-rubin-091105893.html",
-      "time": "2026-07-15T09:11:05Z",
-      "titleJa": "Nvidiaのフアン氏、交渉が遅れたにも関わらずベラ・ルービン氏が順調に進んでいることを宣言",
       "relevant": false
     },
     {
@@ -469,36 +499,6 @@
       "link": "https://finance.yahoo.com/technology/articles/verizon-vz-expands-bmw-connected-091201616.html",
       "time": "2026-07-14T09:12:01Z",
       "titleJa": "Verizon (VZ) が BMW コネクテッド カーに拡大し、Gizmo Watch 4 を発売",
-      "relevant": false
-    },
-    {
-      "ticker": "6501.T",
-      "company": "日立製作所",
-      "title": "PPHC or HTHIY: Which Is the Better Value Stock Right Now?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pphc-hthiy-better-value-stock-154004700.html",
-      "time": "2026-07-13T15:40:04Z",
-      "titleJa": "PPHC と HTHIY: 現在、バリュー株はどちらが優れていますか?",
-      "relevant": false
-    },
-    {
-      "ticker": "4755.T",
-      "company": "楽天グループ",
-      "title": "AST SpaceMobile’s Next Launches Could Decide Whether Its Rally Regains Orbit",
-      "publisher": "MarketBeat",
-      "link": "https://www.marketbeat.com/articles/ast-spacemobiles-next-launches-could-decide-whether-its-rally-regains-orbit/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "time": "2026-07-13T13:45:00Z",
-      "titleJa": "AST SpaceMobileの次の打ち上げがその軌道を取り戻すかどうかを決定する可能性がある",
-      "relevant": false
-    },
-    {
-      "ticker": "6857.T",
-      "company": "アドバンテスト",
-      "title": "Japan Stocks Lose ¥82 Trillion in 3 Weeks: AI Chip Rout or Healthy Correction?",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/japan-stocks-lose-82-trillion-in-3-weeks/",
-      "time": "2026-07-13T11:45:45Z",
-      "titleJa": "日本株は3週間で82兆円下落：AIチップの暴落か健全化か？",
       "relevant": false
     }
   ]

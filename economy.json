@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Micron, Sandisk, Google Lead AI Sell-Off, But These Groups Are Strong; SpaceX Starship Launch Due",
+      "title": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-stocks-slide-as-semiconductor-rout-deepens/",
+      "time": "2026-07-17T21:33:59Z",
+      "titleJa": "今日、7月17日の株式市場：半導体不況の深刻化で株価下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Fanatics Fest traders on sports cards vs. stocks",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/fanatics-fest-traders-on-sports-cards-vs-stocks-212906436.html",
+      "time": "2026-07-17T21:29:06Z",
+      "titleJa": "ファナティクス フェストのトレーダーによるスポーツ カードと株式の比較"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "ETFs Offer an Easier Way to Hold Physical Metal. Is Buying Gold or Silver the Better Bet in 2026?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/17/etfs-offer-an-easier-way-to-hold-physical-metal-is-buying-gold-or-silver-the-better-bet-in-2026/",
+      "time": "2026-07-17T21:22:01Z",
+      "titleJa": "ETF は、物理的な金属を保持するためのより簡単な方法を提供します。 2026 年に金を買うのが得策か、銀を買うのが得策か?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, July 17: Netflix Plunges, but Are Investors Missing the Point?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-netflix-plunges-but-are-investors-missing-the-point/",
+      "time": "2026-07-17T21:18:14Z",
+      "titleJa": "今日、7月17日の株式市場: Netflixが急落、しかし投資家は要点を見逃しているのか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Alphabet, Intel results in focus for AI trade as US earnings rev up",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-intel-results-focus-ai-100413182.html",
+      "time": "2026-07-17T21:17:31Z",
+      "titleJa": "アルファベットとインテルの結果、米国の収益が回復するにつれてAI貿易に注目"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-sandisk-google-ai-sell-off-spacex-starship-launch/?src=A00220&yptr=yahoo",
-      "time": "2026-07-16T21:49:01Z",
-      "titleJa": "ダウ・ジョーンズ先物：マイクロン、サンディスク、グーグルがAIの下落を主導、しかしこれらのグループは強い。 SpaceX スターシップの打ち上げ予定日"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "Why Apple’s ‘Standard Oil’ Strategy Is Driving the Stock to All-Time Highs",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/apple-stock-standard-oil-1759ba4c?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-16T21:35:00Z",
-      "titleJa": "なぜアップルの「スタンダードオイル」戦略が株価を史上最高値に押し上げているのか"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, July 16: Lucid Group Surges on CEO's Denial of Bankruptcy and Take-Private Rumors",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/16/stock-market-today-july-16-lucid-group-surges-on-ceos-denial-of-bankruptcy-and-take-private-rumors/",
-      "time": "2026-07-16T21:28:24Z",
-      "titleJa": "今日、7月16日の株式市場：CEOの破産否定と非公開化の噂でルシッド・グループが急騰"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, July 16: Micron Plunges as Tech Stocks Extend Sell-Off",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/16/stock-market-today-july-16-micron-plunges-as-tech-stocks-extend-sell-off/",
-      "time": "2026-07-16T21:23:20Z",
-      "titleJa": "今日の株式市場、7月16日：ハイテク株の下落が続く中、マイクロンが急落"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Better Growth ETF: Vanguard's VOOG Targeting the S&P 500 vs. State Street's Small Cap-Focused SLYG",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/16/better-growth-etf-vanguard-s-voog-targeting-the-s-and-p-500-vs-state-street-s-small-cap-focused-slyg/",
-      "time": "2026-07-16T21:22:01Z",
-      "titleJa": "より良い成長ETF: S&P 500を対象としたバンガードのVOOG vs. ステート・ストリートの小型株中心のSLYG"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, July 16: AtaiBeckley Surges on Eli Lilly Acquisition Worth Up To $3.8 Billion",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/16/stock-market-today-july-16-ataibeckley-surges-on-eli-lilly-acquisition-worth-up-to-usd3-8-billion/",
-      "time": "2026-07-16T21:19:05Z",
-      "titleJa": "今日の株式市場、7月16日: アタイベックリー、イーライリリー買収で急騰、最大38億ドル相当"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-amd-ai-stock-sell-off/?src=A00220&yptr=yahoo",
+      "time": "2026-07-17T21:01:14Z",
+      "titleJa": "ダウ・ジョーンズ先物：Google、Tesla、AMD、AI株の下落が迫る"
     }
   ]
 }
