@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-18",
+  "updated": "2026-07-19",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-stocks-slide-as-semiconductor-rout-deepens/",
-      "time": "2026-07-17T21:33:59Z",
-      "titleJa": "今日、7月17日の株式市場：半導体不況の深刻化で株価下落"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Fanatics Fest traders on sports cards vs. stocks",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/fanatics-fest-traders-on-sports-cards-vs-stocks-212906436.html",
-      "time": "2026-07-17T21:29:06Z",
-      "titleJa": "ファナティクス フェストのトレーダーによるスポーツ カードと株式の比較"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "ETFs Offer an Easier Way to Hold Physical Metal. Is Buying Gold or Silver the Better Bet in 2026?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/17/etfs-offer-an-easier-way-to-hold-physical-metal-is-buying-gold-or-silver-the-better-bet-in-2026/",
-      "time": "2026-07-17T21:22:01Z",
-      "titleJa": "ETF は、物理的な金属を保持するためのより簡単な方法を提供します。 2026 年に金を買うのが得策か、銀を買うのが得策か?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, July 17: Netflix Plunges, but Are Investors Missing the Point?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-netflix-plunges-but-are-investors-missing-the-point/",
-      "time": "2026-07-17T21:18:14Z",
-      "titleJa": "今日、7月17日の株式市場: Netflixが急落、しかし投資家は要点を見逃しているのか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Alphabet, Intel results in focus for AI trade as US earnings rev up",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-intel-results-focus-ai-100413182.html",
-      "time": "2026-07-17T21:17:31Z",
-      "titleJa": "アルファベットとインテルの結果、米国の収益が回復するにつれてAI貿易に注目"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
+      "title": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-amd-ai-stock-sell-off/?src=A00220&yptr=yahoo",
-      "time": "2026-07-17T21:01:14Z",
-      "titleJa": "ダウ・ジョーンズ先物：Google、Tesla、AMD、AI株の下落が迫る"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+      "time": "2026-07-18T19:41:18Z",
+      "titleJa": "ダウ・ジョーンズ先物：イラン攻撃で米軍2名死亡。 Google、Tesla、AMDが先を行く"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "2 Vanguard ETFs Using Momentum to Outpace the S&P 500",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/18/2-vanguard-etfs-using-momentum-to-outpace-sp-500/",
+      "time": "2026-07-18T18:50:00Z",
+      "titleJa": "2 つのバンガード ETF が S&P 500 を上回る勢いで成長"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "iShares' IGLB or Vanguard's VGLT: Which Long-Term Bond ETF Should Investors Choose?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/18/ishares-iglb-or-vanguard-s-vglt-which-long-term-bond-etf-should-investors-choose/",
+      "time": "2026-07-18T18:10:19Z",
+      "titleJa": "iシェアーズのIGLBとバンガードのVGLT：投資家はどちらの長期債券ETFを選ぶべきか？"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Which Energy ETF Is the Better Buy: State Street's XLE or First Trust's EMLP?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/18/which-energy-etf-is-the-better-buy-state-street-s-xle-or-first-trust-s-emlp/",
+      "time": "2026-07-18T17:39:27Z",
+      "titleJa": "ステート・ストリートのXLEとファースト・トラストのEMLPのどちらのエネルギーETFを買うのが良いでしょうか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Buy, Sell, or Hold: Ken Griffin’s 3 Mega-Cap Picks at Current Valuations",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/18/buy-sell-or-hold-ken-griffins-3-mega-cap-picks-at-current-valuations/",
+      "time": "2026-07-18T17:30:00Z",
+      "titleJa": "買う、売る、または保有する: ケン・グリフィンの現在の評価額で選ぶ 3 つのメガキャップ"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "A massive margin call and ‘push-button liquidity’ have torched stocks, but they’re now poised to rebound, top Wall Street forecaster says",
+      "publisher": "Fortune",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/massive-margin-call-push-button-172150503.html",
+      "time": "2026-07-18T17:21:50Z",
+      "titleJa": "大規模なマージンコールと「プッシュボタンの流動性」により株価は暴落したが、現在は回復する準備ができているとウォール街のトップ予測家が語る"
     }
   ]
 }
