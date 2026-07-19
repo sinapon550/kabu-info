@@ -1,94 +1,164 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "items": [
     {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Equal-Weight Strategy RSP Could Outrun SPY if This Macro Shift Continues",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/07/18/equal-weight-strategy-rsp-could-outrun-spy-if-this-macro-shift-continues/",
-      "time": "2026-07-18T21:11:03Z",
-      "titleJa": "このマクロシフトが続けば、イコールウェイト戦略 RSP が SPY を上回る可能性がある",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Event on July 22",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/19/prediction-investors-will-be-happy-if-they-buy-amd/",
+      "time": "2026-07-19T21:37:00Z",
+      "titleJa": "予測: 投資家は、7 月 22 日の同社の大規模な AI イベントの前に AMD 株を買えば幸せになるだろう",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "What Do SpaceX, AMD, and Palantir Have in Common?",
+      "title": "Prediction: These Will Be the 2 Best Nuclear Energy Stocks to Buy for the Next 5 Years",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/18/what-do-spacex-amd-and-palantir-have-in-common/",
-      "time": "2026-07-18T20:33:00Z",
-      "titleJa": "SpaceX、AMD、Palantir の共通点は何ですか?",
+      "link": "https://www.fool.com/investing/2026/07/19/prediction-these-will-be-the-2-best-nuclear-energy/",
+      "time": "2026-07-19T21:27:00Z",
+      "titleJa": "予測: 今後 5 年間に購入すべき原子力エネルギー株のトップ 2 はこれらの銘柄になる",
       "relevant": false
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Watch Out, Eli Lilly and Novo Nordisk: Viking Therapeutics Just Started Testing a Weight Loss Drug That Goes Beyond GLP-1",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/18/watch-out-eli-lilly-and-novo-nordisk-viking-just/",
-      "time": "2026-07-18T20:05:00Z",
-      "titleJa": "イーライリリーとノボ ノルディスクに気をつけろ：バイキング・セラピューティクスはGLP-1を超える減量薬の試験を開始したところだ",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/18/jensen-huang-told-ces-2026-that-memory-is-now-the/",
-      "time": "2026-07-18T19:42:00Z",
-      "titleJa": "ジェンセン・ファン氏は CES 2026 で、メモリが現在 AI の最大のボトルネックになっていると語った。それ以来、マイクロンとサンディスクはエヌビディアの株価をアウトパフォームしている。",
-      "relevant": true
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since.",
+      "title": "Sandisk: Even After a 580% Rise in 2026, It's Still a Screaming Buy (NASDAQ: SNDK)",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/18/jensen-huang-told-ces-2026-that-memory-is-now-the/",
-      "time": "2026-07-18T19:42:00Z",
-      "titleJa": "ジェンセン・ファン氏は CES 2026 で、メモリが現在 AI の最大のボトルネックになっていると語った。それ以来、マイクロンとサンディスクはエヌビディアの株価をアウトパフォームしている。",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "TSMC Is Pouring $100 Billion More Into Its Arizona Plant to Keep Up With Strong US Customer Demand",
-      "publisher": "Benzinga",
-      "link": "https://finance.yahoo.com/technology/articles/tsmc-pouring-100-billion-more-193035757.html",
-      "time": "2026-07-18T19:30:35Z",
-      "titleJa": "TSMC、米国顧客の強い需要に応えるためアリゾナ工場にさらに1000億ドルを投入",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Investing Legend John Templeton Has a Warning for Micron and SK Hynix Investors",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/18/investing-legend-john-templeton-has-a-warning-for/",
-      "time": "2026-07-18T18:20:00Z",
-      "titleJa": "投資界のレジェンド、ジョン・テンプルトン氏がマイクロンとSKハイニックスの投資家に警告",
+      "link": "https://www.fool.com/investing/2026/07/19/sandisk-even-after-a-580-rise-in-2026-its-still-a/",
+      "time": "2026-07-19T19:04:00Z",
+      "titleJa": "サンディスク: 2026 年に 580% 上昇した後でも依然として絶叫買い (NASDAQ: SNDK)",
       "relevant": true
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Investing Legend John Templeton Has a Warning for Micron and SK Hynix Investors",
+      "title": "Are Index Funds Making the Market “Irrational”?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/18/investing-legend-john-templeton-has-a-warning-for/",
-      "time": "2026-07-18T18:20:00Z",
-      "titleJa": "投資界のレジェンド、ジョン・テンプルトン氏がマイクロンとSKハイニックスの投資家に警告",
+      "link": "https://www.fool.com/investing/2026/07/19/are-index-funds-making-the-market-irrational/",
+      "time": "2026-07-19T18:33:01Z",
+      "titleJa": "インデックスファンドは市場を「不合理」にしているのか？",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Taiwan Semiconductor Manufacturing Just Showed the Artificial Intelligence (AI) Build-Out Is Alive and Well With This Jaw-Dropping Announcement",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/19/taiwan-semiconductor-manufacturing-just-showed-the/",
+      "time": "2026-07-19T18:30:00Z",
+      "titleJa": "台湾半導体製造は、この驚くべき発表で人工知能 (AI) の構築が健在であることを示しました。",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/19/a-hidden-threat-for-micron-apple-is-eyeing-a-fix/",
+      "time": "2026-07-19T17:35:00Z",
+      "titleJa": "マイクロンにとって隠れた脅威? AppleはAIメモリ需要の解決を目指している",
       "relevant": true
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "Price Prediction: Qualcomm Has Over 50% Upside as AI Data Center Push Accelerates",
+      "title": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here’s The Price Target",
       "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/07/18/price-prediction-qualcomm-has-over-50-upside-as-ai-data-center-push-accelerates/",
-      "time": "2026-07-18T16:30:21Z",
-      "titleJa": "価格予測: AI データセンターの推進が加速する中、クアルコムには 50% 以上の上昇余地がある",
+      "link": "https://247wallst.com/investing/2026/07/19/wall-street-is-warming-to-marvell-after-its-xconn-acquisition-heres-the-price-target/",
+      "time": "2026-07-19T17:30:26Z",
+      "titleJa": "XConn買収後、ウォール街はマーベルに好意を寄せている。目標株価はこちら",
+      "relevant": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Here Are My Top 3 Artificial Intelligence Stocks to Buy Right Now",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/19/here-are-my-top-3-artificial-intelligence-ai-stock/",
+      "time": "2026-07-19T16:35:00Z",
+      "titleJa": "今すぐ買うべき人工知能株トップ3は次のとおりです",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/19/why-the-soxs-semiconductor-bear-etf-is-surging-as-chip-stocks-sell-off/",
+      "time": "2026-07-19T16:31:05Z",
+      "titleJa": "チップ株が売られる中、SOXSセミコンダクター・ベアETFが急騰している理由",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/19/why-the-soxs-semiconductor-bear-etf-is-surging-as-chip-stocks-sell-off/",
+      "time": "2026-07-19T16:31:05Z",
+      "titleJa": "チップ株が売られる中、SOXSセミコンダクター・ベアETFが急騰している理由",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Micron Has Strong Q3 Earnings and Rising Guidance. Is It a Buy?",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/19/why-micron-belongs-in-your-portfolio-with-strong-q3-earnings-and-rising-guidance/",
+      "time": "2026-07-19T16:00:50Z",
+      "titleJa": "マイクロンは第 3 四半期の利益が好調で、ガイダンスも上昇しています。それは買いですか?",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Micron Has Strong Q3 Earnings and Rising Guidance. Is It a Buy?",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/19/why-micron-belongs-in-your-portfolio-with-strong-q3-earnings-and-rising-guidance/",
+      "time": "2026-07-19T16:00:50Z",
+      "titleJa": "マイクロンは第 3 四半期の利益が好調で、ガイダンスも上昇しています。それは買いですか?",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/19/tsmc-vs-asml-which-is-the-better-ai-semiconductor/",
+      "time": "2026-07-19T13:40:00Z",
+      "titleJa": "TSMC vs. ASML: AI 半導体エコシステム株を買うのはどちらが良いでしょうか?",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
+      "time": "2026-07-19T13:00:00Z",
+      "titleJa": "投資家が株を投げ捨てる中、大手ハイテク企業はAI支出を正当化する必要がある",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "South Korean stocks emerge as key gauge for global AI sentiment",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/south-korean-stocks-emerge-key-022758936.html",
+      "time": "2026-07-19T02:27:58Z",
+      "titleJa": "韓国株が世界のAIセンチメントの重要な指標に浮上",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Korea’s AI-Heavy Market Now Sets the Tone for Global Stocks",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/korea-ai-heavy-market-now-000000261.html",
+      "time": "2026-07-19T00:00:00Z",
+      "titleJa": "韓国のAI中心の市場が世界株の調子を決める",
       "relevant": false
     },
     {
@@ -99,26 +169,6 @@
       "link": "https://finance.yahoo.com/technology/articles/evs-were-discontinued-killed-off-163000459.html",
       "time": "2026-07-18T16:30:00Z",
       "titleJa": "今年米国で製造中止または廃止されたすべてのEV",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "The AI Capex Question Every QQQ Holder Should Be Asking Right Now",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/07/18/the-ai-capex-question-every-qqq-holder-should-be-asking-right-now/",
-      "time": "2026-07-18T16:11:00Z",
-      "titleJa": "すべての QQQ ホルダーが今尋ねるべき AI 設備投資の質問",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "14 S&P 500 Stocks Are Up Over 100% in 2026. Why Micron Is My Favorite for the Rest of the Year.",
-      "publisher": "Barchart",
-      "link": "https://www.barchart.com/story/news/3349214/14-s-p-500-stocks-are-up-over-100-in-2026-why-micron-is-my-favorite-for-the-rest-of-the-year",
-      "time": "2026-07-18T15:30:02Z",
-      "titleJa": "S&P 500 の 14 銘柄が 2026 年に 100% 以上上昇します。マイクロンが今年の残りの期間で私のお気に入りである理由。",
       "relevant": false
     },
     {
@@ -139,56 +189,6 @@
       "link": "https://www.barchart.com/story/news/3348793/a-1-billion-reason-to-sell-ast-spacemobile-stock-here",
       "time": "2026-07-18T14:00:02Z",
       "titleJa": "AST SpaceMobile株をここで売却する10億ドルの理由",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Better Buy: SK Hynix vs. Micron",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/18/better-buy-sk-hynix-vs-micron/",
-      "time": "2026-07-18T13:40:00Z",
-      "titleJa": "買ったほうが良い: SK ハイニックス vs マイクロン",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "This week's AI winners and losers",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
-      "time": "2026-07-18T13:16:54Z",
-      "titleJa": "今週の AI の勝者と敗者",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Samsung (KOSE:A005930) Faces ITC Memory Probe While Expanding Into US Senior Care",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-kose-a005930-faces-itc-121131772.html",
-      "time": "2026-07-18T12:11:31Z",
-      "titleJa": "サムスン (KOSE:A005930) 米国のシニアケア事業への拡大中に ITC のメモリ調査に直面",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "History Says Buying Chip Stocks After a 20% Drawdown Has Usually Worked in This Cycle. Will It Work Again?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/18/history-buying-chip-stocks-20-drawdown-avgo/",
-      "time": "2026-07-18T11:05:00Z",
-      "titleJa": "歴史によれば、このサイクルでは通常、20％のドローダウン後にチップ株を買うのがうまくいきました。またうまくいきますか?",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "China’s Memory Chip Giants Are Going Public. How to Play Them.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/china-ai-tech-stocks-ipo-c18cf91c?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-18T06:00:00Z",
-      "titleJa": "中国のメモリチップ大手が上場する。それらの遊び方。",
       "relevant": false
     },
     {
@@ -368,7 +368,7 @@
       "publisher": "GuruFocus.com",
       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-expands-ai-push-japan-171354251.html",
       "time": "2026-07-16T17:13:54Z",
-      "titleJa": "Nvidia、日本での AI 推進を拡大",
+      "titleJa": "Nvidia が日本で AI 推進を拡大",
       "relevant": false
     },
     {

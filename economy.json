@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+      "title": "Warren Buffett Looks for Value in Today’s Market But Comes Up Empty: ‘Everybody Is Preferring Gambling’",
+      "publisher": "Benzinga",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-looks-value-today-203119733.html",
+      "time": "2026-07-19T20:31:19Z",
+      "titleJa": "ウォーレン・バフェット氏、今日の市場で価値を探しているが結果は空っぽ：「誰もがギャンブルを好む」"
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/jobs-gm-tesla-alphabet-intel-verizon-and-more-to-watch-this-week-3dd9de07?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-19T18:00:00Z",
+      "titleJa": "ジョブズ、GM、テスラ、アルファベット、インテル、ベライゾンなど今週注目の企業"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "J.P. Morgan Says These 2 Beaten-Down IPO Stocks Could Rebound",
+      "publisher": "TipRanks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-says-2-175700366.html",
+      "time": "2026-07-19T17:57:00Z",
+      "titleJa": "JPモルガン、低迷したこれら2つのIPO株は回復する可能性があると語る"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Active Funds Can’t Beat the S&P 500? This One Didn’t Get the Memo",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/07/19/active-funds-cant-beat-the-sp-500-this-one-didnt-get-the-memo/",
+      "time": "2026-07-19T16:36:43Z",
+      "titleJa": "アクティブファンドはS&P500に勝てない?こちらはメモを取得できませんでした"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-      "time": "2026-07-18T19:41:18Z",
-      "titleJa": "ダウ・ジョーンズ先物：イラン攻撃で米軍2名死亡。 Google、Tesla、AMDが先を行く"
+      "time": "2026-07-19T16:04:39Z",
+      "titleJa": "米国とイランの攻撃が激化する中、ダウジョーンズ先物相場が迫る。 Google、Tesla、AMDが先を行く"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "2 Vanguard ETFs Using Momentum to Outpace the S&P 500",
+      "title": "Energy Transfer Looks Poised to Outperform the S&P 500 in the Back Half of 2026",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/18/2-vanguard-etfs-using-momentum-to-outpace-sp-500/",
-      "time": "2026-07-18T18:50:00Z",
-      "titleJa": "2 つのバンガード ETF が S&P 500 を上回る勢いで成長"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "iShares' IGLB or Vanguard's VGLT: Which Long-Term Bond ETF Should Investors Choose?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/18/ishares-iglb-or-vanguard-s-vglt-which-long-term-bond-etf-should-investors-choose/",
-      "time": "2026-07-18T18:10:19Z",
-      "titleJa": "iシェアーズのIGLBとバンガードのVGLT：投資家はどちらの長期債券ETFを選ぶべきか？"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Which Energy ETF Is the Better Buy: State Street's XLE or First Trust's EMLP?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/18/which-energy-etf-is-the-better-buy-state-street-s-xle-or-first-trust-s-emlp/",
-      "time": "2026-07-18T17:39:27Z",
-      "titleJa": "ステート・ストリートのXLEとファースト・トラストのEMLPのどちらのエネルギーETFを買うのが良いでしょうか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Buy, Sell, or Hold: Ken Griffin’s 3 Mega-Cap Picks at Current Valuations",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/07/18/buy-sell-or-hold-ken-griffins-3-mega-cap-picks-at-current-valuations/",
-      "time": "2026-07-18T17:30:00Z",
-      "titleJa": "買う、売る、または保有する: ケン・グリフィンの現在の評価額で選ぶ 3 つのメガキャップ"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "A massive margin call and ‘push-button liquidity’ have torched stocks, but they’re now poised to rebound, top Wall Street forecaster says",
-      "publisher": "Fortune",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/massive-margin-call-push-button-172150503.html",
-      "time": "2026-07-18T17:21:50Z",
-      "titleJa": "大規模なマージンコールと「プッシュボタンの流動性」により株価は暴落したが、現在は回復する準備ができているとウォール街のトップ予測家が語る"
+      "link": "https://www.fool.com/investing/2026/07/19/energy-transfer-looks-poised-to-outperform-the-sp/",
+      "time": "2026-07-19T14:20:00Z",
+      "titleJa": "エネルギー移転は、2026 年下半期には S&P 500 を上回るパフォーマンスを発揮する見込み"
     }
   ]
 }
