@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "note": "GitHub Actions による自動更新（前営業日ベースの概算）",
   "stocks": {
     "9984.T": {
@@ -69,11 +69,11 @@
       ]
     },
     "NVDA": {
-      "price": 202.81,
+      "price": 203.28,
       "currency": "USD",
-      "marketCap": 4912260950866,
-      "prevClose": 205.97,
-      "changePct": -1.53,
+      "marketCap": 4923644850433,
+      "prevClose": 202.49,
+      "changePct": 0.39,
       "target": 302.31,
       "rating": "強い買い(58人)",
       "dividendYield": 0.02,
@@ -102,19 +102,19 @@
       ]
     },
     "TSM": {
-      "price": 398.37,
+      "price": 402.3,
       "currency": "USD",
-      "marketCap": 2066135627234,
-      "prevClose": 406.35,
-      "changePct": -1.96,
-      "target": 520.37,
+      "marketCap": 2086518432118,
+      "prevClose": 397.72,
+      "changePct": 1.15,
+      "target": 522.82,
       "rating": "強い買い(18人)",
-      "dividendYield": 2.93,
+      "dividendYield": 3.01,
       "profitMargin": 49.9,
       "revenue": 4440492343296,
       "netIncome": 2216808939520,
       "eps": 13.35,
-      "per": 29.8,
+      "per": 30.1,
       "finCurrency": "TWD",
       "history": [
         {
@@ -135,11 +135,11 @@
       ]
     },
     "AVGO": {
-      "price": 370.83,
+      "price": 378.16,
       "currency": "USD",
-      "marketCap": 1764253400940,
-      "prevClose": 373.9,
-      "changePct": -0.82,
+      "marketCap": 1799126545098,
+      "prevClose": 370.0,
+      "changePct": 2.21,
       "target": 524.51,
       "rating": "強い買い(45人)",
       "dividendYield": 0.68,
@@ -147,7 +147,7 @@
       "revenue": 75464998912,
       "netIncome": 29316999168,
       "eps": 6.01,
-      "per": 61.7,
+      "per": 62.9,
       "finCurrency": "USD",
       "history": [
         {
@@ -168,11 +168,11 @@
       ]
     },
     "MU": {
-      "price": 848.95,
+      "price": 865.46,
       "currency": "USD",
-      "marketCap": 958798329327,
-      "prevClose": 832.41,
-      "changePct": 1.99,
+      "marketCap": 977444621280,
+      "prevClose": 844.0,
+      "changePct": 2.54,
       "target": 1491.95,
       "rating": "強い買い(42人)",
       "dividendYield": 0.06,
@@ -180,7 +180,7 @@
       "revenue": 90273996800,
       "netIncome": 50468999168,
       "eps": 44.23,
-      "per": 19.2,
+      "per": 19.6,
       "finCurrency": "USD",
       "history": [
         {
@@ -463,19 +463,19 @@
       ]
     },
     "ASML": {
-      "price": 1747.58,
+      "price": 1739.02,
       "currency": "USD",
-      "marketCap": 671245461120,
-      "prevClose": 1765.85,
-      "changePct": -1.03,
-      "target": 2120.86,
+      "marketCap": 667957589501,
+      "prevClose": 1741.31,
+      "changePct": -0.13,
+      "target": 2117.91,
       "rating": "強い買い(15人)",
-      "dividendYield": 0.24,
+      "dividendYield": 0.25,
       "profitMargin": 30.1,
       "revenue": 35327500288,
       "netIncome": 10638399488,
       "eps": 29.01,
-      "per": 60.2,
+      "per": 59.9,
       "finCurrency": "EUR",
       "history": [
         {
@@ -660,11 +660,11 @@
       ]
     },
     "000660.KS": {
-      "price": 1842000.0,
+      "price": 1764000.0,
       "currency": "KRW",
-      "marketCap": 1307552709222000,
-      "prevClose": 2082000.0,
-      "changePct": -11.53,
+      "marketCap": 1252184027724000,
+      "prevClose": 1842000.0,
+      "changePct": -4.23,
       "target": 3408502.2,
       "rating": "強い買い(37人)",
       "dividendYield": 16.0,
@@ -691,11 +691,11 @@
       ]
     },
     "005930.KS": {
-      "price": 255000.0,
+      "price": 244000.0,
       "currency": "KRW",
-      "marketCap": 1674473592030000,
-      "prevClose": 279500.0,
-      "changePct": -8.77,
+      "marketCap": 1602241397864000,
+      "prevClose": 255000.0,
+      "changePct": -4.31,
       "target": 492536.72,
       "rating": "強い買い(36人)",
       "profitMargin": 21.5,
@@ -721,18 +721,18 @@
       ]
     },
     "SNDK": {
-      "price": 1354.82,
+      "price": 1390.95,
       "currency": "USD",
-      "marketCap": 200634957979,
-      "prevClose": 1366.0,
-      "changePct": -0.82,
+      "marketCap": 205985441659,
+      "prevClose": 1350.21,
+      "changePct": 3.02,
       "target": 2144.14,
       "rating": "買い(22人)",
       "profitMargin": 34.2,
       "revenue": 13184000000,
       "netIncome": 4506999808,
       "eps": 29.26,
-      "per": 46.3,
+      "per": 47.5,
       "finCurrency": "USD",
       "history": [
         {

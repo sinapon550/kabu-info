@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Warren Buffett Looks for Value in Today’s Market But Comes Up Empty: ‘Everybody Is Preferring Gambling’",
-      "publisher": "Benzinga",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-looks-value-today-203119733.html",
-      "time": "2026-07-19T20:31:19Z",
-      "titleJa": "ウォーレン・バフェット氏、今日の市場で価値を探しているが結果は空っぽ：「誰もがギャンブルを好む」"
+      "title": "Stock Market Today, July 20: AMC Surges on Earnings Beat and Record Revenue",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/20/stock-market-today-july-20-amc-surges-on-earnings-beat-and-record-revenue/",
+      "time": "2026-07-20T21:19:55Z",
+      "titleJa": "今日の株式市場、7 月 20 日: AMC が利益を上回り、記録的な収益を記録"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-loses-early-gains-as-fears-persist-over-oil-prices-ai-e6a109d7?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-20T21:13:00Z",
+      "titleJa": "原油価格とAIに対する懸念が根強く、ナスダックは序盤の利益を失う"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Stock Market Today, July 20: Warner Bros. Discovery Falls 4% as Judge Pauses $110 Billion Paramount Skydance Deal",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/20/stock-market-today-july-20-warner-bros-discovery-falls-4-as-judge-pauses-usd110-billion-paramount-skydance-deal/",
+      "time": "2026-07-20T21:12:18Z",
+      "titleJa": "今日の株式市場、7月20日: 判事が1,100億ドルのパラマウント・スカイダンス取引を一時停止したため、ワーナー・ブラザース・ディスカバリーは4%下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "GM Earnings Are Coming. Are Investors Missing Out?",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/gm-earnings-tariffs-stock-1c8b50f5?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-20T21:05:00Z",
+      "titleJa": "GM の収入が入ってきます。投資家はチャンスを逃しているのでしょうか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "When The Stock Market Fell JEPI ETF Outperformed",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/607978/when-the-stock-market-fell-jepi-etf-did-not/2026-07-20",
+      "time": "2026-07-20T21:00:31Z",
+      "titleJa": "株式市場下落時にJEPI ETFがアウトパフォームした"
     },
     {
       "ticker": "^DJI",
       "company": "経済",
-      "title": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/jobs-gm-tesla-alphabet-intel-verizon-and-more-to-watch-this-week-3dd9de07?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-19T18:00:00Z",
-      "titleJa": "ジョブズ、GM、テスラ、アルファベット、インテル、ベライゾンなど今週注目の企業"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "J.P. Morgan Says These 2 Beaten-Down IPO Stocks Could Rebound",
-      "publisher": "TipRanks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-says-2-175700366.html",
-      "time": "2026-07-19T17:57:00Z",
-      "titleJa": "JPモルガン、低迷したこれら2つのIPO株は回復する可能性があると語る"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Active Funds Can’t Beat the S&P 500? This One Didn’t Get the Memo",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/07/19/active-funds-cant-beat-the-sp-500-this-one-didnt-get-the-memo/",
-      "time": "2026-07-19T16:36:43Z",
-      "titleJa": "アクティブファンドはS&P500に勝てない?こちらはメモを取得できませんでした"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX, Tesla Tumble",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-      "time": "2026-07-19T16:04:39Z",
-      "titleJa": "米国とイランの攻撃が激化する中、ダウジョーンズ先物相場が迫る。 Google、Tesla、AMDが先を行く"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Energy Transfer Looks Poised to Outperform the S&P 500 in the Back Half of 2026",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/19/energy-transfer-looks-poised-to-outperform-the-sp/",
-      "time": "2026-07-19T14:20:00Z",
-      "titleJa": "エネルギー移転は、2026 年下半期には S&P 500 を上回るパフォーマンスを発揮する見込み"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-spacex-spcx-tesla-tsla/?src=A00220&yptr=yahoo",
+      "time": "2026-07-20T20:55:33Z",
+      "titleJa": "ダウ・ジョーンズ先物：トランプ大統領のコメントが株式市場の損失を引き起こす。イーロン・マスク率いるスペースX、テスラ・タンブル"
     }
   ]
 }
