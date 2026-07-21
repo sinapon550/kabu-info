@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 20: AMC Surges on Earnings Beat and Record Revenue",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/20/stock-market-today-july-20-amc-surges-on-earnings-beat-and-record-revenue/",
-      "time": "2026-07-20T21:19:55Z",
-      "titleJa": "今日の株式市場、7 月 20 日: AMC が利益を上回り、記録的な収益を記録"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-loses-early-gains-as-fears-persist-over-oil-prices-ai-e6a109d7?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-20T21:13:00Z",
-      "titleJa": "原油価格とAIに対する懸念が根強く、ナスダックは序盤の利益を失う"
+      "title": "Dow Jones Futures: S&P 500 Regains 50-Day As Sandisk, Micron Soar; Google, Tesla Earnings Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-sandisk-micron-google-tesla-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-07-21T21:48:27Z",
+      "titleJa": "ダウ・ジョーンズ先物：サンディスクとマイクロンが急騰し、S&P 500は50日間で上昇。 Google、Tesla の収益予定"
     },
     {
       "ticker": "^IXIC",
       "company": "経済",
-      "title": "Stock Market Today, July 20: Warner Bros. Discovery Falls 4% as Judge Pauses $110 Billion Paramount Skydance Deal",
+      "title": "Jim Cramer Says Forget Tech: Buy FedEx, Honeywell Aerospace, and GE Aerospace Instead",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/21/jim-cramer-says-forget-tech-buy-fedex-honeywell-aerospace-and-ge-aerospace-instead/",
+      "time": "2026-07-21T21:28:03Z",
+      "titleJa": "ジム・クレイマー氏、テクノロジーのことは忘れて、代わりにフェデックス、ハネウェル・エアロスペース、GE・エアロスペースを購入せよと語る"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, July 21: Micron Surges 12% as Semiconductor Strength Lifts Nasdaq",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/20/stock-market-today-july-20-warner-bros-discovery-falls-4-as-judge-pauses-usd110-billion-paramount-skydance-deal/",
-      "time": "2026-07-20T21:12:18Z",
-      "titleJa": "今日の株式市場、7月20日: 判事が1,100億ドルのパラマウント・スカイダンス取引を一時停止したため、ワーナー・ブラザース・ディスカバリーは4%下落"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/21/stock-market-today-july-21-micron-surges-12-as-semiconductor-strength-lifts-nasdaq/",
+      "time": "2026-07-21T21:23:44Z",
+      "titleJa": "今日、7月21日の株式市場：半導体の好調によりナスダックが上昇し、マイクロンが12％急騰"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "GM Earnings Are Coming. Are Investors Missing Out?",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/gm-earnings-tariffs-stock-1c8b50f5?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-20T21:05:00Z",
-      "titleJa": "GM の収入が入ってきます。投資家はチャンスを逃しているのでしょうか?"
+      "title": "Stock Market Today, July 21: Utz Brands Surges on $2.9 Billion Take-Private Deal. Here's the Lesson for Investors.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/21/stock-market-today-july-21-utz-brands-surges-on-usd2-9-billion-take-private-deal-here-s-the-lesson-for-investors/",
+      "time": "2026-07-21T21:22:15Z",
+      "titleJa": "今日の株式市場、7月21日: Utz Brandsが29億ドルの非公開化契約で急騰。これが投資家への教訓です。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "When The Stock Market Fell JEPI ETF Outperformed",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/607978/when-the-stock-market-fell-jepi-etf-did-not/2026-07-20",
-      "time": "2026-07-20T21:00:31Z",
-      "titleJa": "株式市場下落時にJEPI ETFがアウトパフォームした"
+      "title": "Warren Buffett’s $140 Billion Giveaway: Will Trump Accounts Get a Slice?",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/buffett-berkshire-stock-trump-accounts/",
+      "time": "2026-07-21T21:16:30Z",
+      "titleJa": "ウォーレン・バフェット氏の1,400億ドルの寄付: トランプ氏の口座は一部を手に入れることになるのか?"
     },
     {
-      "ticker": "^DJI",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX, Tesla Tumble",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-spacex-spcx-tesla-tsla/?src=A00220&yptr=yahoo",
-      "time": "2026-07-20T20:55:33Z",
-      "titleJa": "ダウ・ジョーンズ先物：トランプ大統領のコメントが株式市場の損失を引き起こす。イーロン・マスク率いるスペースX、テスラ・タンブル"
+      "title": "Update: US Equity Indexes Advance as Big Tech Helps Outweigh Worsening Iran Geopolitics",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-big-211103575.html",
+      "time": "2026-07-21T21:11:03Z",
+      "titleJa": "最新情報: 大手テクノロジー企業がイラン地政学の悪化を上回ることで米国株指数が上昇"
     }
   ]
 }
