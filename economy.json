@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-23",
+  "updated": "2026-07-24",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Google, Tesla Fall On Earnings, But Strong Capex Lifts AI Stocks",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-07-22T21:46:07Z",
-      "titleJa": "ダウ・ジョーンズ先物：グーグルとテスラは利益が落ち込むも、旺盛な設備投資がAI株を押し上げる"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, July 22: AT&T Beats Earnings on Strong Wireless Subscriber Growth",
+      "title": "Stock Market Today, July 23: Cleveland-Cliffs Stock Soars on Robust Steel Demand and Pricing",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/22/stock-market-today-july-22-att-beats-earnings-on-strong-wireless-subscriber-growth/",
-      "time": "2026-07-22T21:31:43Z",
-      "titleJa": "今日の株式市場、7 月 22 日: AT&T が無線加入者の堅調な伸びで利益を上回る"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/23/stock-market-today-july-23-cleveland-cliffs-stock-soars-on-robust-steel-demand-and-pricing/",
+      "time": "2026-07-23T21:49:31Z",
+      "titleJa": "今日、7月23日の株式市場: 旺盛な鉄鋼需要と価格を受けてクリーブランド・クリフスの株価が急騰"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 22: Ondas Secures $70 Million in New Orders, Rises 28% Over the Last Week",
+      "title": "3 Reasons to Avoid BEN and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-ben-1-214831450.html",
+      "time": "2026-07-23T21:48:31Z",
+      "titleJa": "BENを避けるべき3つの理由と代わりに買うべき1つの銘柄"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "The EM ETF Built on Demographics, Not Tech Hype",
+      "publisher": "etf.com",
+      "link": "http://www.etf.com/sections/podcasts/em-etf-built-demographics-not-tech-hype?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+      "time": "2026-07-23T21:41:24Z",
+      "titleJa": "新興国ETFはハイテク誇大宣伝ではなく、人口動態に基づいて構築された"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Nvidia's Stock Hasn't Been This Cheap Since 2019. Here's Why It's the Best Buy in the Market Now.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/22/stock-market-today-july-22-ondas-secures-usd70-million-in-new-orders-rises-28-over-the-last-week/",
-      "time": "2026-07-22T21:25:41Z",
-      "titleJa": "今日、7月22日の株式市場：オンダスは新規注文で7,000万ドルを確保、先週比28％上昇"
+      "link": "https://www.fool.com/investing/2026/07/23/nvidias-stock-hasnt-been-this-cheap-since-2019-her/",
+      "time": "2026-07-23T21:41:00Z",
+      "titleJa": "Nvidia の株価がこれほど安くなったのは 2019 年以来です。これが今市場で最もお買い得な理由です。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
-      "publisher": "decrypt",
-      "link": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets",
-      "time": "2026-07-22T21:13:04Z",
-      "titleJa": "Coinbase、カナダの株式、仮想通貨、予測市場のワンストップショップを目指す"
+      "title": "3 Reasons to Avoid DHT and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-dht-1-214031359.html",
+      "time": "2026-07-23T21:40:31Z",
+      "titleJa": "DHTを避けるべき3つの理由と代わりに買うべき1つの株"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P 500 Stock Chugs Past Buy Point; CSX Rises Late On Earnings",
+      "title": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late, SpaceX Starship Launch Due",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/news/sp-500-wabtec-earnings-q2-csx/?src=A00220&yptr=yahoo",
-      "time": "2026-07-22T21:09:18Z",
-      "titleJa": "S&P 500 株は買いポイントを超えて一気食い。 CSXは利益が遅れて上昇"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Update: US Equity Indexes Fall as Treasury Yields, Crude Oil Gains Reflect Concern Over Widening Disruption to Energy Supplies",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-treasury-210717450.html",
-      "time": "2026-07-22T21:07:17Z",
-      "titleJa": "最新情報: エネルギー供給への混乱拡大への懸念を反映し、米国債利回りの低下と原油上昇で米国株価指数が下落"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-sells-off-oil-prices-google-tesla-intel-spacex-starship-launch/?src=A00220&yptr=yahoo",
+      "time": "2026-07-23T21:35:21Z",
+      "titleJa": "ダウジョーンズ先物：原油価格、グーグル、テスラを受けて市場は下落。インテル、SpaceX スターシップの打ち上げ予定に遅れをとった"
     }
   ]
 }
