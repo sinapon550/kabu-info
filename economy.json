@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 23: Cleveland-Cliffs Stock Soars on Robust Steel Demand and Pricing",
+      "title": "Stock Market Today, July 24: Dow Recovers and Sandisk Tumbles 11% as Tech Stocks Fall Further",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/23/stock-market-today-july-23-cleveland-cliffs-stock-soars-on-robust-steel-demand-and-pricing/",
-      "time": "2026-07-23T21:49:31Z",
-      "titleJa": "今日、7月23日の株式市場: 旺盛な鉄鋼需要と価格を受けてクリーブランド・クリフスの株価が急騰"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/",
+      "time": "2026-07-24T21:24:53Z",
+      "titleJa": "今日の株式市場、7月24日: ハイテク株がさらに下落する中、ダウは回復、サンディスクは11%下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons to Avoid BEN and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-ben-1-214831450.html",
-      "time": "2026-07-23T21:48:31Z",
-      "titleJa": "BENを避けるべき3つの理由と代わりに買うべき1つの銘柄"
+      "title": "Wild Markets Week Settles Down",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/wild-markets-week-settles-down-40d27352?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-24T21:22:00Z",
+      "titleJa": "ワイルドマーケットウィークも落ち着きます"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The EM ETF Built on Demographics, Not Tech Hype",
-      "publisher": "etf.com",
-      "link": "http://www.etf.com/sections/podcasts/em-etf-built-demographics-not-tech-hype?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "time": "2026-07-23T21:41:24Z",
-      "titleJa": "新興国ETFはハイテク誇大宣伝ではなく、人口動態に基づいて構築された"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Nvidia's Stock Hasn't Been This Cheap Since 2019. Here's Why It's the Best Buy in the Market Now.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/23/nvidias-stock-hasnt-been-this-cheap-since-2019-her/",
-      "time": "2026-07-23T21:41:00Z",
-      "titleJa": "Nvidia の株価がこれほど安くなったのは 2019 年以来です。これが今市場で最もお買い得な理由です。"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "3 Reasons to Avoid DHT and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-dht-1-214031359.html",
-      "time": "2026-07-23T21:40:31Z",
-      "titleJa": "DHTを避けるべき3つの理由と代わりに買うべき1つの株"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late, SpaceX Starship Launch Due",
+      "title": "Dow Jones Futures: Apple Earnings, Iran News, Fed Meeting Loom As AI Stocks Sell Off",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-sells-off-oil-prices-google-tesla-intel-spacex-starship-launch/?src=A00220&yptr=yahoo",
-      "time": "2026-07-23T21:35:21Z",
-      "titleJa": "ダウジョーンズ先物：原油価格、グーグル、テスラを受けて市場は下落。インテル、SpaceX スターシップの打ち上げ予定に遅れをとった"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+      "time": "2026-07-24T21:14:34Z",
+      "titleJa": "ダウ・ジョーンズ先物：AI株が売られる中、Apple決算、イランニュース、FRB会合が迫る"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Weekly Wrap: Bitcoin Holds Firm As Stocks Post Losing Week",
+      "publisher": "CryptoProwl",
+      "link": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-holds-firm-as-stocks-post-losing-week-6256",
+      "time": "2026-07-24T21:11:00Z",
+      "titleJa": "週次ラップ：株価は下落週を経てもビットコインは堅調"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Update: Equities Mixed Amid Middle East Uncertainty; Wall Street Extends Weekly Losing Streak",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-amid-middle-east-211025749.html",
+      "time": "2026-07-24T21:10:25Z",
+      "titleJa": "最新情報: 中東の不確実性の中で株式市場はまちまち。ウォール街、週間連敗記録を延長"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Update: US Equity Indexes Mixed as Media Speculation of Iran Peace Talks Sends Crude Oil, Treasury Yields Lower",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-media-204757092.html",
+      "time": "2026-07-24T20:47:57Z",
+      "titleJa": "最新情報：イラン和平交渉に関するメディアの憶測で原油流出、財務省利回り低下で米国株指数はまちまち"
     }
   ]
 }

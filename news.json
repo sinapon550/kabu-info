@@ -1,134 +1,254 @@
 {
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amkor-strike-1-5-214417511.html",
-      "time": "2026-07-23T21:44:17Z",
-      "titleJa": "NvidiaとAmkorが15億ドルのチップパッケージング契約を結ぶ",
+      "title": "Missed Out on Nvidia's Historic Run? These 2 Tech Winners Are Just Getting Started.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/24/missed-out-on-nvidias-historic-run-these-2-tech-wi/",
+      "time": "2026-07-24T21:50:00Z",
+      "titleJa": "Nvidia の歴史的な快進撃を見逃しませんか?これら 2 つのテクノロジー部門の受賞者はまだ始まったばかりです。",
       "relevant": true
     },
     {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amkor-strike-1-5-214417511.html",
-      "time": "2026-07-23T21:44:17Z",
-      "titleJa": "NvidiaとAmkorが15億ドルのチップパッケージング契約を結ぶ",
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Missed Out on Nvidia's Historic Run? These 2 Tech Winners Are Just Getting Started.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/24/missed-out-on-nvidias-historic-run-these-2-tech-wi/",
+      "time": "2026-07-24T21:50:00Z",
+      "titleJa": "Nvidia の歴史的な快進撃を見逃しませんか?これら 2 つのテクノロジー部門の受賞者はまだ始まったばかりです。",
+      "relevant": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Missed Out on Nvidia's Historic Run? These 2 Tech Winners Are Just Getting Started.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/24/missed-out-on-nvidias-historic-run-these-2-tech-wi/",
+      "time": "2026-07-24T21:50:00Z",
+      "titleJa": "Nvidia の歴史的な快進撃を見逃しませんか?これら 2 つのテクノロジー部門の受賞者はまだ始まったばかりです。",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Nvidia's Stock Hasn't Been This Cheap Since 2019. Here's Why It's the Best Buy in the Market Now.",
+      "title": "Interactive Brokers Has Posted a Pre-Tax Margin Above 70% for 7 Straight Quarters. Why Rivals Struggle to Copy It",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/23/nvidias-stock-hasnt-been-this-cheap-since-2019-her/",
-      "time": "2026-07-23T21:41:00Z",
-      "titleJa": "Nvidia の株価がこれほど安くなったのは 2019 年以来です。これが今市場で最もお買い得な理由です。",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Advanced Micro Devices Bets on Helios, Agentic AI to Drive Data Center Growth",
-      "publisher": "MarketBeat",
-      "link": "https://www.marketbeat.com/instant-alerts/advanced-micro-devices-bets-on-helios-agentic-ai-to-drive-data-center-growth-2026-07-23/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "time": "2026-07-23T21:07:31Z",
-      "titleJa": "Advanced Micro Devices は、データセンターの成長を促進する Agentic AI である Helios に賭けます",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "S&P 500 Q2 Earnings: Stripping Out the Outsized Impact of Alphabet and Micron",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-q2-earnings-stripping-204500975.html",
-      "time": "2026-07-23T20:45:00Z",
-      "titleJa": "S&P 500 第 2 四半期決算: アルファベットとマイクロンの巨大な影響を取り除く",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Stock Market Today: Nasdaq Plunges To 4-Week Low; Metals Firm Kaiser Hits New Entry (Live Coverage)",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-alphabet-googl-tesla-tsla/?src=A00220&yptr=yahoo",
-      "time": "2026-07-23T20:43:44Z",
-      "titleJa": "今日の株式市場：ナスダックは4週間ぶりの安値に下落。金属会社カイザーが新規参入（ライブ中継）",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Stock Market Today: Nasdaq Plunges To 4-Week Low; Metals Firm Kaiser Hits New Entry (Live Coverage)",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-alphabet-googl-tesla-tsla/?src=A00220&yptr=yahoo",
-      "time": "2026-07-23T20:43:44Z",
-      "titleJa": "今日の株式市場：ナスダックは4週間ぶりの安値に下落。金属会社カイザーが新規参入（ライブ中継）",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "SK Hynix ADR Cap Keeps 51% Premium Arbitrage Alive",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-adr-cap-keeps-204102084.html",
-      "time": "2026-07-23T20:41:02Z",
-      "titleJa": "SKハイニックスのADR上限により51%のプレミアムアービトラージが存続",
-      "relevant": true
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Why Nvidia Stock Isn’t Rallying as It Should After Alphabet Earnings",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/nvidia-stock-alphabet-earnings-skhynix-3768645b?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-23T20:39:00Z",
-      "titleJa": "アルファベットの利益後もNVIDIA株が思うように上昇しない理由",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Established Firm Harding Loevner Enters ETF Market With LOEV for International Investors",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/07/23/established-firm-harding-loevner-enters-etf-market-with-loev-for-international-investors/",
-      "time": "2026-07-23T19:41:11Z",
-      "titleJa": "老舗ハーディング・ロブナーが海外投資家向けLOEVでETF市場に参入",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Marvell Technology Stock And The Forecast It Kept Outgrowing",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/608532/marvell-technology-stock-and-the-forecast-it-kept-outgrowing/2026-07-23",
-      "time": "2026-07-23T19:28:30Z",
-      "titleJa": "マーベル・テクノロジー株とそれを上回る成長を続ける予測",
+      "link": "https://www.fool.com/investing/2026/07/24/interactive-brokers-has-posted-a-pre-tax-margin-ab/",
+      "time": "2026-07-24T21:25:00Z",
+      "titleJa": "インタラクティブ・ブローカーズは、7四半期連続で税引き前利益率が70%を超えています。ライバルが真似しようと奮闘する理由",
       "relevant": true
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Missed NVIDIA? This AI Memory Stock Could Be the Next Big Winner",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/missed-nvidia-ai-memory-stock-190000412.html",
-      "time": "2026-07-23T19:00:00Z",
-      "titleJa": "NVIDIA を見逃しましたか?この AI メモリ株が次の大きな勝者となる可能性がある",
-      "relevant": false
+      "title": "Stock Market Today, July 24: Dow Recovers and Sandisk Tumbles 11% as Tech Stocks Fall Further",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/",
+      "time": "2026-07-24T21:24:53Z",
+      "titleJa": "今日の株式市場、7月24日: ハイテク株がさらに下落する中、ダウは回復、サンディスクは11%下落",
+      "relevant": true
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "SiTime is Riding the Shift to AI Timing and Smarter Networks",
+      "title": "MRVL Has Momentum. The Question Is The Price",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/608755/mrvl-has-momentum-the-question-is-the-price/2026-07-24",
+      "time": "2026-07-24T21:14:44Z",
+      "titleJa": "MRVLには勢いがある。問題は価格です",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Qualcomm (QCOM) Raises Product Prices And Deepens Samsung Snapdragon Ties",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-raises-product-prices-210951335.html",
+      "time": "2026-07-24T21:09:51Z",
+      "titleJa": "クアルコム（QCOM）が製品価格を引き上げ、Samsung Snapdragon との関係を強化",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Intel’s Strong Earnings Couldn’t Save the Stock From an AI Spending Panic",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/intel-stock-price-earnings-ai-panic-0c53fe8c?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-24T20:31:00Z",
+      "titleJa": "インテルの好調な収益でも株価をAI支出パニックから救えなかった",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Stock Market Today: Nasdaq Sinks As Sellers Hit Memory Chips; Oil, Yields Slide (Live Coverage)",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-intel-stock/?src=A00220&yptr=yahoo",
+      "time": "2026-07-24T20:25:32Z",
+      "titleJa": "今日の株式市場: 売り手がメモリチップにヒットし、ナスダックは下落。原油、利回りスライド (ライブカバレッジ)",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Stock Market Today: Nasdaq Sinks As Sellers Hit Memory Chips; Oil, Yields Slide (Live Coverage)",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-intel-stock/?src=A00220&yptr=yahoo",
+      "time": "2026-07-24T20:25:32Z",
+      "titleJa": "今日の株式市場: 売り手がメモリチップにヒットし、ナスダックは下落。原油、利回りスライド (ライブカバレッジ)",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "SpaceX, Micron, SAP, Verizon, Amex, Tenet, and More Stocks That Explain Today’s Market",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stock-movers-cb742eac?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-24T20:25:00Z",
+      "titleJa": "SpaceX、Micron、SAP、Verizon、Amex、Tenet など、今日の市場を説明する銘柄",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-memory-5510bb0f?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-24T19:06:00Z",
+      "titleJa": "マイクロン株は下落して好調な週を終える。次に何が起こるかによって、メモリブームが決定づけられる可能性があります。",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Samsung, SK Hynix Prepare Major AI Deals as $880 Billion Plan Advances",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-sk-hynix-prepare-major-185441252.html",
+      "time": "2026-07-24T18:54:41Z",
+      "titleJa": "サムスンとSKハイニックス、8,800億ドル計画の前進で大規模なAI取引を準備",
+      "relevant": true
+    },
+    {
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "AI Memory Stocks Lead Chip Selloff",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/articles/ai-memory-stocks-lead-chip-182413900.html",
+      "time": "2026-07-24T18:24:13Z",
+      "titleJa": "AIメモリ株がチップ下落をリード",
+      "relevant": false
+    },
+    {
+      "ticker": "8035.T",
+      "company": "東京エレクトロン",
+      "title": "AI Memory Stocks Lead Chip Selloff",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/articles/ai-memory-stocks-lead-chip-182413900.html",
+      "time": "2026-07-24T18:24:13Z",
+      "titleJa": "AIメモリ株がチップ下落をリード",
+      "relevant": false
+    },
+    {
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "Should You Buy, Sell, or Hold TER Stock Before Q2 Earnings Release?",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sitime-riding-shift-ai-timing-182600776.html",
-      "time": "2026-07-23T18:26:00Z",
-      "titleJa": "SiTime は AI タイミングとよりスマートなネットワークへの移行を推進しています",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-ter-stock-173900347.html",
+      "time": "2026-07-24T17:39:00Z",
+      "titleJa": "第2四半期決算発表前にTER株を買うべきか、売るべきか、それとも保有すべきか?",
+      "relevant": false
+    },
+    {
+      "ticker": "8058.T",
+      "company": "三菱商事",
+      "title": "Critical minerals start-up threatens to quit Britain",
+      "publisher": "The Telegraph",
+      "link": "https://www.telegraph.co.uk/business/2026/07/24/critical-minerals-start-up-threatens-to-quit-britain/",
+      "time": "2026-07-24T17:22:34Z",
+      "titleJa": "クリティカル・ミネラルの新興企業が英国から撤退の危機",
+      "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Mitsubishi Motors to Invest Bt16bn in Thailand’s EV Push by 2030 – report",
+      "publisher": "Just Auto",
+      "link": "https://www.just-auto.com/news/mitsubishi-motors-invest-thailand/",
+      "time": "2026-07-24T17:13:18Z",
+      "titleJa": "三菱自動車、2030年までにタイのEV推進に160億バーツ投資へ – レポート",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners",
+      "publisher": "Investopedia",
+      "link": "https://www.investopedia.com/chip-stocks-slide-friday-memory-favorites-micron-sandisk-among-big-decliners-mu-sndk-intel-intc-12026380",
+      "time": "2026-07-24T17:10:48Z",
+      "titleJa": "金曜日、チップ株が下落—メモリー人気銘柄のマイクロンとサンディスクが大幅下落銘柄に名を連ねる",
+      "relevant": false
+    },
+    {
+      "ticker": "8591.T",
+      "company": "オリックス",
+      "title": "IX vs. FUTU: Which Stock Is the Better Value Option?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ix-vs-futu-stock-better-154002828.html",
+      "time": "2026-07-24T15:40:02Z",
+      "titleJa": "IX vs. FUTU: どちらの株がより価値のあるオプションですか?",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "3 Wireless Non-US Stocks Set to Brave Potent Industry Challenges",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-wireless-non-us-stocks-150300886.html",
+      "time": "2026-07-24T15:03:00Z",
+      "titleJa": "ワイヤレス業界の強力な課題に立ち向かう米国以外の 3 つの株式銘柄",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "LRCX Poised for a Q4 Earnings Surprise: Should You Buy the Stock Now?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lrcx-poised-q4-earnings-surprise-124400283.html",
+      "time": "2026-07-24T12:44:00Z",
+      "titleJa": "LRCX、第4四半期決算のサプライズに備え：今すぐ株を買うべきか？",
+      "relevant": true
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "SoftBank Weighs Deal for Robotics Startup Gravis",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-weighs-deal-robotics-startup-084539073.html",
+      "time": "2026-07-24T08:45:39Z",
+      "titleJa": "ソフトバンク、ロボット工学スタートアップGravisとの取引を検討",
+      "relevant": true
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "European Stock Indexes Higher as Software Stocks Bounce",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-3-dragged-by-tech-chip-stocks-4b55c44c?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-24T07:44:00Z",
+      "titleJa": "ソフトウェア株の反発で欧州株価指数が上昇",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "AMSL, AMAT, KLAC, LRCX: Chipmaking Equipment Stocks Rise On Intel’s CapEx Bump",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/amsl-amat-klac-lrcx-chipmaking-equipment-stocks-rise-on-intel-s-cap-ex-bump/cZZYiRkR7UD",
+      "time": "2026-07-24T02:44:33Z",
+      "titleJa": "AMSL、AMAT、KLAC、LRCX: インテルの設備投資急増でチップ製造装置株が上昇",
       "relevant": false
     },
     {
@@ -142,36 +262,6 @@
       "relevant": true
     },
     {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Qualcomm deepens ties with major Apple rival",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/technology/qualcomm-samsung-expanded-chip-partnership",
-      "time": "2026-07-23T18:03:00Z",
-      "titleJa": "クアルコム、アップルの大手ライバルと関係を深める",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Micron vs. SK Hynix: Which Is the Better Memory Stock to Buy?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/23/micron-vs-sk-hynix-which-is-the-better-memory-stoc/",
-      "time": "2026-07-23T17:14:00Z",
-      "titleJa": "Micron vs. SK Hynix: メモリ株を買うのはどちらが良いでしょうか?",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Magnificent 7 Loses $767 Billion as AI Skeptics Dump Tech Stocks",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-7-loses-767-billion-165322426.html",
-      "time": "2026-07-23T16:53:22Z",
-      "titleJa": "AI懐疑論者がハイテク株を売却し、マグニフィセント7は7,670億ドル損失",
-      "relevant": false
-    },
-    {
       "ticker": "7267.T",
       "company": "本田技研工業",
       "title": "QuantumScape Sinks 14%, Solid Power and SES AI Fall as Solid-State Battery Stocks Slide",
@@ -180,16 +270,6 @@
       "time": "2026-07-23T15:37:32Z",
       "titleJa": "全固体電池株の下落でQuantumScapeが14％下落、ソリッドパワーとSES AIも下落",
       "relevant": false
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "QS Q2 Earnings Call Focuses on Honda and New Markets",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/qs-q2-earnings-call-focuses-140000666.html",
-      "time": "2026-07-23T14:00:00Z",
-      "titleJa": "QS 第 2 四半期決算説明会はホンダと新市場に焦点を当てる",
-      "relevant": true
     },
     {
       "ticker": "7011.T",
@@ -208,7 +288,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-ufj-financial-group-tse-111036988.html",
       "time": "2026-07-23T11:10:36Z",
-      "titleJa": "三菱UFJフィナンシャル・グループ(東証:8306)は現在、過小評価されていますか、それとも高値ですか?",
+      "titleJa": "三菱UFJフィナンシャル・グループ（東証：8306）は現在、過小評価されているのか、それとも割高ですか？",
       "relevant": true
     },
     {
@@ -230,16 +310,6 @@
       "time": "2026-07-23T07:28:00Z",
       "titleJa": "ハイテク闘争の延長で欧州株価指数が下落",
       "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "SoftBank's $5.4 Billion Robotics Bet Secures $1.75 Billion Loan",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/softbanks-5-4-billion-robotics-210713807.html",
-      "time": "2026-07-22T21:07:13Z",
-      "titleJa": "ソフトバンクの54億ドルのロボット工学への賭けで17億5000万ドルの融資を確保",
-      "relevant": true
     },
     {
       "ticker": "6954.T",
@@ -272,36 +342,6 @@
       "relevant": false
     },
     {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "2 Quantum Stocks With 100%+ Upside After the Quantinuum-SoftBank Deal",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-quantum-stocks-100-upside-190000601.html",
-      "time": "2026-07-22T19:00:00Z",
-      "titleJa": "クアンタムとソフトバンクの取引後、100%以上の上昇余地がある2つのクアンタム株",
-      "relevant": true
-    },
-    {
-      "ticker": "6857.T",
-      "company": "アドバンテスト",
-      "title": "Advantest (TSE:6857) Stock Trades About Right As SiConic DFT Expands",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-tse-6857-stock-trades-181100529.html",
-      "time": "2026-07-22T18:11:00Z",
-      "titleJa": "SiConic DFT の拡大に伴い、アドバンテスト (東証:6857) の株価はほぼ順調に推移",
-      "relevant": true
-    },
-    {
-      "ticker": "6857.T",
-      "company": "アドバンテスト",
-      "title": "Advantest (TSE:6857) Expands SiConic With A New DFT Engineering Environment",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-tse-6857-expands-siconic-161013415.html",
-      "time": "2026-07-22T16:10:13Z",
-      "titleJa": "アドバンテスト (東証:6857)、新たな DFT エンジニアリング環境で SiConic を拡張",
-      "relevant": true
-    },
-    {
       "ticker": "2914.T",
       "company": "日本たばこ産業",
       "title": "Is Bunzl (BZLFY) Outperforming Other Consumer Staples Stocks This Year?",
@@ -332,16 +372,6 @@
       "relevant": false
     },
     {
-      "ticker": "285A.T",
-      "company": "キオクシア",
-      "title": "Western Digital (WDC) Revives Kioxia Merger Talks Over Flash Memory Assets",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-revives-kioxia-031926081.html",
-      "time": "2026-07-22T03:19:26Z",
-      "titleJa": "Western Digital (WDC)、フラッシュメモリ資産をめぐるキオクシア合併協議を復活",
-      "relevant": true
-    },
-    {
       "ticker": "8591.T",
       "company": "オリックス",
       "title": "Best Momentum Stocks to Buy for July 21st",
@@ -352,16 +382,6 @@
       "relevant": false
     },
     {
-      "ticker": "8591.T",
-      "company": "オリックス",
-      "title": "Is Orix Corp Ads (IX) Stock Undervalued Right Now?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/orix-corp-ads-ix-stock-134002961.html",
-      "time": "2026-07-21T13:40:02Z",
-      "titleJa": "オリックス広告 (IX) の株価は現在過小評価されていますか?",
-      "relevant": true
-    },
-    {
       "ticker": "4704.T",
       "company": "トレンドマイクロ",
       "title": "Logistics expansion: ITE adds 20,000 chassis to intermodal platform via NACPC deal",
@@ -369,16 +389,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/logistics-expansion-ite-adds-20-130000770.html",
       "time": "2026-07-21T13:00:00Z",
       "titleJa": "物流の拡張: ITE は NACPC 契約を通じて複合一貫輸送プラットフォームに 20,000 台のシャーシを追加",
-      "relevant": false
-    },
-    {
-      "ticker": "8035.T",
-      "company": "東京エレクトロン",
-      "title": "Advanced chipmaking tool arrives at New York state innovation hub",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/technology/articles/advanced-chipmaking-tool-arrives-york-120148994.html",
-      "time": "2026-07-21T12:01:48Z",
-      "titleJa": "先進的なチップ製造ツールがニューヨーク州のイノベーションハブに到着",
       "relevant": false
     },
     {
@@ -400,36 +410,6 @@
       "time": "2026-07-20T15:33:18Z",
       "titleJa": "柴犬（SHIB）は死んだのか？オンチェーンデータが示す悲しい現実",
       "relevant": false
-    },
-    {
-      "ticker": "4755.T",
-      "company": "楽天グループ",
-      "title": "A $1 Billion Reason to Sell AST SpaceMobile Stock Here",
-      "publisher": "Barchart",
-      "link": "https://www.barchart.com/story/news/3348793/a-1-billion-reason-to-sell-ast-spacemobile-stock-here",
-      "time": "2026-07-18T14:00:02Z",
-      "titleJa": "AST SpaceMobile株をここで売却する10億ドルの理由",
-      "relevant": false
-    },
-    {
-      "ticker": "8058.T",
-      "company": "三菱商事",
-      "title": "Some of Berkshire's Newest Bets Aren't American. Greg Abel Bought 3 Japanese Trading Houses Last Quarter.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/18/some-of-berkshires-newest-bets-arent-american-greg/",
-      "time": "2026-07-18T04:39:00Z",
-      "titleJa": "バークシャーの最新の賭けの中にはアメリカのものではないものもあります。グレッグ・エイベルは前四半期に日本の商社を3社買収した。",
-      "relevant": false
-    },
-    {
-      "ticker": "6501.T",
-      "company": "日立製作所",
-      "title": "Hitachi (TSE:6501) Could Be 22% Undervalued As EVTOL Charging Deal Draws Focus",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hitachi-tse-6501-could-22-020744372.html",
-      "time": "2026-07-18T02:07:44Z",
-      "titleJa": "EVTOLの有料化合意が注目を集める中、日立（東証：6501）は22％過小評価される可能性がある",
-      "relevant": true
     }
   ]
 }
