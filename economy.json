@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 24: Dow Recovers and Sandisk Tumbles 11% as Tech Stocks Fall Further",
+      "title": "VEA vs. SPGM: Which Global Stock ETF Is the Better Buy?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/",
-      "time": "2026-07-24T21:24:53Z",
-      "titleJa": "今日の株式市場、7月24日: ハイテク株がさらに下落する中、ダウは回復、サンディスクは11%下落"
+      "link": "https://www.fool.com/coverage/etfs/2026/07/25/vea-vs-spgm-which-global-stock-etf-is-the-better-buy/",
+      "time": "2026-07-25T20:34:15Z",
+      "titleJa": "VEA 対 SPGM: どの世界株式 ETF を買うのがより良いですか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Wild Markets Week Settles Down",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/wild-markets-week-settles-down-40d27352?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-24T21:22:00Z",
-      "titleJa": "ワイルドマーケットウィークも落ち着きます"
+      "title": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/25/ranking-the-best-magnificent-seven-stocks-to-buy-r/",
+      "time": "2026-07-25T19:50:00Z",
+      "titleJa": "今買うべき「マグニフィセント・セブン」株ランキング"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Apple Earnings, Iran News, Fed Meeting Loom As AI Stocks Sell Off",
+      "title": "Global Markets (SPGM) or Emerging Growth (IEMG)? Which Fund is the Right Choice?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/25/global-markets-spgm-or-emerging-growth-iemg-which-fund-is-the-right-choice/",
+      "time": "2026-07-25T19:10:01Z",
+      "titleJa": "グローバル市場 (SPGM) または新興成長市場 (IEMG)?どのファンドが正しい選択でしょうか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-      "time": "2026-07-24T21:14:34Z",
-      "titleJa": "ダウ・ジョーンズ先物：AI株が売られる中、Apple決算、イランニュース、FRB会合が迫る"
+      "time": "2026-07-25T19:09:11Z",
+      "titleJa": "ダウ・ジョーンズ先物：市場のトリガーは売りシグナル。 Appleの決算、イランニュース、FRB会合が注目"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Weekly Wrap: Bitcoin Holds Firm As Stocks Post Losing Week",
-      "publisher": "CryptoProwl",
-      "link": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-holds-firm-as-stocks-post-losing-week-6256",
-      "time": "2026-07-24T21:11:00Z",
-      "titleJa": "週次ラップ：株価は下落週を経てもビットコインは堅調"
+      "title": "Which Global ETF is the Right Choice? SPGM and SPDW Offer Differing Approaches",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/25/which-global-etf-is-the-right-choice-spgm-and-spdw-offer-differing-approaches/",
+      "time": "2026-07-25T18:35:01Z",
+      "titleJa": "どのグローバルETFが正しい選択でしょうか? SPGM と SPDW は異なるアプローチを提供します"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: Equities Mixed Amid Middle East Uncertainty; Wall Street Extends Weekly Losing Streak",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-amid-middle-east-211025749.html",
-      "time": "2026-07-24T21:10:25Z",
-      "titleJa": "最新情報: 中東の不確実性の中で株式市場はまちまち。ウォール街、週間連敗記録を延長"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Update: US Equity Indexes Mixed as Media Speculation of Iran Peace Talks Sends Crude Oil, Treasury Yields Lower",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-media-204757092.html",
-      "time": "2026-07-24T20:47:57Z",
-      "titleJa": "最新情報：イラン和平交渉に関するメディアの憶測で原油流出、財務省利回り低下で米国株指数はまちまち"
+      "title": "Nvidia stock is doing something it hasn't done in years",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/nvidia-stock-is-doing-something-it-hasnt-done-in-years",
+      "time": "2026-07-25T17:47:00Z",
+      "titleJa": "Nvidia株はここ何年もやっていなかったことをやっている"
     }
   ]
 }
