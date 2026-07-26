@@ -1,85 +1,105 @@
 {
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What It's Selling.",
+      "title": "Forget IonQ, Rigetti Computing, and D-Wave Quantum. This Trillion-Dollar Artificial Intelligence (AI) Stock Is the Best Quantum Computing Opportunity, and It's Currently Trading at a 7-Year Valuation Low.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/25/coreweave-stock-fell-114-on-friday-the-sell-off-is/",
-      "time": "2026-07-25T21:27:00Z",
-      "titleJa": "金曜日、コアウィーブ株は１１．４％下落した。売却は、何を売ったのかではなく、何を費やしたかが重要だ。",
+      "link": "https://www.fool.com/investing/2026/07/26/forget-ionq-rigetti-computing-and-d-wave-quantum-t/",
+      "time": "2026-07-26T21:43:00Z",
+      "titleJa": "IonQ、Rigetti Computing、D-Wave Quantum のことは忘れてください。この数兆ドル規模の人工知能 (AI) 株は量子コンピューティングの最高の機会であり、現在は 7 年間で最低の評価額で取引されています。",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "NuScale Power Is Down 38% This Year: Here's What the Next 5 Years Could Look Like",
+      "title": "American Airlines Cut Its Full-Year Guidance. The Stock Rose 6.8% the Next Day.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/25/nuscale-power-is-down-x-this-year-heres-what-the-n/",
-      "time": "2026-07-25T21:25:00Z",
-      "titleJa": "NuScale のパワーは今年 38% 減少: 今後 5 年間はどうなるか",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Apple (AAPL) Readies Foldable iPhone As Samsung Launches New Rival Phones",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-readies-foldable-iphone-190820707.html",
-      "time": "2026-07-25T19:08:20Z",
-      "titleJa": "サムスンが新しいライバル携帯電話を発売する中、アップル（AAPL）は折りたたみ式iPhoneを準備",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Micron, Nvidia, or SpaceX: Which Is the Best AI Stock to Put $1,000 in Right Now?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/25/micron-nvidia-or-spacex-which-is-the-best-ai-stock/",
-      "time": "2026-07-25T18:20:00Z",
-      "titleJa": "Micron、Nvidia、SpaceX: 今 1,000 ドルを投資するのに最適な AI 株はどれですか?",
+      "link": "https://www.fool.com/investing/2026/07/26/american-airlines-cut-its-full-year-guidance-the-s/",
+      "time": "2026-07-26T21:32:00Z",
+      "titleJa": "アメリカン航空は通期見通しを引き下げた。翌日、株価は6.8％上昇した。",
       "relevant": true
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Korea's chipmakers prepare big U.S. deals in Silicon Valley",
+      "title": "Nvidia just locked down deal that changes AI race",
       "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/latest-news/samsung-sk-hynix-us-memory-chip-deals",
-      "time": "2026-07-25T16:55:40Z",
-      "titleJa": "韓国のチップメーカー、シリコンバレーで米国との大型取引を準備",
+      "link": "https://www.thestreet.com/technology/nvidia-just-locked-down-a-deal-that-changes-the-ai-race-sk-hynix",
+      "time": "2026-07-26T21:07:00Z",
+      "titleJa": "Nvidia、AI 競争を変える取引をロックダウンしたばかり",
       "relevant": false
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "Korea's chipmakers prepare big U.S. deals in Silicon Valley",
+      "title": "Nvidia just locked down deal that changes AI race",
       "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/latest-news/samsung-sk-hynix-us-memory-chip-deals",
-      "time": "2026-07-25T16:55:40Z",
-      "titleJa": "韓国のチップメーカー、シリコンバレーで米国との大型取引を準備",
+      "link": "https://www.thestreet.com/technology/nvidia-just-locked-down-a-deal-that-changes-the-ai-race-sk-hynix",
+      "time": "2026-07-26T21:07:00Z",
+      "titleJa": "Nvidia、AI 競争を変える取引をロックダウンしたばかり",
       "relevant": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Micron vs. Sandisk: Which Stock Is the Better Buy for the Memory Boom?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/07/26/micron-vs-sandisk-which-stock-is-the-better-buy-fo/",
+      "time": "2026-07-26T17:43:00Z",
+      "titleJa": "マイクロン vs. サンディスク: メモリブームを考えるとどちらの株を買うのが良いでしょうか?",
+      "relevant": true
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Two Wall Street Analysts Just Set Price Targets on Sandisk $1,430 Apart. One of Them Is Going to Be Very Wrong.",
+      "title": "Micron vs. Sandisk: Which Stock Is the Better Buy for the Memory Boom?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/25/two-wall-street-analysts-just-set-price-targets-on/",
-      "time": "2026-07-25T14:37:00Z",
-      "titleJa": "ウォール街アナリスト2名がサンディスクの目標株価を1,430ドル差で設定したところだ。そのうちの1つは非常に間違っているでしょう。",
+      "link": "https://www.fool.com/investing/2026/07/26/micron-vs-sandisk-which-stock-is-the-better-buy-fo/",
+      "time": "2026-07-26T17:43:00Z",
+      "titleJa": "マイクロン vs. サンディスク: メモリブームを考えるとどちらの株を買うのが良いでしょうか?",
       "relevant": true
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Should You Buy Micron Stock Below $1,000? Here's What the Math Says.",
+      "title": "This AI Stock Has Tripled in 2026. It Could Still Double in 3 Years (Hint: It's Not Micron)",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/25/should-you-buy-micron-stock-below-price-heres-what/",
-      "time": "2026-07-25T13:43:00Z",
-      "titleJa": "1,000ドル以下でマイクロン株を買うべきでしょうか?数学が何を示しているかは次のとおりです。",
+      "link": "https://www.fool.com/investing/2026/07/26/this-ai-stock-has-tripled-in-2026-it-could-still-d/",
+      "time": "2026-07-26T15:43:00Z",
+      "titleJa": "この AI 株は 2026 年に 3 倍になりました。3 年以内にはさらに 2 倍になる可能性があります (ヒント: マイクロンではありません)",
       "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/the-ai-trade-is-still-on-wall-street-sees-big-techs-spending-as-positive-for-semiconductor-stocks-121056519.html",
+      "time": "2026-07-26T12:10:56Z",
+      "titleJa": "「AI貿易はまだ続いている」：ウォール街はビッグテック企業の支出が半導体株にとってプラスであると見ている",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "SK Hynix’s US share premium flashes another AI bubble warning",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-us-share-premium-053342286.html",
+      "time": "2026-07-26T05:33:42Z",
+      "titleJa": "SKハイニックスの米国株プレミアム、AIバブルの新たな警告を発する",
+      "relevant": true
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "No Matter Who Wins the Smartphone and AI Chip Races, ARM Stock Still Benefits",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/3465389/no-matter-who-wins-the-smartphone-and-ai-chip-races-arm-stock-still-benefits",
+      "time": "2026-07-25T19:30:02Z",
+      "titleJa": "スマートフォンとAIチップの競争で誰が勝っても、ARM株は依然として恩恵を受ける",
+      "relevant": false
     },
     {
       "ticker": "AVGO",
@@ -90,16 +110,6 @@
       "time": "2026-07-25T13:00:00Z",
       "titleJa": "米国のメモリ株の下落は投資家に新たな購入機会をもたらす可能性がある",
       "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Citi brush off memory \"peak-out\" fears, reiterates Buy on Samsung and SK Hynix",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-brush-off-memory-peak-112454050.html",
-      "time": "2026-07-25T11:24:54Z",
-      "titleJa": "シティ、メモリの「ピークアウト」懸念を払拭、サムスンとSKハイニックスで購入を繰り返す",
-      "relevant": true
     },
     {
       "ticker": "ASML",
@@ -150,16 +160,6 @@
       "time": "2026-07-25T06:30:12Z",
       "titleJa": "サムスン、ブロードコムへのチップ供給で2,000億ドルの受注を獲得",
       "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Better Artificial Intelligence (AI) Buy: Micron Technology vs. Sandisk",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/25/better-artificial-intelligence-ai-buy-micron-techn/",
-      "time": "2026-07-25T04:20:00Z",
-      "titleJa": "より優れた人工知能 (AI) の購入: マイクロン テクノロジー vs. サンディスク",
-      "relevant": true
     },
     {
       "ticker": "TSM",
@@ -298,7 +298,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-stock-looks-overvalued-130830183.html",
       "time": "2026-07-23T13:08:30Z",
-      "titleJa": "エンタージー (ETR) 株は好調な後も過大評価されているように見える",
+      "titleJa": "エンタジー (ETR) 株は好調な業績の後でも過大評価されているように見える",
       "relevant": false
     },
     {
@@ -409,26 +409,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/logistics-expansion-ite-adds-20-130000770.html",
       "time": "2026-07-21T13:00:00Z",
       "titleJa": "物流の拡張: ITE は NACPC 契約を通じて複合一貫輸送プラットフォームに 20,000 台のシャーシを追加",
-      "relevant": false
-    },
-    {
-      "ticker": "7011.T",
-      "company": "三菱重工業",
-      "title": "Nvidia Turns to a Japanese Giant to Solve the Power Botteneck. What That Means for NVDA Stock.",
-      "publisher": "Barchart",
-      "link": "https://www.barchart.com/story/news/3371960/nvidia-turns-to-a-japanese-giant-to-solve-the-power-botteneck-what-that-means-for-nvda-stock",
-      "time": "2026-07-20T21:23:27Z",
-      "titleJa": "Nvidia、電力ボトルネックの解決のために日本の巨人に頼る。それがNVDA株にとって何を意味するか。",
-      "relevant": false
-    },
-    {
-      "ticker": "4755.T",
-      "company": "楽天グループ",
-      "title": "Is Shiba Inu (SHIB) Dead? On-Chain Data Shows a Sad Reality",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/shiba-inu-price-meme-season-return/",
-      "time": "2026-07-20T15:33:18Z",
-      "titleJa": "柴犬（SHIB）は死んだのか？オンチェーンデータが示す悲しい現実",
       "relevant": false
     }
   ]

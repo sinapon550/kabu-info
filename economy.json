@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "VEA vs. SPGM: Which Global Stock ETF Is the Better Buy?",
+      "title": "VWO vs SPGM: What Are the Key Differences Between These Two Popular ETFs?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/25/vea-vs-spgm-which-global-stock-etf-is-the-better-buy/",
-      "time": "2026-07-25T20:34:15Z",
-      "titleJa": "VEA 対 SPGM: どの世界株式 ETF を買うのがより良いですか?"
+      "link": "https://www.fool.com/coverage/etfs/2026/07/26/vwo-vs-spgm-what-are-the-key-differences-between-these-two-popular-etfs/",
+      "time": "2026-07-26T21:40:01Z",
+      "titleJa": "VWO 対 SPGM: これら 2 つの人気のある ETF の主な違いは何ですか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/25/ranking-the-best-magnificent-seven-stocks-to-buy-r/",
-      "time": "2026-07-25T19:50:00Z",
-      "titleJa": "今買うべき「マグニフィセント・セブン」株ランキング"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Global Markets (SPGM) or Emerging Growth (IEMG)? Which Fund is the Right Choice?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/25/global-markets-spgm-or-emerging-growth-iemg-which-fund-is-the-right-choice/",
-      "time": "2026-07-25T19:10:01Z",
-      "titleJa": "グローバル市場 (SPGM) または新興成長市場 (IEMG)?どのファンドが正しい選択でしょうか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+      "title": "Dow Jones Futures Due, Iran News In focus; Apple Leads Earnings Wave, Fed Meeting Ahead",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-      "time": "2026-07-25T19:09:11Z",
-      "titleJa": "ダウ・ジョーンズ先物：市場のトリガーは売りシグナル。 Appleの決算、イランニュース、FRB会合が注目"
+      "time": "2026-07-26T21:17:18Z",
+      "titleJa": "ダウ・ジョーンズ先物の期限、イランニュースが焦点。 Appleが業績の波をリード、FRB会合を控える"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Which Global ETF is the Right Choice? SPGM and SPDW Offer Differing Approaches",
+      "title": "Marvell Technology vs. UiPath: What Do the Quarterly Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/25/which-global-etf-is-the-right-choice-spgm-and-spdw-offer-differing-approaches/",
-      "time": "2026-07-25T18:35:01Z",
-      "titleJa": "どのグローバルETFが正しい選択でしょうか? SPGM と SPDW は異なるアプローチを提供します"
+      "link": "https://www.fool.com/coverage/charts/2026/07/26/marvell-technology-vs-uipath-what-do-the-quarterly-revenue-trends-of-these-artificial-intelligence-companies-tell-investors/",
+      "time": "2026-07-26T20:58:01Z",
+      "titleJa": "Marvell Technology vs. UiPath: これらの人工知能企業の四半期収益傾向は投資家に何を伝えるのでしょうか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Nvidia stock is doing something it hasn't done in years",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/nvidia-stock-is-doing-something-it-hasnt-done-in-years",
-      "time": "2026-07-25T17:47:00Z",
-      "titleJa": "Nvidia株はここ何年もやっていなかったことをやっている"
+      "title": "Which Long-Term Treasury ETF Is Better, Schwab's SCHQ or the iShares TLT?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/26/which-long-term-treasury-etf-is-better-schwab-s-schq-or-the-ishares-tlt/",
+      "time": "2026-07-26T20:21:01Z",
+      "titleJa": "長期国債ETFはシュワブのSCHQとiシェアーズTLTのどちらが優れていますか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Is Equal-Weighting the S&P 500 Worth It? Here’s What the Data Says",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/26/is-equal-weighting-the-sp-500-worth-it-heres-what-the-data-says/",
+      "time": "2026-07-26T20:02:46Z",
+      "titleJa": "S&P 500 を均等に加重することに価値はありますか?データが語ることは次のとおりです"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "10 Stocks Lost Over 40% in 2026 as Investors Dumped Everything AI Might Kill",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/sp500-worst-stocks-2026-ai-disruption/",
+      "time": "2026-07-26T18:19:45Z",
+      "titleJa": "投資家がAIに殺される可能性のあるものすべてを捨てたため、2026年に10銘柄が40％以上下落"
     }
   ]
 }
