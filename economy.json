@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^GSPC",
+      "ticker": "^DJI",
       "company": "経済",
-      "title": "VWO vs SPGM: What Are the Key Differences Between These Two Popular ETFs?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/26/vwo-vs-spgm-what-are-the-key-differences-between-these-two-popular-etfs/",
-      "time": "2026-07-26T21:40:01Z",
-      "titleJa": "VWO 対 SPGM: これら 2 つの人気のある ETF の主な違いは何ですか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures Due, Iran News In focus; Apple Leads Earnings Wave, Fed Meeting Ahead",
+      "title": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-      "time": "2026-07-26T21:17:18Z",
-      "titleJa": "ダウ・ジョーンズ先物の期限、イランニュースが焦点。 Appleが業績の波をリード、FRB会合を控える"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-oil-prices-nvidia-micron-sandisk-spacex-tesla/?src=A00220&yptr=yahoo",
+      "time": "2026-07-27T21:49:48Z",
+      "titleJa": "ダウ・ジョーンズ先物：米国とイランの和平期待で原油価格は急落。 Nvidia、Micron、Sandisk、SpaceX、Tesla を売却"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Marvell Technology vs. UiPath: What Do the Quarterly Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
+      "title": "1 Software Stock Worth Your Attention and 2 We Brush Off",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-worth-attention-214102030.html",
+      "time": "2026-07-27T21:41:02Z",
+      "titleJa": "1 注目に値するソフトウェア株と 2 我々は無視します"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 S&P 500 Stocks with Solid Fundamentals",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-solid-213302832.html",
+      "time": "2026-07-27T21:33:02Z",
+      "titleJa": "堅実なファンダメンタルズを持つ 3 つの S&P 500 銘柄"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Hedge Fund Healthcare Bets Approach Five-Year High",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/healthcare/articles/hedge-fund-healthcare-bets-approach-212658663.html",
+      "time": "2026-07-27T21:26:58Z",
+      "titleJa": "ヘッジファンドのヘルスケアへの賭けは過去5年間の最高値に迫る"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Stock Market Today, July 27: D-Wave Surges on Nasdaq Debut and Expanded AT&T Deal",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/charts/2026/07/26/marvell-technology-vs-uipath-what-do-the-quarterly-revenue-trends-of-these-artificial-intelligence-companies-tell-investors/",
-      "time": "2026-07-26T20:58:01Z",
-      "titleJa": "Marvell Technology vs. UiPath: これらの人工知能企業の四半期収益傾向は投資家に何を伝えるのでしょうか?"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/27/stock-market-today-july-27-d-wave-surges-on-nasdaq-debut-and-expanded-att-deal/",
+      "time": "2026-07-27T21:26:24Z",
+      "titleJa": "今日、7 月 27 日の株式市場: ナスダックデビューと AT&T 取引の拡大で D-Wave が急騰"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Which Long-Term Treasury ETF Is Better, Schwab's SCHQ or the iShares TLT?",
+      "title": "Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/26/which-long-term-treasury-etf-is-better-schwab-s-schq-or-the-ishares-tlt/",
-      "time": "2026-07-26T20:21:01Z",
-      "titleJa": "長期国債ETFはシュワブのSCHQとiシェアーズTLTのどちらが優れていますか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Is Equal-Weighting the S&P 500 Worth It? Here’s What the Data Says",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/07/26/is-equal-weighting-the-sp-500-worth-it-heres-what-the-data-says/",
-      "time": "2026-07-26T20:02:46Z",
-      "titleJa": "S&P 500 を均等に加重することに価値はありますか?データが語ることは次のとおりです"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "10 Stocks Lost Over 40% in 2026 as Investors Dumped Everything AI Might Kill",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/sp500-worst-stocks-2026-ai-disruption/",
-      "time": "2026-07-26T18:19:45Z",
-      "titleJa": "投資家がAIに殺される可能性のあるものすべてを捨てたため、2026年に10銘柄が40％以上下落"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/27/stock-market-today-july-27-dow-rises-on-oil-retreat-and-sandisk-plunges-11-on-memory-weakness/",
+      "time": "2026-07-27T21:24:56Z",
+      "titleJa": "今日、7月27日の株式市場: ダウは石油後退で上昇、サンディスクは記憶力の弱さで11%急落"
     }
   ]
 }
