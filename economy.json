@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^DJI",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
+      "title": "Dow Jones Futures: Market Strong Outside AI; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-oil-prices-nvidia-micron-sandisk-spacex-tesla/?src=A00220&yptr=yahoo",
-      "time": "2026-07-27T21:49:48Z",
-      "titleJa": "ダウ・ジョーンズ先物：米国とイランの和平期待で原油価格は急落。 Nvidia、Micron、Sandisk、SpaceX、Tesla を売却"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo",
+      "time": "2026-07-28T21:42:07Z",
+      "titleJa": "ダウ・ジョーンズ先物：AI以外の市場は堅調。 Seagate、SK Hynix、KLA、Bloom Energy の業績が遅れ"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "1 Software Stock Worth Your Attention and 2 We Brush Off",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-worth-attention-214102030.html",
-      "time": "2026-07-27T21:41:02Z",
-      "titleJa": "1 注目に値するソフトウェア株と 2 我々は無視します"
+      "title": "How Far Could Marvell Technology Stock Actually Fall From Here?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/609203/how-far-could-marvell-technology-stock-actually-fall-from-here/2026-07-28",
+      "time": "2026-07-28T21:32:05Z",
+      "titleJa": "マーベル・テクノロジー株は実際にここからどこまで下落する可能性があるでしょうか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 S&P 500 Stocks with Solid Fundamentals",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-solid-213302832.html",
-      "time": "2026-07-27T21:33:02Z",
-      "titleJa": "堅実なファンダメンタルズを持つ 3 つの S&P 500 銘柄"
+      "title": "Does Owning Celestica Really Diversify Your Portfolio?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/609200/does-owning-celestica-really-diversify-your-portfolio/2026-07-28",
+      "time": "2026-07-28T21:21:30Z",
+      "titleJa": "Celestica を所有することで本当にポートフォリオが多様化しますか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Hedge Fund Healthcare Bets Approach Five-Year High",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/healthcare/articles/hedge-fund-healthcare-bets-approach-212658663.html",
-      "time": "2026-07-27T21:26:58Z",
-      "titleJa": "ヘッジファンドのヘルスケアへの賭けは過去5年間の最高値に迫る"
+      "title": "Is Amkor Technology Stock A Smart Buy Right Now",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/609195/is-amkor-technology-stock-a-smart-buy-right-now/2026-07-28",
+      "time": "2026-07-28T21:08:03Z",
+      "titleJa": "Amkor Technology 株は今すぐ賢明な購入ですか"
     },
     {
-      "ticker": "^IXIC",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 27: D-Wave Surges on Nasdaq Debut and Expanded AT&T Deal",
+      "title": "Is Vanguard Financials or State Street Bank the Superior ETF for Your Evolving Portfolio?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/27/stock-market-today-july-27-d-wave-surges-on-nasdaq-debut-and-expanded-att-deal/",
-      "time": "2026-07-27T21:26:24Z",
-      "titleJa": "今日、7 月 27 日の株式市場: ナスダックデビューと AT&T 取引の拡大で D-Wave が急騰"
+      "link": "https://www.fool.com/coverage/etfs/2026/07/28/is-vanguard-financials-or-state-street-bank-the-superior-etf-for-your-evolving-portfolio/",
+      "time": "2026-07-28T21:00:01Z",
+      "titleJa": "進化するポートフォリオにとって、バンガード・フィナンシャルズとステート・ストリート・バンクのどちらが優れたETFでしょうか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/27/stock-market-today-july-27-dow-rises-on-oil-retreat-and-sandisk-plunges-11-on-memory-weakness/",
-      "time": "2026-07-27T21:24:56Z",
-      "titleJa": "今日、7月27日の株式市場: ダウは石油後退で上昇、サンディスクは記憶力の弱さで11%急落"
+      "title": "Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Crude Oil Drops Amid Halt in Middle East Strikes",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-205435929.html",
+      "time": "2026-07-28T20:54:35Z",
+      "titleJa": "最新情報: チップメーカーがマグニチュード7の業績を控え、中東のストライキ停止で原油下落で米国株価指数はまちまち"
     }
   ]
 }
