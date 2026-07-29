@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Market Strong Outside AI; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
+      "title": "JPMorgan just sent stock market investors a signal worth watching",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/jpmorgan-sent-stock-market-investors-buy-signal-sp500-jamie-dimon",
+      "time": "2026-07-29T21:47:00Z",
+      "titleJa": "JPモルガンは株式市場の投資家に注目に値するシグナルを送ったところだ"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo",
-      "time": "2026-07-28T21:42:07Z",
-      "titleJa": "ダウ・ジョーンズ先物：AI以外の市場は堅調。 Seagate、SK Hynix、KLA、Bloom Energy の業績が遅れ"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-trump-iran-threats-microsoft-meta-fortinet-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-07-29T21:40:29Z",
+      "titleJa": "ダウジョーンズ先物：トランプ大統領のイラン脅威で株式市場は暴落、原油価格は高騰。マイクロソフト、メタ、フォーティネットの決算発表が遅れ"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "How Far Could Marvell Technology Stock Actually Fall From Here?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/609203/how-far-could-marvell-technology-stock-actually-fall-from-here/2026-07-28",
-      "time": "2026-07-28T21:32:05Z",
-      "titleJa": "マーベル・テクノロジー株は実際にここからどこまで下落する可能性があるでしょうか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Does Owning Celestica Really Diversify Your Portfolio?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/609200/does-owning-celestica-really-diversify-your-portfolio/2026-07-28",
-      "time": "2026-07-28T21:21:30Z",
-      "titleJa": "Celestica を所有することで本当にポートフォリオが多様化しますか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Is Amkor Technology Stock A Smart Buy Right Now",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/609195/is-amkor-technology-stock-a-smart-buy-right-now/2026-07-28",
-      "time": "2026-07-28T21:08:03Z",
-      "titleJa": "Amkor Technology 株は今すぐ賢明な購入ですか"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Is Vanguard Financials or State Street Bank the Superior ETF for Your Evolving Portfolio?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/28/is-vanguard-financials-or-state-street-bank-the-superior-etf-for-your-evolving-portfolio/",
-      "time": "2026-07-28T21:00:01Z",
-      "titleJa": "進化するポートフォリオにとって、バンガード・フィナンシャルズとステート・ストリート・バンクのどちらが優れたETFでしょうか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Crude Oil Drops Amid Halt in Middle East Strikes",
+      "title": "Update: US Equity Indexes Slide as Divided Fed Reiterates Inflation Focus, Trump Vows to Hit Iran Hard in Retribution Move",
       "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-205435929.html",
-      "time": "2026-07-28T20:54:35Z",
-      "titleJa": "最新情報: チップメーカーがマグニチュード7の業績を控え、中東のストライキ停止で原油下落で米国株価指数はまちまち"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-divided-212756138.html",
+      "time": "2026-07-29T21:27:56Z",
+      "titleJa": "最新情報：分裂したFRBがインフレ重視を繰り返す中、米国株指数は下落、トランプ大統領は報復としてイランを厳しく攻撃すると誓う"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, July 29: Stocks Slide on Hawkish Fed and Increased Middle East Tensions",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/29/stock-market-today-july-29-stocks-slide-on-hawkish-fed-and-increased-middle-east-tensions/",
+      "time": "2026-07-29T21:21:35Z",
+      "titleJa": "今日、7月29日の株式市場：タカ派FRBと中東の緊張激化で株価下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "SoFi Is Excited by the ‘Velocity’ of Its Growth. The Stock Market Isn’t.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/sofi-technologies-earnings-stock-price-1efaede4?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-29T21:14:00Z",
+      "titleJa": "SoFi はその成長の「速度」に興奮しています。株式市場はそうではありません。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, July 29: Ford Beats Earnings, Raises 2026 Guidance on Production Strength",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/29/stock-market-today-july-29-ford-beats-earnings-raises-2026-guidance-on-production-strength/",
+      "time": "2026-07-29T21:05:07Z",
+      "titleJa": "今日、7月29日の株式市場：フォードが利益を上回り、2026年の生産力に関するガイダンスを引き上げ"
     }
   ]
 }
