@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "JPMorgan just sent stock market investors a signal worth watching",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/jpmorgan-sent-stock-market-investors-buy-signal-sp500-jamie-dimon",
-      "time": "2026-07-29T21:47:00Z",
-      "titleJa": "JPモルガンは株式市場の投資家に注目に値するシグナルを送ったところだ"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",
+      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-trump-iran-threats-microsoft-meta-fortinet-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-07-29T21:40:29Z",
-      "titleJa": "ダウジョーンズ先物：トランプ大統領のイラン脅威で株式市場は暴落、原油価格は高騰。マイクロソフト、メタ、フォーティネットの決算発表が遅れ"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-earnings-microsoft-powers-ai-stock/?src=A00220&yptr=yahoo",
+      "time": "2026-07-30T21:59:56Z",
+      "titleJa": "ダウジョーンズ先物：アップルとアマゾンは終盤乖離。 AI株急騰後に何をすべきか"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: US Equity Indexes Slide as Divided Fed Reiterates Inflation Focus, Trump Vows to Hit Iran Hard in Retribution Move",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-divided-212756138.html",
-      "time": "2026-07-29T21:27:56Z",
-      "titleJa": "最新情報：分裂したFRBがインフレ重視を繰り返す中、米国株指数は下落、トランプ大統領は報復としてイランを厳しく攻撃すると誓う"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, July 29: Stocks Slide on Hawkish Fed and Increased Middle East Tensions",
+      "title": "Morgan Stanley Nearly Doubled Its Price Target for CRISPR Therapeutics. Is the Gene-Editing Stock a No-Brainer Buy?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/29/stock-market-today-july-29-stocks-slide-on-hawkish-fed-and-increased-middle-east-tensions/",
-      "time": "2026-07-29T21:21:35Z",
-      "titleJa": "今日、7月29日の株式市場：タカ派FRBと中東の緊張激化で株価下落"
+      "link": "https://www.fool.com/investing/2026/07/30/morgan-stanley-nearly-doubled-its-price-target-for/",
+      "time": "2026-07-30T21:58:00Z",
+      "titleJa": "モルガン・スタンレーはCRISPR Therapeuticsの目標株価をほぼ2倍に引き上げた。遺伝子編集株は迷わず買うことができるのか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "SoFi Is Excited by the ‘Velocity’ of Its Growth. The Stock Market Isn’t.",
+      "title": "Stock Market Today, July 30: Amazon Soars Over 8% After Hours on Earnings Beat",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/30/stock-market-today-july-30-amazon-soars-over-8-after-hours-on-earnings-beat/",
+      "time": "2026-07-30T21:42:07Z",
+      "titleJa": "今日、7月30日の株式市場：アマゾンは利益を上回って時間外で8％以上急騰"
+    },
+    {
+      "ticker": "JPY=X",
+      "company": "経済",
+      "title": "Trading Day: Communication, intervention & liquidation",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/articles/trading-day-communication-intervention-liquidation-211344810.html",
+      "time": "2026-07-30T21:13:44Z",
+      "titleJa": "取引日: コミュニケーション、介入、清算"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Strategy Stock Is Under Pressure. Earnings Show Management Has a New Playbook.",
       "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/sofi-technologies-earnings-stock-price-1efaede4?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-29T21:14:00Z",
-      "titleJa": "SoFi はその成長の「速度」に興奮しています。株式市場はそうではありません。"
+      "link": "https://www.barrons.com/articles/strategy-earnings-stock-price-ff30d6f8?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-30T20:58:00Z",
+      "titleJa": "戦略株は圧力にさらされています。収益ショーの管理に新しいハンドブックが追加されました。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, July 29: Ford Beats Earnings, Raises 2026 Guidance on Production Strength",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/29/stock-market-today-july-29-ford-beats-earnings-raises-2026-guidance-on-production-strength/",
-      "time": "2026-07-29T21:05:07Z",
-      "titleJa": "今日、7月29日の株式市場：フォードが利益を上回り、2026年の生産力に関するガイダンスを引き上げ"
+      "title": "Sandisk Stock Is Having Its Best Day Since January. It Has Had a Tough Month.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/sandisk-stock-soars-ai-samsung-52239f06?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-30T20:55:00Z",
+      "titleJa": "サンディスク株は1月以来最高の日を迎えている。大変な一ヶ月でした。"
     }
   ]
 }
