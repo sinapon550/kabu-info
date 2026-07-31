@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-earnings-microsoft-powers-ai-stock/?src=A00220&yptr=yahoo",
-      "time": "2026-07-30T21:59:56Z",
-      "titleJa": "ダウジョーンズ先物：アップルとアマゾンは終盤乖離。 AI株急騰後に何をすべきか"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Morgan Stanley Nearly Doubled Its Price Target for CRISPR Therapeutics. Is the Gene-Editing Stock a No-Brainer Buy?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/07/30/morgan-stanley-nearly-doubled-its-price-target-for/",
-      "time": "2026-07-30T21:58:00Z",
-      "titleJa": "モルガン・スタンレーはCRISPR Therapeuticsの目標株価をほぼ2倍に引き上げた。遺伝子編集株は迷わず買うことができるのか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, July 30: Amazon Soars Over 8% After Hours on Earnings Beat",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/30/stock-market-today-july-30-amazon-soars-over-8-after-hours-on-earnings-beat/",
-      "time": "2026-07-30T21:42:07Z",
-      "titleJa": "今日、7月30日の株式市場：アマゾンは利益を上回って時間外で8％以上急騰"
-    },
-    {
-      "ticker": "JPY=X",
-      "company": "経済",
-      "title": "Trading Day: Communication, intervention & liquidation",
+      "title": "Teetering US stock market faces jobs report, big earnings week",
       "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/articles/trading-day-communication-intervention-liquidation-211344810.html",
-      "time": "2026-07-30T21:13:44Z",
-      "titleJa": "取引日: コミュニケーション、介入、清算"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "Strategy Stock Is Under Pressure. Earnings Show Management Has a New Playbook.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/strategy-earnings-stock-price-ff30d6f8?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-30T20:58:00Z",
-      "titleJa": "戦略株は圧力にさらされています。収益ショーの管理に新しいハンドブックが追加されました。"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teetering-us-stock-market-faces-100238136.html",
+      "time": "2026-07-31T21:41:08Z",
+      "titleJa": "不安定な米国株式市場は雇用統計と大型決算週に直面している"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Sandisk Stock Is Having Its Best Day Since January. It Has Had a Tough Month.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/sandisk-stock-soars-ai-samsung-52239f06?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-30T20:55:00Z",
-      "titleJa": "サンディスク株は1月以来最高の日を迎えている。大変な一ヶ月でした。"
+      "title": "Stock Market Today, July 31: Rivian Beats Q2 Revenue Estimate as Concerns of Rising Costs Weigh on Stock",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/31/stock-market-today-july-31-rivian-beats-q2-revenue-estimate-as-concerns-of-rising-costs-weigh-on-stock/",
+      "time": "2026-07-31T21:34:57Z",
+      "titleJa": "今日の株式市場、7月31日: コスト上昇の懸念が株価に重しとなり、リビアンが第2四半期の収益予想を上回った"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Update: Wall Street Gains Amid Amazon Rally as July Ends Mostly Lower",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-gains-amid-amazon-211458307.html",
+      "time": "2026-07-31T21:14:58Z",
+      "titleJa": "最新情報: 7月はほぼ下落して終了、アマゾン上昇の中でウォール街が上昇"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Amazon and Apple Deliver the Drama to Close a Turbulent Month",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-41d82dc9?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-07-31T21:12:00Z",
+      "titleJa": "アマゾンとアップルが激動の月を締めくくるドラマを提供"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 Energy Stocks We’re Skeptical Of",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-skeptical-210757413.html",
+      "time": "2026-07-31T21:07:57Z",
+      "titleJa": "私たちが懐疑的な3つのエネルギー株"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "OMC Pays More Than A Treasury. And It Grows",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/609662/omc-pays-more-than-a-treasury-and-it-grows-3/2026-07-31",
+      "time": "2026-07-31T20:59:26Z",
+      "titleJa": "OMC は財務省以上の支払いを行っています。そして成長する"
     }
   ]
 }
