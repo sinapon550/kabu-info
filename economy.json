@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Teetering US stock market faces jobs report, big earnings week",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/teetering-us-stock-market-faces-100238136.html",
-      "time": "2026-07-31T21:41:08Z",
-      "titleJa": "不安定な米国株式市場は雇用統計と大型決算週に直面している"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, July 31: Rivian Beats Q2 Revenue Estimate as Concerns of Rising Costs Weigh on Stock",
+      "title": "XLV vs. IBBQ: Is Broad Healthcare Exposure or Biotech Growth the Better ETF Buy?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/31/stock-market-today-july-31-rivian-beats-q2-revenue-estimate-as-concerns-of-rising-costs-weigh-on-stock/",
-      "time": "2026-07-31T21:34:57Z",
-      "titleJa": "今日の株式市場、7月31日: コスト上昇の懸念が株価に重しとなり、リビアンが第2四半期の収益予想を上回った"
+      "link": "https://www.fool.com/coverage/etfs/2026/08/01/xlv-vs-ibbq-is-broad-healthcare-exposure-or-biotech-growth-the-better-etf-buy/",
+      "time": "2026-08-01T21:31:01Z",
+      "titleJa": "XLV 対 IBBQ: 広範なヘルスケアへのエクスポージャーとバイオテクノロジーの成長のどちらが ETF を購入する方が良いでしょうか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: Wall Street Gains Amid Amazon Rally as July Ends Mostly Lower",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-gains-amid-amazon-211458307.html",
-      "time": "2026-07-31T21:14:58Z",
-      "titleJa": "最新情報: 7月はほぼ下落して終了、アマゾン上昇の中でウォール街が上昇"
+      "title": "Morgan Stanley's Amazon earnings verdict has a blind spot",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/morgan-stanleys-amazon-stock-q2-2026-earnings-verdict-has-a-blind-spot",
+      "time": "2026-08-01T20:46:10Z",
+      "titleJa": "モルガン・スタンレーのアマゾン収益評決には盲点がある"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Amazon and Apple Deliver the Drama to Close a Turbulent Month",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-41d82dc9?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-31T21:12:00Z",
-      "titleJa": "アマゾンとアップルが激動の月を締めくくるドラマを提供"
+      "title": "This Top Nuclear Energy Dividend Stock Could Turn $1,000 Into a Lifetime Income Stream",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/01/this-top-nuclear-energy-dividend-stock-could-turn/",
+      "time": "2026-08-01T19:35:00Z",
+      "titleJa": "この原子力エネルギーのトップ配当株は1,000ドルを生涯収入源に変える可能性がある"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Energy Stocks We’re Skeptical Of",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-skeptical-210757413.html",
-      "time": "2026-07-31T21:07:57Z",
-      "titleJa": "私たちが懐疑的な3つのエネルギー株"
+      "title": "Vanguard VONG vs VBK: Is a Small Cap ETF the Better Buy Over a Large Cap Fund in 2026?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/01/vanguard-vong-vs-vbk-is-a-small-cap-etf-the-better-buy-over-a-large-cap-fund-in-2026/",
+      "time": "2026-08-01T18:48:01Z",
+      "titleJa": "バンガード VONG 対 VBK: 2026 年には大型株ファンドよりも小型株 ETF を買う方が良いでしょうか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "OMC Pays More Than A Treasury. And It Grows",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/609662/omc-pays-more-than-a-treasury-and-it-grows-3/2026-07-31",
-      "time": "2026-07-31T20:59:26Z",
-      "titleJa": "OMC は財務省以上の支払いを行っています。そして成長する"
+      "title": "XLV vs PBE: Is a Low-Cost Healthcare ETF the Better Buy Than a Focused Biotech Specialist?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/01/xlv-vs-pbe-is-a-low-cost-healthcare-etf-the-better-buy-than-a-focused-biotech-specialist/",
+      "time": "2026-08-01T18:17:01Z",
+      "titleJa": "XLV 対 PBE: 低コストのヘルスケア ETF は、焦点を絞ったバイオテクノロジーのスペシャリストよりも良い買い物ですか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Healthcare Stocks Are Having a Good Year. Should You Buy a Fidelity or iShares ETF to Profit?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/01/healthcare-stocks-are-having-a-good-year-should-you-buy-a-fidelity-or-ishares-etf-to-profit/",
+      "time": "2026-08-01T17:48:01Z",
+      "titleJa": "ヘルスケア株は好調な年を迎えている。利益を得るためにはフィデリティETFかiシェアーズETFを購入すべきでしょうか?"
     }
   ]
 }
