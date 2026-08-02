@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^GSPC",
+      "ticker": "JPY=X",
       "company": "経済",
-      "title": "XLV vs. IBBQ: Is Broad Healthcare Exposure or Biotech Growth the Better ETF Buy?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/01/xlv-vs-ibbq-is-broad-healthcare-exposure-or-biotech-growth-the-better-etf-buy/",
-      "time": "2026-08-01T21:31:01Z",
-      "titleJa": "XLV 対 IBBQ: 広範なヘルスケアへのエクスポージャーとバイオテクノロジーの成長のどちらが ETF を購入する方が良いでしょうか?"
+      "title": "Japan to vow coordination with US on weak yen in historic battle",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/japan-vow-coordination-us-weak-210127634.html",
+      "time": "2026-08-02T21:28:28Z",
+      "titleJa": "日本、歴史的な戦いで円安で米国との連携を誓う"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Morgan Stanley's Amazon earnings verdict has a blind spot",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/morgan-stanleys-amazon-stock-q2-2026-earnings-verdict-has-a-blind-spot",
-      "time": "2026-08-01T20:46:10Z",
-      "titleJa": "モルガン・スタンレーのアマゾン収益評決には盲点がある"
+      "title": "If I Could Tell Every Investor 1 Thing About Building Lasting Wealth in the Stock Market, It's This",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/02/if-i-could-tell-every-investor-1-thing-about-build/",
+      "time": "2026-08-02T20:50:00Z",
+      "titleJa": "株式市場で永続的な富を築くことについてすべての投資家に一つ言えるとしたらこれです"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "This Top Nuclear Energy Dividend Stock Could Turn $1,000 Into a Lifetime Income Stream",
+      "title": "If I Were in My 20s, I'd Buy This Magnificent ETF and Hold It Until Retirement",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/01/this-top-nuclear-energy-dividend-stock-could-turn/",
-      "time": "2026-08-01T19:35:00Z",
-      "titleJa": "この原子力エネルギーのトップ配当株は1,000ドルを生涯収入源に変える可能性がある"
+      "link": "https://www.fool.com/investing/2026/08/02/if-i-were-in-my-20s-id-buy-etf-hold-it-retirement/",
+      "time": "2026-08-02T20:35:00Z",
+      "titleJa": "私が20代だったら、この素晴らしいETFを購入して、退職するまで保有するでしょう"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Vanguard VONG vs VBK: Is a Small Cap ETF the Better Buy Over a Large Cap Fund in 2026?",
+      "title": "If You'd Invested $10,000 in the S&P 500 at the Absolute Top of the Dot-Com Bubble, Here's What You'd Have Today",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/01/vanguard-vong-vs-vbk-is-a-small-cap-etf-the-better-buy-over-a-large-cap-fund-in-2026/",
-      "time": "2026-08-01T18:48:01Z",
-      "titleJa": "バンガード VONG 対 VBK: 2026 年には大型株ファンドよりも小型株 ETF を買う方が良いでしょうか?"
+      "link": "https://www.fool.com/investing/2026/08/02/if-youd-invested-10000-in-the-sp-500-at-the-top/",
+      "time": "2026-08-02T18:50:00Z",
+      "titleJa": "ドットコムバブルの絶対頂点にあるS&P 500に1万ドル投資していたら、今日得られるものは次のとおりです"
+    },
+    {
+      "ticker": "JPY=X",
+      "company": "経済",
+      "title": "US and Japan take action to prop up yen",
+      "publisher": "The Telegraph",
+      "link": "https://www.telegraph.co.uk/business/2026/08/02/us-and-japan-take-action-to-prop-up-yen/",
+      "time": "2026-08-02T18:35:00Z",
+      "titleJa": "米国と日本は円を下支えするために行動を起こす"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "XLV vs PBE: Is a Low-Cost Healthcare ETF the Better Buy Than a Focused Biotech Specialist?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/01/xlv-vs-pbe-is-a-low-cost-healthcare-etf-the-better-buy-than-a-focused-biotech-specialist/",
-      "time": "2026-08-01T18:17:01Z",
-      "titleJa": "XLV 対 PBE: 低コストのヘルスケア ETF は、焦点を絞ったバイオテクノロジーのスペシャリストよりも良い買い物ですか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Healthcare Stocks Are Having a Good Year. Should You Buy a Fidelity or iShares ETF to Profit?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/01/healthcare-stocks-are-having-a-good-year-should-you-buy-a-fidelity-or-ishares-etf-to-profit/",
-      "time": "2026-08-01T17:48:01Z",
-      "titleJa": "ヘルスケア株は好調な年を迎えている。利益を得るためにはフィデリティETFかiシェアーズETFを購入すべきでしょうか?"
+      "title": "Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/jobs-report-palantir-amd-spacex-eli-lilly-stocks-2348e94e?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-02T18:00:00Z",
+      "titleJa": "ジョブズレポート、Palantir、AMD、SpaceX、Eli Lilly など今週注目のニュース"
     }
   ]
 }
