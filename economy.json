@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^GSPC",
+      "ticker": "^IXIC",
       "company": "経済",
-      "title": "Chevron Stock Is Priced For Growth A Single Quarter Hasn't Proven",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/609848/chevron-stock-is-priced-for-growth-a-single-quarter-hasnt-proven/2026-08-03",
-      "time": "2026-08-03T21:37:22Z",
-      "titleJa": "シェブロン株は成長に見合った価格設定だが、四半期だけでは証明されていない"
+      "title": "How Compass Earnings Blew Past Estimates in a Lousy Housing Market",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/compass-earnings-stock-price-7093c9d1?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-04T21:50:00Z",
+      "titleJa": "住宅市場が低迷する中、コンパスの利益はいかにして過去の予想を上回ったのか"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices — BA, XOM, CVX, HOOD, AMD In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-end-higher-dow-hits-record-high-on-strong-mag-7-performance/cZoTYo1RJ3K",
-      "time": "2026-08-03T21:33:10Z",
-      "titleJa": "S&P500、ナスダックは上昇、ダウはMag 7の好調なパフォーマンスと原油価格の下落で過去最高値を更新 - BA、XOM、CVX、HOOD、AMDが注目"
+      "title": "Dow Jones Futures: SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-08-04T21:46:36Z",
+      "titleJa": "ダウ・ジョーンズ先物：S&P 500が最高値に急騰した後、スペースX、AMD、アリスタが収益の主導権を握る"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html",
-      "time": "2026-08-03T21:30:00Z",
-      "titleJa": "ハイテク株は8月の始まりに向けて上昇。チップメーカーは需要に追いつくことができるでしょうか?"
+      "title": "Pfizer Covid Pill Revenue Plunges 95%. The Stock Is Rising Anyway.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/pfizer-earnings-stock-price-biontech-b519c9be?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-04T21:27:00Z",
+      "titleJa": "ファイザーの新型コロナウイルス薬の収益が95％急落。とにかく株価が上がっています。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Linde Stock Barely Moved While Its Order Book Hit A Record",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/609849/linde-stock-barely-moved-while-its-order-book-hit-a-record/2026-08-03",
-      "time": "2026-08-03T21:27:58Z",
-      "titleJa": "リンデ株は注文件数が記録を更新する中、ほとんど動かなかった"
+      "title": "Novo Nordisk Raises Earnings Guidance. The Stock Sinks.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/novo-nordisk-earnings-stock-price-90e00bad?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-04T21:25:00Z",
+      "titleJa": "ノボ ノルディスク、収益見通しを引き上げ。株が沈む。"
     },
     {
-      "ticker": "JPY=X",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Yen surges to three-month peak, dollar pares losses after intervention",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-leaps-intervention-leaving-dollar-010808551.html",
-      "time": "2026-08-03T21:27:47Z",
-      "titleJa": "円は3カ月ぶりの高値に上昇、ドルは介入後に下落"
-    },
-    {
-      "ticker": "JPY=X",
-      "company": "経済",
-      "title": "WSJ Dollar Index Rises 0.09% to 96.19",
+      "title": "Even Big Profits Aren’t Enough to Keep Chip Investors Happy",
       "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/currencies/yen-weakens-slightly-on-likely-technical-correction-cda7c245?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-03T21:26:00Z",
-      "titleJa": "WSJドル指数は0.09%上昇して96.19"
+      "link": "https://www.wsj.com/finance/stocks/even-big-profits-arent-enough-to-keep-chip-investors-happy-36acfc66?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-04T21:23:00Z",
+      "titleJa": "多額の利益があってもチップ投資家を満足させるには十分ではない"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, Aug. 4: S&P 500 and Dow Set New Highs on Easing Geopolitical Tensions",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-s-and-p-500-and-dow-set-new-highs-on-easing-geopolitical-tensions/",
+      "time": "2026-08-04T21:21:20Z",
+      "titleJa": "今日、8月4日の株式市場: 地政学的緊張の緩和でS&P 500とダウが新高値を更新"
     }
   ]
 }
