@@ -1,144 +1,244 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "items": [
     {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Sandisk bulls are probably eyeing this number on earnings day: AlphaSpace stat of the evening",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/sandisk-bulls-are-probably-eyeing-this-number-on-earnings-day-alphaspace-stat-of-the-evening-220000368.html",
-      "time": "2026-08-04T22:00:00Z",
-      "titleJa": "サンディスクの強気派はおそらく決算日にこの数字に注目している：夕方のAlphaSpace統計",
-      "relevant": true
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Sandisk bulls are probably eyeing this number on earnings day: AlphaSpace stat of the evening",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/sandisk-bulls-are-probably-eyeing-this-number-on-earnings-day-alphaspace-stat-of-the-evening-220000368.html",
-      "time": "2026-08-04T22:00:00Z",
-      "titleJa": "サンディスクの強気派はおそらく決算日にこの数字に注目している：夕方のAlphaSpace統計",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Sandisk bulls are probably eyeing this number on earnings day: AlphaSpace stat of the evening",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/sandisk-bulls-are-probably-eyeing-this-number-on-earnings-day-alphaspace-stat-of-the-evening-220000368.html",
-      "time": "2026-08-04T22:00:00Z",
-      "titleJa": "サンディスクの強気派はおそらく決算日にこの数字に注目している：夕方のAlphaSpace統計",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Sandisk bulls are probably eyeing this number on earnings day: AlphaSpace stat of the evening",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/sandisk-bulls-are-probably-eyeing-this-number-on-earnings-day-alphaspace-stat-of-the-evening-220000368.html",
-      "time": "2026-08-04T22:00:00Z",
-      "titleJa": "サンディスクの強気派はおそらく決算日にこの数字に注目している：夕方のAlphaSpace統計",
-      "relevant": true
-    },
-    {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Is Parker-Hannifin a Buy Before It Reports Earnings Aug. 6?",
+      "title": "Why Opendoor Technologies Stock Just Dropped",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/04/is-parker-hannifin-a-buy-before-it-reports-earning/",
-      "time": "2026-08-04T21:50:00Z",
-      "titleJa": "パーカー・ハネフィンは8月6日の決算発表前に買いなのか？",
-      "relevant": true
+      "link": "https://www.fool.com/investing/2026/08/05/why-opendoor-technologies-stock-just-dropped/",
+      "time": "2026-08-05T21:54:56Z",
+      "titleJa": "オープンドア・テクノロジーズの株価が急落した理由",
+      "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Harmony Biosciences Holdings, Inc. Q2 2026 Earnings Call Summary",
-      "publisher": "Moby",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-harmony-biosciences-holdings-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "time": "2026-08-04T21:46:00Z",
-      "titleJa": "Harmony Biosciences Holdings, Inc. 2026 年第 2 四半期決算概要",
-      "relevant": true
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Even Big Profits Aren’t Enough to Keep Chip Investors Happy",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/even-big-profits-arent-enough-to-keep-chip-investors-happy-36acfc66?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-04T21:23:00Z",
-      "titleJa": "多額の利益があってもチップ投資家を満足させるには十分ではない",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Marvell Technology Stock Is On Sale, But Is It A Bargain?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/610005/marvell-technology-stock-is-on-sale-but-is-it-a-bargain/2026-08-04",
-      "time": "2026-08-04T20:51:08Z",
-      "titleJa": "マーベル・テクノロジー株はセール中ですが、お買い得ですか?",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Top Stock Reports for Berkshire Hathaway, Micron & Oracle",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-204200336.html",
-      "time": "2026-08-04T20:42:00Z",
-      "titleJa": "バークシャー・ハサウェイ、マイクロン、オラクルの主要株価レポート",
-      "relevant": true
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Micron Stock Rises as It Gains Memory-Chip Share. It’s Not All Good News.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/micron-stock-price-memory-chip-cxmt-b5de09d6?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-04T20:31:00Z",
-      "titleJa": "マイクロンの株価はメモリチップのシェアを獲得して上昇。良いニュースばかりではありません。",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Intel, AMD Lead Powerful Chip Stocks Rally on AI Optimism",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/articles/intel-amd-lead-powerful-chip-202713772.html",
-      "time": "2026-08-04T20:27:13Z",
-      "titleJa": "IntelとAMDがAIの楽観主義で強力なチップ株の上昇をリード",
-      "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Taiwan Semiconductor's AI Push Hits Surprising Milestone",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductors-ai-push-hits-202554417.html",
-      "time": "2026-08-04T20:25:54Z",
-      "titleJa": "台湾セミコンダクターの AI 推進が驚くべきマイルストーンを達成",
+      "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-08-05T21:53:03Z",
+      "titleJa": "ダウジョーンズ先物：NVIDIAはダウを上昇させるが、GoogleとSpaceXは下落。サンディスク、ウェスタンデジタルが終盤の収益損失をリード",
       "relevant": true
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "SK Hynix Stock Gets a Flurry of Buy Ratings. Why Analysts Love the Memory-Chip Maker.",
+      "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-08-05T21:53:03Z",
+      "titleJa": "ダウジョーンズ先物：NVIDIAはダウを上昇させるが、GoogleとSpaceXは下落。サンディスク、ウェスタンデジタルが終盤の収益損失をリード",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "SNDK Stock Dips After-Hours As Sandisk's Q1 FY27 Outlook Misses Expectations Despite Memory-Driven Q4 Profit",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/sandisk-s-q1-fy-27-outlook-misses-expectations-despite-memory-driven-q4-profit/cZoIPQNRJej",
+      "time": "2026-08-05T21:47:39Z",
+      "titleJa": "サンディスクの2027年度第1四半期見通しはメモリ主導の第4四半期利益にもかかわらず予想を下回り、SNDK株は時間外下落",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Micron Retreats From Earlier Gains After Musk Flagged Surging Memory Prices",
       "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/why-sk-hynix-stock-memory-chip-sandisk-25416c02?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-04T20:21:00Z",
-      "titleJa": "SKハイニックス株に「買い」評価が相次いだ。アナリストがメモリーチップメーカーを好む理由。",
+      "link": "https://www.barrons.com/articles/micron-stock-price-memory-chips-9685ac02?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-05T21:28:00Z",
+      "titleJa": "マイクロン、マスク氏のメモリ価格高騰で上昇相場から後退",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Micron Retreats From Earlier Gains After Musk Flagged Surging Memory Prices",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-memory-chips-9685ac02?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-05T21:28:00Z",
+      "titleJa": "マイクロン、マスク氏のメモリ価格高騰で上昇相場から後退",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Micron Retreats From Earlier Gains After Musk Flagged Surging Memory Prices",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-memory-chips-9685ac02?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-05T21:28:00Z",
+      "titleJa": "マイクロン、マスク氏のメモリ価格高騰で上昇相場から後退",
+      "relevant": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "SpaceX, Alphabet, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today’s Market",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stock-movers-c5965517?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-05T21:04:00Z",
+      "titleJa": "SpaceX、Alphabet、Nvidia、Micron、AMD、Uber、CVS、Lilly など、今日の市場を説明する銘柄",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Trading Day: Momentum fizzles, gold sizzles",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/articles/trading-day-momentum-fizzles-gold-210242412.html",
+      "time": "2026-08-05T21:02:42Z",
+      "titleJa": "取引日: 勢いは止まり、金は勢いよく上昇",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Trading Day: Momentum fizzles, gold sizzles",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/articles/trading-day-momentum-fizzles-gold-210242412.html",
+      "time": "2026-08-05T21:02:42Z",
+      "titleJa": "取引日: 勢いは止まり、金は勢いよく上昇",
+      "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Stocks to Watch Recap: SpaceX, AMD, Disney",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026/card/stocks-to-watch-spacex-amd-disney-w3GBHAZkVcr5PMkm8tTD?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-05T20:56:58Z",
+      "titleJa": "注目株の要約: SpaceX、AMD、ディズニー",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Top Analyst Reports for Broadcom, Coca-Cola & Palantir",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-broadcom-coca-201500234.html",
+      "time": "2026-08-05T20:15:00Z",
+      "titleJa": "ブロードコム、コカ・コーラ、パランティアのトップアナリストレポート",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Will ASML Split Its Stock This Year?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/05/will-asml-split-its-stock-this-year/",
+      "time": "2026-08-05T19:37:00Z",
+      "titleJa": "ASMLは今年株式分割を行うのか？",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Can Microchip's Micron Alliance Help it Challenge AVGO & ALAB?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/technology/articles/microchips-micron-alliance-help-challenge-181500152.html",
+      "time": "2026-08-05T18:15:00Z",
+      "titleJa": "Microchip 社の Micron Alliance は AVGO と ALAB への挑戦に貢献できるでしょうか?",
       "relevant": false
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "MediaTek Wants 20% of Custom AI Chips. Alphabet (GOOGL) Could Win Before Broadcom (AVGO) Loses",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/mediatek-wants-20-custom-ai-182411966.html",
-      "time": "2026-08-04T18:24:11Z",
-      "titleJa": "MediaTek はカスタム AI チップの 20% を望んでいます。 Alphabet（GOOGL）はBroadcom（AVGO）が負ける前に勝つ可能性がある",
+      "title": "Taiwan Semiconductor Manufacturing (TSM) Eyes Faster 3 Nanometer Output, Is The Stock Expensive?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-eyes-181131277.html",
+      "time": "2026-08-05T18:11:31Z",
+      "titleJa": "台湾積体電路製造（TSM）はより高速な3ナノメートル生産に注目、株価は割高か？",
+      "relevant": true
+    },
+    {
+      "ticker": "6146.T",
+      "company": "ディスコ",
+      "title": "CS Disco, Inc. Q2 2026 Earnings Call Summary",
+      "publisher": "Moby",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-cs-disco-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+      "time": "2026-08-05T16:56:08Z",
+      "titleJa": "CS Disco, Inc. 2026 年第 2 四半期決算概要",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "The Ultimate Bull Case for NVIDIA Is Here: Their Powerful B200 Systems Are Sold Out",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/05/the-ultimate-bull-case-for-nvidia-is-here-their-powerful-b200-systems-are-sold-out/",
+      "time": "2026-08-05T15:00:06Z",
+      "titleJa": "NVIDIA の究極の強気のケースがここにあります: 強力な B200 システムは売り切れです",
+      "relevant": false
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144005135.html",
+      "time": "2026-08-05T14:40:05Z",
+      "titleJa": "水曜の取引で米国の預託金受取額が上昇し、米国でアジア株が取引",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Sony's TSMC Sensor Venture Could Reshape Its Imaging Growth Story",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sonys-tsmc-sensor-venture-could-140000817.html",
+      "time": "2026-08-05T14:00:00Z",
+      "titleJa": "ソニーのTSMCセンサーベンチャーはイメージングの成長ストーリーを再構築する可能性がある",
+      "relevant": true
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Honda Doubles Profit, Lifts Guidance on Weak Yen",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/business/earnings/honda-doubles-profit-boosts-guidance-on-weaker-yen-390a8285?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-05T11:52:00Z",
+      "titleJa": "ホンダ、利益倍増、円安誘導解除",
+      "relevant": true
+    },
+    {
+      "ticker": "4062.T",
+      "company": "イビデン",
+      "title": "Tech Rallies, Oil Outlooks Lift Asian Stock Markets",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-rallies-oil-outlooks-lift-104957346.html",
+      "time": "2026-08-05T10:49:57Z",
+      "titleJa": "ハイテク株の反発と石油見通しがアジアの株式市場を押し上げる",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "Nikkei 225 Jumps 3% as Chip Stocks Rally on Iran Deal Hopes",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/nikkei-225-chip-stocks-iran-deal/",
+      "time": "2026-08-05T04:58:36Z",
+      "titleJa": "イラン合意への期待でチップ株が上昇、日経平均株価は3%上昇",
+      "relevant": false
+    },
+    {
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "Nikkei 225 Jumps 3% as Chip Stocks Rally on Iran Deal Hopes",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/nikkei-225-chip-stocks-iran-deal/",
+      "time": "2026-08-05T04:58:36Z",
+      "titleJa": "イラン合意への期待でチップ株が上昇、日経平均株価は3%上昇",
+      "relevant": false
+    },
+    {
+      "ticker": "8035.T",
+      "company": "東京エレクトロン",
+      "title": "Nikkei 225 Jumps 3% as Chip Stocks Rally on Iran Deal Hopes",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/nikkei-225-chip-stocks-iran-deal/",
+      "time": "2026-08-05T04:58:36Z",
+      "titleJa": "イラン合意への期待でチップ株が上昇、日経平均株価は3%上昇",
       "relevant": false
     },
     {
@@ -152,16 +252,6 @@
       "relevant": false
     },
     {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Lam Research Plunges 16% in a Month: Should You Still Buy the Stock?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-plunges-16-month-160800344.html",
-      "time": "2026-08-04T16:08:00Z",
-      "titleJa": "ラム・リサーチが1カ月で16％急落：それでも株を買うべきか？",
-      "relevant": false
-    },
-    {
       "ticker": "5802.T",
       "company": "住友電工",
       "title": "Buy this stock ahead of Q2 earnings: Mizuho",
@@ -170,16 +260,6 @@
       "time": "2026-08-04T14:47:36Z",
       "titleJa": "第2四半期決算に先立ってこの株を買う：みずほ",
       "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "ASML (ENXTAM:ASML) Just Raised Its Interim Dividend 17% And Backed 2026 Guidance",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-enxtam-asml-just-raised-141339117.html",
-      "time": "2026-08-04T14:13:39Z",
-      "titleJa": "ASML (ENXTAM:ASML) は中間配当を 17% 引き上げ、2026 年の見通しを支持したばかり",
-      "relevant": true
     },
     {
       "ticker": "9984.T",
@@ -222,36 +302,6 @@
       "relevant": false
     },
     {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Nissan (TSE:7201) Stock Looks Reasonable On Sales While Returns Stay Weak",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nissan-tse-7201-stock-looks-063254284.html",
-      "time": "2026-08-04T06:32:54Z",
-      "titleJa": "日産 (東証:7201) 株価は売上高では妥当に見えるが、収益は依然として低い",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "SoftBank's AI funding plans to face reckoning at earnings",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/technology/ai/articles/softbanks-ai-funding-plans-face-061407936.html",
-      "time": "2026-08-04T06:14:07Z",
-      "titleJa": "ソフトバンクのAI資金調達計画、収益清算に直面する",
-      "relevant": true
-    },
-    {
-      "ticker": "6857.T",
-      "company": "アドバンテスト",
-      "title": "Japan Stocks Shrug Off Yen Shock, But Kioxia Signals More Pain Ahead",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/kioxia-yen-intervention-nikkei-risk/",
-      "time": "2026-08-04T02:50:22Z",
-      "titleJa": "日本株は円ショックを回避、しかしキオクシアはさらなる痛みを予感させる",
-      "relevant": false
-    },
-    {
       "ticker": "6981.T",
       "company": "村田製作所",
       "title": "1 Japanese Company Just Waved a Red Flag for Micron Stock. How to Play It Here.",
@@ -282,16 +332,6 @@
       "relevant": false
     },
     {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Busy Q2 Earnings & Jobs Week",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/busy-q2-earnings-jobs-week-142800731.html",
-      "time": "2026-08-03T14:28:00Z",
-      "titleJa": "第 2 四半期の収益と雇用の忙しい週",
-      "relevant": false
-    },
-    {
       "ticker": "6501.T",
       "company": "日立製作所",
       "title": "SoftBank, Hitachi, LG back Zenity’s $125 million round to police AI agents",
@@ -299,16 +339,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/softbank-hitachi-lg-back-zenity-130000367.html",
       "time": "2026-08-03T13:00:00Z",
       "titleJa": "ソフトバンク、日立、LGがZenityの警察AIエージェントへの1億2500万ドル資金調達を支持",
-      "relevant": true
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Honda’s global output falls 6% in June",
-      "publisher": "Just Auto",
-      "link": "https://www.just-auto.com/news/hondas-global-output-falls-6-in-june/",
-      "time": "2026-08-03T10:22:07Z",
-      "titleJa": "ホンダの6月の世界生産は6％減少",
       "relevant": true
     },
     {
@@ -338,7 +368,7 @@
       "publisher": "Stocktwits",
       "link": "https://stocktwits.com/news-articles/markets/equity/asts-japan-d2c-rakuten-guinness-world-record/cZoRCU3RJ58",
       "time": "2026-08-03T04:12:39Z",
-      "titleJa": "楽天との日本D2C立ち上げが近づくにつれ、ASTS株が一夜にして急騰 — ギネス世界記録が新たな楽観主義を呼び起こす",
+      "titleJa": "楽天との日本D2Cローンチが近づくにつれ、ASTS株が一夜にして急騰 — ギネス世界記録が新たな楽観主義を呼び起こす",
       "relevant": true
     },
     {
@@ -369,36 +399,6 @@
       "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-rebound-ignites-record-rallies-104235010.html",
       "time": "2026-07-31T10:42:35Z",
       "titleJa": "ハイテク反発がアジア株式市場の記録的な上昇を引き起こす",
-      "relevant": false
-    },
-    {
-      "ticker": "7012.T",
-      "company": "川崎重工業",
-      "title": "Chips to ships: Nvidia plans new shipbuilding investment with Kawasaki",
-      "publisher": "FreightWaves",
-      "link": "https://finance.yahoo.com/technology/ai/articles/chips-ships-nvidia-plans-shipbuilding-152033700.html",
-      "time": "2026-07-30T15:20:33Z",
-      "titleJa": "チップから船舶へ: Nvidia が川崎重工との新たな造船投資を計画",
-      "relevant": true
-    },
-    {
-      "ticker": "6501.T",
-      "company": "日立製作所",
-      "title": "European Indexes Mixed as Earnings Drive Sentiment",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-electronics-stocks-3320ef35?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-30T07:23:00Z",
-      "titleJa": "欧州の株価指数はまちまち、業績がセンチメントを牽引",
-      "relevant": false
-    },
-    {
-      "ticker": "8267.T",
-      "company": "イオン",
-      "title": "The Quake Struck Japan. Eighty Minutes Later, a Lethal Explosion.",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/world/asia/the-quake-struck-japan-eighty-minutes-later-a-lethal-explosion-028310fe?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-07-30T03:09:00Z",
-      "titleJa": "地震が日本を襲った。 80分後、致命的な爆発が起きた。",
       "relevant": false
     }
   ]

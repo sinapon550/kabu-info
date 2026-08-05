@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "How Compass Earnings Blew Past Estimates in a Lousy Housing Market",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/compass-earnings-stock-price-7093c9d1?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-04T21:50:00Z",
-      "titleJa": "住宅市場が低迷する中、コンパスの利益はいかにして過去の予想を上回ったのか"
-    },
-    {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-08-04T21:46:36Z",
-      "titleJa": "ダウ・ジョーンズ先物：S&P 500が最高値に急騰した後、スペースX、AMD、アリスタが収益の主導権を握る"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Pfizer Covid Pill Revenue Plunges 95%. The Stock Is Rising Anyway.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/pfizer-earnings-stock-price-biontech-b519c9be?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-04T21:27:00Z",
-      "titleJa": "ファイザーの新型コロナウイルス薬の収益が95％急落。とにかく株価が上がっています。"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Novo Nordisk Raises Earnings Guidance. The Stock Sinks.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/novo-nordisk-earnings-stock-price-90e00bad?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-04T21:25:00Z",
-      "titleJa": "ノボ ノルディスク、収益見通しを引き上げ。株が沈む。"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Even Big Profits Aren’t Enough to Keep Chip Investors Happy",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/even-big-profits-arent-enough-to-keep-chip-investors-happy-36acfc66?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-04T21:23:00Z",
-      "titleJa": "多額の利益があってもチップ投資家を満足させるには十分ではない"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, Aug. 4: S&P 500 and Dow Set New Highs on Easing Geopolitical Tensions",
+      "title": "Why Opendoor Technologies Stock Just Dropped",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-s-and-p-500-and-dow-set-new-highs-on-easing-geopolitical-tensions/",
-      "time": "2026-08-04T21:21:20Z",
-      "titleJa": "今日、8月4日の株式市場: 地政学的緊張の緩和でS&P 500とダウが新高値を更新"
+      "link": "https://www.fool.com/investing/2026/08/05/why-opendoor-technologies-stock-just-dropped/",
+      "time": "2026-08-05T21:54:56Z",
+      "titleJa": "オープンドア・テクノロジーズの株価が急落した理由"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-08-05T21:53:03Z",
+      "titleJa": "ダウジョーンズ先物：NVIDIAはダウを上昇させるが、GoogleとSpaceXは下落。サンディスク、ウェスタンデジタルが終盤の収益損失をリード"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, Aug. 5: Shopify Soars 17% After Beating Q2 Estimates, Raises Q3 Outlook",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/05/stock-market-today-aug-5-shopify-soars-17-after-beating-q2-estimates-raises-q3-outlook/",
+      "time": "2026-08-05T21:29:49Z",
+      "titleJa": "今日の株式市場、8 月 5 日: Shopify が第 2 四半期の予想を上回り 17% 急騰し、第 3 四半期の見通しを引き上げ"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, Aug. 5: SpaceX Beats Revenue but Faces Capital Spending Pressure",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/05/stock-market-today-aug-5-spacex-beats-revenue-but-faces-capital-spending-pressure/",
+      "time": "2026-08-05T21:20:03Z",
+      "titleJa": "今日の株式市場、8 月 5 日: スペース X は売上高を上回るも設備投資の圧力に直面"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Oscar Health Stock Has Doubled This Year. The ACA Insurer Reports Thursday.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/oscar-health-earnings-stock-price-756d4582?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-05T21:10:00Z",
+      "titleJa": "オスカーヘルスの株価は今年2倍になった。 ACA保険会社が木曜に報じた。"
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "U.S. Stocks Mixed as Tech Wobbles Offset Hormuz Hopes",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-tech-wobbles-offset-hormuz-hopes-cbd55893?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-05T21:07:00Z",
+      "titleJa": "ハイテクのぐらつきで米国株はまちまち、ホルムズ期待を相殺"
     }
   ]
 }
