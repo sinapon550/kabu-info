@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why Opendoor Technologies Stock Just Dropped",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/05/why-opendoor-technologies-stock-just-dropped/",
-      "time": "2026-08-05T21:54:56Z",
-      "titleJa": "オープンドア・テクノロジーズの株価が急落した理由"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
+      "title": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-08-05T21:53:03Z",
-      "titleJa": "ダウジョーンズ先物：NVIDIAはダウを上昇させるが、GoogleとSpaceXは下落。サンディスク、ウェスタンデジタルが終盤の収益損失をリード"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobs-report-cloudflare-sezzle-earnings-movers/?src=A00220&yptr=yahoo",
+      "time": "2026-08-07T00:53:14Z",
+      "titleJa": "ダウ・ジョーンズ先物：Cloudflareが後半のソフトウェア収益の勝者5社をリード。タップでジョブレポートを作成"
     },
     {
-      "ticker": "^GSPC",
+      "ticker": "JPY=X",
       "company": "経済",
-      "title": "Stock Market Today, Aug. 5: Shopify Soars 17% After Beating Q2 Estimates, Raises Q3 Outlook",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/05/stock-market-today-aug-5-shopify-soars-17-after-beating-q2-estimates-raises-q3-outlook/",
-      "time": "2026-08-05T21:29:49Z",
-      "titleJa": "今日の株式市場、8 月 5 日: Shopify が第 2 四半期の予想を上回り 17% 急騰し、第 3 四半期の見通しを引き上げ"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, Aug. 5: SpaceX Beats Revenue but Faces Capital Spending Pressure",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/05/stock-market-today-aug-5-spacex-beats-revenue-but-faces-capital-spending-pressure/",
-      "time": "2026-08-05T21:20:03Z",
-      "titleJa": "今日の株式市場、8 月 5 日: スペース X は売上高を上回るも設備投資の圧力に直面"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Oscar Health Stock Has Doubled This Year. The ACA Insurer Reports Thursday.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/oscar-health-earnings-stock-price-756d4582?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-05T21:10:00Z",
-      "titleJa": "オスカーヘルスの株価は今年2倍になった。 ACA保険会社が木曜に報じた。"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "U.S. Stocks Mixed as Tech Wobbles Offset Hormuz Hopes",
+      "title": "JGB Futures Fall, Tracking Declines in U.S. Treasury Market",
       "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-tech-wobbles-offset-hormuz-hopes-cbd55893?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-05T21:07:00Z",
-      "titleJa": "ハイテクのぐらつきで米国株はまちまち、ホルムズ期待を相殺"
+      "link": "https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-8e8ed0f7?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-07T00:11:00Z",
+      "titleJa": "米国債市場の下落を受けて国債先物相場も下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Review & Preview: Nothing Gold Can Stay",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stocks-today-major-indexes-drop-software-selloff-30262b96?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-06T23:55:00Z",
+      "titleJa": "レビューとプレビュー: 金に留まるものはない"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/tom-lee-ethereum-magnificent-seven-rally/",
+      "time": "2026-08-06T23:43:00Z",
+      "titleJa": "トム・リー氏、S&P500指数は8,000になると予想、イーサリアムを次期上昇リーダーに指名"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stocks slip as investors eye Mideast talks, earnings",
+      "publisher": "Reuters Videos",
+      "link": "https://finance.yahoo.com/video/stocks-slip-investors-eye-mideast-230555299.html",
+      "time": "2026-08-06T23:05:55Z",
+      "titleJa": "投資家が中東交渉と収益に注目する中、株価は下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, Aug. 6: SoundHound AI Surges 10% on Record Q2 Revenue and Raised 2026 Guidance",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/06/stock-market-today-aug-6-soundhound-ai-surges-10-on-record-q2-revenue-and-raised-2026-guidance/",
+      "time": "2026-08-06T22:41:32Z",
+      "titleJa": "今日の株式市場、8 月 6 日: SoundHound AI、第 2 四半期の売上高が記録的となり 10% 急上昇、2026 年の見通しも引き上げ"
     }
   ]
 }
