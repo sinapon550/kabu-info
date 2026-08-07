@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobs-report-cloudflare-sezzle-earnings-movers/?src=A00220&yptr=yahoo",
-      "time": "2026-08-07T00:53:14Z",
-      "titleJa": "ダウ・ジョーンズ先物：Cloudflareが後半のソフトウェア収益の勝者5社をリード。タップでジョブレポートを作成"
-    },
-    {
-      "ticker": "JPY=X",
-      "company": "経済",
-      "title": "JGB Futures Fall, Tracking Declines in U.S. Treasury Market",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-8e8ed0f7?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-07T00:11:00Z",
-      "titleJa": "米国債市場の下落を受けて国債先物相場も下落"
+      "title": "MIAX expands footprint in US options market via Bloomberg partnership",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/miax-expands-footprint-us-options-211255301.html",
+      "time": "2026-08-07T21:12:55Z",
+      "titleJa": "MIAX、ブルームバーグ提携を通じて米国オプション市場での拠点を拡大"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Review & Preview: Nothing Gold Can Stay",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stocks-today-major-indexes-drop-software-selloff-30262b96?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-06T23:55:00Z",
-      "titleJa": "レビューとプレビュー: 金に留まるものはない"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/tom-lee-ethereum-magnificent-seven-rally/",
-      "time": "2026-08-06T23:43:00Z",
-      "titleJa": "トム・リー氏、S&P500指数は8,000になると予想、イーサリアムを次期上昇リーダーに指名"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stocks slip as investors eye Mideast talks, earnings",
-      "publisher": "Reuters Videos",
-      "link": "https://finance.yahoo.com/video/stocks-slip-investors-eye-mideast-230555299.html",
-      "time": "2026-08-06T23:05:55Z",
-      "titleJa": "投資家が中東交渉と収益に注目する中、株価は下落"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, Aug. 6: SoundHound AI Surges 10% on Record Q2 Revenue and Raised 2026 Guidance",
+      "title": "Why Rocket Lab Stock Just Jumped",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/06/stock-market-today-aug-6-soundhound-ai-surges-10-on-record-q2-revenue-and-raised-2026-guidance/",
-      "time": "2026-08-06T22:41:32Z",
-      "titleJa": "今日の株式市場、8 月 6 日: SoundHound AI、第 2 四半期の売上高が記録的となり 10% 急上昇、2026 年の見通しも引き上げ"
+      "link": "https://www.fool.com/investing/2026/08/07/why-rocket-lab-stock-just-jumped-today/",
+      "time": "2026-08-07T21:10:54Z",
+      "titleJa": "ロケットラボの株価が急騰した理由"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, Aug. 7: Palantir Surges on Bank of America Upbeat View After Strong Earnings",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/07/stock-market-today-aug-7-palantir-surges-on-bank-of-america-upbeat-view-after-strong-earnings/",
+      "time": "2026-08-07T21:05:16Z",
+      "titleJa": "今日の株式市場、8 月 7 日: パランティア、好決算を受けバンク・オブ・アメリカの楽観論で急騰"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures: As Stock Market Ramps Up, Here's What To Do; Warren Buffett, Cisco, Lumentum Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-08-07T20:58:40Z",
+      "titleJa": "ダウ・ジョーンズ先物: 株式市場が上昇する中、何をすべきか;ウォーレン・バフェット氏、シスコ、Lumentum Due"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "S&P 500 Posts Weekly Gain as Tech Giants Surge",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205341016.html",
+      "time": "2026-08-07T20:53:41Z",
+      "titleJa": "ハイテク大手の急騰を受けてS&P 500は週間で上昇"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Update: S&P 500 Hits Record High as Jobs Report Eases Rate Hike Bets",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-hits-record-high-204131701.html",
+      "time": "2026-08-07T20:41:31Z",
+      "titleJa": "最新情報：雇用統計により利上げ観測が緩和され、S&P 500指数は過去最高値を記録"
     }
   ]
 }
