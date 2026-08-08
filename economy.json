@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "MIAX expands footprint in US options market via Bloomberg partnership",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/miax-expands-footprint-us-options-211255301.html",
-      "time": "2026-08-07T21:12:55Z",
-      "titleJa": "MIAX、ブルームバーグ提携を通じて米国オプション市場での拠点を拡大"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Why Rocket Lab Stock Just Jumped",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/07/why-rocket-lab-stock-just-jumped-today/",
-      "time": "2026-08-07T21:10:54Z",
-      "titleJa": "ロケットラボの株価が急騰した理由"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, Aug. 7: Palantir Surges on Bank of America Upbeat View After Strong Earnings",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/07/stock-market-today-aug-7-palantir-surges-on-bank-of-america-upbeat-view-after-strong-earnings/",
-      "time": "2026-08-07T21:05:16Z",
-      "titleJa": "今日の株式市場、8 月 7 日: パランティア、好決算を受けバンク・オブ・アメリカの楽観論で急騰"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: As Stock Market Ramps Up, Here's What To Do; Warren Buffett, Cisco, Lumentum Due",
+      "title": "Dow Jones Futures: What To Do As Market Revs Up; Buffett's Berkshire Beats With Cisco, Lumentum Due",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-08-07T20:58:40Z",
-      "titleJa": "ダウ・ジョーンズ先物: 株式市場が上昇する中、何をすべきか;ウォーレン・バフェット氏、シスコ、Lumentum Due"
+      "time": "2026-08-08T19:03:50Z",
+      "titleJa": "ダウ・ジョーンズ先物：市場が活性化するにつれて何をすべきか。バフェット氏のバークシャーがシスコと勝利、ルメンタム・デュース"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P 500 Posts Weekly Gain as Tech Giants Surge",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205341016.html",
-      "time": "2026-08-07T20:53:41Z",
-      "titleJa": "ハイテク大手の急騰を受けてS&P 500は週間で上昇"
+      "title": "Stanley Druckenmiller's Portfolio Skips Megacap Tech Almost Entirely. Here's What He's Buying Instead.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/08/stanley-druckenmillers-portfolio-skips-megacap-tec/",
+      "time": "2026-08-08T18:35:00Z",
+      "titleJa": "スタンリー・ドラッケンミラーのポートフォリオはメガキャップ・テクノロジーをほぼ完全にスキップしています。代わりに彼が買っているものはこれです。"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "What JEPQ Actually Paid the Last Time the Nasdaq Fell 10%: a Stress Test for Its 10% Yield",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/08/08/what-jepq-actually-paid-the-last-time-the-nasdaq-fell-10-a-stress-test-for-its-10-yield/",
+      "time": "2026-08-08T18:34:54Z",
+      "titleJa": "前回ナスダックが10％下落した際にJEPQが実際に支払った金額：利回り10％に対するストレステスト"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: S&P 500 Hits Record High as Jobs Report Eases Rate Hike Bets",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-hits-record-high-204131701.html",
-      "time": "2026-08-07T20:41:31Z",
-      "titleJa": "最新情報：雇用統計により利上げ観測が緩和され、S&P 500指数は過去最高値を記録"
+      "title": "Why SpaceX Stock Just Gained 15.8%",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/08/why-spacex-stock-just-jumped-today/",
+      "time": "2026-08-08T18:20:33Z",
+      "titleJa": "SpaceX株が15.8%上昇した理由"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Even Without Alphabet and Amazon, the S&P 500 Just Posted Its Biggest Earnings Beat Ever",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/08/even-without-alphabet-and-amazon-the-sp-500-just-posted-its-biggest-earnings-beat-ever/",
+      "time": "2026-08-08T16:38:43Z",
+      "titleJa": "アルファベットとアマゾンがなかったとしても、S&P 500 は史上最大の利益を記録しました"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Berkshire Hathaway Just Did Something It Hasn’t Done in More Than 3 Years",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/08/berkshire-hathaway-just-did-something-it-hasnt-done-in-more-than-3-years/",
+      "time": "2026-08-08T16:27:05Z",
+      "titleJa": "バークシャー・ハサウェイは3年以上やっていなかったことをやったばかりだ"
     }
   ]
 }
