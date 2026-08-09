@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: What To Do As Market Revs Up; Buffett's Berkshire Beats With Cisco, Lumentum Due",
+      "title": "3 Reasons to Sell WDAY and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-wday-1-210122450.html",
+      "time": "2026-08-09T21:01:22Z",
+      "titleJa": "WDAYを売る3つの理由と代わりに買うべき1銘柄"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-08-08T19:03:50Z",
-      "titleJa": "ダウ・ジョーンズ先物：市場が活性化するにつれて何をすべきか。バフェット氏のバークシャーがシスコと勝利、ルメンタム・デュース"
+      "time": "2026-08-09T20:58:45Z",
+      "titleJa": "市場の強気派が支配する中、ダウ・ジョーンズ先物相場が迫る。シスコ、Lumentum の収益を先取り"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stanley Druckenmiller's Portfolio Skips Megacap Tech Almost Entirely. Here's What He's Buying Instead.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/08/stanley-druckenmillers-portfolio-skips-megacap-tec/",
-      "time": "2026-08-08T18:35:00Z",
-      "titleJa": "スタンリー・ドラッケンミラーのポートフォリオはメガキャップ・テクノロジーをほぼ完全にスキップしています。代わりに彼が買っているものはこれです。"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "What JEPQ Actually Paid the Last Time the Nasdaq Fell 10%: a Stress Test for Its 10% Yield",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/08/08/what-jepq-actually-paid-the-last-time-the-nasdaq-fell-10-a-stress-test-for-its-10-yield/",
-      "time": "2026-08-08T18:34:54Z",
-      "titleJa": "前回ナスダックが10％下落した際にJEPQが実際に支払った金額：利回り10％に対するストレステスト"
+      "title": "Trustmark (TRMK): Buy, Sell, or Hold Post Q2 Earnings?",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trustmark-trmk-buy-sell-hold-205322162.html",
+      "time": "2026-08-09T20:53:22Z",
+      "titleJa": "トラストマーク (TRMK): 第 2 四半期の収益後、買うか、売るか、それとも保留するか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why SpaceX Stock Just Gained 15.8%",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/08/why-spacex-stock-just-jumped-today/",
-      "time": "2026-08-08T18:20:33Z",
-      "titleJa": "SpaceX株が15.8%上昇した理由"
+      "title": "3 Reasons PATH is Risky and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-path-risky-1-204522938.html",
+      "time": "2026-08-09T20:45:22Z",
+      "titleJa": "PATHが危険な3つの理由と代わりに買うべき1つの銘柄"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Even Without Alphabet and Amazon, the S&P 500 Just Posted Its Biggest Earnings Beat Ever",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/08/even-without-alphabet-and-amazon-the-sp-500-just-posted-its-biggest-earnings-beat-ever/",
-      "time": "2026-08-08T16:38:43Z",
-      "titleJa": "アルファベットとアマゾンがなかったとしても、S&P 500 は史上最大の利益を記録しました"
+      "title": "3 Reasons to Sell PAYX and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-payx-1-203722232.html",
+      "time": "2026-08-09T20:37:22Z",
+      "titleJa": "PAYXを売る3つの理由と代わりに買うべき1株"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Berkshire Hathaway Just Did Something It Hasn’t Done in More Than 3 Years",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/08/berkshire-hathaway-just-did-something-it-hasnt-done-in-more-than-3-years/",
-      "time": "2026-08-08T16:27:05Z",
-      "titleJa": "バークシャー・ハサウェイは3年以上やっていなかったことをやったばかりだ"
+      "title": "MongoDB (MDB): Buy, Sell, or Hold Post Q1 Earnings?",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-buy-sell-hold-202922421.html",
+      "time": "2026-08-09T20:29:22Z",
+      "titleJa": "MongoDB (MDB): 第 1 四半期の収益後、購入、売却、または保有?"
     }
   ]
 }
