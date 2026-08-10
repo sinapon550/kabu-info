@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons to Sell WDAY and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-wday-1-210122450.html",
-      "time": "2026-08-09T21:01:22Z",
-      "titleJa": "WDAYを売る3つの理由と代わりに買うべき1銘柄"
+      "title": "Why NXP Semiconductors Stock Dropped 18.5% in July",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/10/why-nxp-semiconductors-stock-dropped-185-in-july/",
+      "time": "2026-08-10T21:20:22Z",
+      "titleJa": "NXPセミコンダクター株が7月に18.5％下落した理由"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-08-09T20:58:45Z",
-      "titleJa": "市場の強気派が支配する中、ダウ・ジョーンズ先物相場が迫る。シスコ、Lumentum の収益を先取り"
+      "title": "2 Reasons to Like PTC (and 1 Not So Much)",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-ptc-1-not-211722052.html",
+      "time": "2026-08-10T21:17:22Z",
+      "titleJa": "PTC を好む 2 つの理由 (そして 1 つはあまり好きではない)"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Trustmark (TRMK): Buy, Sell, or Hold Post Q2 Earnings?",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trustmark-trmk-buy-sell-hold-205322162.html",
-      "time": "2026-08-09T20:53:22Z",
-      "titleJa": "トラストマーク (TRMK): 第 2 四半期の収益後、買うか、売るか、それとも保留するか?"
+      "title": "Semiconductor ETFs See Profit-Taking as Investors Pile Into QQQ",
+      "publisher": "etf.com",
+      "link": "http://www.etf.com/sections/weekly-etf-flows/semiconductor-etfs-see-profit-taking-investors-pile-qqq?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+      "time": "2026-08-10T21:16:55Z",
+      "titleJa": "投資家がQQQに殺到する中、半導体ETFには利益確定の動きが見られる"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Apple Stock Downgraded to Sell as Analyst Claims All-Glass iPhone Is Dead",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/apple-stock-sell-downgrade-iphone-glass-2a001a49?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-10T21:10:00Z",
+      "titleJa": "アナリストがオールガラスiPhoneはもう駄目だと主張、アップル株を売りに格下げ"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons PATH is Risky and 1 Stock to Buy Instead",
+      "title": "2 Reasons to Like LII (and 1 Not So Much)",
       "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-path-risky-1-204522938.html",
-      "time": "2026-08-09T20:45:22Z",
-      "titleJa": "PATHが危険な3つの理由と代わりに買うべき1つの銘柄"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-lii-1-not-210922691.html",
+      "time": "2026-08-10T21:09:22Z",
+      "titleJa": "LII を好む 2 つの理由 (そしてあまり好きではない 1 つの理由)"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons to Sell PAYX and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-payx-1-203722232.html",
-      "time": "2026-08-09T20:37:22Z",
-      "titleJa": "PAYXを売る3つの理由と代わりに買うべき1株"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "MongoDB (MDB): Buy, Sell, or Hold Post Q1 Earnings?",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-buy-sell-hold-202922421.html",
-      "time": "2026-08-09T20:29:22Z",
-      "titleJa": "MongoDB (MDB): 第 1 四半期の収益後、購入、売却、または保有?"
+      "title": "U.S. Stocks Fall as Hopes for Strait of Hormuz Reopening Are Dashed Again",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-hopes-for-strait-of-hormuz-reopening-are-dashed-again-03a4915a?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-10T21:09:00Z",
+      "titleJa": "ホルムズ海峡再開への期待が再び打ち砕かれ、米国株が下落"
     }
   ]
 }
