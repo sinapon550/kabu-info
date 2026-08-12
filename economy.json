@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^DJI",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, Aug. 11: Markets Slip as Oil Prices Rise, Upwork Tumbles on Mixed Earnings",
+      "title": "Stock Market Today, Aug. 12: Stocks Edge Higher as Inflation Data Eases Fed Rate Pressure",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/11/stock-market-today-aug-11-markets-slip-as-oil-prices-rise-upwork-tumbles-on-mixed-earnings/",
-      "time": "2026-08-11T21:33:14Z",
-      "titleJa": "今日の株式市場、8 月 11 日: 原油価格の上昇で市場は下落、業績はまちまち"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/12/stock-market-today-aug-12-stocks-edge-higher-as-inflation-data-eases-fed-rate-pressure/",
+      "time": "2026-08-12T21:23:45Z",
+      "titleJa": "今日の株式市場、8月12日: インフレ統計によりFRBの金利圧力が緩和され、株価は小幅上昇"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Retirees Chasing SPYT’s 20% Income Target Should See Where the Money Really Comes From",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/11/retirees-chasing-spyts-20-income-target-should-see-where-the-money-really-comes-from/",
-      "time": "2026-08-11T21:21:24Z",
-      "titleJa": "SPYTの20%という収入目標を追いかけている退職者は、そのお金が実際にどこから出てくるのかを知る必要がある"
+      "title": "Stock Market Today, Aug. 12: Nebius Group Surges on Massive Revenue Growth",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/12/stock-market-today-aug-12-nebius-group-surges-on-massive-revenue-growth/",
+      "time": "2026-08-12T21:20:39Z",
+      "titleJa": "今日の株式市場、8 月 12 日: Nebius グループ、大幅な収益成長で急成長"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The AI Boom Is Paying Off. New Research Says S&P 500 Companies Using AI Tools Boost Margins By 1.5% or More. These 2 ETFs Could Be Good Buys Now.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/11/the-ai-boom-is-paying-off-new-research-says-sp-500/",
-      "time": "2026-08-11T21:20:00Z",
-      "titleJa": "AI ブームは成果を上げています。新しい調査によると、S&P 500 企業が AI ツールを使用すると利益率が 1.5% 以上増加するという。これら 2 つの ETF は今、良い買い物になる可能性があります。"
+      "title": "S&P500, Nasdaq End Higher As Fresh CPI Data Calms Earlier-Than-Expected Rate Hike Fears — GOOGL, DJT, WEN, BE, SNDK In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-end-higher-as-fresh-cpi-data-calms-rate-hike-fears/cZo808cRJWt",
+      "time": "2026-08-12T21:20:26Z",
+      "titleJa": "最新のCPIデータが予想より早く利上げ懸念を沈静化させたため、S&P500とナスダックは上昇して終了 — GOOGL、DJT、WEN、BE、SNDKが注目"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Which Small-Cap Growth ETF Is Better, Vanguard's VBK or the iShares IWO?",
+      "title": "Jamie Dimon Just Issued a 9-Word Warning to Stock Investors. Here's What History Says Comes Next.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/11/which-small-cap-growth-etf-is-better-vanguard-s-vbk-or-the-ishares-iwo/",
-      "time": "2026-08-11T21:14:03Z",
-      "titleJa": "小型株成長ETFはバンガードのVBKとiシェアーズIWOのどちらが優れていますか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, Aug. 11: On Holding Stock Plunges on Worst Day Ever",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/11/stock-market-today-aug-11-on-holding-stock-plunges-on-worst-day-ever/",
-      "time": "2026-08-11T21:07:16Z",
-      "titleJa": "今日の株式市場、8月11日: 史上最悪の日に保有株が急落"
+      "link": "https://www.fool.com/investing/2026/08/12/jamie-dimon-just-issued-a-9-word-warning-to-stock/",
+      "time": "2026-08-12T21:20:00Z",
+      "titleJa": "ジェイミー・ダイモンは株式投資家に9単語の警告を発した。歴史が次に来ることは次のとおりです。"
     },
     {
       "ticker": "^IXIC",
       "company": "経済",
-      "title": "Stock Market Today, Aug. 11: Joby Aviation Falls 4% After $500M Defense Acquisition and Stock Sale Plan",
+      "title": "Intel (INTC) Stock Looks Above Fair Value After a Very Large Run",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-looks-above-211414577.html",
+      "time": "2026-08-12T21:14:14Z",
+      "titleJa": "インテル (INTC) 株は非常に大規模な値上がりの後、公正価値を上回っているように見える"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Market Today, Aug. 12: Wendy's Surges 15% on Take-Private Bid Report",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/11/stock-market-today-aug-11-joby-aviation-falls-4-after-usd500m-defense-acquisition-and-stock-sale-plan/",
-      "time": "2026-08-11T21:05:42Z",
-      "titleJa": "今日の株式市場、8月11日：ジョビー・アビエーションは5億ドルの防衛買収と株式売却計画を受けて4％下落"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/12/stock-market-today-aug-12-wendy-s-surges-15-on-take-private-bid-report/",
+      "time": "2026-08-12T21:12:42Z",
+      "titleJa": "今日の株式市場、8 月 12 日: 非公開入札レポートでウェンディーズが 15% 急騰"
     }
   ]
 }
