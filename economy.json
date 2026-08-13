@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-13",
+  "updated": "2026-08-14",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, Aug. 12: Stocks Edge Higher as Inflation Data Eases Fed Rate Pressure",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/12/stock-market-today-aug-12-stocks-edge-higher-as-inflation-data-eases-fed-rate-pressure/",
-      "time": "2026-08-12T21:23:45Z",
-      "titleJa": "今日の株式市場、8月12日: インフレ統計によりFRBの金利圧力が緩和され、株価は小幅上昇"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today, Aug. 12: Nebius Group Surges on Massive Revenue Growth",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/12/stock-market-today-aug-12-nebius-group-surges-on-massive-revenue-growth/",
-      "time": "2026-08-12T21:20:39Z",
-      "titleJa": "今日の株式市場、8 月 12 日: Nebius グループ、大幅な収益成長で急成長"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "S&P500, Nasdaq End Higher As Fresh CPI Data Calms Earlier-Than-Expected Rate Hike Fears — GOOGL, DJT, WEN, BE, SNDK In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-end-higher-as-fresh-cpi-data-calms-rate-hike-fears/cZo808cRJWt",
-      "time": "2026-08-12T21:20:26Z",
-      "titleJa": "最新のCPIデータが予想より早く利上げ懸念を沈静化させたため、S&P500とナスダックは上昇して終了 — GOOGL、DJT、WEN、BE、SNDKが注目"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Jamie Dimon Just Issued a 9-Word Warning to Stock Investors. Here's What History Says Comes Next.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/12/jamie-dimon-just-issued-a-9-word-warning-to-stock/",
-      "time": "2026-08-12T21:20:00Z",
-      "titleJa": "ジェイミー・ダイモンは株式投資家に9単語の警告を発した。歴史が次に来ることは次のとおりです。"
-    },
-    {
       "ticker": "^IXIC",
       "company": "経済",
-      "title": "Intel (INTC) Stock Looks Above Fair Value After a Very Large Run",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-looks-above-211414577.html",
-      "time": "2026-08-12T21:14:14Z",
-      "titleJa": "インテル (INTC) 株は非常に大規模な値上がりの後、公正価値を上回っているように見える"
+      "title": "Stock Market Today, Aug. 13: Cellebrite Shares Plummet 29% After Missing Earnings, Cutting 2026 Revenue Guidance",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/13/stock-market-today-aug-13-cellebrite-shares-plummet-29-after-missing-earnings-cutting-2026-revenue-guidance/",
+      "time": "2026-08-13T21:22:02Z",
+      "titleJa": "今日の株式市場、8月13日: 収益を逃し、2026年の収益見通しを引き下げたため、セレブライト株は29%急落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today, Aug. 12: Wendy's Surges 15% on Take-Private Bid Report",
+      "title": "Stock Market Today, Aug. 13: Cisco Falls on Margin Concerns Despite Record Revenue and AI Demand",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/12/stock-market-today-aug-12-wendy-s-surges-15-on-take-private-bid-report/",
-      "time": "2026-08-12T21:12:42Z",
-      "titleJa": "今日の株式市場、8 月 12 日: 非公開入札レポートでウェンディーズが 15% 急騰"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/13/stock-market-today-aug-13-cisco-falls-on-margin-concerns-despite-record-revenue-and-ai-demand/",
+      "time": "2026-08-13T21:18:32Z",
+      "titleJa": "今日の株式市場、8 月 13 日: シスコ、記録的な収益と AI 需要にもかかわらずマージン懸念で下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-08-13T21:17:04Z",
+      "titleJa": "ダウ・ジョーンズ先物：S&P 500はワークデイ、サンディスク、原油価格で最高値を更新。アプライド マテリアルズの業績予想の遅れ"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "The Collectibles Market Can Push eBay Stock Higher",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/13/the-collectibles-market-can-push-ebay-stock-higher/",
+      "time": "2026-08-13T21:13:00Z",
+      "titleJa": "収集品市場が eBay の株価を押し上げる可能性がある"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Why Cerebras Systems Stock Just Sank",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/13/why-cerebras-systems-stock-sank-today/",
+      "time": "2026-08-13T21:11:02Z",
+      "titleJa": "Cerebras Systems の株価が急落した理由"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "CVS Health Stock's Next Leg Sits In Aetna's Unfinished Margin Repair",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/611361/cvs-health-stocks-next-leg-sits-in-aetnas-unfinished-margin-repair/2026-08-13",
+      "time": "2026-08-13T21:09:57Z",
+      "titleJa": "CVSヘルス株の次の足はエトナの未完のマージン修復にある"
     }
   ]
 }
