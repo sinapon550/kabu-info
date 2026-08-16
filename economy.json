@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-16",
+  "updated": "2026-08-17",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Which Broad Market ETF Wins for Your Portfolio, the iShares ITOT or Schwab's SCHB?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/15/which-broad-market-etf-wins-for-your-portfolio-the-ishares-itot-or-schwab-s-schb/",
-      "time": "2026-08-15T21:05:40Z",
-      "titleJa": "あなたのポートフォリオに勝つのは、iシェアーズ ITOT とシュワブの SCHB のどちらのブロード マーケット ETF ですか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "MACOM (MTSI): Buy, Sell, or Hold Post Q2 Earnings?",
+      "title": "2 Reasons to Like BURL (and 1 Not So Much)",
       "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/macom-mtsi-buy-sell-hold-205300970.html",
-      "time": "2026-08-15T20:53:00Z",
-      "titleJa": "MACOM (MTSI): 第 2 四半期の収益後、買うか、売るか、それとも保留するか?"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-burl-1-not-210100503.html",
+      "time": "2026-08-16T21:01:00Z",
+      "titleJa": "BURL を好む 2 つの理由 (そしてあまり好きではない 1 つの理由)"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons to Sell KBH and 1 Stock to Buy Instead",
+      "title": "Gilead Sciences (GILD): Buy, Sell, or Hold Post Q2 Earnings?",
       "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-kbh-1-204500153.html",
-      "time": "2026-08-15T20:45:00Z",
-      "titleJa": "KBHを売却する3つの理由と代わりに購入する1つの株"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gilead-sciences-gild-buy-sell-204500665.html",
+      "time": "2026-08-16T20:45:00Z",
+      "titleJa": "ギリアド・サイエンシズ (GILD): 第 2 四半期決算後、買うか、売るか、それとも保留するか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Universal Logistics (ULH): Buy, Sell, or Hold Post Q2 Earnings?",
+      "title": "DoorDash (DASH): 3 Reasons We Love This Stock",
       "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/universal-logistics-ulh-buy-sell-203700068.html",
-      "time": "2026-08-15T20:37:00Z",
-      "titleJa": "ユニバーサル ロジスティックス (ULH): 第 2 四半期の収益後、買うか、売るか、それとも保留するか?"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-dash-3-reasons-love-202100388.html",
+      "time": "2026-08-16T20:21:00Z",
+      "titleJa": "DoorDash (DASH): この銘柄を愛する 3 つの理由"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Acuity Brands (AYI): Buy, Sell, or Hold Post Q2 Earnings?",
+      "title": "3 Reasons SCHL is Risky and 1 Stock to Buy Instead",
       "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/acuity-brands-ayi-buy-sell-202900701.html",
-      "time": "2026-08-15T20:29:00Z",
-      "titleJa": "Acuity Brands (AYI): 第 2 四半期の収益後、買うか、売るか、それとも保留するか?"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-schl-risky-1-201300825.html",
+      "time": "2026-08-16T20:13:00Z",
+      "titleJa": "SCHLが危険な3つの理由と代わりに買うべき1つの銘柄"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "XMAG Is Outperforming the S&P 500 in 2026 as the Magnificent Seven Stall",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/15/xmag-is-outperforming-the-sp-500-in-2026-as-the-magnificent-seven-stall/",
-      "time": "2026-08-15T20:05:04Z",
-      "titleJa": "XMAGはマグニフィセント・セブン・ストールとして2026年にS&P 500を上回るパフォーマンスを示す"
+      "title": "3 Reasons to Avoid TFC and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-tfc-1-200500433.html",
+      "time": "2026-08-16T20:05:00Z",
+      "titleJa": "TFCを避ける3つの理由と代わりに買うべき1つの銘柄"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 Reasons to Sell NMRK and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-nmrk-1-194900719.html",
+      "time": "2026-08-16T19:49:00Z",
+      "titleJa": "NMRKを売却する3つの理由と代わりに購入すべき1つの銘柄"
     }
   ]
 }
