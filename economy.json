@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^GSPC",
+      "ticker": "^DJI",
       "company": "経済",
-      "title": "2 Reasons to Like BURL (and 1 Not So Much)",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-burl-1-not-210100503.html",
-      "time": "2026-08-16T21:01:00Z",
-      "titleJa": "BURL を好む 2 つの理由 (そしてあまり好きではない 1 つの理由)"
+      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/?src=A00220&yptr=yahoo",
+      "time": "2026-08-17T21:02:17Z",
+      "titleJa": "ダウ・ジョーンズ先物：トランプ大統領のコメントが株式市場の損失を引き起こす。イーロン・マスク率いるSpaceXの集会"
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "US stocks fall on spiking bond yields, higher oil prices",
+      "publisher": "AFP",
+      "link": "https://finance.yahoo.com/economy/articles/most-stocks-rise-us-data-072725261.html",
+      "time": "2026-08-17T20:55:04Z",
+      "titleJa": "債券利回りの急上昇と原油価格の上昇で米国株が下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Gilead Sciences (GILD): Buy, Sell, or Hold Post Q2 Earnings?",
+      "title": "1 Semiconductor Stock Worth Investigating and 2 We Avoid",
       "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gilead-sciences-gild-buy-sell-204500665.html",
-      "time": "2026-08-16T20:45:00Z",
-      "titleJa": "ギリアド・サイエンシズ (GILD): 第 2 四半期決算後、買うか、売るか、それとも保留するか?"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-worth-investigating-204620394.html",
+      "time": "2026-08-17T20:46:20Z",
+      "titleJa": "1 調査する価値のある半導体株と 2 避けるべき半導体株"
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "Stock Market Today: Dow Falls As This Key Yield Hits 19-Year High; Warren Buffett Stock Falls (Live Coverage)",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
+      "time": "2026-08-17T20:41:54Z",
+      "titleJa": "今日の株式市場: 主要利回りが19年ぶりの高水準に達し、ダウは下落。ウォーレン・バフェット株暴落（ライブ中継）"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "DoorDash (DASH): 3 Reasons We Love This Stock",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-dash-3-reasons-love-202100388.html",
-      "time": "2026-08-16T20:21:00Z",
-      "titleJa": "DoorDash (DASH): この銘柄を愛する 3 つの理由"
+      "title": "Fed's Next Rate Move Just Got More Complicated",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/economy/policy/articles/feds-next-rate-move-just-203716877.html",
+      "time": "2026-08-17T20:37:16Z",
+      "titleJa": "FRBの次回金利の動きはさらに複雑になった"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons SCHL is Risky and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-schl-risky-1-201300825.html",
-      "time": "2026-08-16T20:13:00Z",
-      "titleJa": "SCHLが危険な3つの理由と代わりに買うべき1つの銘柄"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "3 Reasons to Avoid TFC and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-tfc-1-200500433.html",
-      "time": "2026-08-16T20:05:00Z",
-      "titleJa": "TFCを避ける3つの理由と代わりに買うべき1つの銘柄"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "3 Reasons to Sell NMRK and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-nmrk-1-194900719.html",
-      "time": "2026-08-16T19:49:00Z",
-      "titleJa": "NMRKを売却する3つの理由と代わりに購入すべき1つの銘柄"
+      "title": "Update: Equities Fall, Oil Rallies as US-Iran Ceasefire Expires",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/articles/equities-fall-oil-rallies-us-203511790.html",
+      "time": "2026-08-17T20:35:11Z",
+      "titleJa": "最新情報: 米国とイランの停戦期限切れで株価は下落、原油は上昇"
     }
   ]
 }
