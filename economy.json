@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^DJI",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
+      "title": "Sprott Gold Miners ETF vs Global X Silver Miners ETF: Which Is the Best Fund to Profit from the Historic Metals Bull Run?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/18/sprott-gold-miners-etf-vs-global-x-silver-miners-etf-which-is-the-best-fund-to-profit-from-the-historic-metals-bull-run/",
+      "time": "2026-08-18T21:04:01Z",
+      "titleJa": "Sprott Gold Miners ETF vs Global X Silver Miners ETF: 歴史的な金属強気相場から利益を得るのに最適なファンドはどれですか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead AI Rug Pull; Target Earnings Due",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/?src=A00220&yptr=yahoo",
-      "time": "2026-08-17T21:02:17Z",
-      "titleJa": "ダウ・ジョーンズ先物：トランプ大統領のコメントが株式市場の損失を引き起こす。イーロン・マスク率いるSpaceXの集会"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "US stocks fall on spiking bond yields, higher oil prices",
-      "publisher": "AFP",
-      "link": "https://finance.yahoo.com/economy/articles/most-stocks-rise-us-data-072725261.html",
-      "time": "2026-08-17T20:55:04Z",
-      "titleJa": "債券利回りの急上昇と原油価格の上昇で米国株が下落"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-08-18T20:59:56Z",
+      "titleJa": "ダウ・ジョーンズ先物: サンディスク、マイクロン、クレド リード AI ラグ プル。目標収益の期限"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "1 Semiconductor Stock Worth Investigating and 2 We Avoid",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-worth-investigating-204620394.html",
-      "time": "2026-08-17T20:46:20Z",
-      "titleJa": "1 調査する価値のある半導体株と 2 避けるべき半導体株"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "Stock Market Today: Dow Falls As This Key Yield Hits 19-Year High; Warren Buffett Stock Falls (Live Coverage)",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
-      "time": "2026-08-17T20:41:54Z",
-      "titleJa": "今日の株式市場: 主要利回りが19年ぶりの高水準に達し、ダウは下落。ウォーレン・バフェット株暴落（ライブ中継）"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Fed's Next Rate Move Just Got More Complicated",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/economy/policy/articles/feds-next-rate-move-just-203716877.html",
-      "time": "2026-08-17T20:37:16Z",
-      "titleJa": "FRBの次回金利の動きはさらに複雑になった"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Update: Equities Fall, Oil Rallies as US-Iran Ceasefire Expires",
+      "title": "Update: Technology Leads US Equity Indexes Lower as 30-Year Yield Touches 19-Year High, Crude Oil Extends Gains",
       "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/articles/equities-fall-oil-rallies-us-203511790.html",
-      "time": "2026-08-17T20:35:11Z",
-      "titleJa": "最新情報: 米国とイランの停戦期限切れで株価は下落、原油は上昇"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/technology-leads-us-equity-indexes-205919534.html",
+      "time": "2026-08-18T20:59:19Z",
+      "titleJa": "最新情報：テクノロジーが米国株式指数をリード、30年債利回りが19年ぶりの高水準に達し、原油は上昇幅を拡大"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Microsoft Stock Defies Tech Selloff as Azure Growth Holds the Line",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-defies-tech-selloff-205301064.html",
+      "time": "2026-08-18T20:53:01Z",
+      "titleJa": "Azureの成長が限界を維持する中、Microsoft株はハイテク株の下落を無視"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Mega Cap Growth vs Small Cap Growth: Which ETF Wins?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/18/mega-cap-growth-vs-small-cap-growth-which-etf-wins/",
+      "time": "2026-08-18T20:50:01Z",
+      "titleJa": "メガキャップの成長と小型株の成長: どちらの ETF が勝つか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/u-s-tech-stocks-slip-as-bond-yields-hit-decade-highs-iran-truce-expires-122be523?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-18T20:46:00Z",
+      "titleJa": "債券利回りが10年ぶりの高水準に達し、米国ハイテク株が下落。イラン休戦期限切れ"
     }
   ]
 }
