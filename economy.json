@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Sprott Gold Miners ETF vs Global X Silver Miners ETF: Which Is the Best Fund to Profit from the Historic Metals Bull Run?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/18/sprott-gold-miners-etf-vs-global-x-silver-miners-etf-which-is-the-best-fund-to-profit-from-the-historic-metals-bull-run/",
-      "time": "2026-08-18T21:04:01Z",
-      "titleJa": "Sprott Gold Miners ETF vs Global X Silver Miners ETF: 歴史的な金属強気相場から利益を得るのに最適なファンドはどれですか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead AI Rug Pull; Target Earnings Due",
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-08-18T20:59:56Z",
-      "titleJa": "ダウ・ジョーンズ先物: サンディスク、マイクロン、クレド リード AI ラグ プル。目標収益の期限"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/?src=A00220&yptr=yahoo",
+      "time": "2026-08-19T21:07:00Z",
+      "titleJa": "ダウ・ジョーンズ先物：財務省の動きを受けてS&P 500、ナスダックが上昇。モデルナとメルクスパーがバイオ医薬品で大きな利益を得る"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: Technology Leads US Equity Indexes Lower as 30-Year Yield Touches 19-Year High, Crude Oil Extends Gains",
+      "title": "Update: Equities Snap 3-Day Losing Streak as Traders Parse July Fed Minutes",
       "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/technology-leads-us-equity-indexes-205919534.html",
-      "time": "2026-08-18T20:59:19Z",
-      "titleJa": "最新情報：テクノロジーが米国株式指数をリード、30年債利回りが19年ぶりの高水準に達し、原油は上昇幅を拡大"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "Microsoft Stock Defies Tech Selloff as Azure Growth Holds the Line",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-defies-tech-selloff-205301064.html",
-      "time": "2026-08-18T20:53:01Z",
-      "titleJa": "Azureの成長が限界を維持する中、Microsoft株はハイテク株の下落を無視"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-snap-3-day-losing-205650247.html",
+      "time": "2026-08-19T20:56:50Z",
+      "titleJa": "最新情報：トレーダーらが7月の連銀議事録を分析すると、株価は3日間の連敗を解消"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Mega Cap Growth vs Small Cap Growth: Which ETF Wins?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/18/mega-cap-growth-vs-small-cap-growth-which-etf-wins/",
-      "time": "2026-08-18T20:50:01Z",
-      "titleJa": "メガキャップの成長と小型株の成長: どちらの ETF が勝つか?"
+      "title": "US Equity Indexes Rise After Most FOMC Participants Support Rate Hold, Treasury Boosts Buybacks",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-most-205116821.html",
+      "time": "2026-08-19T20:51:16Z",
+      "titleJa": "大半のFOMC参加者が金利据え置きを支持し、米株指数が上昇、財務省が買い戻しを後押し"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/u-s-tech-stocks-slip-as-bond-yields-hit-decade-highs-iran-truce-expires-122be523?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-18T20:46:00Z",
-      "titleJa": "債券利回りが10年ぶりの高水準に達し、米国ハイテク株が下落。イラン休戦期限切れ"
+      "title": "Stock Market Today: Dow Breaks Losing Streak As Moderna Catapults On Its Cancer Vaccine Win (Live Coverage)",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
+      "time": "2026-08-19T20:31:04Z",
+      "titleJa": "今日の株式市場: がんワクチンでモデルナが勝利を収め、ダウが連敗を止める (ライブ中継)"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "US Equity Markets End Higher as US Treasury Plans Expanded Long-Bond Buybacks",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-202620978.html",
+      "time": "2026-08-19T20:26:20Z",
+      "titleJa": "米財務省の長期債買い戻し計画拡大を受け、米国株式市場は上昇して終了"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Johnson & Johnson Stock Runs On A Calendar The Market Does Not Set",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/612016/johnson-johnson-stock-runs-on-a-calendar-the-market-does-not-set/2026-08-19",
+      "time": "2026-08-19T20:08:16Z",
+      "titleJa": "ジョンソン・エンド・ジョンソン株はカレンダー通りに動く 市場は決まっていない"
     }
   ]
 }
