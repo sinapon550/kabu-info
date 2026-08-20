@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
+      "title": "How Much of Your Portfolio Should Actually Be in FTXL",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/08/20/how-much-of-your-portfolio-should-actually-be-in-ftxl/",
+      "time": "2026-08-20T21:15:32Z",
+      "titleJa": "実際にポートフォリオのどのくらいを FTXL に含めるべきか"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "XLF vs EUFN: Is a U.S. Financials ETF Superior to a Europe-Focused Fund?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/20/xlf-vs-eufn-is-a-u-s-financials-etf-superior-to-a-europe-focused-fund/",
+      "time": "2026-08-20T21:04:01Z",
+      "titleJa": "XLF 対 EUFN: 米国金融 ETF はヨーロッパに焦点を当てたファンドよりも優れていますか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/?src=A00220&yptr=yahoo",
-      "time": "2026-08-19T21:07:00Z",
-      "titleJa": "ダウ・ジョーンズ先物：財務省の動きを受けてS&P 500、ナスダックが上昇。モデルナとメルクスパーがバイオ医薬品で大きな利益を得る"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
+      "time": "2026-08-20T21:03:30Z",
+      "titleJa": "ダウ・ジョーンズ先物：ウォルマート、スペースX、クラウドストライクの下落で市場が弱気シグナルを誘発"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: Equities Snap 3-Day Losing Streak as Traders Parse July Fed Minutes",
+      "title": "Wall Street sinks as bond yields rise, Walmart results disappoint",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-bond-101757250.html",
+      "time": "2026-08-20T20:51:18Z",
+      "titleJa": "債券利回り上昇でウォール街は沈下、ウォルマートの決算は期待外れ"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Update: Equities Drop to Lowest in More Than 2 Weeks as Yields Rise",
       "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-snap-3-day-losing-205650247.html",
-      "time": "2026-08-19T20:56:50Z",
-      "titleJa": "最新情報：トレーダーらが7月の連銀議事録を分析すると、株価は3日間の連敗を解消"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-drop-lowest-more-2-204202654.html",
+      "time": "2026-08-20T20:42:02Z",
+      "titleJa": "最新情報: 利回り上昇に伴い株価は2週間以上ぶり安値に下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "US Equity Indexes Rise After Most FOMC Participants Support Rate Hold, Treasury Boosts Buybacks",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-most-205116821.html",
-      "time": "2026-08-19T20:51:16Z",
-      "titleJa": "大半のFOMC参加者が金利据え置きを支持し、米株指数が上昇、財務省が買い戻しを後押し"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Market Today: Dow Breaks Losing Streak As Moderna Catapults On Its Cancer Vaccine Win (Live Coverage)",
+      "title": "Stock Market Today: Dow Tumbles 700 Points But Miners Rise; Oil Stocks Catch Fire (Live Coverage)",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
-      "time": "2026-08-19T20:31:04Z",
-      "titleJa": "今日の株式市場: がんワクチンでモデルナが勝利を収め、ダウが連敗を止める (ライブ中継)"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "US Equity Markets End Higher as US Treasury Plans Expanded Long-Bond Buybacks",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-202620978.html",
-      "time": "2026-08-19T20:26:20Z",
-      "titleJa": "米財務省の長期債買い戻し計画拡大を受け、米国株式市場は上昇して終了"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Johnson & Johnson Stock Runs On A Calendar The Market Does Not Set",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/612016/johnson-johnson-stock-runs-on-a-calendar-the-market-does-not-set/2026-08-19",
-      "time": "2026-08-19T20:08:16Z",
-      "titleJa": "ジョンソン・エンド・ジョンソン株はカレンダー通りに動く 市場は決まっていない"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
+      "time": "2026-08-20T20:34:54Z",
+      "titleJa": "今日の株式市場: ダウは 700 ポイント下落したが、マイナーは上昇。石油株に火がつく（ライブ中継）"
     }
   ]
 }
