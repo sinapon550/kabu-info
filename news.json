@@ -1,144 +1,204 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Your Muni Income Is Invisible to One Tax Break and Fatal to Another",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/20/your-muni-income-is-invisible-to-one-tax-break-and-fatal-to-another/",
-      "time": "2026-08-20T21:15:35Z",
-      "titleJa": "あなたの自治体の収入は、ある減税では目に見えず、別の減税では致命的になります",
-      "relevant": true
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "The Biggest Risk Facing the First Trust Nasdaq Semiconductor ETF (FTXL) Right Now",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/20/the-biggest-risk-facing-the-first-trust-nasdaq-semiconductor-etf-ftxl-right-now/",
-      "time": "2026-08-20T21:10:39Z",
-      "titleJa": "ファースト・トラスト・ナスダック・セミコンダクターETF（FTXL）が現在直面している最大のリスク",
-      "relevant": false
-    },
-    {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
+      "title": "A Bounce From Weakness: Selling Into Strength For DRAM ETF Beat A Round Trip",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
-      "time": "2026-08-20T21:03:30Z",
-      "titleJa": "ダウ・ジョーンズ先物：ウォルマート、スペースX、クラウドストライクの下落で市場が弱気シグナルを誘発",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Broadcom repoirtedly seeking to raise over $60 billion for AI chip deal",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-repoirtedly-seeking-raise-over-204953745.html",
-      "time": "2026-08-20T20:49:53Z",
-      "titleJa": "ブロードコム、AIチップ取引で600億ドル以上の調達を目指していると報道",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-203818587.html",
-      "time": "2026-08-20T20:38:18Z",
-      "titleJa": "ブルームバーグニュースが報じたところによると、ブロードコムは最新のAI債務取引で600億ドル以上を求めている",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "AMD Just Split Two of Wall Street’s Biggest Contrarian Investors",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-just-split-two-wall-203344035.html",
-      "time": "2026-08-20T20:33:44Z",
-      "titleJa": "AMD、ウォール街最大の逆張り投資家2社を分割したばかり",
+      "link": "https://www.investors.com/research/swing-trading/a-bounce-from-weakness-selling-into-strength-for-dram-etf-beat-a-round-trip/?src=A00220&yptr=yahoo",
+      "time": "2026-08-21T21:07:30Z",
+      "titleJa": "弱さからの回復：DRAM ETFの強さへの売りがラウンドトリップを破る",
       "relevant": false
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Billionaire Investor David Tepper Recently Dumped Appaloosa Management's Stake in Sandisk and Initiated a New Position In a Stock That Some Wall Street Experts Think Could Eventually Be Worth $10 Trillion",
+      "title": "A Bounce From Weakness: Selling Into Strength For DRAM ETF Beat A Round Trip",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/research/swing-trading/a-bounce-from-weakness-selling-into-strength-for-dram-etf-beat-a-round-trip/?src=A00220&yptr=yahoo",
+      "time": "2026-08-21T21:07:30Z",
+      "titleJa": "弱さからの回復：DRAM ETFの強さへの売りがラウンドトリップを破る",
+      "relevant": false
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Why BitMine Immersion Technologies Stock Skyrocketed by 26% This Week",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/20/billionaire-investor-david-tepper-recently-dumped/",
-      "time": "2026-08-20T20:25:00Z",
-      "titleJa": "億万長者の投資家デビッド・テッパー氏は最近、アパルーサ・マネジメントのサンディスク株を手放し、一部のウォール街専門家が最終的には10兆ドルの価値があると考えている銘柄に新たなポジションを開始した。",
+      "link": "https://www.fool.com/investing/2026/08/21/why-bitmine-immersion-technologies-stock-skyrocket/",
+      "time": "2026-08-21T21:04:54Z",
+      "titleJa": "BitMine Immersion Technologies 株が今週 26% 急騰した理由",
+      "relevant": false
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Why Fabrinet Shed Nearly A Quarter of Its Value This Week",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/21/why-fabrinet-shed-nearly-a-quarter-of-its-value-th/",
+      "time": "2026-08-21T21:01:41Z",
+      "titleJa": "ファブリネットが今週その価値の4分の1近くを失った理由",
       "relevant": true
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "Waymo Builds Its Own Chip and Reduces Its Nvidia Dependence",
+      "title": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-sales-just-205844477.html",
+      "time": "2026-08-21T20:58:44Z",
+      "titleJa": "台湾積体電路（TSM）の売上高は45％急増した。なぜチップセクターは依然として売られているのでしょうか?",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-sales-just-205844477.html",
+      "time": "2026-08-21T20:58:44Z",
+      "titleJa": "台湾積体電路（TSM）の売上高は45％急増した。なぜチップセクターは依然として売られているのでしょうか?",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "The $116 Billion That NVDA Quietly Paid Its Owners",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/612357/the-116-billion-that-nvda-quietly-paid-its-owners/2026-08-21",
+      "time": "2026-08-21T20:38:55Z",
+      "titleJa": "NVDA が所有者に密かに支払った 1,160 億ドル",
+      "relevant": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/waymo-builds-own-chip-reduces-195532671.html",
-      "time": "2026-08-20T19:55:32Z",
-      "titleJa": "Waymo、独自のチップを構築し、Nvidia への依存を軽減",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-nvidia-setup-201703480.html",
+      "time": "2026-08-21T20:17:03Z",
+      "titleJa": "ゴールドマン・サックス、NVIDIAの設立を検討 ほとんどの人が予想していなかった",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Why higher yields aren't scaring off retail traders",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/why-higher-yields-arent-scaring-201500563.html",
+      "time": "2026-08-21T20:15:00Z",
+      "titleJa": "利回りの上昇が小売トレーダーを怖がらせない理由",
       "relevant": false
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "Waymo is making its own AI chip for its robotaxi service",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
-      "time": "2026-08-20T19:43:18Z",
-      "titleJa": "Waymoはロボタクシーサービス用に独自のAIチップを製造している",
+      "title": "Microsoft (MSFT)’s Betting Big on Its Own AI Chips. Is It Already Too Late?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-betting-big-own-201414728.html",
+      "time": "2026-08-21T20:14:14Z",
+      "titleJa": "マイクロソフト (MSFT) は独自の AI チップに大きく賭けています。もう手遅れですか？",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194245037.html",
+      "time": "2026-08-21T19:42:45Z",
+      "titleJa": "セクター最新情報：ハイテク株は午後遅くに上昇",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Is Micron a Commodity or an AI Powerhouse? The Debate Driving Its Low Valuation.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-valuation-commodity-ai-memory-1b905948?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-21T16:50:00Z",
+      "titleJa": "Micron はコモディティですか、それとも AI の有力企業ですか?低い評価をもたらす議論。",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Another Big Korean Tech Company Is Buying Back Shares",
+      "publisher": "Investopedia",
+      "link": "https://www.investopedia.com/market-update-another-big-korean-tech-company-is-buying-back-shares-12065333",
+      "time": "2026-08-21T16:36:20Z",
+      "titleJa": "別の韓国の大手テクノロジー企業が株式を買い戻す",
       "relevant": false
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "Waymo is making its own AI chip for its robotaxi service",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
-      "time": "2026-08-20T19:43:18Z",
-      "titleJa": "Waymoはロボタクシーサービス用に独自のAIチップを製造している",
+      "title": "Another Big Korean Tech Company Is Buying Back Shares",
+      "publisher": "Investopedia",
+      "link": "https://www.investopedia.com/market-update-another-big-korean-tech-company-is-buying-back-shares-12065333",
+      "time": "2026-08-21T16:36:20Z",
+      "titleJa": "別の韓国の大手テクノロジー企業が株式を買い戻す",
       "relevant": false
     },
     {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Waymo is making its own AI chip for its robotaxi service",
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Korea's crypto trading volume is surging. Why are these investors re-entering the market?",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
-      "time": "2026-08-20T19:43:18Z",
-      "titleJa": "Waymoはロボタクシーサービス用に独自のAIチップを製造している",
+      "link": "https://finance.yahoo.com/video/koreas-crypto-trading-volume-surging-162711254.html",
+      "time": "2026-08-21T16:27:11Z",
+      "titleJa": "韓国の仮想通貨取引量が急増している。なぜこれらの投資家は市場に再参入するのでしょうか?",
       "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Ferrari Stock Is Pulling Away From the Pack. Why It Could Rally 15%.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/ferrari-stock-autos-technical-analysis-419640db?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-21T16:26:00Z",
+      "titleJa": "フェラーリ株が集団から引き離されつつある。なぜ15％上昇するのか。",
+      "relevant": false
+    },
+    {
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "Keysight Focuses on AI Infrastructure to Spur Growth: Worth a Buy?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/keysight-focuses-ai-infrastructure-spur-132000209.html",
+      "time": "2026-08-21T13:20:00Z",
+      "titleJa": "キーサイト、成長を促進するために AI インフラストラクチャに注力: 買う価値はありますか?",
+      "relevant": false
+    },
+    {
+      "ticker": "7011.T",
+      "company": "三菱重工業",
+      "title": "L&T and MHI to build 50km people mover system at Al Maktoum Airport",
+      "publisher": "World Construction Network",
+      "link": "https://www.worldconstructionnetwork.com/news/lt-mhi-al-maktoum-airport-contract/",
+      "time": "2026-08-21T10:07:41Z",
+      "titleJa": "L&Tと三菱重工、アル・マクトゥーム空港に50kmの人員移動システムを構築",
+      "relevant": true
     },
     {
       "ticker": "ASML",
       "company": "ASML",
-      "title": "ASML Gains as TSMC's Spending Forecast Hits $85 Billion",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/articles/asml-gains-tsmcs-spending-forecast-190758887.html",
-      "time": "2026-08-20T19:07:58Z",
-      "titleJa": "TSMCの支出予測が850億ドルに達し、ASMLが上昇",
-      "relevant": true
+      "title": "European Indexes Largely Higher at Open",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-tracking-wall-streets-losses-e68ff417?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-21T07:44:00Z",
+      "titleJa": "欧州指数は寄り付きで大幅高",
+      "relevant": false
     },
     {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "SK Hynix Climbs 4% on Record Buyback, Micron Ticks Up as Memory Defies the Tech Selloff",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/20/sk-hynix-climbs-4-on-record-buyback-micron-ticks-up-as-memory-defies-the-tech-selloff/",
-      "time": "2026-08-20T18:31:39Z",
-      "titleJa": "SKハイニックスはレコード買い戻しで4%上昇、メモリがテクノロジー株の下落をものともせずマイクロンは上昇",
-      "relevant": true
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Micron Quietly Pours $10 Billion Into Next Big Move",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/micron-quietly-pours-10-billion-182903705.html",
-      "time": "2026-08-20T18:29:03Z",
-      "titleJa": "マイクロン、次の大きな動きに静かに100億ドルを注ぎ込む",
+      "ticker": "3436.T",
+      "company": "SUMCO",
+      "title": "European Indexes Largely Higher at Open",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-tracking-wall-streets-losses-e68ff417?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-21T07:44:00Z",
+      "titleJa": "欧州指数は寄り付きで大幅高",
       "relevant": false
     },
     {
@@ -150,16 +210,6 @@
       "time": "2026-08-20T17:07:34Z",
       "titleJa": "インテル (INTC) 株が大手投資家の米国株ポートフォリオの 67% を占めるようになる",
       "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Samsung Considers $72 Billion Shareholder Boost As Memory Booms",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-considers-72-billion-shareholder-170032889.html",
-      "time": "2026-08-20T17:00:32Z",
-      "titleJa": "サムスン、メモリブームに伴う720億ドルの株主増資を検討",
-      "relevant": true
     },
     {
       "ticker": "285A.T",
@@ -179,16 +229,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/honda-motor-co-hmc-outperforming-134003625.html",
       "time": "2026-08-20T13:40:03Z",
       "titleJa": "ホンダ自動車（HMC）は今年、他の自動車タイヤ・トラック株を上回るパフォーマンスを発揮するのか？",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Taiwan Semiconductor vs. ASML: Which Semiconductor Titan Is the Better Buy Today?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/20/taiwan-semiconductor-vs-asml-which-semiconductor-t/",
-      "time": "2026-08-20T08:55:00Z",
-      "titleJa": "台湾セミコンダクター vs. ASML: 今日はどちらの半導体大手を買うのが良いでしょうか?",
       "relevant": true
     },
     {
@@ -222,16 +262,6 @@
       "relevant": true
     },
     {
-      "ticker": "6857.T",
-      "company": "アドバンテスト",
-      "title": "Why Is Advantest (TSE:6857) Drawing Investor Attention This Earnings Season?",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-advantest-tse-6857-drawing-161218411.html",
-      "time": "2026-08-19T16:12:18Z",
-      "titleJa": "アドバンテスト（東証：6857）が今決算期に投資家の注目を集める理由とは？",
-      "relevant": true
-    },
-    {
       "ticker": "6963.T",
       "company": "ローム",
       "title": "Rohm Co. (ROHCY) Upgraded to Buy: Here's Why",
@@ -240,16 +270,6 @@
       "time": "2026-08-19T16:00:05Z",
       "titleJa": "ローム社 (ROHCY) が購入にアップグレード: その理由は次のとおりです",
       "relevant": true
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Micware Targets Software-Defined Vehicles, Spatial Intelligence Growth at Sidoti Conference",
-      "publisher": "MarketBeat",
-      "link": "https://www.marketbeat.com/instant-alerts/micware-targets-software-defined-vehicles-spatial-intelligence-growth-at-sidoti-conference-2026-08-19/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "time": "2026-08-19T15:02:35Z",
-      "titleJa": "マイクウェア、シドティカンファレンスでソフトウェア・デファインド・ビークルと空間インテリジェンスの成長をターゲットに",
-      "relevant": false
     },
     {
       "ticker": "8306.T",
@@ -278,7 +298,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/orix-tse-8591-raised-dividend-043405736.html",
       "time": "2026-08-19T04:34:05Z",
-      "titleJa": "オリックス（東証：8591）、配当方針の見直しに伴い配当予想を増額",
+      "titleJa": "オリックス（東証：8591）、配当方針の見直しに伴い配当予想を増配",
       "relevant": true
     },
     {
@@ -330,36 +350,6 @@
       "time": "2026-08-17T10:41:13Z",
       "titleJa": "アジア株式市場を支えるテックラリー",
       "relevant": false
-    },
-    {
-      "ticker": "6981.T",
-      "company": "村田製作所",
-      "title": "Murata Manufacturing (TSE:6981) Stock Looks Pricey After A 250% Run",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/murata-manufacturing-tse-6981-stock-190625775.html",
-      "time": "2026-08-15T19:06:25Z",
-      "titleJa": "村田製作所 (東証:6981) 株価は 250% 上昇で割高に見える",
-      "relevant": true
-    },
-    {
-      "ticker": "8058.T",
-      "company": "三菱商事",
-      "title": "Ovo founder in battle for control over £370m tech arm",
-      "publisher": "The Telegraph",
-      "link": "https://www.telegraph.co.uk/business/2026/08/15/ovo-founder-in-battle-for-control-over-370m-tech-arm/",
-      "time": "2026-08-15T10:00:00Z",
-      "titleJa": "Ovo 創設者、3 億 7,000 万ポンドの技術部門の主導権を争う",
-      "relevant": false
-    },
-    {
-      "ticker": "6981.T",
-      "company": "村田製作所",
-      "title": "Murata Manufacturing (TSE:6981), What Is Behind The Latest Attention?",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/murata-manufacturing-tse-6981-behind-090911904.html",
-      "time": "2026-08-15T09:09:11Z",
-      "titleJa": "村田製作所（東証：6981）、最近の注目の背景とは？",
-      "relevant": true
     }
   ]
 }
