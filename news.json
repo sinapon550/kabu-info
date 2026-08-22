@@ -1,54 +1,144 @@
 {
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "items": [
     {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "A Bounce From Weakness: Selling Into Strength For DRAM ETF Beat A Round Trip",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/research/swing-trading/a-bounce-from-weakness-selling-into-strength-for-dram-etf-beat-a-round-trip/?src=A00220&yptr=yahoo",
-      "time": "2026-08-21T21:07:30Z",
-      "titleJa": "弱さからの回復：DRAM ETFの強さへの売りがラウンドトリップを破る",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "A Bounce From Weakness: Selling Into Strength For DRAM ETF Beat A Round Trip",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/research/swing-trading/a-bounce-from-weakness-selling-into-strength-for-dram-etf-beat-a-round-trip/?src=A00220&yptr=yahoo",
-      "time": "2026-08-21T21:07:30Z",
-      "titleJa": "弱さからの回復：DRAM ETFの強さへの売りがラウンドトリップを破る",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Active ETFs Now Take 42% of Every Dollar Flowing Into ETFs, Up From 26% in 2024",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/22/active-etfs-now-take-42-of-every-dollar-flowing-in/",
+      "time": "2026-08-22T20:50:00Z",
+      "titleJa": "Active ETFs Now Take 42% of Every Dollar Flowing Into ETFs, Up From 26% in 2024",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Why BitMine Immersion Technologies Stock Skyrocketed by 26% This Week",
+      "title": "Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/21/why-bitmine-immersion-technologies-stock-skyrocket/",
-      "time": "2026-08-21T21:04:54Z",
-      "titleJa": "BitMine Immersion Technologies 株が今週 26% 急騰した理由",
-      "relevant": false
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Why Fabrinet Shed Nearly A Quarter of Its Value This Week",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/21/why-fabrinet-shed-nearly-a-quarter-of-its-value-th/",
-      "time": "2026-08-21T21:01:41Z",
-      "titleJa": "ファブリネットが今週その価値の4分の1近くを失った理由",
+      "link": "https://www.fool.com/investing/2026/08/22/ross-stores-grew-comparable-sales-10-tjx-grew-4-only-one-stock-went-up/",
+      "time": "2026-08-22T20:43:01Z",
+      "titleJa": "Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.",
       "relevant": true
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-sales-just-205844477.html",
-      "time": "2026-08-21T20:58:44Z",
-      "titleJa": "台湾積体電路（TSM）の売上高は45％急増した。なぜチップセクターは依然として売られているのでしょうか?",
+      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/22/billionaire-stanley-druckenmiller-just-sold-sandis/",
+      "time": "2026-08-22T20:04:00Z",
+      "titleJa": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/22/billionaire-stanley-druckenmiller-just-sold-sandis/",
+      "time": "2026-08-22T20:04:00Z",
+      "titleJa": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/22/tsmcs-100-billion-arizona-expansion-stock-buy/",
+      "time": "2026-08-22T19:05:00Z",
+      "titleJa": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Nvidia Stock Doesn’t Look as Expensive as You Think",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/22/nvidia-stock-doesnt-look-as-expensive-as-you-think/",
+      "time": "2026-08-22T15:30:50Z",
+      "titleJa": "Nvidia Stock Doesn’t Look as Expensive as You Think",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "A $28.7 Billion Reason to Buy SK hynix Stock Now",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/3986370/a-28-7-billion-reason-to-buy-sk-hynix-stock-now",
+      "time": "2026-08-22T15:00:02Z",
+      "titleJa": "A $28.7 Billion Reason to Buy SK hynix Stock Now",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/22/billionaire-david-tepper-sold-his-funds-sandisk/",
+      "time": "2026-08-22T14:20:00Z",
+      "titleJa": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/22/billionaire-david-tepper-sold-his-funds-sandisk/",
+      "time": "2026-08-22T14:20:00Z",
+      "titleJa": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+      "relevant": true
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "QuantumScape's CTO Sold 75,962 Shares the Same Quarter Honda Bet on His Technology. Here's What to Know",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/filings/2026/08/22/quantumscape-cto-timothy-holme-sells-75962-shares-for-437000/",
+      "time": "2026-08-22T13:10:02Z",
+      "titleJa": "QuantumScape's CTO Sold 75,962 Shares the Same Quarter Honda Bet on His Technology. Here's What to Know",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "TSMC vs. ASML: Which Semi Monopoly Has the Wider Moat?",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/22/tsmc-vs-asml-which-semi-monopoly-has-the-wider-moat/",
+      "time": "2026-08-22T12:52:52Z",
+      "titleJa": "TSMC vs. ASML: Which Semi Monopoly Has the Wider Moat?",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+      "time": "2026-08-22T12:00:19Z",
+      "titleJa": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
+      "relevant": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "These 3 AI stocks are bought by both hedge funds and mutual funds",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-bought-both-113113447.html",
+      "time": "2026-08-22T11:31:13Z",
+      "titleJa": "These 3 AI stocks are bought by both hedge funds and mutual funds",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Is SK hynix (NasdaqGS:SKHY) Undervalued After Its 40 Trillion Won Buyback Plan?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-nasdaqgs-skhy-undervalued-110906493.html",
+      "time": "2026-08-22T11:09:06Z",
+      "titleJa": "Is SK hynix (NasdaqGS:SKHY) Undervalued After Its 40 Trillion Won Buyback Plan?",
       "relevant": true
     },
     {
@@ -58,77 +148,17 @@
       "publisher": "Insider Monkey",
       "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-sales-just-205844477.html",
       "time": "2026-08-21T20:58:44Z",
-      "titleJa": "台湾積体電路（TSM）の売上高は45％急増した。なぜチップセクターは依然として売られているのでしょうか?",
+      "titleJa": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
       "relevant": true
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "The $116 Billion That NVDA Quietly Paid Its Owners",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/612357/the-116-billion-that-nvda-quietly-paid-its-owners/2026-08-21",
-      "time": "2026-08-21T20:38:55Z",
-      "titleJa": "NVDA が所有者に密かに支払った 1,160 億ドル",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-nvidia-setup-201703480.html",
-      "time": "2026-08-21T20:17:03Z",
-      "titleJa": "ゴールドマン・サックス、NVIDIAの設立を検討 ほとんどの人が予想していなかった",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Why higher yields aren't scaring off retail traders",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/why-higher-yields-arent-scaring-201500563.html",
-      "time": "2026-08-21T20:15:00Z",
-      "titleJa": "利回りの上昇が小売トレーダーを怖がらせない理由",
-      "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Microsoft (MSFT)’s Betting Big on Its Own AI Chips. Is It Already Too Late?",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-betting-big-own-201414728.html",
-      "time": "2026-08-21T20:14:14Z",
-      "titleJa": "マイクロソフト (MSFT) は独自の AI チップに大きく賭けています。もう手遅れですか？",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194245037.html",
-      "time": "2026-08-21T19:42:45Z",
-      "titleJa": "セクター最新情報：ハイテク株は午後遅くに上昇",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Is Micron a Commodity or an AI Powerhouse? The Debate Driving Its Low Valuation.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/micron-stock-price-valuation-commodity-ai-memory-1b905948?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-21T16:50:00Z",
-      "titleJa": "Micron はコモディティですか、それとも AI の有力企業ですか?低い評価をもたらす議論。",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Another Big Korean Tech Company Is Buying Back Shares",
-      "publisher": "Investopedia",
-      "link": "https://www.investopedia.com/market-update-another-big-korean-tech-company-is-buying-back-shares-12065333",
-      "time": "2026-08-21T16:36:20Z",
-      "titleJa": "別の韓国の大手テクノロジー企業が株式を買い戻す",
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Walmart will let customers use Apple Pay after holding out for more than a decade. Why it finally caved",
+      "publisher": "FastCompany",
+      "link": "https://www.fastcompany.com/91593708/walmart-adds-apple-pay-google-tap-payments-after-holding-out-why-it-caved",
+      "time": "2026-08-21T17:30:00Z",
+      "titleJa": "Walmart will let customers use Apple Pay after holding out for more than a decade. Why it finally caved",
       "relevant": false
     },
     {
@@ -138,17 +168,7 @@
       "publisher": "Investopedia",
       "link": "https://www.investopedia.com/market-update-another-big-korean-tech-company-is-buying-back-shares-12065333",
       "time": "2026-08-21T16:36:20Z",
-      "titleJa": "別の韓国の大手テクノロジー企業が株式を買い戻す",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Korea's crypto trading volume is surging. Why are these investors re-entering the market?",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/koreas-crypto-trading-volume-surging-162711254.html",
-      "time": "2026-08-21T16:27:11Z",
-      "titleJa": "韓国の仮想通貨取引量が急増している。なぜこれらの投資家は市場に再参入するのでしょうか?",
+      "titleJa": "Another Big Korean Tech Company Is Buying Back Shares",
       "relevant": false
     },
     {
@@ -158,7 +178,7 @@
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/articles/ferrari-stock-autos-technical-analysis-419640db?siteid=yhoof2&yptr=yahoo",
       "time": "2026-08-21T16:26:00Z",
-      "titleJa": "フェラーリ株が集団から引き離されつつある。なぜ15％上昇するのか。",
+      "titleJa": "Ferrari Stock Is Pulling Away From the Pack. Why It Could Rally 15%.",
       "relevant": false
     },
     {
@@ -168,7 +188,7 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/technology/ai/articles/keysight-focuses-ai-infrastructure-spur-132000209.html",
       "time": "2026-08-21T13:20:00Z",
-      "titleJa": "キーサイト、成長を促進するために AI インフラストラクチャに注力: 買う価値はありますか?",
+      "titleJa": "Keysight Focuses on AI Infrastructure to Spur Growth: Worth a Buy?",
       "relevant": false
     },
     {
@@ -178,17 +198,7 @@
       "publisher": "World Construction Network",
       "link": "https://www.worldconstructionnetwork.com/news/lt-mhi-al-maktoum-airport-contract/",
       "time": "2026-08-21T10:07:41Z",
-      "titleJa": "L&Tと三菱重工、アル・マクトゥーム空港に50kmの人員移動システムを構築",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "European Indexes Largely Higher at Open",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-tracking-wall-streets-losses-e68ff417?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-21T07:44:00Z",
-      "titleJa": "欧州指数は寄り付きで大幅高",
+      "titleJa": "L&T and MHI to build 50km people mover system at Al Maktoum Airport",
       "relevant": false
     },
     {
@@ -198,7 +208,7 @@
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-tracking-wall-streets-losses-e68ff417?siteid=yhoof2&yptr=yahoo",
       "time": "2026-08-21T07:44:00Z",
-      "titleJa": "欧州指数は寄り付きで大幅高",
+      "titleJa": "European Indexes Largely Higher at Open",
       "relevant": false
     },
     {
@@ -208,7 +218,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-became-67-170734414.html",
       "time": "2026-08-20T17:07:34Z",
-      "titleJa": "インテル (INTC) 株が大手投資家の米国株ポートフォリオの 67% を占めるようになる",
+      "titleJa": "Intel (INTC) Stock Became 67% Of A Major Investor’s US Equity Portfolio",
       "relevant": false
     },
     {
@@ -218,18 +228,8 @@
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/articles/micron-stock-buyback-memory-chips-sk-hynix-samsung-468cc1ae?siteid=yhoof2&yptr=yahoo",
       "time": "2026-08-20T14:41:00Z",
-      "titleJa": "マイクロンがメモリーチップのライバル企業のように自社株買いをしない理由と、それが可能な理由",
+      "titleJa": "Why Micron Isn’t Buying Back Stock Like Memory-Chip Rivals—and Why It Could",
       "relevant": false
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Is Honda Motor Co. (HMC) Outperforming Other Auto-Tires-Trucks Stocks This Year?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honda-motor-co-hmc-outperforming-134003625.html",
-      "time": "2026-08-20T13:40:03Z",
-      "titleJa": "ホンダ自動車（HMC）は今年、他の自動車タイヤ・トラック株を上回るパフォーマンスを発揮するのか？",
-      "relevant": true
     },
     {
       "ticker": "9984.T",
@@ -238,7 +238,7 @@
       "publisher": "Motley Fool",
       "link": "https://www.fool.com/investing/2026/08/19/masayoshi-son-has-67-of-softbank-s-u-s-stock-portfolio-in-intel-he-didn-t-buy-a-single-share-last-quarter/",
       "time": "2026-08-20T03:07:01Z",
-      "titleJa": "孫正義氏はソフトバンクの米国株ポートフォリオの67％をインテルで保有している。彼は前四半期には一株も購入しませんでした。",
+      "titleJa": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
       "relevant": true
     },
     {
@@ -248,7 +248,7 @@
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/articles/micron-stock-price-memory-share-c4eea8c4?siteid=yhoof2&yptr=yahoo",
       "time": "2026-08-19T20:51:00Z",
-      "titleJa": "マイクロンがメモリ市場シェアを獲得。とにかく株が下がっています。",
+      "titleJa": "Micron Gained Memory Market Share. The Stock Is Dropping Anyway.",
       "relevant": false
     },
     {
@@ -258,7 +258,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-earnings-beat-amid-high-201016663.html",
       "time": "2026-08-19T20:10:16Z",
-      "titleJa": "エネルギーコスト高の中でアドバンテストの収益は上振れしているのか（東証：6857）の投資ケースを見直しているのか？",
+      "titleJa": "Is Advantest’s Earnings Beat Amid High Energy Costs Reframing Its Investment Case (TSE:6857)?",
       "relevant": true
     },
     {
@@ -268,7 +268,7 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/rohm-co-rohcy-upgraded-buy-160005546.html",
       "time": "2026-08-19T16:00:05Z",
-      "titleJa": "ローム社 (ROHCY) が購入にアップグレード: その理由は次のとおりです",
+      "titleJa": "Rohm Co. (ROHCY) Upgraded to Buy: Here's Why",
       "relevant": true
     },
     {
@@ -278,7 +278,7 @@
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-gains-on-easing-fed-rate-hike-hopes-physical-demand-36cdf532?siteid=yhoof2&yptr=yahoo",
       "time": "2026-08-19T14:18:00Z",
-      "titleJa": "ドル安、債券利回り低下のなか、金は2%上昇",
+      "titleJa": "Gold Up 2% Amid Weaker Dollar, Falling Bond Yields",
       "relevant": false
     },
     {
@@ -288,7 +288,7 @@
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081926/card/gold-slips-ahead-of-fed-meeting-minutes-Up0SmZl5C1gZClW4iuJS?siteid=yhoof2&yptr=yahoo",
       "time": "2026-08-19T09:55:08Z",
-      "titleJa": "FRB会議議事録を前に金が滑り出す",
+      "titleJa": "Gold Slips Ahead of Fed Meeting Minutes",
       "relevant": false
     },
     {
@@ -298,7 +298,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/orix-tse-8591-raised-dividend-043405736.html",
       "time": "2026-08-19T04:34:05Z",
-      "titleJa": "オリックス（東証：8591）、配当方針の見直しに伴い配当予想を増配",
+      "titleJa": "ORIX (TSE:8591) Raised Dividend Guidance Under A Revised Dividend Policy",
       "relevant": true
     },
     {
@@ -308,7 +308,7 @@
       "publisher": "Bloomberg",
       "link": "https://finance.yahoo.com/markets/stocks/articles/korean-stocks-bear-brunt-chip-004252417.html",
       "time": "2026-08-19T00:42:52Z",
-      "titleJa": "韓国株、利回り上昇懸念でチップ株下落の矢面に立つ",
+      "titleJa": "Korean Stocks Bear Brunt of Chip Selloff on Higher Yield Worry",
       "relevant": false
     },
     {
@@ -318,7 +318,7 @@
       "publisher": "Bloomberg",
       "link": "https://finance.yahoo.com/markets/stocks/articles/japan-earnings-surprise-analysts-fuel-224220635.html",
       "time": "2026-08-18T22:42:20Z",
-      "titleJa": "日本の決算アナリストが予想外の展開で幅広い反発への賭けを煽る",
+      "titleJa": "Japan’s Earnings Surprise Analysts to Fuel Bets for Broad Rally",
       "relevant": false
     },
     {
@@ -328,7 +328,7 @@
       "publisher": "GuruFocus.com",
       "link": "https://finance.yahoo.com/technology/ai/articles/trend-micro-inc-tmicf-q2-173114380.html",
       "time": "2026-08-17T17:31:14Z",
-      "titleJa": "トレンドマイクロ株式会社 (TMICF) (2026 年第 2 四半期) 決算発表ハイライト: AI 投資が売上の 13% を促進 ...",
+      "titleJa": "Trend Micro Inc (TMICF) (Q2 2026) Earnings Call Highlights: AI Investments Drive 13% Sales ...",
       "relevant": true
     },
     {
@@ -338,7 +338,7 @@
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c?siteid=yhoof2&yptr=yahoo",
       "time": "2026-08-17T12:48:00Z",
-      "titleJa": "OpenAI、Nvidia の支援を受けてオハイオ州の巨大データセンターのリースを確保",
+      "titleJa": "OpenAI Locks In Lease for Huge Data Center in Ohio With Backing From Nvidia",
       "relevant": false
     },
     {
@@ -348,7 +348,7 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-rally-undergirds-asian-stock-104113355.html",
       "time": "2026-08-17T10:41:13Z",
-      "titleJa": "アジア株式市場を支えるテックラリー",
+      "titleJa": "Tech Rally Undergirds Asian Stock Markets",
       "relevant": false
     }
   ]

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^GSPC",
+      "ticker": "JPY=X",
       "company": "経済",
-      "title": "U.S. Stocks Rise as Bitcoin Nears $80,000",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-21T21:04:00Z",
-      "titleJa": "ビットコインが8万ドルに近づくと米国株が上昇"
+      "title": "Will Bessent’s intervention mark a turning point for the yen?",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/bessent-intervention-mark-turning-point-204841070.html",
+      "time": "2026-08-22T20:48:41Z",
+      "titleJa": "Will Bessent’s intervention mark a turning point for the yen?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: Wall Street Trims Weekly Losses With Friday's Gains",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-trims-weekly-losses-205526550.html",
-      "time": "2026-08-21T20:55:26Z",
-      "titleJa": "最新情報: ウォール街、金曜日の上昇で毎週の損失を縮小"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia, CrowdStrike, Warsh In Focus",
+      "title": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-      "time": "2026-08-21T20:48:30Z",
-      "titleJa": "ダウ・ジョーンズ先物：相場の上昇でダメージを一部修復。 Nvidia、CrowdStrike、Warsh が注目"
+      "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
+      "time": "2026-08-22T17:49:56Z",
+      "titleJa": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P 500 Posts First Weekly Loss Since July Amid US Warning to Iran",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-first-weekly-204508360.html",
-      "time": "2026-08-21T20:45:08Z",
-      "titleJa": "米国のイランへの警告を受け、S&P500指数は7月以来初の週間下落を記録"
+      "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/22/this-sp-500-stock-pays-a-267-dividend-yield-and-ha/",
+      "time": "2026-08-22T17:20:00Z",
+      "titleJa": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh."
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Copper Demand Pushes Freeport-McMoRan to Record",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/copper-demand-pushes-freeport-mcmoran-to-record-WvLxjINFE18VX74QLUK2?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-21T20:45:01Z",
-      "titleJa": "銅需要がフリーポート・マクモランを記録に押し上げる"
+      "title": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/22/cvs-health-stock-is-beating-the-market-in-2026/",
+      "time": "2026-08-22T17:05:00Z",
+      "titleJa": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%."
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "If You Have $10,000: 3 Dividend ETFs Worth Buying Before September",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/22/if-you-have-10000-3-dividend-etfs-worth-buying/",
+      "time": "2026-08-22T16:50:00Z",
+      "titleJa": "If You Have $10,000: 3 Dividend ETFs Worth Buying Before September"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-sharp-101936269.html",
-      "time": "2026-08-21T20:44:26Z",
-      "titleJa": "ウォール街はその日は上昇するが、週間では下落する。債券利回りと注目のイラン"
+      "title": "Cathie Wood buys $28.1 million of popular tech stock",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-28-1-million-of-popular-tech-stock-spacex-spcx",
+      "time": "2026-08-22T16:47:00Z",
+      "titleJa": "Cathie Wood buys $28.1 million of popular tech stock"
     }
   ]
 }
