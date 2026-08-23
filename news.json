@@ -1,105 +1,165 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Active ETFs Now Take 42% of Every Dollar Flowing Into ETFs, Up From 26% in 2024",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/22/active-etfs-now-take-42-of-every-dollar-flowing-in/",
-      "time": "2026-08-22T20:50:00Z",
-      "titleJa": "Active ETFs Now Take 42% of Every Dollar Flowing Into ETFs, Up From 26% in 2024",
-      "relevant": false
+      "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "time": "2026-08-23T21:07:44Z",
+      "titleJa": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
+      "relevant": true
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.",
+      "title": "The Metals Company Is Riding the Critical Metals Boom. Here's Why I Still Wouldn't Touch It.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/22/ross-stores-grew-comparable-sales-10-tjx-grew-4-only-one-stock-went-up/",
-      "time": "2026-08-22T20:43:01Z",
-      "titleJa": "Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/22/billionaire-stanley-druckenmiller-just-sold-sandis/",
-      "time": "2026-08-22T20:04:00Z",
-      "titleJa": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/22/billionaire-stanley-druckenmiller-just-sold-sandis/",
-      "time": "2026-08-22T20:04:00Z",
-      "titleJa": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/22/tsmcs-100-billion-arizona-expansion-stock-buy/",
-      "time": "2026-08-22T19:05:00Z",
-      "titleJa": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Nvidia Stock Doesn’t Look as Expensive as You Think",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/22/nvidia-stock-doesnt-look-as-expensive-as-you-think/",
-      "time": "2026-08-22T15:30:50Z",
-      "titleJa": "Nvidia Stock Doesn’t Look as Expensive as You Think",
+      "link": "https://www.fool.com/investing/2026/08/23/the-metals-company-is-riding-the-critical-metals-b/",
+      "time": "2026-08-23T21:02:00Z",
+      "titleJa": "The Metals Company Is Riding the Critical Metals Boom. Here's Why I Still Wouldn't Touch It.",
       "relevant": false
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "A $28.7 Billion Reason to Buy SK hynix Stock Now",
-      "publisher": "Barchart",
-      "link": "https://www.barchart.com/story/news/3986370/a-28-7-billion-reason-to-buy-sk-hynix-stock-now",
-      "time": "2026-08-22T15:00:02Z",
-      "titleJa": "A $28.7 Billion Reason to Buy SK hynix Stock Now",
+      "title": "SK Hynix Is Buying Back 3.3% of Its Shares and Canceling Every One",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/23/sk-hynix-is-buying-back-3-3-of-its-shares-and-canceling-every-one/",
+      "time": "2026-08-23T20:57:01Z",
+      "titleJa": "SK Hynix Is Buying Back 3.3% of Its Shares and Canceling Every One",
       "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "$22 Billion in Customer Deposits Did Not Stop This Chip CEO From Selling $37 Million",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/23/22-billion-in-customer-deposits-did-not-stop-this-chip-ceo-from-selling-37-million/",
+      "time": "2026-08-23T20:12:36Z",
+      "titleJa": "$22 Billion in Customer Deposits Did Not Stop This Chip CEO From Selling $37 Million",
+      "relevant": false
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+      "title": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/22/billionaire-david-tepper-sold-his-funds-sandisk/",
-      "time": "2026-08-22T14:20:00Z",
-      "titleJa": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+      "link": "https://www.fool.com/investing/2026/08/23/stanley-druckenmiller-and-dan-loeb-piled-into/",
+      "time": "2026-08-23T18:35:00Z",
+      "titleJa": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Jim Cramer doubles down on his bold call on memory stocks",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-doubles-down-on-his-bold-call-on-memory-stocks-micron-sandisk",
+      "time": "2026-08-23T17:33:00Z",
+      "titleJa": "Jim Cramer doubles down on his bold call on memory stocks",
       "relevant": false
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+      "title": "Jim Cramer doubles down on his bold call on memory stocks",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-doubles-down-on-his-bold-call-on-memory-stocks-micron-sandisk",
+      "time": "2026-08-23T17:33:00Z",
+      "titleJa": "Jim Cramer doubles down on his bold call on memory stocks",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/22/billionaire-david-tepper-sold-his-funds-sandisk/",
-      "time": "2026-08-22T14:20:00Z",
-      "titleJa": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+      "link": "https://www.fool.com/investing/2026/08/23/broadcom-vs-marvell-technology-1-critical-metric-d/",
+      "time": "2026-08-23T17:26:00Z",
+      "titleJa": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/23/amd-is-investing-more-than-xx-billion-in-taiwan-to/",
+      "time": "2026-08-23T15:50:00Z",
+      "titleJa": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/23/nvidias-15-price-hike-reveals-the-hidden-cost-of-the-ai-boom/",
+      "time": "2026-08-23T14:43:54Z",
+      "titleJa": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/23/nvidias-15-price-hike-reveals-the-hidden-cost-of-the-ai-boom/",
+      "time": "2026-08-23T14:43:54Z",
+      "titleJa": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/nvidia-ai-server-price-hikes/",
+      "time": "2026-08-23T10:28:24Z",
+      "titleJa": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Micron vs. Sandisk: Which AI Memory Stock Should You Own?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/23/micron-vs-sandisk-which-ai-memory-stock-own/",
+      "time": "2026-08-23T09:15:00Z",
+      "titleJa": "Micron vs. Sandisk: Which AI Memory Stock Should You Own?",
       "relevant": true
     },
     {
       "ticker": "7267.T",
       "company": "本田技研工業",
-      "title": "QuantumScape's CTO Sold 75,962 Shares the Same Quarter Honda Bet on His Technology. Here's What to Know",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/filings/2026/08/22/quantumscape-cto-timothy-holme-sells-75962-shares-for-437000/",
-      "time": "2026-08-22T13:10:02Z",
-      "titleJa": "QuantumScape's CTO Sold 75,962 Shares the Same Quarter Honda Bet on His Technology. Here's What to Know",
+      "title": "Is Honda Motor (TSE:7267) Still Worth Buying As Its Valuation Debate Heats Up?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/honda-motor-tse-7267-still-011015654.html",
+      "time": "2026-08-23T01:10:15Z",
+      "titleJa": "Is Honda Motor (TSE:7267) Still Worth Buying As Its Valuation Debate Heats Up?",
       "relevant": true
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Honda Motor (TSE:7267) Dealerships Rank Among Top U.S. Acquisition Targets",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/honda-motor-tse-7267-dealerships-210912267.html",
+      "time": "2026-08-22T21:09:12Z",
+      "titleJa": "Honda Motor (TSE:7267) Dealerships Rank Among Top U.S. Acquisition Targets",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/22/billionaire-stanley-druckenmiller-just-sold-sandis/",
+      "time": "2026-08-22T20:04:00Z",
+      "titleJa": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
+      "relevant": false
     },
     {
       "ticker": "ASML",
@@ -112,36 +172,6 @@
       "relevant": true
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "time": "2026-08-22T12:00:19Z",
-      "titleJa": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "These 3 AI stocks are bought by both hedge funds and mutual funds",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-bought-both-113113447.html",
-      "time": "2026-08-22T11:31:13Z",
-      "titleJa": "These 3 AI stocks are bought by both hedge funds and mutual funds",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Is SK hynix (NasdaqGS:SKHY) Undervalued After Its 40 Trillion Won Buyback Plan?",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-nasdaqgs-skhy-undervalued-110906493.html",
-      "time": "2026-08-22T11:09:06Z",
-      "titleJa": "Is SK hynix (NasdaqGS:SKHY) Undervalued After Its 40 Trillion Won Buyback Plan?",
-      "relevant": true
-    },
-    {
       "ticker": "ASML",
       "company": "ASML",
       "title": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
@@ -150,36 +180,6 @@
       "time": "2026-08-21T20:58:44Z",
       "titleJa": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
       "relevant": true
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Walmart will let customers use Apple Pay after holding out for more than a decade. Why it finally caved",
-      "publisher": "FastCompany",
-      "link": "https://www.fastcompany.com/91593708/walmart-adds-apple-pay-google-tap-payments-after-holding-out-why-it-caved",
-      "time": "2026-08-21T17:30:00Z",
-      "titleJa": "Walmart will let customers use Apple Pay after holding out for more than a decade. Why it finally caved",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Another Big Korean Tech Company Is Buying Back Shares",
-      "publisher": "Investopedia",
-      "link": "https://www.investopedia.com/market-update-another-big-korean-tech-company-is-buying-back-shares-12065333",
-      "time": "2026-08-21T16:36:20Z",
-      "titleJa": "Another Big Korean Tech Company Is Buying Back Shares",
-      "relevant": false
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Ferrari Stock Is Pulling Away From the Pack. Why It Could Rally 15%.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/ferrari-stock-autos-technical-analysis-419640db?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-21T16:26:00Z",
-      "titleJa": "Ferrari Stock Is Pulling Away From the Pack. Why It Could Rally 15%.",
-      "relevant": false
     },
     {
       "ticker": "6857.T",
@@ -319,36 +319,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/japan-earnings-surprise-analysts-fuel-224220635.html",
       "time": "2026-08-18T22:42:20Z",
       "titleJa": "Japan’s Earnings Surprise Analysts to Fuel Bets for Broad Rally",
-      "relevant": false
-    },
-    {
-      "ticker": "4704.T",
-      "company": "トレンドマイクロ",
-      "title": "Trend Micro Inc (TMICF) (Q2 2026) Earnings Call Highlights: AI Investments Drive 13% Sales ...",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/trend-micro-inc-tmicf-q2-173114380.html",
-      "time": "2026-08-17T17:31:14Z",
-      "titleJa": "Trend Micro Inc (TMICF) (Q2 2026) Earnings Call Highlights: AI Investments Drive 13% Sales ...",
-      "relevant": true
-    },
-    {
-      "ticker": "9434.T",
-      "company": "ソフトバンク",
-      "title": "OpenAI Locks In Lease for Huge Data Center in Ohio With Backing From Nvidia",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-17T12:48:00Z",
-      "titleJa": "OpenAI Locks In Lease for Huge Data Center in Ohio With Backing From Nvidia",
-      "relevant": false
-    },
-    {
-      "ticker": "4704.T",
-      "company": "トレンドマイクロ",
-      "title": "Tech Rally Undergirds Asian Stock Markets",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-rally-undergirds-asian-stock-104113355.html",
-      "time": "2026-08-17T10:41:13Z",
-      "titleJa": "Tech Rally Undergirds Asian Stock Markets",
       "relevant": false
     }
   ]

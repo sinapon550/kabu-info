@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "summary": "",
   "headlines": [
     {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "time": "2026-08-23T21:07:44Z",
+      "titleJa": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "CHAT vs. FTEC: Is Concentrated AI Exposure or Broad Tech Diversification the Better Play Right Now?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/23/chat-vs-ftec-is-concentrated-ai-exposure-or-broad-tech-diversification-the-better-play-right-now/",
+      "time": "2026-08-23T20:54:33Z",
+      "titleJa": "CHAT vs. FTEC: Is Concentrated AI Exposure or Broad Tech Diversification the Better Play Right Now?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "UBS revamps S&P 500 target for rest of 2026",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/markets/ubs-sp-500-2026-target",
+      "time": "2026-08-23T20:23:00Z",
+      "titleJa": "UBS revamps S&P 500 target for rest of 2026"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "FHLC vs. PJP: Which Healthcare ETF Is the Better Buy for Investors?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/23/fhlc-vs-pjp-which-healthcare-etf-is-the-better-buy-for-investors/",
+      "time": "2026-08-23T19:40:03Z",
+      "titleJa": "FHLC vs. PJP: Which Healthcare ETF Is the Better Buy for Investors?"
+    },
+    {
       "ticker": "JPY=X",
       "company": "経済",
-      "title": "Will Bessent’s intervention mark a turning point for the yen?",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/bessent-intervention-mark-turning-point-204841070.html",
-      "time": "2026-08-22T20:48:41Z",
-      "titleJa": "Will Bessent’s intervention mark a turning point for the yen?"
+      "title": "Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin?",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/japan-borrowing-costs-weak-yen-bitcoin/",
+      "time": "2026-08-23T19:14:03Z",
+      "titleJa": "Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
-      "time": "2026-08-22T17:49:56Z",
-      "titleJa": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh.",
+      "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/22/this-sp-500-stock-pays-a-267-dividend-yield-and-ha/",
-      "time": "2026-08-22T17:20:00Z",
-      "titleJa": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh."
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/22/cvs-health-stock-is-beating-the-market-in-2026/",
-      "time": "2026-08-22T17:05:00Z",
-      "titleJa": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%."
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "If You Have $10,000: 3 Dividend ETFs Worth Buying Before September",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/22/if-you-have-10000-3-dividend-etfs-worth-buying/",
-      "time": "2026-08-22T16:50:00Z",
-      "titleJa": "If You Have $10,000: 3 Dividend ETFs Worth Buying Before September"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Cathie Wood buys $28.1 million of popular tech stock",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-28-1-million-of-popular-tech-stock-spacex-spcx",
-      "time": "2026-08-22T16:47:00Z",
-      "titleJa": "Cathie Wood buys $28.1 million of popular tech stock"
+      "link": "https://www.fool.com/investing/2026/08/23/the-stock-market-is-repeating-a-pattern-not-seen-i/",
+      "time": "2026-08-23T15:05:00Z",
+      "titleJa": "The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next."
     }
   ]
 }
