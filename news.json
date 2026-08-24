@@ -1,135 +1,215 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-      "time": "2026-08-23T21:07:44Z",
-      "titleJa": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
-      "relevant": true
+      "title": "Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-210802812.html",
+      "time": "2026-08-24T21:08:02Z",
+      "titleJa": "Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-210802812.html",
+      "time": "2026-08-24T21:08:02Z",
+      "titleJa": "Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy",
+      "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "The Metals Company Is Riding the Critical Metals Boom. Here's Why I Still Wouldn't Touch It.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/23/the-metals-company-is-riding-the-critical-metals-b/",
-      "time": "2026-08-23T21:02:00Z",
-      "titleJa": "The Metals Company Is Riding the Critical Metals Boom. Here's Why I Still Wouldn't Touch It.",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "SK Hynix Is Buying Back 3.3% of Its Shares and Canceling Every One",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/23/sk-hynix-is-buying-back-3-3-of-its-shares-and-canceling-every-one/",
-      "time": "2026-08-23T20:57:01Z",
-      "titleJa": "SK Hynix Is Buying Back 3.3% of Its Shares and Canceling Every One",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "$22 Billion in Customer Deposits Did Not Stop This Chip CEO From Selling $37 Million",
+      "title": "He Helped Build It. At 67, He Came Back to Demolish It. Social Security Kept Paying. His Union Pension Stopped.",
       "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/23/22-billion-in-customer-deposits-did-not-stop-this-chip-ceo-from-selling-37-million/",
-      "time": "2026-08-23T20:12:36Z",
-      "titleJa": "$22 Billion in Customer Deposits Did Not Stop This Chip CEO From Selling $37 Million",
+      "link": "https://247wallst.com/personal-finance/social-security/2026/08/24/he-helped-build-it-at-67-he-came-back-to-demolish-it-social-security-kept-paying-his-union-pension-stopped/",
+      "time": "2026-08-24T21:05:21Z",
+      "titleJa": "He Helped Build It. At 67, He Came Back to Demolish It. Social Security Kept Paying. His Union Pension Stopped.",
       "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/23/stanley-druckenmiller-and-dan-loeb-piled-into/",
-      "time": "2026-08-23T18:35:00Z",
-      "titleJa": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead",
-      "relevant": true
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Jim Cramer doubles down on his bold call on memory stocks",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-doubles-down-on-his-bold-call-on-memory-stocks-micron-sandisk",
-      "time": "2026-08-23T17:33:00Z",
-      "titleJa": "Jim Cramer doubles down on his bold call on memory stocks",
-      "relevant": false
+      "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-bessent-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-08-24T20:59:29Z",
+      "titleJa": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
+      "relevant": true
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Jim Cramer doubles down on his bold call on memory stocks",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-doubles-down-on-his-bold-call-on-memory-stocks-micron-sandisk",
-      "time": "2026-08-23T17:33:00Z",
-      "titleJa": "Jim Cramer doubles down on his bold call on memory stocks",
+      "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-bessent-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-08-24T20:59:29Z",
+      "titleJa": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
+      "time": "2026-08-24T20:43:08Z",
+      "titleJa": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
       "relevant": false
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/23/broadcom-vs-marvell-technology-1-critical-metric-d/",
-      "time": "2026-08-23T17:26:00Z",
-      "titleJa": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
+      "title": "AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-slips-nearly-3-broadcom-s-ai-spending-is-pushing-credit-risks-higher/cZYKsgwRJFN",
+      "time": "2026-08-24T20:42:40Z",
+      "titleJa": "AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher",
       "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Steve Cohen makes dramatic switch between 2 top AI giants",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/steve-cohen-point72-13f-swaps-broadcom-avgo-for-oracle-orcl",
+      "time": "2026-08-24T20:23:00Z",
+      "titleJa": "Steve Cohen makes dramatic switch between 2 top AI giants",
+      "relevant": false
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/23/amd-is-investing-more-than-xx-billion-in-taiwan-to/",
-      "time": "2026-08-23T15:50:00Z",
-      "titleJa": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.",
+      "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html",
+      "time": "2026-08-24T20:09:36Z",
+      "titleJa": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html",
+      "time": "2026-08-24T19:49:32Z",
+      "titleJa": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
       "relevant": true
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/23/nvidias-15-price-hike-reveals-the-hidden-cost-of-the-ai-boom/",
-      "time": "2026-08-23T14:43:54Z",
-      "titleJa": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
+      "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html",
+      "time": "2026-08-24T19:49:32Z",
+      "titleJa": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
       "relevant": false
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/23/nvidias-15-price-hike-reveals-the-hidden-cost-of-the-ai-boom/",
-      "time": "2026-08-23T14:43:54Z",
-      "titleJa": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
+      "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html",
+      "time": "2026-08-24T19:49:32Z",
+      "titleJa": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Micron Stock Drops After Chinese Memory IPO Filing. Can It Fight Off the Competition?",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-china-ipo-f4061616?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-24T18:56:00Z",
+      "titleJa": "Micron Stock Drops After Chinese Memory IPO Filing. Can It Fight Off the Competition?",
       "relevant": false
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/nvidia-ai-server-price-hikes/",
-      "time": "2026-08-23T10:28:24Z",
-      "titleJa": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
+      "title": "Micron Stock Drops After Chinese Memory IPO Filing. Can It Fight Off the Competition?",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-china-ipo-f4061616?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-24T18:56:00Z",
+      "titleJa": "Micron Stock Drops After Chinese Memory IPO Filing. Can It Fight Off the Competition?",
       "relevant": false
     },
     {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Micron vs. Sandisk: Which AI Memory Stock Should You Own?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/23/micron-vs-sandisk-which-ai-memory-stock-own/",
-      "time": "2026-08-23T09:15:00Z",
-      "titleJa": "Micron vs. Sandisk: Which AI Memory Stock Should You Own?",
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "What’s Moving the Markets Today?",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/what-s-moving-the-markets-today--fBnuNRQshmwHaNJQ5slE?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-24T14:52:31Z",
+      "titleJa": "What’s Moving the Markets Today?",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "Alibaba Drops, SoftBank Bond Sale, Bitcoin Rally | Stock Movers",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/video/alibaba-drops-softbank-bond-sale-142806254.html",
+      "time": "2026-08-24T14:28:06Z",
+      "titleJa": "Alibaba Drops, SoftBank Bond Sale, Bitcoin Rally | Stock Movers",
       "relevant": true
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Canadian Dollar Faces Pressure, Downside Risks as US-Canada Trade Talks Collapse, Economists Say",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/canadian-dollar-faces-pressure-downside-122352962.html",
+      "time": "2026-08-24T12:23:52Z",
+      "titleJa": "Canadian Dollar Faces Pressure, Downside Risks as US-Canada Trade Talks Collapse, Economists Say",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Where Canon Can Actually Disrupt ASML",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/24/where-canon-can-actually-disrupt-asml/",
+      "time": "2026-08-24T12:02:03Z",
+      "titleJa": "Where Canon Can Actually Disrupt ASML",
+      "relevant": true
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal",
+      "publisher": "Energy Monitor",
+      "link": "https://www.energymonitor.ai/news/aditya-birla-renewables-secures-mufg-loan/",
+      "time": "2026-08-24T11:11:18Z",
+      "titleJa": "Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal",
+      "relevant": true
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Honda keeps skipping the hybrid its buyers are asking for",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/automotive/honda-keeps-skipping-hybrid-hrv-acura-adx-buyers-ask-for",
+      "time": "2026-08-24T11:03:00Z",
+      "titleJa": "Honda keeps skipping the hybrid its buyers are asking for",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "European Indexes Turn Positive as Tech Stocks Steady",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-edges-0-3-higher-tracking-wall-streets-gains-7da05fa9?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-24T10:57:00Z",
+      "titleJa": "European Indexes Turn Positive as Tech Stocks Steady",
+      "relevant": false
     },
     {
       "ticker": "7267.T",
@@ -139,46 +219,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/honda-motor-tse-7267-still-011015654.html",
       "time": "2026-08-23T01:10:15Z",
       "titleJa": "Is Honda Motor (TSE:7267) Still Worth Buying As Its Valuation Debate Heats Up?",
-      "relevant": true
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Honda Motor (TSE:7267) Dealerships Rank Among Top U.S. Acquisition Targets",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honda-motor-tse-7267-dealerships-210912267.html",
-      "time": "2026-08-22T21:09:12Z",
-      "titleJa": "Honda Motor (TSE:7267) Dealerships Rank Among Top U.S. Acquisition Targets",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/22/billionaire-stanley-druckenmiller-just-sold-sandis/",
-      "time": "2026-08-22T20:04:00Z",
-      "titleJa": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "TSMC vs. ASML: Which Semi Monopoly Has the Wider Moat?",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/22/tsmc-vs-asml-which-semi-monopoly-has-the-wider-moat/",
-      "time": "2026-08-22T12:52:52Z",
-      "titleJa": "TSMC vs. ASML: Which Semi Monopoly Has the Wider Moat?",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-sales-just-205844477.html",
-      "time": "2026-08-21T20:58:44Z",
-      "titleJa": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
       "relevant": true
     },
     {
@@ -212,16 +252,6 @@
       "relevant": false
     },
     {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Intel (INTC) Stock Became 67% Of A Major Investor’s US Equity Portfolio",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-became-67-170734414.html",
-      "time": "2026-08-20T17:07:34Z",
-      "titleJa": "Intel (INTC) Stock Became 67% Of A Major Investor’s US Equity Portfolio",
-      "relevant": false
-    },
-    {
       "ticker": "285A.T",
       "company": "キオクシア",
       "title": "Why Micron Isn’t Buying Back Stock Like Memory-Chip Rivals—and Why It Could",
@@ -230,16 +260,6 @@
       "time": "2026-08-20T14:41:00Z",
       "titleJa": "Why Micron Isn’t Buying Back Stock Like Memory-Chip Rivals—and Why It Could",
       "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/19/masayoshi-son-has-67-of-softbank-s-u-s-stock-portfolio-in-intel-he-didn-t-buy-a-single-share-last-quarter/",
-      "time": "2026-08-20T03:07:01Z",
-      "titleJa": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
-      "relevant": true
     },
     {
       "ticker": "285A.T",
@@ -270,26 +290,6 @@
       "time": "2026-08-19T16:00:05Z",
       "titleJa": "Rohm Co. (ROHCY) Upgraded to Buy: Here's Why",
       "relevant": true
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Gold Up 2% Amid Weaker Dollar, Falling Bond Yields",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-gains-on-easing-fed-rate-hike-hopes-physical-demand-36cdf532?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-19T14:18:00Z",
-      "titleJa": "Gold Up 2% Amid Weaker Dollar, Falling Bond Yields",
-      "relevant": false
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Gold Slips Ahead of Fed Meeting Minutes",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081926/card/gold-slips-ahead-of-fed-meeting-minutes-Up0SmZl5C1gZClW4iuJS?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-19T09:55:08Z",
-      "titleJa": "Gold Slips Ahead of Fed Meeting Minutes",
-      "relevant": false
     },
     {
       "ticker": "8591.T",

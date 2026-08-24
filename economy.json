@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
+      "title": "Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-210802812.html",
+      "time": "2026-08-24T21:08:02Z",
+      "titleJa": "Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy"
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-      "time": "2026-08-23T21:07:44Z",
-      "titleJa": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-bessent-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-08-24T20:59:29Z",
+      "titleJa": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "CHAT vs. FTEC: Is Concentrated AI Exposure or Broad Tech Diversification the Better Play Right Now?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/23/chat-vs-ftec-is-concentrated-ai-exposure-or-broad-tech-diversification-the-better-play-right-now/",
-      "time": "2026-08-23T20:54:33Z",
-      "titleJa": "CHAT vs. FTEC: Is Concentrated AI Exposure or Broad Tech Diversification the Better Play Right Now?"
+      "title": "AI Jitters and Geopolitical Threats Mark Start of Busy Week in Markets",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/investing/ai-jitters-and-geopolitical-threats-mark-start-of-busy-week-in-markets-a192c22a?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-24T20:51:00Z",
+      "titleJa": "AI Jitters and Geopolitical Threats Mark Start of Busy Week in Markets"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "UBS revamps S&P 500 target for rest of 2026",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/markets/ubs-sp-500-2026-target",
-      "time": "2026-08-23T20:23:00Z",
-      "titleJa": "UBS revamps S&P 500 target for rest of 2026"
+      "title": "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-on-artificial-intelligence-jitters-fb7a3260?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-24T20:46:00Z",
+      "titleJa": "U.S. Stocks Mixed on Artificial-Intelligence Jitters"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "FHLC vs. PJP: Which Healthcare ETF Is the Better Buy for Investors?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/23/fhlc-vs-pjp-which-healthcare-etf-is-the-better-buy-for-investors/",
-      "time": "2026-08-23T19:40:03Z",
-      "titleJa": "FHLC vs. PJP: Which Healthcare ETF Is the Better Buy for Investors?"
-    },
-    {
-      "ticker": "JPY=X",
-      "company": "経済",
-      "title": "Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin?",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/japan-borrowing-costs-weak-yen-bitcoin/",
-      "time": "2026-08-23T19:14:03Z",
-      "titleJa": "Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin?"
+      "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
+      "time": "2026-08-24T20:43:08Z",
+      "titleJa": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/23/the-stock-market-is-repeating-a-pattern-not-seen-i/",
-      "time": "2026-08-23T15:05:00Z",
-      "titleJa": "The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next."
+      "title": "Update: Nasdaq, S&P 500 Fall as New Sanctions Plan Targets Iran's Trading Partners",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-sanctions-204112044.html",
+      "time": "2026-08-24T20:41:12Z",
+      "titleJa": "Update: Nasdaq, S&P 500 Fall as New Sanctions Plan Targets Iran's Trading Partners"
     }
   ]
 }
