@@ -1,165 +1,235 @@
 {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-210802812.html",
-      "time": "2026-08-24T21:08:02Z",
-      "titleJa": "Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-210802812.html",
-      "time": "2026-08-24T21:08:02Z",
-      "titleJa": "Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy",
-      "relevant": false
+      "title": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo",
+      "time": "2026-08-25T21:09:24Z",
+      "titleJa": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
+      "relevant": true
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "He Helped Build It. At 67, He Came Back to Demolish It. Social Security Kept Paying. His Union Pension Stopped.",
+      "title": "3 Covered Call ETFs Paying Up to 14% by Selling the Market’s Volatility",
       "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/personal-finance/social-security/2026/08/24/he-helped-build-it-at-67-he-came-back-to-demolish-it-social-security-kept-paying-his-union-pension-stopped/",
-      "time": "2026-08-24T21:05:21Z",
-      "titleJa": "He Helped Build It. At 67, He Came Back to Demolish It. Social Security Kept Paying. His Union Pension Stopped.",
+      "link": "https://247wallst.com/investing/2026/08/25/3-covered-call-etfs-paying-up-to-14-by-selling-the-markets-volatility/",
+      "time": "2026-08-25T21:01:52Z",
+      "titleJa": "3 Covered Call ETFs Paying Up to 14% by Selling the Market’s Volatility",
       "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
+      "title": "Stock Market Today: Nasdaq Leads As Key Inflation Report Looms; Nvidia, Micron Gain",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-bessent-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-08-24T20:59:29Z",
-      "titleJa": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
+      "time": "2026-08-25T20:46:04Z",
+      "titleJa": "Stock Market Today: Nasdaq Leads As Key Inflation Report Looms; Nvidia, Micron Gain",
       "relevant": true
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
+      "title": "Stock Market Today: Nasdaq Leads As Key Inflation Report Looms; Nvidia, Micron Gain",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-bessent-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-08-24T20:59:29Z",
-      "titleJa": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
-      "relevant": true
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
+      "time": "2026-08-25T20:46:04Z",
+      "titleJa": "Stock Market Today: Nasdaq Leads As Key Inflation Report Looms; Nvidia, Micron Gain",
+      "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
-      "time": "2026-08-24T20:43:08Z",
-      "titleJa": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
+      "title": "Moderna, Nvidia, Apple, Dick’s, Robinhood, AMD, and More Stocks That Explain Today’s Market",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-25T20:18:00Z",
+      "titleJa": "Moderna, Nvidia, Apple, Dick’s, Robinhood, AMD, and More Stocks That Explain Today’s Market",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "OpenAI data center chief exits as 4 executives leave ahead of 2027 IPO",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-data-center-chief-exits-201048434.html",
+      "time": "2026-08-25T20:10:48Z",
+      "titleJa": "OpenAI data center chief exits as 4 executives leave ahead of 2027 IPO",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Cramer Warns iPhone Prices Will Rise Without Chinese Memory — Here’s Why Apple Can’t Wait for U.S. Production",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/25/cramer-warns-iphone-prices-will-rise-without-chinese-memory-heres-why-apple-cant-wait-for-u-s-production/",
+      "time": "2026-08-25T20:00:21Z",
+      "titleJa": "Cramer Warns iPhone Prices Will Rise Without Chinese Memory — Here’s Why Apple Can’t Wait for U.S. Production",
       "relevant": false
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-slips-nearly-3-broadcom-s-ai-spending-is-pushing-credit-risks-higher/cZYKsgwRJFN",
-      "time": "2026-08-24T20:42:40Z",
-      "titleJa": "AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher",
+      "title": "The story that Nvidia's margins, balance sheet tell going into Q2 earnings",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/story-nvidias-margins-balance-sheet-200000914.html",
+      "time": "2026-08-25T20:00:00Z",
+      "titleJa": "The story that Nvidia's margins, balance sheet tell going into Q2 earnings",
       "relevant": true
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Steve Cohen makes dramatic switch between 2 top AI giants",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/steve-cohen-point72-13f-swaps-broadcom-avgo-for-oracle-orcl",
-      "time": "2026-08-24T20:23:00Z",
-      "titleJa": "Steve Cohen makes dramatic switch between 2 top AI giants",
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Micron Rebounds 1.4% as $25 Billion Cash Engine Defies Memory Panic",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-rebounds-1-4-25-195830525.html",
+      "time": "2026-08-25T19:58:30Z",
+      "titleJa": "Micron Rebounds 1.4% as $25 Billion Cash Engine Defies Memory Panic",
       "relevant": false
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
+      "title": "TSMC Jumps Before Nvidia Tests Its Capacity Bet",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/articles/tsmc-jumps-nvidia-tests-capacity-195825384.html",
+      "time": "2026-08-25T19:58:25Z",
+      "titleJa": "TSMC Jumps Before Nvidia Tests Its Capacity Bet",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html",
+      "time": "2026-08-25T19:53:21Z",
+      "titleJa": "S&P 100 Is Quietly Sending a Powerful Signal",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know",
       "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html",
-      "time": "2026-08-24T20:09:36Z",
-      "titleJa": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-marvell-technology-semtech-allegro-194244436.html",
+      "time": "2026-08-25T19:42:44Z",
+      "titleJa": "AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know",
       "relevant": false
     },
     {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html",
-      "time": "2026-08-24T19:49:32Z",
-      "titleJa": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-marvell-technology-semtech-allegro-194244436.html",
+      "time": "2026-08-25T19:42:44Z",
+      "titleJa": "AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know",
+      "relevant": false
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "Overseas IPOs Are Beating New U.S. Stocks. Thank You Japan—and AI!",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/china-japan-ipos-us-stocks-ai-7dfa1e0d?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-25T18:55:00Z",
+      "titleJa": "Overseas IPOs Are Beating New U.S. Stocks. Thank You Japan—and AI!",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "SK Hynix Shares Fell 5% After a Union Vote Failed by Just 25 Votes",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/25/sk-hynix-shares-fell-5-after-a-union-vote-failed-by-just-25-votes/",
+      "time": "2026-08-25T18:40:06Z",
+      "titleJa": "SK Hynix Shares Fell 5% After a Union Vote Failed by Just 25 Votes",
       "relevant": true
     },
     {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html",
-      "time": "2026-08-24T19:49:32Z",
-      "titleJa": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
+      "ticker": "9432.T",
+      "company": "NTT",
+      "title": "Why NTT (TSE:9432) Is Back In The Spotlight",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-ntt-tse-9432-back-181729147.html",
+      "time": "2026-08-25T18:17:29Z",
+      "titleJa": "Why NTT (TSE:9432) Is Back In The Spotlight",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "ASML (ENXTAM:ASML) Stock May Trade At A Premium As AI DRAM Demand Builds",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-enxtam-asml-stock-may-171023763.html",
+      "time": "2026-08-25T17:10:23Z",
+      "titleJa": "ASML (ENXTAM:ASML) Stock May Trade At A Premium As AI DRAM Demand Builds",
+      "relevant": true
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Honda says it may not build new plant in North America without trade deal extension",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/economy/policy/articles/honda-says-may-not-build-150458296.html",
+      "time": "2026-08-25T15:04:58Z",
+      "titleJa": "Honda says it may not build new plant in North America without trade deal extension",
+      "relevant": true
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144411158.html",
+      "time": "2026-08-25T14:44:11Z",
+      "titleJa": "Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading",
       "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Top Investors Name 5 AI Stocks That Could Win No Matter Which Model Leads",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/25/top-investors-name-5-ai-stocks-that-could-win-no-matter-which-model-leads/",
+      "time": "2026-08-25T14:26:31Z",
+      "titleJa": "Top Investors Name 5 AI Stocks That Could Win No Matter Which Model Leads",
+      "relevant": false
+    },
+    {
+      "ticker": "9432.T",
+      "company": "NTT",
+      "title": "NTT (TSE:9432) Stock Looks Fully Priced After A Strong Run",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ntt-tse-9432-stock-looks-081727302.html",
+      "time": "2026-08-25T08:17:27Z",
+      "titleJa": "NTT (TSE:9432) Stock Looks Fully Priced After A Strong Run",
+      "relevant": true
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html",
-      "time": "2026-08-24T19:49:32Z",
-      "titleJa": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Micron Stock Drops After Chinese Memory IPO Filing. Can It Fight Off the Competition?",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/micron-stock-price-china-ipo-f4061616?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-24T18:56:00Z",
-      "titleJa": "Micron Stock Drops After Chinese Memory IPO Filing. Can It Fight Off the Competition?",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Micron Stock Drops After Chinese Memory IPO Filing. Can It Fight Off the Competition?",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/micron-stock-price-china-ipo-f4061616?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-24T18:56:00Z",
-      "titleJa": "Micron Stock Drops After Chinese Memory IPO Filing. Can It Fight Off the Competition?",
-      "relevant": false
+      "title": "Are Emerging Markets Now An AI Trade? TSMC, Samsung, SK Hynix Drive More Than Half The Gains",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/are-emerging-markets-now-an-ai-trade-tsmc-samsung-sk-hynix-drive-more-than-half-the-gains/cZYkBgSRJFU",
+      "time": "2026-08-25T03:45:21Z",
+      "titleJa": "Are Emerging Markets Now An AI Trade? TSMC, Samsung, SK Hynix Drive More Than Half The Gains",
+      "relevant": true
     },
     {
       "ticker": "9984.T",
       "company": "ソフトバンクG",
-      "title": "What’s Moving the Markets Today?",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/what-s-moving-the-markets-today--fBnuNRQshmwHaNJQ5slE?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-24T14:52:31Z",
-      "titleJa": "What’s Moving the Markets Today?",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Alibaba Drops, SoftBank Bond Sale, Bitcoin Rally | Stock Movers",
+      "title": "Asian Stocks Under Pressure After US Tech Selloff: Markets Wrap",
       "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/video/alibaba-drops-softbank-bond-sale-142806254.html",
-      "time": "2026-08-24T14:28:06Z",
-      "titleJa": "Alibaba Drops, SoftBank Bond Sale, Bitcoin Rally | Stock Movers",
-      "relevant": true
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-under-pressure-us-220952003.html",
+      "time": "2026-08-24T22:09:52Z",
+      "titleJa": "Asian Stocks Under Pressure After US Tech Selloff: Markets Wrap",
+      "relevant": false
     },
     {
       "ticker": "8306.T",
@@ -172,16 +242,6 @@
       "relevant": false
     },
     {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Where Canon Can Actually Disrupt ASML",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/24/where-canon-can-actually-disrupt-asml/",
-      "time": "2026-08-24T12:02:03Z",
-      "titleJa": "Where Canon Can Actually Disrupt ASML",
-      "relevant": true
-    },
-    {
       "ticker": "8306.T",
       "company": "三菱UFJ",
       "title": "Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal",
@@ -189,36 +249,6 @@
       "link": "https://www.energymonitor.ai/news/aditya-birla-renewables-secures-mufg-loan/",
       "time": "2026-08-24T11:11:18Z",
       "titleJa": "Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal",
-      "relevant": true
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Honda keeps skipping the hybrid its buyers are asking for",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/automotive/honda-keeps-skipping-hybrid-hrv-acura-adx-buyers-ask-for",
-      "time": "2026-08-24T11:03:00Z",
-      "titleJa": "Honda keeps skipping the hybrid its buyers are asking for",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "European Indexes Turn Positive as Tech Stocks Steady",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-edges-0-3-higher-tracking-wall-streets-gains-7da05fa9?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-24T10:57:00Z",
-      "titleJa": "European Indexes Turn Positive as Tech Stocks Steady",
-      "relevant": false
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Is Honda Motor (TSE:7267) Still Worth Buying As Its Valuation Debate Heats Up?",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honda-motor-tse-7267-still-011015654.html",
-      "time": "2026-08-23T01:10:15Z",
-      "titleJa": "Is Honda Motor (TSE:7267) Still Worth Buying As Its Valuation Debate Heats Up?",
       "relevant": true
     },
     {
@@ -259,66 +289,6 @@
       "link": "https://www.barrons.com/articles/micron-stock-buyback-memory-chips-sk-hynix-samsung-468cc1ae?siteid=yhoof2&yptr=yahoo",
       "time": "2026-08-20T14:41:00Z",
       "titleJa": "Why Micron Isn’t Buying Back Stock Like Memory-Chip Rivals—and Why It Could",
-      "relevant": false
-    },
-    {
-      "ticker": "285A.T",
-      "company": "キオクシア",
-      "title": "Micron Gained Memory Market Share. The Stock Is Dropping Anyway.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/micron-stock-price-memory-share-c4eea8c4?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-19T20:51:00Z",
-      "titleJa": "Micron Gained Memory Market Share. The Stock Is Dropping Anyway.",
-      "relevant": false
-    },
-    {
-      "ticker": "6857.T",
-      "company": "アドバンテスト",
-      "title": "Is Advantest’s Earnings Beat Amid High Energy Costs Reframing Its Investment Case (TSE:6857)?",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-earnings-beat-amid-high-201016663.html",
-      "time": "2026-08-19T20:10:16Z",
-      "titleJa": "Is Advantest’s Earnings Beat Amid High Energy Costs Reframing Its Investment Case (TSE:6857)?",
-      "relevant": true
-    },
-    {
-      "ticker": "6963.T",
-      "company": "ローム",
-      "title": "Rohm Co. (ROHCY) Upgraded to Buy: Here's Why",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rohm-co-rohcy-upgraded-buy-160005546.html",
-      "time": "2026-08-19T16:00:05Z",
-      "titleJa": "Rohm Co. (ROHCY) Upgraded to Buy: Here's Why",
-      "relevant": true
-    },
-    {
-      "ticker": "8591.T",
-      "company": "オリックス",
-      "title": "ORIX (TSE:8591) Raised Dividend Guidance Under A Revised Dividend Policy",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/orix-tse-8591-raised-dividend-043405736.html",
-      "time": "2026-08-19T04:34:05Z",
-      "titleJa": "ORIX (TSE:8591) Raised Dividend Guidance Under A Revised Dividend Policy",
-      "relevant": true
-    },
-    {
-      "ticker": "8035.T",
-      "company": "東京エレクトロン",
-      "title": "Korean Stocks Bear Brunt of Chip Selloff on Higher Yield Worry",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/korean-stocks-bear-brunt-chip-004252417.html",
-      "time": "2026-08-19T00:42:52Z",
-      "titleJa": "Korean Stocks Bear Brunt of Chip Selloff on Higher Yield Worry",
-      "relevant": false
-    },
-    {
-      "ticker": "8035.T",
-      "company": "東京エレクトロン",
-      "title": "Japan’s Earnings Surprise Analysts to Fuel Bets for Broad Rally",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/japan-earnings-surprise-analysts-fuel-224220635.html",
-      "time": "2026-08-18T22:42:20Z",
-      "titleJa": "Japan’s Earnings Surprise Analysts to Fuel Bets for Broad Rally",
       "relevant": false
     }
   ]
