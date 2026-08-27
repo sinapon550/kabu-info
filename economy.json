@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "Update: US Equity Indexes Rise With Tech While Treasury Yields, Crude Oil Slide as Process to Tighten Noose Around Iran Begins",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-tech-211306671.html",
-      "time": "2026-08-25T21:13:06Z",
-      "titleJa": "Update: US Equity Indexes Rise With Tech While Treasury Yields, Crude Oil Slide as Process to Tighten Noose Around Iran Begins"
-    },
-    {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
+      "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo",
-      "time": "2026-08-25T21:09:24Z",
-      "titleJa": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
+      "time": "2026-08-27T00:16:34Z",
+      "titleJa": "ダウジョーンズ先物は上昇。 Nvidia、CrowdStrike、Okta、Salesforce が収益をリードする企業"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stock Market Today: Nasdaq Leads As Key Inflation Report Looms; Nvidia, Micron Gain",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
-      "time": "2026-08-25T20:46:04Z",
-      "titleJa": "Stock Market Today: Nasdaq Leads As Key Inflation Report Looms; Nvidia, Micron Gain"
+      "title": "S&P 500, Dow, Nasdaq Futures Track Nvidia Stock Higher Over Strong FY28 Revenue Outlook — NVDA, CRM, META, CRWD, OKTA  In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-track-nvidia-stock-higher/cZYVarsRJp7",
+      "time": "2026-08-26T23:53:54Z",
+      "titleJa": "S&P 500、ダウ、ナスダック先物は、2028年度の堅調な収益見通しを受けてNVIDIA株の上昇を追跡 — NVDA、CRM、META、CRWD、OKTAが注目"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Update: Equities Rise Despite US-Canada Trade Tensions",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-despite-us-canada-204357386.html",
-      "time": "2026-08-25T20:43:57Z",
-      "titleJa": "Update: Equities Rise Despite US-Canada Trade Tensions"
+      "title": "The AI trade is changing — here’s where to look for opportunity next",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/video/the-ai-trade-is-changing-here-is-where-to-look-for-opportunity-next",
+      "time": "2026-08-26T22:48:00Z",
+      "titleJa": "AI 業界は変化しています – 次に機会を探すのはここです"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones AI Giant Nvidia Tests Key Support Level As Pivotal Earnings Report Looms",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-nvidia-stock-buy-point-nvda-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-08-25T20:41:22Z",
-      "titleJa": "Dow Jones AI Giant Nvidia Tests Key Support Level As Pivotal Earnings Report Looms"
+      "title": "S&P 500 Edges Lower Despite Favorable NVIDIA Results and Stable Core PCE",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/sp500-edges-lower-nvidia-favorable-results-stable-pce/",
+      "time": "2026-08-26T22:37:30Z",
+      "titleJa": "NVIDIA の好調な業績と安定したコア PCE にもかかわらず、S&P 500 は下落"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "That Quantum Fund Is Up 40% in 2026 and Just Crossed $6 Billion. The Field Keeps Beating the Stock-Pickers",
+      "title": "Every Covered Call ETF Erodes Your Principal Except This One, and It Still Pays You Monthly",
       "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/25/that-quantum-fund-is-up-40-in-2026-and-just-crossed-6-billion-the-field-keeps-beating-the-stock-pickers/",
-      "time": "2026-08-25T20:33:38Z",
-      "titleJa": "That Quantum Fund Is Up 40% in 2026 and Just Crossed $6 Billion. The Field Keeps Beating the Stock-Pickers"
+      "link": "https://247wallst.com/investing/etf/2026/08/26/every-covered-call-etf-erodes-your-principal-except-this-one-and-it-still-pays-you-monthly/",
+      "time": "2026-08-26T22:25:14Z",
+      "titleJa": "これを除くすべてのカバード コール ETF は元本を侵食しますが、それでも毎月支払いが発生します"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Stock Futures Tick Up After Strong Nvidia Earnings",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/stock-futures-tick-up-after-strong-nvidia-earnings-eP7d0x5ApShigiDpK5PS?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-26T22:24:56Z",
+      "titleJa": "Nvidia の好調な収益を受けて株式先物相場が上昇"
     }
   ]
 }
