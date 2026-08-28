@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
+      "title": "Dow Jones Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
-      "time": "2026-08-27T00:16:34Z",
-      "titleJa": "ダウジョーンズ先物は上昇。 Nvidia、CrowdStrike、Okta、Salesforce が収益をリードする企業"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "S&P 500, Dow, Nasdaq Futures Track Nvidia Stock Higher Over Strong FY28 Revenue Outlook — NVDA, CRM, META, CRWD, OKTA  In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-track-nvidia-stock-higher/cZYVarsRJp7",
-      "time": "2026-08-26T23:53:54Z",
-      "titleJa": "S&P 500、ダウ、ナスダック先物は、2028年度の堅調な収益見通しを受けてNVIDIA株の上昇を追跡 — NVDA、CRM、META、CRWD、OKTAが注目"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "The AI trade is changing — here’s where to look for opportunity next",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/video/the-ai-trade-is-changing-here-is-where-to-look-for-opportunity-next",
-      "time": "2026-08-26T22:48:00Z",
-      "titleJa": "AI 業界は変化しています – 次に機会を探すのはここです"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "S&P 500 Edges Lower Despite Favorable NVIDIA Results and Stable Core PCE",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/sp500-edges-lower-nvidia-favorable-results-stable-pce/",
-      "time": "2026-08-26T22:37:30Z",
-      "titleJa": "NVIDIA の好調な業績と安定したコア PCE にもかかわらず、S&P 500 は下落"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Every Covered Call ETF Erodes Your Principal Except This One, and It Still Pays You Monthly",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/08/26/every-covered-call-etf-erodes-your-principal-except-this-one-and-it-still-pays-you-monthly/",
-      "time": "2026-08-26T22:25:14Z",
-      "titleJa": "これを除くすべてのカバード コール ETF は元本を侵食しますが、それでも毎月支払いが発生します"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-warsh-speech-nvidia-jumps-software-sector-on-fire/?src=A00220&yptr=yahoo",
+      "time": "2026-08-28T04:37:08Z",
+      "titleJa": "ウォーシュFRB長官の期待を受けてダウジョーンズ先物は上昇。 Nvidia、これら7銘柄は買いゾーンにある"
     },
     {
       "ticker": "^IXIC",
       "company": "経済",
-      "title": "Stock Futures Tick Up After Strong Nvidia Earnings",
+      "title": "Nasdaq Futures Sink While S&P 500, Dow Futures Gain Ahead Of Fed Chief Warsh’s Jackson Hole Speech: PYPL, MRVL, IREN, AFRM Stocks In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-sink-while-s-and-p-500-dow-futures-gain-ahead-of-fed-chief-warsh-s-jackson-hole-speech-pypl-mrvl-iren-afrm-stocks-in-focus/cZYqw0sRJqC",
+      "time": "2026-08-28T04:08:56Z",
+      "titleJa": "ナスダック先物は下落、S&P500は下落、ウォーシュFRB長官のジャクソンホール演説を前にダウ先物は上昇：PYPL、MRVL、IREN、AFRM銘柄に注目"
+    },
+    {
+      "ticker": "^N225",
+      "company": "経済",
+      "title": "Asian shares mostly gain after upbeat results for Nvidia and others lift US stocks",
+      "publisher": "Associated Press",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-gain-upbeat-040450628.html",
+      "time": "2026-08-28T04:04:50Z",
+      "titleJa": "Nvidiaなどの好決算が米国株を押し上げたことを受け、アジア株は主に上昇"
+    },
+    {
+      "ticker": "JPY=X",
+      "company": "経済",
+      "title": "Dollar flat near one-week high as investors await Warsh's Jackson Hole debut",
+      "publisher": "Reuters",
+      "link": "https://sg.finance.yahoo.com/news/dollar-flat-near-one-week-023614874.html",
+      "time": "2026-08-28T02:36:14Z",
+      "titleJa": "投資家がウォーシュのジャクソンホールでのデビューを待つ中、ドルは1週間の高値付近で横ばい"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "What TTMI's Peer-Beating Numbers Cost You",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/613259/what-ttmis-peer-beating-numbers-cost-you/2026-08-27",
+      "time": "2026-08-28T00:57:09Z",
+      "titleJa": "TTMI のピアビート数値がもたらすコスト"
+    },
+    {
+      "ticker": "^N225",
+      "company": "経済",
+      "title": "Nikkei Rises 0.4%, Led by IT Services Stocks",
       "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/stock-futures-tick-up-after-strong-nvidia-earnings-eP7d0x5ApShigiDpK5PS?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-26T22:24:56Z",
-      "titleJa": "Nvidia の好調な収益を受けて株式先物相場が上昇"
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-it-services-stocks-579fdd38?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-28T00:51:00Z",
+      "titleJa": "日経平均はITサービス株主導で0.4％上昇"
     }
   ]
 }
