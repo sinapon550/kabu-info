@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-warsh-speech-nvidia-jumps-software-sector-on-fire/?src=A00220&yptr=yahoo",
-      "time": "2026-08-28T04:37:08Z",
-      "titleJa": "ウォーシュFRB長官の期待を受けてダウジョーンズ先物は上昇。 Nvidia、これら7銘柄は買いゾーンにある"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "Nasdaq Futures Sink While S&P 500, Dow Futures Gain Ahead Of Fed Chief Warsh’s Jackson Hole Speech: PYPL, MRVL, IREN, AFRM Stocks In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-sink-while-s-and-p-500-dow-futures-gain-ahead-of-fed-chief-warsh-s-jackson-hole-speech-pypl-mrvl-iren-afrm-stocks-in-focus/cZYqw0sRJqC",
-      "time": "2026-08-28T04:08:56Z",
-      "titleJa": "ナスダック先物は下落、S&P500は下落、ウォーシュFRB長官のジャクソンホール演説を前にダウ先物は上昇：PYPL、MRVL、IREN、AFRM銘柄に注目"
-    },
-    {
-      "ticker": "^N225",
-      "company": "経済",
-      "title": "Asian shares mostly gain after upbeat results for Nvidia and others lift US stocks",
-      "publisher": "Associated Press",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-gain-upbeat-040450628.html",
-      "time": "2026-08-28T04:04:50Z",
-      "titleJa": "Nvidiaなどの好決算が米国株を押し上げたことを受け、アジア株は主に上昇"
-    },
-    {
-      "ticker": "JPY=X",
-      "company": "経済",
-      "title": "Dollar flat near one-week high as investors await Warsh's Jackson Hole debut",
-      "publisher": "Reuters",
-      "link": "https://sg.finance.yahoo.com/news/dollar-flat-near-one-week-023614874.html",
-      "time": "2026-08-28T02:36:14Z",
-      "titleJa": "投資家がウォーシュのジャクソンホールでのデビューを待つ中、ドルは1週間の高値付近で横ばい"
+      "title": "A Costco Special Dividend Could Be Coming, but Walmart Has Raised Its Dividend for 53 Consecutive Years. Here's the Better Buy Now.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/28/a-costco-special-dividend-could-be-coming-but-walm/",
+      "time": "2026-08-29T02:35:00Z",
+      "titleJa": "A Costco Special Dividend Could Be Coming, but Walmart Has Raised Its Dividend for 53 Consecutive Years. Here's the Better Buy Now."
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "What TTMI's Peer-Beating Numbers Cost You",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/613259/what-ttmis-peer-beating-numbers-cost-you/2026-08-27",
-      "time": "2026-08-28T00:57:09Z",
-      "titleJa": "TTMI のピアビート数値がもたらすコスト"
+      "title": "Bank of America takes heat for stark S&P 500 call",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/bank-of-america-savita-subramanian-sp-500-target",
+      "time": "2026-08-29T01:37:00Z",
+      "titleJa": "Bank of America takes heat for stark S&P 500 call"
     },
     {
-      "ticker": "^N225",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Nikkei Rises 0.4%, Led by IT Services Stocks",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-it-services-stocks-579fdd38?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-28T00:51:00Z",
-      "titleJa": "日経平均はITサービス株主導で0.4％上昇"
+      "title": "Review & Preview: Warsh Gets Real on Inflation",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stockstoday-warsh-inflation-jackson-hole-9e430e7f?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-28T23:55:00Z",
+      "titleJa": "Review & Preview: Warsh Gets Real on Inflation"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dick’s Hit by a Footware Apocalypse",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/dicks-hit-by-a-footware-apocalypse-a0c47825?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-28T23:52:00Z",
+      "titleJa": "Dick’s Hit by a Footware Apocalypse"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "The $37 Billion Consolation Prize For MCD Shareholders",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/613493/the-37-billion-consolation-prize-for-mcd-shareholders/2026-08-28",
+      "time": "2026-08-28T22:26:00Z",
+      "titleJa": "The $37 Billion Consolation Prize For MCD Shareholders"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "MongoDB (MDB) Increases Despite Market Slip: Here's What You Need to Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-increases-despite-market-221502052.html",
+      "time": "2026-08-28T22:15:02Z",
+      "titleJa": "MongoDB (MDB) Increases Despite Market Slip: Here's What You Need to Know"
     }
   ]
 }
