@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "A Costco Special Dividend Could Be Coming, but Walmart Has Raised Its Dividend for 53 Consecutive Years. Here's the Better Buy Now.",
+      "title": "Chevron vs. Occidental: Which Oil Major's Dividend Is Actually Safer?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/28/a-costco-special-dividend-could-be-coming-but-walm/",
-      "time": "2026-08-29T02:35:00Z",
-      "titleJa": "A Costco Special Dividend Could Be Coming, but Walmart Has Raised Its Dividend for 53 Consecutive Years. Here's the Better Buy Now."
+      "link": "https://www.fool.com/investing/2026/08/29/chevron-vs-occidental-which-oil-majors-dividend-is/",
+      "time": "2026-08-29T22:35:00Z",
+      "titleJa": "シェブロン対オクシデンタル: 実際のところ、石油メジャーの配当はどちらが安全ですか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Bank of America takes heat for stark S&P 500 call",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/bank-of-america-savita-subramanian-sp-500-target",
-      "time": "2026-08-29T01:37:00Z",
-      "titleJa": "Bank of America takes heat for stark S&P 500 call"
+      "title": "Better Consumer Staples ETF: the iShares IYK vs. First Trust's Food and Beverage-Focused FTXG",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/29/better-consumer-staples-etf-the-ishares-iyk-vs-first-trust-s-food-and-beverage-focused-ftxg/",
+      "time": "2026-08-29T21:50:46Z",
+      "titleJa": "Better Consumer Staples ETF: iシェアーズ IYK とファースト トラストの食品と飲料に焦点を当てた FTXG"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Review & Preview: Warsh Gets Real on Inflation",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stockstoday-warsh-inflation-jackson-hole-9e430e7f?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-28T23:55:00Z",
-      "titleJa": "Review & Preview: Warsh Gets Real on Inflation"
+      "title": "Better International ETF: the iShares IEFA vs. State Street's SPDW",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/29/better-international-etf-the-ishares-iefa-vs-state-street-s-spdw/",
+      "time": "2026-08-29T21:20:01Z",
+      "titleJa": "より優れた国際 ETF: iシェアーズ IEFA とステート ストリートの SPDW"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dick’s Hit by a Footware Apocalypse",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/dicks-hit-by-a-footware-apocalypse-a0c47825?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-28T23:52:00Z",
-      "titleJa": "Dick’s Hit by a Footware Apocalypse"
+      "title": "If You'd Invested $1,000 in McDonald's 25 Years Ago, Here's How Much You'd Have Today",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/29/if-youd-invested-1000-in-mcdonalds-25-years-ago/",
+      "time": "2026-08-29T19:09:00Z",
+      "titleJa": "25 年前にマクドナルドに 1,000 ドル投資していたら、現在いくらもらえるかは次のとおりです"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The $37 Billion Consolation Prize For MCD Shareholders",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/613493/the-37-billion-consolation-prize-for-mcd-shareholders/2026-08-28",
-      "time": "2026-08-28T22:26:00Z",
-      "titleJa": "The $37 Billion Consolation Prize For MCD Shareholders"
+      "title": "Analyst Says the Worst Month for Stocks Since 1950 Is Setting Up Wrong This Year",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/29/analyst-says-the-worst-month-for-stocks-since-1950-is-setting-up-wrong-this-year/",
+      "time": "2026-08-29T18:19:58Z",
+      "titleJa": "アナリスト、1950年以来の株価最悪の月は今年は間違っていると語る"
     },
     {
-      "ticker": "^GSPC",
+      "ticker": "JPY=X",
       "company": "経済",
-      "title": "MongoDB (MDB) Increases Despite Market Slip: Here's What You Need to Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-increases-despite-market-221502052.html",
-      "time": "2026-08-28T22:15:02Z",
-      "titleJa": "MongoDB (MDB) Increases Despite Market Slip: Here's What You Need to Know"
+      "title": "US Treasury’s Bessent warns yen volatility risks spillover to global markets",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/us-treasury-bessent-warns-yen-175331808.html",
+      "time": "2026-08-29T17:53:31Z",
+      "titleJa": "米財務省のベセント氏、円のボラティリティリスクが世界市場に波及すると警告"
     }
   ]
 }
