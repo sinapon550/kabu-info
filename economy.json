@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Review & Preview: See You in September",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stocks-today-indexes-make-august-gains-nasdaqs-and-p-set-records-639b66a9?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-31T23:55:00Z",
-      "titleJa": "レビューとプレビュー: 9 月にお会いしましょう"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "PayPal Stock's Real Risk Is Not How Far It Falls",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/613727/paypal-stocks-real-risk-is-not-how-far-it-falls/2026-08-31",
-      "time": "2026-08-31T23:44:17Z",
-      "titleJa": "PayPal株の本当のリスクはどこまで下落するかではない"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Jensen Huang Told Investors in June to 'Buy at a Discount' During Nvidia's Sell-Off. Nearly Three Months Later, Nvidia Is Up 4%, and a Broader AI Basket Gained 8%. Did His Call Pay Off?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/31/jensen-huang-told-investors-in-june-to-buy-at-a-di/",
-      "time": "2026-08-31T23:35:00Z",
-      "titleJa": "ジェンセン・ファン氏は6月、NVIDIAの株式売却中に「割引価格で購入」するよう投資家に語った。ほぼ 3 か月後、Nvidia は 4% 上昇し、より広範な AI バスケットは 8% 上昇しました。彼の呼びかけは功を奏したのでしょうか？"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "SLB Stock Surged With Its Sector, But Its Fastest-Growing Line Was Not Drilling",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/613721/slb-stock-surged-with-its-sector-but-its-fastest-growing-line-was-not-drilling/2026-08-31",
-      "time": "2026-08-31T23:24:07Z",
-      "titleJa": "SLBの株価はそのセクターで急騰したが、最も急成長しているラインは伸び悩んでいた"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "1 S&P 500 Stock with Exciting Potential and 2 We Ignore",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-222040118.html",
-      "time": "2026-08-31T22:20:40Z",
-      "titleJa": "1 刺激的な可能性を秘めた S&P 500 銘柄と 2 無視"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "Dow Jones Futures: Trump's Iran Warning Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Rally",
+      "title": "Dow Jones Futures: Market Breaks Key Levels As Oil Prices Jump; Dell, Credo, Palo Alto Are Earnings Movers",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-iran-warning-elon-musk-spacex-tesla/?src=A00220&yptr=yahoo",
-      "time": "2026-08-31T22:19:00Z",
-      "titleJa": "ダウ・ジョーンズ先物：トランプ大統領のイラン警告が株式市場の下落を引き起こす。イーロン・マスク率いるスペースX、テスララリー"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/?src=A00220&yptr=yahoo",
+      "time": "2026-09-01T22:42:05Z",
+      "titleJa": "Dow Jones Futures: Market Breaks Key Levels As Oil Prices Jump; Dell, Credo, Palo Alto Are Earnings Movers"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Whirlpool (WHR) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/whirlpool-whr-dips-more-broader-221502134.html",
+      "time": "2026-09-01T22:15:02Z",
+      "titleJa": "Whirlpool (WHR) Dips More Than Broader Market: What You Should Know"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Here's Why RH (RH) Fell More Than Broader Market",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-rh-rh-fell-221502198.html",
+      "time": "2026-09-01T22:15:02Z",
+      "titleJa": "Here's Why RH (RH) Fell More Than Broader Market"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "BlackRock (BLK) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-declines-more-market-221502653.html",
+      "time": "2026-09-01T22:15:02Z",
+      "titleJa": "BlackRock (BLK) Declines More Than Market: Some Information for Investors"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "AeroVironment (AVAV) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-sees-more-significant-221501579.html",
+      "time": "2026-09-01T22:15:01Z",
+      "titleJa": "AeroVironment (AVAV) Sees a More Significant Dip Than Broader Market: Some Facts to Know"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Stock Market Today, Sept. 1: Fervo Energy Surges 28% on 396-Megawatt Google Power Deal",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/01/stock-market-today-sept-1-fervo-energy-surges-28-on-396-megawatt-google-power-deal/",
+      "time": "2026-09-01T22:07:11Z",
+      "titleJa": "Stock Market Today, Sept. 1: Fervo Energy Surges 28% on 396-Megawatt Google Power Deal"
     }
   ]
 }
