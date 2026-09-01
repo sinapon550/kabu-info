@@ -1,125 +1,235 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Dow Jones Futures Fall, Oil Prices Jump As U.S. Strikes Iran",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo",
-      "time": "2026-08-30T22:48:41Z",
-      "titleJa": "Dow Jones Futures Fall, Oil Prices Jump As U.S. Strikes Iran",
+      "title": "We Asked AI What a September Rate Hike Would Do to XRP",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/08/31/we-asked-ai-what-a-september-rate-hike-would-do-to-xrp/",
+      "time": "2026-09-01T00:07:12Z",
+      "titleJa": "9月の利上げがXRPにどう影響するかをAIに尋ねた",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Why Archer Aviation's Management of Hawthorne Airport Matters Just as Much as Developing Its Own Aircraft",
+      "title": "Here's What September Has Done to AMD Stock Over the Past 10 Years",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/30/why-archer-aviations-management-of-hawthorne-airpo/",
-      "time": "2026-08-30T22:35:00Z",
-      "titleJa": "Why Archer Aviation's Management of Hawthorne Airport Matters Just as Much as Developing Its Own Aircraft",
+      "link": "https://www.fool.com/investing/2026/08/31/here-s-what-september-has-done-to-amd-stock-over-the-past-10-years/",
+      "time": "2026-08-31T23:58:01Z",
+      "titleJa": "過去10年間で9月がAMD株に与えた影響は次のとおりです",
       "relevant": false
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "Stock Futures Drift Lower, Oil Rises Ahead of Jobs Data, Tech Earnings",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/futures-stock-sunday-trading-52f040e8?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-08-30T22:13:00Z",
-      "titleJa": "Stock Futures Drift Lower, Oil Rises Ahead of Jobs Data, Tech Earnings",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Can SanDisk Avoid the Memory Trap That’s Burned Investors Before?",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/30/can-sandisk-avoid-the-memory-trap-thats-burned-investors-before/",
-      "time": "2026-08-30T22:00:21Z",
-      "titleJa": "Can SanDisk Avoid the Memory Trap That’s Burned Investors Before?",
-      "relevant": true
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Honda (HMC), Nissan Edge Toward a Software Alliance",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honda-hmc-nissan-edge-toward-180935321.html",
-      "time": "2026-08-30T18:09:35Z",
-      "titleJa": "Honda (HMC), Nissan Edge Toward a Software Alliance",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Prediction: Broadcom Stock Will Go Parabolic After Sept. 2",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/30/prediction-broadcom-stock-will-go-parabolic-after/",
-      "time": "2026-08-30T18:05:00Z",
-      "titleJa": "Prediction: Broadcom Stock Will Go Parabolic After Sept. 2",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/30/not-nvidia-not-amd-this-semiconductor-giant-will/",
-      "time": "2026-08-30T17:35:00Z",
-      "titleJa": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
+      "title": "Marvell's Hyperscaler Deal Lands In A Fiscal Year Management Will Not Size Yet",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/613731/marvells-hyperscaler-deal-lands-in-a-fiscal-year-management-will-not-size-yet/2026-08-31",
+      "time": "2026-08-31T23:53:57Z",
+      "titleJa": "マーベルのハイパースケーラー契約は会計年度内にまとまる 経営陣はまだ規模を決めていない",
       "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Prediction: Micron Stock Will Go Parabolic After Sept. 30",
+      "title": "The Ceiling SanDisk Wrote Into Its Own Contracts",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/613722/the-ceiling-sandisk-wrote-into-its-own-contracts/2026-08-31",
+      "time": "2026-08-31T23:35:10Z",
+      "titleJa": "サンディスクが独自の契約を結んだ天井",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "The Ceiling SanDisk Wrote Into Its Own Contracts",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/613722/the-ceiling-sandisk-wrote-into-its-own-contracts/2026-08-31",
+      "time": "2026-08-31T23:35:10Z",
+      "titleJa": "サンディスクが独自の契約を結んだ天井",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Dow Jones Futures: Trump's Iran Warning Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Rally",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-iran-warning-elon-musk-spacex-tesla/?src=A00220&yptr=yahoo",
+      "time": "2026-08-31T22:19:00Z",
+      "titleJa": "ダウ・ジョーンズ先物：トランプ大統領のイラン警告が株式市場の下落を引き起こす。イーロン・マスク率いるスペースX、テスララリー",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Dow Jones Futures: Trump's Iran Warning Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Rally",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-iran-warning-elon-musk-spacex-tesla/?src=A00220&yptr=yahoo",
+      "time": "2026-08-31T22:19:00Z",
+      "titleJa": "ダウ・ジョーンズ先物：トランプ大統領のイラン警告が株式市場の下落を引き起こす。イーロン・マスク率いるスペースX、テスララリー",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Broadcom's Next Earnings Report on September 2 Could Send the Stock Soaring. Here's Why.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/30/prediction-micron-will-go-parabolic-after-sept-30/",
-      "time": "2026-08-30T17:20:00Z",
-      "titleJa": "Prediction: Micron Stock Will Go Parabolic After Sept. 30",
+      "link": "https://www.fool.com/investing/2026/08/31/broadcoms-next-earnings-report-on-september-2-could-send-the-stock-soaring-heres-why/",
+      "time": "2026-08-31T22:05:01Z",
+      "titleJa": "9月2日のブロードコムの次回決算報告により、株価が急騰する可能性がある。その理由は次のとおりです。",
       "relevant": true
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "South Korea may be getting too old to take advantage of its AI boom",
-      "publisher": "Fortune",
-      "link": "https://finance.yahoo.com/economy/articles/south-korea-may-getting-too-110000570.html",
-      "time": "2026-08-30T11:00:00Z",
-      "titleJa": "South Korea may be getting too old to take advantage of its AI boom",
+      "title": "How to Play the Micron vs. CXMT Memory-Chip War",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-cxmt-chinese-memory-chip-dram-etf-d2b135a2?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-31T20:19:00Z",
+      "titleJa": "Micron vs. CXMT メモリチップ戦争の遊び方",
       "relevant": false
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "South Korea may be getting too old to take advantage of its AI boom",
-      "publisher": "Fortune",
-      "link": "https://finance.yahoo.com/economy/articles/south-korea-may-getting-too-110000570.html",
-      "time": "2026-08-30T11:00:00Z",
-      "titleJa": "South Korea may be getting too old to take advantage of its AI boom",
+      "title": "How to Play the Micron vs. CXMT Memory-Chip War",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-cxmt-chinese-memory-chip-dram-etf-d2b135a2?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-31T20:19:00Z",
+      "titleJa": "Micron vs. CXMT メモリチップ戦争の遊び方",
       "relevant": false
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/30/micron-vs-sandisk-1-artificial-intelligence-ai-mem/",
-      "time": "2026-08-30T10:50:00Z",
-      "titleJa": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today",
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Sector Update: Consumer Stocks Softer Late Afternoon",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-softer-afternoon-195906027.html",
+      "time": "2026-08-31T19:59:06Z",
+      "titleJa": "セクター最新情報：午後遅くに消費者株が軟化",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "OpenAI Got $5.5B in SB Energy Warrants to Lease Nvidia-Backed AI Data Centers",
+      "publisher": "Benzinga Prediction Markets",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61532442/openai-sb-energy-warrants?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+      "time": "2026-08-31T19:01:51Z",
+      "titleJa": "OpenAI、NVIDIA 支援の AI データセンターをリースするための SB Energy Warrant で 55 億ドルを獲得",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Jim Cramer has strong message for Micron stock investors",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-message-for-micron-stock-investors-samsung-chipmakers",
+      "time": "2026-08-31T18:33:00Z",
+      "titleJa": "ジム・クレイマー氏がマイクロン株投資家に向けて力強いメッセージを伝える",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "You Can’t Invest in OpenAI Stock but This IPO Might Be the Closest Thing",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/openai-stock-price-sb-energy-2fb0cdd9?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-31T16:38:00Z",
+      "titleJa": "OpenAI株に投資することはできないが、今回のIPOが最も近いかもしれない",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Does ASML's Dominant Position in EUV Signal Further Upside?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-asmls-dominant-position-euv-160500592.html",
+      "time": "2026-08-31T16:05:00Z",
+      "titleJa": "EUVにおけるASMLの支配的な地位はさらなる上昇の兆しとなるでしょうか?",
       "relevant": true
     },
     {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today",
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "The Memory Shortage Isn’t Close to Ending — Samsung Just Locked Up 70% of HBM Capacity Through 2031",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/31/the-memory-shortage-isnt-close-to-ending-samsung-just-locked-up-70-of-hbm-capacity-through-2031/",
+      "time": "2026-08-31T15:52:33Z",
+      "titleJa": "メモリ不足は終わりに近づいていない — Samsung は 2031 年まで HBM 容量の 70% を確保したところ",
+      "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Start Week Lower in Monday Trading",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144332208.html",
+      "time": "2026-08-31T14:43:32Z",
+      "titleJa": "米国の預託金受け取りが週明け月曜取引で下落、米国でアジア株取引",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Corning vs. Applied Materials: One Stock Beat the Other by 75 Percentage Points. The Better AI Infrastructure Play Is Clear.",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/4355448/corning-vs-applied-materials-one-stock-beat-the-other-by-75-percentage-points-the-better-ai-infrastructure-play-is-clear",
+      "time": "2026-08-31T14:00:02Z",
+      "titleJa": "コーニング対アプライド マテリアルズ: ある銘柄が他の銘柄を 75% ポイント上回りました。 AI インフラストラクチャの改善には明らかな取り組みがあります。",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Billionaire David Tepper of Appaloosa Is Overweight AI Stocks -- but He Recently Dumped Every Share of the Hottest AI Stock of 2026",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/30/micron-vs-sandisk-1-artificial-intelligence-ai-mem/",
-      "time": "2026-08-30T10:50:00Z",
-      "titleJa": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today",
+      "link": "https://www.fool.com/investing/2026/08/31/billionaire-david-tepper-overweight-ai-sell-sndk/",
+      "time": "2026-08-31T11:26:00Z",
+      "titleJa": "アパルーサの億万長者デイビッド・テッパー氏はAI株を過剰に重視している -- しかし彼は最近、2026年に最も話題のAI株の全株を手放した",
+      "relevant": false
+    },
+    {
+      "ticker": "9434.T",
+      "company": "ソフトバンク",
+      "title": "The $5.5 Billion Perk SoftBank’s Data-Center Venture Offered to Land OpenAI",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-31T03:55:00Z",
+      "titleJa": "ソフトバンクのデータセンターベンチャーがOpenAIの上陸に提供した55億ドルの特典",
       "relevant": true
+    },
+    {
+      "ticker": "6920.T",
+      "company": "レーザーテック",
+      "title": "Lasertec Stock Leads 3 Japanese Growth Picks With High Insider Ownership",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lasertec-stock-leads-3-japanese-002549965.html",
+      "time": "2026-08-31T00:25:49Z",
+      "titleJa": "レーザーテック株がインサイダー保有率の高さで日本の成長株3社をリード",
+      "relevant": true
+    },
+    {
+      "ticker": "6857.T",
+      "company": "アドバンテスト",
+      "title": "Nikkei Falls 2.2%, Dragged by Chip Stocks",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-stocks-4c65d615?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-31T00:18:00Z",
+      "titleJa": "日経平均株価はチップ株に引っ張られ2.2％下落",
+      "relevant": false
+    },
+    {
+      "ticker": "8035.T",
+      "company": "東京エレクトロン",
+      "title": "Nikkei Falls 2.2%, Dragged by Chip Stocks",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-stocks-4c65d615?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-08-31T00:18:00Z",
+      "titleJa": "日経平均株価はチップ株に引っ張られ2.2％下落",
+      "relevant": false
     },
     {
       "ticker": "4704.T",
@@ -128,47 +238,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/technology/ai/articles/3-japanese-ai-stocks-real-042421387.html",
       "time": "2026-08-30T04:24:21Z",
-      "titleJa": "3 Japanese AI Stocks With Real Revenue Growth Potential",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "SK Hynix (NasdaqGS:SKHY) Breaks Ground On $4 Billion Indiana HBM Facility",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-nasdaqgs-skhy-breaks-021520696.html",
-      "time": "2026-08-30T02:15:20Z",
-      "titleJa": "SK Hynix (NasdaqGS:SKHY) Breaks Ground On $4 Billion Indiana HBM Facility",
-      "relevant": true
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Korean day traders flee leveraged chip ETFs as regulatory curbs bite",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/korean-day-traders-flee-leveraged-011237120.html",
-      "time": "2026-08-30T01:12:37Z",
-      "titleJa": "Korean day traders flee leveraged chip ETFs as regulatory curbs bite",
-      "relevant": false
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "NIO's Next Earnings Report on September 1 Could Send the Stock Soaring. Here's Why.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/29/nios-next-earnings-report-on-september-1-could-send-the-stock-soaring-heres-why/",
-      "time": "2026-08-29T22:50:01Z",
-      "titleJa": "NIO's Next Earnings Report on September 1 Could Send the Stock Soaring. Here's Why.",
-      "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Apple Was Always 1 Step Behind in AI. In Chipmaking, It’s Now 1 Step Ahead.",
-      "publisher": "Barchart",
-      "link": "https://www.barchart.com/story/news/4340050/apple-was-always-1-step-behind-in-ai-in-chipmaking-its-now-1-step-ahead",
-      "time": "2026-08-29T20:30:02Z",
-      "titleJa": "Apple Was Always 1 Step Behind in AI. In Chipmaking, It’s Now 1 Step Ahead.",
+      "titleJa": "実質収益成長の可能性を秘めた日本のAI株3選",
       "relevant": false
     },
     {
@@ -178,17 +248,7 @@
       "publisher": "Motley Fool",
       "link": "https://www.fool.com/investing/2026/08/29/tsmc-vs-asml-semiconductor-stock-better-buy/",
       "time": "2026-08-29T13:05:00Z",
-      "titleJa": "TSMC vs. ASML: Which Semiconductor Giant Is the Better Stock Buy?",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "ASML Holding (ASML) Rally Keeps Valuation Questions In Focus",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-asml-rally-keeps-070907892.html",
-      "time": "2026-08-29T07:09:07Z",
-      "titleJa": "ASML Holding (ASML) Rally Keeps Valuation Questions In Focus",
+      "titleJa": "TSMC vs. ASML: 株式を購入する場合、どちらの大手半導体大手がより良いでしょうか?",
       "relevant": true
     },
     {
@@ -198,7 +258,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/3-tech-hardware-stocks-built-042409167.html",
       "time": "2026-08-29T04:24:09Z",
-      "titleJa": "3 Tech Hardware Stocks Built To Handle Higher Rates And Grow Earnings",
+      "titleJa": "より高い金利に対応し、収益を拡大するために構築された 3 つのハイテクハードウェア株",
       "relevant": false
     },
     {
@@ -208,8 +268,8 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-tse-8058-could-11-042344371.html",
       "time": "2026-08-29T04:23:44Z",
-      "titleJa": "Mitsubishi (TSE:8058) Could Be 11% Below Fair Value Following Quantum Computing Expansion",
-      "relevant": false
+      "titleJa": "三菱商事（東証：8058）は量子コンピューティングの拡大により公正価値を11%下回る可能性がある",
+      "relevant": true
     },
     {
       "ticker": "6501.T",
@@ -218,7 +278,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/energy/articles/hitachi-stock-2-japanese-nuclear-001914253.html",
       "time": "2026-08-29T00:19:14Z",
-      "titleJa": "Hitachi Stock And 2 Japanese Nuclear Energy Picks Worth Watching",
+      "titleJa": "日立株と注目に値する日本の原子力エネルギー銘柄2社",
       "relevant": true
     },
     {
@@ -228,7 +288,7 @@
       "publisher": "Forkast News",
       "link": "https://finance.yahoo.com/markets/crypto/articles/twelve-major-banks-building-stablecoin-201156000.html",
       "time": "2026-08-28T20:11:56Z",
-      "titleJa": "Twelve Major Banks Are Building a Stablecoin on Public Chains. That Changes the Competitive Calculus.",
+      "titleJa": "12 の大手銀行がパブリック チェーン上にステーブルコインを構築しています。それは競争計算を変える。",
       "relevant": false
     },
     {
@@ -238,7 +298,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-offering-different-way-181725962.html",
       "time": "2026-08-28T18:17:25Z",
-      "titleJa": "AI Stocks Offering A Different Way To Play Enterprise Software Growth",
+      "titleJa": "エンタープライズ ソフトウェアの成長に別の方法を提供する AI 株",
       "relevant": false
     },
     {
@@ -248,7 +308,7 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/ix-futu-better-value-stock-154003217.html",
       "time": "2026-08-28T15:40:03Z",
-      "titleJa": "IX or FUTU: Which Is the Better Value Stock Right Now?",
+      "titleJa": "IX と FUTU: 現在、バリュー株はどちらが優れていますか?",
       "relevant": false
     },
     {
@@ -258,18 +318,8 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/value-investors-buy-orix-corp-134003391.html",
       "time": "2026-08-28T13:40:03Z",
-      "titleJa": "Should Value Investors Buy Orix Corp Ads (IX) Stock?",
+      "titleJa": "バリュー投資家はオリックス広告（IX）株を買うべきでしょうか？",
       "relevant": true
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Hyundai seeks to diversify revenue with its latest robotics acquisition",
-      "publisher": "Manufacturing Dive",
-      "link": "https://www.manufacturingdive.com/news/hyundai-seeks-to-diversify-revenue-with-its-latest-robotics-acquisition/829067/",
-      "time": "2026-08-28T11:41:00Z",
-      "titleJa": "Hyundai seeks to diversify revenue with its latest robotics acquisition",
-      "relevant": false
     },
     {
       "ticker": "8058.T",
@@ -278,7 +328,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/technology/articles/xanadu-quantum-technologies-tsx-xndu-110635264.html",
       "time": "2026-08-28T11:06:35Z",
-      "titleJa": "Xanadu Quantum Technologies (TSX:XNDU) Moves Quantum Chipmaking Project Into Next Phase",
+      "titleJa": "Xanadu Quantum Technologies (TSX:XNDU) が量子チップ製造プロジェクトを次のフェーズに移行",
       "relevant": false
     },
     {
@@ -288,18 +338,8 @@
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/articles/stock-movers-8aa1c4cd?siteid=yhoof2&yptr=yahoo",
       "time": "2026-08-27T20:57:00Z",
-      "titleJa": "Nvidia, Micron, Salesforce, Marvell, Veeva, Okta, Hormel, and More Stocks That Explain Today’s Market",
+      "titleJa": "Nvidia、Micron、Salesforce、Marvell、Veeva、Okta、Hormel など、今日の市場を説明する銘柄",
       "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Tesla's Optimus Rival Could Be Worth $6 Billion As SoftBank Circles OpenAI-Backed 1X",
-      "publisher": "Benzinga Prediction Markets",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61477237/softbank-1x-6-billion-tesla-optimus?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-      "time": "2026-08-27T18:46:13Z",
-      "titleJa": "Tesla's Optimus Rival Could Be Worth $6 Billion As SoftBank Circles OpenAI-Backed 1X",
-      "relevant": true
     },
     {
       "ticker": "4565.T",
@@ -308,7 +348,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/healthcare/articles/did-nxera-alzheimer-milestone-ind-162544484.html",
       "time": "2026-08-27T16:25:44Z",
-      "titleJa": "Did Nxera’s Alzheimer’s Milestone and IND Progress Just Shift Neurocrine Biosciences' (NBIX) Investment Narrative?",
+      "titleJa": "Nxera のアルツハイマー病のマイルストーンと IND の進歩は、Neurocrine Biosciences (NBIX) の投資物語を変えただけでしょうか?",
       "relevant": true
     },
     {
@@ -318,7 +358,7 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/nvidia-result-oil-prices-temper-104553344.html",
       "time": "2026-08-27T10:45:53Z",
-      "titleJa": "Nvidia Result, Oil Prices Temper Asian Stock Markets",
+      "titleJa": "Nvidiaの結果、原油価格がアジアの株式市場を軟化させる",
       "relevant": false
     },
     {
@@ -328,28 +368,8 @@
       "publisher": "MT Newswires",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/easing-oil-prices-nvidia-outlook-103707743.html",
       "time": "2026-08-26T10:37:07Z",
-      "titleJa": "Easing Oil Prices, Nvidia Outlook Lift Asian Stock Markets",
+      "titleJa": "原油価格の緩和とNVIDIAの見通しがアジアの株式市場を上昇させる",
       "relevant": false
-    },
-    {
-      "ticker": "9432.T",
-      "company": "NTT",
-      "title": "Why NTT (TSE:9432) Is Back In The Spotlight",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-ntt-tse-9432-back-181729147.html",
-      "time": "2026-08-25T18:17:29Z",
-      "titleJa": "Why NTT (TSE:9432) Is Back In The Spotlight",
-      "relevant": true
-    },
-    {
-      "ticker": "9432.T",
-      "company": "NTT",
-      "title": "NTT (TSE:9432) Stock Looks Fully Priced After A Strong Run",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ntt-tse-9432-stock-looks-081727302.html",
-      "time": "2026-08-25T08:17:27Z",
-      "titleJa": "NTT (TSE:9432) Stock Looks Fully Priced After A Strong Run",
-      "relevant": true
     }
   ]
 }
