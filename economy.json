@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+      "title": "Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab Event Private, Jobs Report Looms",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo",
-      "time": "2026-09-02T22:49:24Z",
-      "titleJa": "ダウ・ジョーンズ先物：スノーフレーク、ブロードコム、HPEが収益を大きく動かす銘柄。テスラ サイバーキャブ イベント予定日"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-waller-tesla-cybercab-jobs-report/?src=A00220&yptr=yahoo",
+      "time": "2026-09-03T22:46:54Z",
+      "titleJa": "ダウジョーンズ先物：株価はFRBのウォーラーに飛びつく。テスラ サイバーキャブ イベントは非公開、求人レポートも間近"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "American Tower (AMT) Stock Sinks As Market Gains: Here's Why",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-tower-amt-stock-sinks-221503969.html",
-      "time": "2026-09-02T22:15:03Z",
-      "titleJa": "市場上昇に伴ってアメリカン・タワー（AMT）株が下落：その理由はここにある"
+      "title": "Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Huang's AI Platform Beyond Chips",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/03/nvidias-1293-billion-hugging-face-deal-expands-jensen-huangs-ai-platform-beyond-chips/",
+      "time": "2026-09-03T22:33:01Z",
+      "titleJa": "Nvidiaの129億3000万ドルのハグフェイス契約により、ジェンスン・ファンのAIプラットフォームがチップを超えて拡大"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "NXP Semiconductors (NXPI) Laps the Stock Market: Here's Why",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-laps-stock-221502766.html",
-      "time": "2026-09-02T22:15:02Z",
-      "titleJa": "NXP Semiconductors (NXPI) が株式市場を席巻: その理由は次のとおりです"
+      "title": "S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-best-day-in-a-month/cZsufnBRJvu",
+      "time": "2026-09-03T22:24:58Z",
+      "titleJa": "S&P 500、ダウエンドは利上げ予想が薄れ、カーマー利回りで月間最高の日を記録 — SPCX、VSXY、NVDA、TSLAが注目"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Halliburton (HAL) Rises Higher Than Market: Key Facts",
+      "title": "Why D.R. Horton (DHI) Outpaced the Stock Market Today",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-rises-higher-market-221502276.html",
-      "time": "2026-09-02T22:15:02Z",
-      "titleJa": "ハリバートン (HAL) が市場を上回る上昇: 重要な事実"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-d-r-horton-dhi-221501666.html",
+      "time": "2026-09-03T22:15:01Z",
+      "titleJa": "なぜD.R.ホートン (DHI) が今日の株式市場を上回りました"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Inc. (DOW) Exceeds Market Returns: Some Facts to Consider",
+      "title": "Waste Management (WM) Exceeds Market Returns: Some Facts to Consider",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-exceeds-market-221502228.html",
-      "time": "2026-09-02T22:15:02Z",
-      "titleJa": "ダウ社 (DOW) の収益が市場を上回っている: 考慮すべきいくつかの事実"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/waste-management-wm-exceeds-market-221501351.html",
+      "time": "2026-09-03T22:15:01Z",
+      "titleJa": "廃棄物管理 (WM) が市場収益を上回る: 考慮すべきいくつかの事実"
     },
     {
-      "ticker": "JPY=X",
+      "ticker": "^GSPC",
       "company": "経済",
-      "title": "Stocks climb and US yields ease; yen jumps against dollar",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-tumble-us-iran-004556548.html",
-      "time": "2026-09-02T22:01:23Z",
-      "titleJa": "株価は上昇し、米国の利回りは低下する。円がドルに対して急騰"
+      "title": "Should You Buy Reddit Stock Because Its Renewal Risk Is Already Priced In?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/614233/should-you-buy-reddit-stock-because-its-renewal-risk-is-already-priced-in/2026-09-03",
+      "time": "2026-09-03T22:07:59Z",
+      "titleJa": "更新リスクはすでに織り込まれているため、Reddit株を購入する必要がありますか?"
     }
   ]
 }
