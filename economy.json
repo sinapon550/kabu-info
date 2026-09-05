@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-blowout-jobs-report-fans-rate-hike-fears-while-chipmaker-strength-aids-nasdaq-tsla-nflx-be-nvda-in-focus/cZsDjVKRJDg",
-      "time": "2026-09-04T22:18:49Z",
-      "titleJa": "S&P 500、ダウエンドは爆発的雇用報告で下落、ファンは株価上昇への懸念、一方チップメーカーの強さはナスダックを支援—TSLA、NFLX、BE、NVDAが注目"
+      "title": "Donald Trump's Tariff Policy Has Repeatedly Triggered Multi-Trillion-Dollar Stock Swings Since Early 2025. Here's Why Markets Still Struggle to Price In His Next Move.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/05/donald-trumps-tariff-policy-has-repeatedly-trigger/",
+      "time": "2026-09-05T22:20:00Z",
+      "titleJa": "ドナルド・トランプ大統領の関税政策は、2025年初頭以来、数兆ドル規模の株価変動を繰り返し引き起こしている。市場が依然として同氏の次の動きを見極めるのに苦労している理由はここにある。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Steel Dynamics (STLD) Dips More Than Broader Market: What You Should Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-stld-dips-more-221502193.html",
-      "time": "2026-09-04T22:15:02Z",
-      "titleJa": "スチールダイナミクス (STLD) の下落は市場全体にとどまらない: 知っておくべきこと"
+      "title": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/05/prediction-amazon-will-join-nvidia-apple-and-alpha/",
+      "time": "2026-09-05T19:40:00Z",
+      "titleJa": "予測: Amazonは2029年までにNvidia、Apple、Alphabetとともに4兆ドルクラブに加わるだろう"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "V.F. (VFC) Gains As Market Dips: What You Should Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/v-f-vfc-gains-market-221502639.html",
-      "time": "2026-09-04T22:15:02Z",
-      "titleJa": "V.F.市場下落時の（VFC）利益: 知っておくべきこと"
+      "title": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html",
+      "time": "2026-09-05T19:03:45Z",
+      "titleJa": "S&P 500は下落したが、これら2つのAIメモリ株は急騰した"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Sirius XM (SIRI) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-siri-falls-more-221501471.html",
-      "time": "2026-09-04T22:15:01Z",
-      "titleJa": "シリウス XM (SIRI) は市場全体よりも大幅に下落: 投資家が知っておくべきこと"
+      "title": "These 2 AI Storage Stocks Soared as the S&P 500 Fell",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-ai-storage-stocks-soared-190028471.html",
+      "time": "2026-09-05T19:00:28Z",
+      "titleJa": "S&P 500の下落を受けてAIストレージ2銘柄が急騰"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Bloom Energy, Illumina, and Everpure set to join S&P 500 in quarterly rebalance",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-illumina-everpure-set-220908819.html",
-      "time": "2026-09-04T22:09:08Z",
-      "titleJa": "ブルーム・エナジー、イルミナ、エバーピュアが四半期リバランスでS&P 500に加わる予定"
+      "title": "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-barely-moved-2-ai-185658418.html",
+      "time": "2026-09-05T18:56:58Z",
+      "titleJa": "Nvidiaはほとんど動かなかった。これら 2 つの AI コネクティビティ株は 7% 以上上昇しました"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Looking Ahead to the Q3 Earnings Season: What to Expect",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/looking-ahead-q3-earnings-season-220500101.html",
-      "time": "2026-09-04T22:05:00Z",
-      "titleJa": "第 3 四半期の収益シーズンに向けて: 何を期待するか"
+      "title": "Will Eli Lilly Split Its Stock? Here's What History Says Will Happen If It Does.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/05/will-eli-lilly-split-its-stock-what-history-says/",
+      "time": "2026-09-05T18:52:00Z",
+      "titleJa": "イーライリリーは株式を分割するのか?歴史が実際にそうなった場合に起こることは次のとおりです。"
     }
   ]
 }

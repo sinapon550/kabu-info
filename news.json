@@ -1,114 +1,174 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Jim Cramer Shares a Cautious Take on Oracle (ORCL) and Its Massive AI Buildout",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-shares-cautious-oracle-223118242.html",
-      "time": "2026-09-04T22:31:18Z",
-      "titleJa": "Jim Cramer 氏が Oracle (ORCL) とその大規模な AI 構築に対する慎重な見解を共有",
+      "title": "Prediction: Here's What a $10,000 Investment in Rocket Lab Will Be Worth in 5 Years",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/05/prediction-10000-in-rocket-lab-worth-in-5-years/",
+      "time": "2026-09-05T22:20:00Z",
+      "titleJa": "予測: Rocket Lab への 10,000 ドルの投資は 5 年後にはいくらになるか",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-down-q3-222000523.html",
-      "time": "2026-09-04T22:20:00Z",
-      "titleJa": "ブロードコム (AVGO) 株は第 3 四半期決算後に下落: 押し目を買うのは時期尚早ですか?",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-down-q3-222000523.html",
-      "time": "2026-09-04T22:20:00Z",
-      "titleJa": "ブロードコム (AVGO) 株は第 3 四半期決算後に下落: 押し目を買うのは時期尚早ですか?",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "TSMC (TSM) Increases Despite Market Slip: Here's What You Need to Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-increases-despite-market-214503083.html",
-      "time": "2026-09-04T21:45:03Z",
-      "titleJa": "TSMC (TSM) は市場下落にもかかわらず上昇: 知っておくべきことは次のとおりです",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding",
+      "title": "AMD Committed Up to $5 Billion to Anthropic, and Anthropic's IPO Prospectus Is Reportedly Days Away",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/04/david-tepper-sold-41-of-his-micron-shares-and-it-is-still-his-second-biggest-holding/",
-      "time": "2026-09-04T21:34:01Z",
-      "titleJa": "デビッド・テッパー氏はマイクロン株の41％を売却したが、依然として同氏の2番目に大きな保有株となっている",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Top Research Reports for Apple, Broadcom & Shell",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-apple-broadcom-211600532.html",
-      "time": "2026-09-04T21:16:00Z",
-      "titleJa": "Apple、Broadcom、Shell に関するトップ調査レポート",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Stock Market Today: Dow Sinks Amid Rate Fears; Sandisk, KLA Lead Nasdaq-100 As Utilities Gain",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-august-jobs-report-lululemon-lulu/?src=A00220&yptr=yahoo",
-      "time": "2026-09-04T20:55:37Z",
-      "titleJa": "今日の株式市場: 金利不安の中でダウが下落。サンディスクとKLAが公益事業の利益でナスダック100指数をリード",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-      "time": "2026-09-04T20:52:46Z",
-      "titleJa": "ダウ・ジョーンズ先物: Nvidia、Micron、Sandisk Flash の買いシグナル。アップル、インフレは先行き報告",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-      "time": "2026-09-04T20:52:46Z",
-      "titleJa": "ダウ・ジョーンズ先物: Nvidia、Micron、Sandisk Flash の買いシグナル。アップル、インフレは先行き報告",
+      "link": "https://www.fool.com/investing/2026/09/05/amd-committed-up-to-usd5-billion-to-anthropic-and-anthropic-s-ipo-prospectus-is-reportedly-days-away/",
+      "time": "2026-09-05T22:03:01Z",
+      "titleJa": "AMDはAnthropicに最大50億ドルの出資を約束、AnthropicのIPO目論見書は数日後に届くと報じられている",
       "relevant": true
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-      "time": "2026-09-04T20:52:46Z",
-      "titleJa": "ダウ・ジョーンズ先物: Nvidia、Micron、Sandisk Flash の買いシグナル。アップル、インフレは先行き報告",
+      "title": "SK Hynix (NasdaqGS:SKHY) ADRs Draw Heavy Korean Interest After Nasdaq Debut",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-nasdaqgs-skhy-adrs-210732543.html",
+      "time": "2026-09-05T21:07:32Z",
+      "titleJa": "SKハイニックス(NasdaqGS:SKHY)ADRはナスダックデビュー後、韓国で大きな関心を集める",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "3 Great Quality Stocks To Own In September 2026",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-great-quality-stocks-own-201414086.html",
+      "time": "2026-09-05T20:14:14Z",
+      "titleJa": "2026年9月に保有すべき優良株3銘柄",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "ASML vs. Taiwan Semiconductor: Which Semiconductor Monopoly Is the Safer Investment?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/05/asml-vs-taiwan-semiconductor-which-semiconductor/",
+      "time": "2026-09-05T19:20:00Z",
+      "titleJa": "ASML vs. 台湾半導体: どちらの半導体独占企業がより安全な投資ですか?",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "ASML vs. Taiwan Semiconductor: Which Semiconductor Monopoly Is the Safer Investment?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/05/asml-vs-taiwan-semiconductor-which-semiconductor/",
+      "time": "2026-09-05T19:20:00Z",
+      "titleJa": "ASML vs. 台湾半導体: どちらの半導体独占企業がより安全な投資ですか?",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Is SK Hynix (NasdaqGS:SKHY) Undervalued On Tariff Talks And AI Memory Demand?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-nasdaqgs-skhy-undervalued-190646491.html",
+      "time": "2026-09-05T19:06:46Z",
+      "titleJa": "SKハイニックス(NasdaqGS:SKHY)は関税交渉とAIメモリ需要で過小評価されているのか?",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/05/broadcom-vs-nvidia-1-critical-metric-shows-which-a/",
+      "time": "2026-09-05T19:05:00Z",
+      "titleJa": "Broadcom vs. Nvidia: 1 つの重要な指標は、利益を出したらどちらの人工知能 (AI) チップメーカーがより良いかを示しています",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html",
+      "time": "2026-09-05T19:03:45Z",
+      "titleJa": "S&P 500は下落したが、これら2つのAIメモリ株は急騰した",
       "relevant": false
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
+      "title": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html",
+      "time": "2026-09-05T19:03:45Z",
+      "titleJa": "S&P 500は下落したが、これら2つのAIメモリ株は急騰した",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Dow Jones Futures: U.S., Iran Exchange Attacks; Nvidia, Micron, Sandisk Flash Buy Signals",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-      "time": "2026-09-04T20:52:46Z",
-      "titleJa": "ダウ・ジョーンズ先物: Nvidia、Micron、Sandisk Flash の買いシグナル。アップル、インフレは先行き報告",
+      "time": "2026-09-05T18:22:09Z",
+      "titleJa": "ダウジョーンズ先物：米国、イラン取引所攻撃。 Nvidia、Micron、Sandisk フラッシュ購入シグナル",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Dow Jones Futures: U.S., Iran Exchange Attacks; Nvidia, Micron, Sandisk Flash Buy Signals",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
+      "time": "2026-09-05T18:22:09Z",
+      "titleJa": "ダウジョーンズ先物：米国、イラン取引所攻撃。 Nvidia、Micron、Sandisk フラッシュ購入シグナル",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "With AI Revenue Set to Surge 400% Over the Next 2 Years, Broadcom Stock Looks Like a Buy on Recent Dip",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/05/ai-revenue-set-surge-broadcom-stock-buy-dip/",
+      "time": "2026-09-05T17:45:00Z",
+      "titleJa": "AI の収益は今後 2 年間で 400% 急増する見通しで、ブロードコム株は最近の下落で買いの余地あり",
+      "relevant": true
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Mitsubishi UFJ Financial Group (TSE:8306), Why Is Fresh Attention Building Now?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-ufj-financial-group-tse-161451265.html",
+      "time": "2026-09-05T16:14:51Z",
+      "titleJa": "三菱UFJフィナンシャル・グループ（東証8306）、なぜ今新たな注目を集めているのか？",
+      "relevant": true
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "South Korea exports surpass annual record as AI chip boom drives shipments",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/south-korea-exports-surpass-annual-090758052.html",
+      "time": "2026-09-05T09:07:58Z",
+      "titleJa": "AIチップブームが出荷を牽引し、韓国の輸出が年間記録を上回る",
+      "relevant": false
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Why Is Mitsubishi UFJ Financial Group (TSE:8306) Building A Digital Infrastructure Team In EMEA?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-mitsubishi-ufj-financial-group-070706561.html",
+      "time": "2026-09-05T07:07:06Z",
+      "titleJa": "三菱UFJフィナンシャル・グループ（東証：8306）はなぜEMEAにデジタルインフラチームを構築するのか？",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Why ASML Holding Stock Bumped 4% Higher Today",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/04/why-asml-holding-stock-bumped-4-higher-today/",
+      "time": "2026-09-04T22:51:22Z",
+      "titleJa": "ASMLホールディング株が今日4%上昇した理由",
       "relevant": true
     },
     {
@@ -122,34 +182,14 @@
       "relevant": false
     },
     {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Anthropic Stock Isn’t Public Yet, but Fund Companies Already Have Leveraged ETF Plans",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/anthropic-stock-ipo-leveraged-etf-45838a05?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-04T19:26:00Z",
-      "titleJa": "アンスロピック株はまだ公開されていないが、ファンド会社はすでにETFプランを活用している",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "ASML Plans 40% Japan Workforce Expansion to Support Chip Boom",
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "SoftBank Soars Nearly 12% While $439 Billion Backlog Faces Its IPO Test",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/articles/asml-plans-40-japan-workforce-183514067.html",
-      "time": "2026-09-04T18:35:14Z",
-      "titleJa": "ASML、チップブームを支えるために日本の従業員40％拡大を計画",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-soars-nearly-12-while-193324994.html",
+      "time": "2026-09-04T19:33:24Z",
+      "titleJa": "ソフトバンクは12%近く急騰する一方、4,390億ドルの未払いがIPOテストに直面している",
       "relevant": true
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Lone Star JV Spends $1.2B On 2M SF R&D Portfolio In Silicon Valley",
-      "publisher": "Bisnow",
-      "link": "https://www.bisnow.com/news/san-francisco/industrial/lone-star-jv-acquires-2-2m-sf-of-r-d-space-in-silicon-valley",
-      "time": "2026-09-04T18:08:47Z",
-      "titleJa": "ローンスター合弁会社、シリコンバレーの200万SFの研究開発ポートフォリオに12億ドルを投資",
-      "relevant": false
     },
     {
       "ticker": "8058.T",
@@ -162,6 +202,16 @@
       "relevant": false
     },
     {
+      "ticker": "4755.T",
+      "company": "楽天グループ",
+      "title": "AST SpaceMobile Stock Soared 12%—This Was the Catalyst",
+      "publisher": "MarketBeat",
+      "link": "https://www.marketbeat.com/articles/ast-spacemobile-stock-soared-12this-was-the-catalyst/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "time": "2026-09-04T15:30:00Z",
+      "titleJa": "AST SpaceMobile株が12%急騰—これが起爆剤となった",
+      "relevant": false
+    },
+    {
       "ticker": "9984.T",
       "company": "ソフトバンクG",
       "title": "ByteDance secures $29.6 billion bank loan for AI expansion",
@@ -169,26 +219,6 @@
       "link": "https://qz.com/bytedance-29-billion-loan-ai-buildout-090426",
       "time": "2026-09-04T12:36:02Z",
       "titleJa": "バイトダンス、AI拡張のために296億ドルの銀行融資を確保",
-      "relevant": false
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Anthropic nears $15 billion credit facility before IPO",
-      "publisher": "Quartz",
-      "link": "https://qz.com/anthropic-15-billion-credit-facility-ipo-090426",
-      "time": "2026-09-04T12:10:57Z",
-      "titleJa": "Anthropic、IPO前に150億ドルの信用枠に近づく",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "TikTok owner ByteDance said to secure $29.6bn loan for AI push",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tiktok-owner-bytedance-said-secure-115615239.html",
-      "time": "2026-09-04T11:56:15Z",
-      "titleJa": "TikTokオーナーのバイトダンスはAI推進のために296億ドルの融資を確保すると発表",
       "relevant": false
     },
     {
@@ -222,16 +252,6 @@
       "relevant": false
     },
     {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "European Indexes Edge Higher in Early Trade",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-5-led-by-tech-financial-stocks-83ddfeba?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-04T07:34:00Z",
-      "titleJa": "欧州指数は序盤の取引で小幅上昇",
-      "relevant": false
-    },
-    {
       "ticker": "7267.T",
       "company": "本田技研工業",
       "title": "Honda seeks $9.4 billion in supplier cost cuts by 2030",
@@ -248,17 +268,7 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/value-investors-buy-honda-motor-134002833.html",
       "time": "2026-09-03T13:40:02Z",
-      "titleJa": "バリュー投資家はホンダ（HMC）株を買うべきか？",
-      "relevant": true
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Canadian Dollar Strengthens as Central Bank Turns More Hawkish on Inflation Risks, MUFG Says",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/economy/policy/articles/canadian-dollar-strengthens-central-bank-110900177.html",
-      "time": "2026-09-03T11:09:00Z",
-      "titleJa": "中央銀行がインフレリスクに対してタカ派的姿勢を強める中、カナダドルは上昇、MUFGが発表",
+      "titleJa": "バリュー投資家はホンダ自動車（HMC）株を買うべきか？",
       "relevant": true
     },
     {
@@ -328,7 +338,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/elite-japanese-blue-chip-stocks-201451439.html",
       "time": "2026-09-01T20:14:51Z",
-      "titleJa": "2026年9月に保有する日本の優良株のエリート",
+      "titleJa": "2026年9月に保有すべき日本の優良株のエリート",
       "relevant": false
     },
     {
@@ -352,23 +362,13 @@
       "relevant": true
     },
     {
-      "ticker": "4755.T",
-      "company": "楽天グループ",
-      "title": "AST SpaceMobile Is Down 54%—Can FCC Progress and BlueBirds Reverse the Slide?",
-      "publisher": "MarketBeat",
-      "link": "https://www.marketbeat.com/articles/ast-spacemobile-is-down-54-can-fcc-progress-and-bluebirds-reverse-the-slide/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "time": "2026-08-31T15:35:00Z",
-      "titleJa": "AST SpaceMobile は 54% 下落—FCC は前進し、BlueBirds は逆転できるか?",
-      "relevant": false
-    },
-    {
       "ticker": "9434.T",
       "company": "ソフトバンク",
       "title": "The $5.5 Billion Perk SoftBank’s Data-Center Venture Offered to Land OpenAI",
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e?siteid=yhoof2&yptr=yahoo",
       "time": "2026-08-31T03:55:00Z",
-      "titleJa": "ソフトバンクのデータセンターベンチャーがOpenAIの上陸に提供した55億ドルの特典",
+      "titleJa": "ソフトバンクのデータセンターベンチャーがOpenAIを買収するために提供した55億ドルの特典",
       "relevant": true
     },
     {
@@ -399,16 +399,6 @@
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-stocks-4c65d615?siteid=yhoof2&yptr=yahoo",
       "time": "2026-08-31T00:18:00Z",
       "titleJa": "日経平均株価はチップ株に引っ張られ2.2％下落",
-      "relevant": false
-    },
-    {
-      "ticker": "4704.T",
-      "company": "トレンドマイクロ",
-      "title": "3 Japanese AI Stocks With Real Revenue Growth Potential",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-japanese-ai-stocks-real-042421387.html",
-      "time": "2026-08-30T04:24:21Z",
-      "titleJa": "実質収益成長の可能性がある日本のAI株3選",
       "relevant": false
     }
   ]
