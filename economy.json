@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Donald Trump's Tariff Policy Has Repeatedly Triggered Multi-Trillion-Dollar Stock Swings Since Early 2025. Here's Why Markets Still Struggle to Price In His Next Move.",
+      "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
+      "time": "2026-09-06T22:31:15Z",
+      "titleJa": "イラン、アップル、インフレが焦点となりダウジョーンズ先物は下落。 Nvidia、Micron、Sandisk フラッシュ購入シグナル"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "This Bank Stock's Dividend Has Been Compounding for 190 Years. Could It Make You Rich?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/05/donald-trumps-tariff-policy-has-repeatedly-trigger/",
-      "time": "2026-09-05T22:20:00Z",
-      "titleJa": "ドナルド・トランプ大統領の関税政策は、2025年初頭以来、数兆ドル規模の株価変動を繰り返し引き起こしている。市場が依然として同氏の次の動きを見極めるのに苦労している理由はここにある。"
+      "link": "https://www.fool.com/investing/2026/09/06/this-bank-stocks-dividend-has-been-compounding-for/",
+      "time": "2026-09-06T21:35:00Z",
+      "titleJa": "この銀行株の配当は 190 年間にわたり複利で推移しています。それはあなたを金持ちにさせますか？"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
+      "title": "Meet the Dirt Cheap 6.4%-Yielding Dividend Stock That's Beating the Market in 2026",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/05/prediction-amazon-will-join-nvidia-apple-and-alpha/",
-      "time": "2026-09-05T19:40:00Z",
-      "titleJa": "予測: Amazonは2029年までにNvidia、Apple、Alphabetとともに4兆ドルクラブに加わるだろう"
+      "link": "https://www.fool.com/investing/2026/09/06/meet-the-dirt-cheap-6-yielding-dividend-stock-that/",
+      "time": "2026-09-06T20:25:00Z",
+      "titleJa": "2026 年の市場を上回る、利回り 6.4% の超格安株を紹介する"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html",
-      "time": "2026-09-05T19:03:45Z",
-      "titleJa": "S&P 500は下落したが、これら2つのAIメモリ株は急騰した"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "These 2 AI Storage Stocks Soared as the S&P 500 Fell",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-ai-storage-stocks-soared-190028471.html",
-      "time": "2026-09-05T19:00:28Z",
-      "titleJa": "S&P 500の下落を受けてAIストレージ2銘柄が急騰"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-barely-moved-2-ai-185658418.html",
-      "time": "2026-09-05T18:56:58Z",
-      "titleJa": "Nvidiaはほとんど動かなかった。これら 2 つの AI コネクティビティ株は 7% 以上上昇しました"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Will Eli Lilly Split Its Stock? Here's What History Says Will Happen If It Does.",
+      "title": "Cathie Wood's Ark Has Delivered Just a 13.8% Annualized Return Since 2014, Roughly Matching the S&P 500. Should You Trust Her Bold Predictions for 2030?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/05/will-eli-lilly-split-its-stock-what-history-says/",
-      "time": "2026-09-05T18:52:00Z",
-      "titleJa": "イーライリリーは株式を分割するのか?歴史が実際にそうなった場合に起こることは次のとおりです。"
+      "link": "https://www.fool.com/investing/2026/09/06/cathie-wood-ark-annual-return-sp-500-trust/",
+      "time": "2026-09-06T18:50:00Z",
+      "titleJa": "キャシー・ウッド氏のアークは、2014 年以来、年率わずか 13.8% の収益を上げており、S&P 500 とほぼ一致しています。彼女の 2030 年の大胆な予測を信じるべきでしょうか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "AppLovin vs. Reddit: What Quarterly Revenue Growth Patterns Tell Investors About These Media Companies",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/charts/2026/09/06/applovin-vs-reddit-what-quarterly-revenue-growth-patterns-tell-investors-about-these-media-companies/",
+      "time": "2026-09-06T18:49:41Z",
+      "titleJa": "AppLovin 対 Reddit: 四半期ごとの収益成長パターンからこれらのメディア企業について投資家にわかること"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/inflation-apple-adobe-oracle-macys-and-more-to-watch-this-week-23a2c022?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-06T18:00:00Z",
+      "titleJa": "インフレ、アップル、アドビ、オラクル、メイシーズなど今週注目の銘柄"
     }
   ]
 }
