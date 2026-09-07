@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-      "time": "2026-09-06T22:31:15Z",
-      "titleJa": "イラン、アップル、インフレが焦点となりダウジョーンズ先物は下落。 Nvidia、Micron、Sandisk フラッシュ購入シグナル"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "This Bank Stock's Dividend Has Been Compounding for 190 Years. Could It Make You Rich?",
+      "title": "The AI Memory Stock That Could Outshine the Obvious Picks",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/06/this-bank-stocks-dividend-has-been-compounding-for/",
-      "time": "2026-09-06T21:35:00Z",
-      "titleJa": "この銀行株の配当は 190 年間にわたり複利で推移しています。それはあなたを金持ちにさせますか？"
+      "link": "https://www.fool.com/investing/2026/09/07/the-ai-memory-stock-that-could-outshine-the-obviou/",
+      "time": "2026-09-07T22:05:00Z",
+      "titleJa": "明らかな銘柄を上回る可能性のある AI メモリ株"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Meet the Dirt Cheap 6.4%-Yielding Dividend Stock That's Beating the Market in 2026",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/06/meet-the-dirt-cheap-6-yielding-dividend-stock-that/",
-      "time": "2026-09-06T20:25:00Z",
-      "titleJa": "2026 年の市場を上回る、利回り 6.4% の超格安株を紹介する"
+      "title": "Sandisk Soars Nearly 12% Before Joining the S&P 100",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-soars-nearly-12-joining-215620577.html",
+      "time": "2026-09-07T21:56:20Z",
+      "titleJa": "サンディスク、S&P100への参加を前に12%近く急騰"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Cathie Wood's Ark Has Delivered Just a 13.8% Annualized Return Since 2014, Roughly Matching the S&P 500. Should You Trust Her Bold Predictions for 2030?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/06/cathie-wood-ark-annual-return-sp-500-trust/",
-      "time": "2026-09-06T18:50:00Z",
-      "titleJa": "キャシー・ウッド氏のアークは、2014 年以来、年率わずか 13.8% の収益を上げており、S&P 500 とほぼ一致しています。彼女の 2030 年の大胆な予測を信じるべきでしょうか?"
+      "title": "S&P 500 Investors Brace for Brutal Holiday Pattern",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-investors-brace-brutal-215051560.html",
+      "time": "2026-09-07T21:50:51Z",
+      "titleJa": "S&P 500 投資家は過酷な休暇パターンに備えている"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "AppLovin vs. Reddit: What Quarterly Revenue Growth Patterns Tell Investors About These Media Companies",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/charts/2026/09/06/applovin-vs-reddit-what-quarterly-revenue-growth-patterns-tell-investors-about-these-media-companies/",
-      "time": "2026-09-06T18:49:41Z",
-      "titleJa": "AppLovin 対 Reddit: 四半期ごとの収益成長パターンからこれらのメディア企業について投資家にわかること"
+      "title": "Walmart Gets $2.9 Billion Windfall, Makes Surprise Move",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-gets-2-9-billion-214920824.html",
+      "time": "2026-09-07T21:49:20Z",
+      "titleJa": "ウォルマートが29億ドルの棚ぼたを手に入れ、驚きの行動を起こす"
+    },
+    {
+      "ticker": "^N225",
+      "company": "経済",
+      "title": "SoftBank Explodes 11.2% as AI Mania Roars Back Across Asia",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-explodes-11-2-ai-214601624.html",
+      "time": "2026-09-07T21:46:01Z",
+      "titleJa": "AIマニアがアジア全土で再び熱狂する中、ソフトバンクが11.2%急伸"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/inflation-apple-adobe-oracle-macys-and-more-to-watch-this-week-23a2c022?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-06T18:00:00Z",
-      "titleJa": "インフレ、アップル、アドビ、オラクル、メイシーズなど今週注目の銘柄"
+      "title": "S&P 500 Adds 3 Surging Stocks in Major Shake-Up",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-adds-3-surging-214536624.html",
+      "time": "2026-09-07T21:45:36Z",
+      "titleJa": "S&P 500に大幅な再編で急騰銘柄3銘柄を追加"
     }
   ]
 }
