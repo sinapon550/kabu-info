@@ -1,104 +1,224 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Wall Street Investment Firm Bernstein Thinks Bitcoin Could Hit $300,000 by 2029. Is Bitcoin Now a Buy?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/07/investment-firm-bernstein-thinks-bitcoin-could-hit/",
-      "time": "2026-09-07T23:05:00Z",
-      "titleJa": "ウォール街の投資会社バーンスタイン氏は、ビットコインが2029年までに30万ドルに達する可能性があると考えている。ビットコインは今買いなのか？",
-      "relevant": false
+      "title": "Microsoft’s ‘Useful Yield’ Test Raises the Stakes for NVIDIA’s AI Economics",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-useful-yield-test-raises-225832059.html",
+      "time": "2026-09-08T22:58:32Z",
+      "titleJa": "Microsoft の「Useful Yield」テストにより、NVIDIA の AI 経済学への賭けが高まる",
+      "relevant": true
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Why UWM Holdings Stock Dived by 20% Last Month",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/07/why-uwm-holdings-stock-dived-by-20-last-month/",
-      "time": "2026-09-07T22:51:26Z",
-      "titleJa": "UWMホールディングスの株価が先月20％急落した理由",
+      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+      "time": "2026-09-08T22:56:56Z",
+      "titleJa": "ダウ・ジョーンズ先物：ダウは下落したが、AMDとHPEは新規買い。 Apple iPhone イベントの締切",
       "relevant": false
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "The AI Memory Stock That Could Outshine the Obvious Picks",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/07/the-ai-memory-stock-that-could-outshine-the-obviou/",
-      "time": "2026-09-07T22:05:00Z",
-      "titleJa": "明らかな銘柄を上回る可能性のある AI メモリ株",
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+      "time": "2026-09-08T22:56:56Z",
+      "titleJa": "ダウ・ジョーンズ先物：ダウは下落したが、AMDとHPEは新規買い。 Apple iPhone イベントの締切",
       "relevant": false
     },
     {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "The AI Memory Stock That Could Outshine the Obvious Picks",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/07/the-ai-memory-stock-that-could-outshine-the-obviou/",
-      "time": "2026-09-07T22:05:00Z",
-      "titleJa": "明らかな銘柄を上回る可能性のある AI メモリ株",
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+      "time": "2026-09-08T22:56:56Z",
+      "titleJa": "ダウ・ジョーンズ先物：ダウは下落したが、AMDとHPEは新規買い。 Apple iPhone イベントの締切",
       "relevant": false
     },
     {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Sandisk Soars Nearly 12% Before Joining the S&P 100",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-soars-nearly-12-joining-215620577.html",
-      "time": "2026-09-07T21:56:20Z",
-      "titleJa": "サンディスク、S&P100への参加を前に12%近く急騰",
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data — META, QCOM, BE, AMZN, AVGO In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-middle-east-tensions-spur-oil-rally/cZtEOUNRJyE",
+      "time": "2026-09-08T22:46:39Z",
+      "titleJa": "中東情勢の緊迫が主要なインフレ指標を前に原油価格上昇に拍車をかけ、S&P 500種、ダウエンド下落 — META、QCOM、BE、AMZN、AVGOが注目",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Marvell Is Growing Faster And Its Margin Guide Is Standing Still",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/614565/marvell-is-growing-faster-and-its-margin-guide-is-standing-still/2026-09-08",
+      "time": "2026-09-08T22:08:48Z",
+      "titleJa": "マーベルは急速に成長しているが、マージンガイドは停滞している",
       "relevant": true
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Apple's $54 Billion iPhone Engine Hits an AI Memory Squeeze",
+      "title": "Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-falls-more-steeply-214507442.html",
+      "time": "2026-09-08T21:45:07Z",
+      "titleJa": "マイクロン（MU）の下落は市場全体よりも大きい：投資家が知っておくべきこと",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Micron and Sandisk Soar as Goldman Sees New Memory Stock Rally",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/articles/apples-54-billion-iphone-engine-215612819.html",
-      "time": "2026-09-07T21:56:12Z",
-      "titleJa": "Appleの540億ドルのiPhoneエンジンがAIメモリを圧迫",
-      "relevant": false
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-soar-goldman-sees-213348167.html",
+      "time": "2026-09-08T21:33:48Z",
+      "titleJa": "ゴールドマンが新たなメモリ株の上昇を見てマイクロンとサンディスクが急騰",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Micron and Sandisk Soar as Goldman Sees New Memory Stock Rally",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-soar-goldman-sees-213348167.html",
+      "time": "2026-09-08T21:33:48Z",
+      "titleJa": "ゴールドマンが新たなメモリ株の上昇を見てマイクロンとサンディスクが急騰",
+      "relevant": true
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Apple's $54 Billion iPhone Engine Hits an AI Memory Squeeze",
+      "title": "Goldman Says the Worst May Be Over for Micron and SanDisk",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/articles/apples-54-billion-iphone-engine-215612819.html",
-      "time": "2026-09-07T21:56:12Z",
-      "titleJa": "Appleの540億ドルのiPhoneエンジンがAIメモリを圧迫",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-worst-may-over-213151330.html",
+      "time": "2026-09-08T21:31:51Z",
+      "titleJa": "ゴールドマン、マイクロンとサンディスクにとって最悪の事態は終わったかもしれないと語る",
       "relevant": false
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "Apple's $54 Billion iPhone Engine Hits an AI Memory Squeeze",
+      "title": "Goldman Says the Worst May Be Over for Micron and SanDisk",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/articles/apples-54-billion-iphone-engine-215612819.html",
-      "time": "2026-09-07T21:56:12Z",
-      "titleJa": "Appleの540億ドルのiPhoneエンジンがAIメモリを圧迫",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-worst-may-over-213151330.html",
+      "time": "2026-09-08T21:31:51Z",
+      "titleJa": "ゴールドマン、マイクロンとサンディスクにとって最悪の事態は終わったかもしれないと語る",
       "relevant": false
     },
     {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Micron's $50 Billion Guide Gets an 8.3% Signal From Seoul",
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Goldman Says the Worst May Be Over for Micron and SanDisk",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microns-50-billion-guide-gets-215138948.html",
-      "time": "2026-09-07T21:51:38Z",
-      "titleJa": "マイクロンの500億ドルのガイドがソウルから8.3%のシグナルを受け取る",
-      "relevant": false
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-worst-may-over-213151330.html",
+      "time": "2026-09-08T21:31:51Z",
+      "titleJa": "ゴールドマン、マイクロンとサンディスクにとって最悪の事態は終わったかもしれないと語る",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "AMD Guides to $70 Billion of 2027 Data Center Revenue",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-guides-70-billion-2027-211135048.html",
+      "time": "2026-09-08T21:11:35Z",
+      "titleJa": "AMD、2027 年のデータセンター収益は 700 億ドルに達する見通し",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Bank of America Sees ASML Stock's Next Big AI Trigger",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bank-america-sees-asml-stocks-205458524.html",
+      "time": "2026-09-08T20:54:58Z",
+      "titleJa": "バンク・オブ・アメリカはASML株の次なる大きなAIのきっかけを見据えている",
+      "relevant": true
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "Micron's $50 Billion Guide Gets an 8.3% Signal From Seoul",
+      "title": "Bank of America Sees ASML Stock's Next Big AI Trigger",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microns-50-billion-guide-gets-215138948.html",
-      "time": "2026-09-07T21:51:38Z",
-      "titleJa": "マイクロンの500億ドルのガイドがソウルから8.3%のシグナルを受け取る",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bank-america-sees-asml-stocks-205458524.html",
+      "time": "2026-09-08T20:54:58Z",
+      "titleJa": "バンク・オブ・アメリカはASML株の次なる大きなAIのきっかけを見据えている",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "An AI chip machine so pricey, three rivals had to say yes",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/technology/semiconductor-rivals-adopt-asml-equipment",
+      "time": "2026-09-08T20:33:00Z",
+      "titleJa": "AI チップマシンは非常に高価なので、ライバル 3 社が「YES」と言わなければならなかった",
+      "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143458454.html",
+      "time": "2026-09-08T14:34:58Z",
+      "titleJa": "火曜日の取引で米国の預託金収入が減少したため、米国でアジア株が取引された",
+      "relevant": false
+    },
+    {
+      "ticker": "6954.T",
+      "company": "ファナック",
+      "title": "The Zacks Analyst Blog Highlights FANUY, ABBNY, KYCCF, NVDA, ISRG, ILMN, NOVT, BOTZ, ROBO, ROBT and IBOT",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-fanuy-141100603.html",
+      "time": "2026-09-08T14:11:00Z",
+      "titleJa": "The Zacks アナリスト ブログでは、FANUY、ABBNY、KYCCF、NVDA、ISRG、ILMN、NOVT、BOTZ、ROBO、ROBT、IBOT をハイライトしています",
+      "relevant": false
+    },
+    {
+      "ticker": "6861.T",
+      "company": "キーエンス",
+      "title": "The Zacks Analyst Blog Highlights FANUY, ABBNY, KYCCF, NVDA, ISRG, ILMN, NOVT, BOTZ, ROBO, ROBT and IBOT",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-fanuy-141100603.html",
+      "time": "2026-09-08T14:11:00Z",
+      "titleJa": "The Zacks アナリスト ブログでは、FANUY、ABBNY、KYCCF、NVDA、ISRG、ILMN、NOVT、BOTZ、ROBO、ROBT、IBOT をハイライトしています",
+      "relevant": false
+    },
+    {
+      "ticker": "6501.T",
+      "company": "日立製作所",
+      "title": "Is Hitachi (HTHIY) Stock Outpacing Its Conglomerates Peers This Year?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hitachi-hthiy-stock-outpacing-conglomerates-134003110.html",
+      "time": "2026-09-08T13:40:03Z",
+      "titleJa": "日立 (HTHIY) の株価は今年、同業の複合企業を上回っているでしょうか?",
+      "relevant": true
+    },
+    {
+      "ticker": "4063.T",
+      "company": "信越化学",
+      "title": "Japan protests as China slaps new measures against its exports of a key chipmaking material",
+      "publisher": "Associated Press",
+      "link": "https://finance.yahoo.com/technology/articles/japan-protests-china-slaps-measures-094505790.html",
+      "time": "2026-09-08T09:45:05Z",
+      "titleJa": "中国が主要な半導体製造材料の輸出に対して新たな措置を講じたことに日本が抗議",
+      "relevant": false
+    },
+    {
+      "ticker": "7011.T",
+      "company": "三菱重工業",
+      "title": "European Indexes Edge Lower as Inflation Concerns Loom",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-6-dragged-by-electronics-machinery-stocks-97139a76?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-08T08:08:00Z",
+      "titleJa": "インフレ懸念が迫り欧州指数は小幅下落",
       "relevant": false
     },
     {
@@ -109,46 +229,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-explodes-11-2-ai-214601624.html",
       "time": "2026-09-07T21:46:01Z",
       "titleJa": "AIマニアがアジア全土で再び熱狂する中、ソフトバンクが11.2%急伸",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "TSMC Rises Nearly 3% as $265 Billion Becomes Taiwan's Diplomatic Currency",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-rises-nearly-3-265-213735953.html",
-      "time": "2026-09-07T21:37:35Z",
-      "titleJa": "2,650億ドルが台湾の外交通貨となり、TSMCは3%近く上昇",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "How a 64-Year-Old’s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/09/07/how-a-64-year-olds-1-2-million-in-voo-turned-into-a-456000-bet-on-a-single-sector/",
-      "time": "2026-09-07T21:25:21Z",
-      "titleJa": "64 歳の VOO の 120 万ドルが単一セクターへの 45 万 6,000 ドルの賭けに変わった経緯",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Broadcom’s AI Forecast Suggests Hyperscalers Want More Than Just Nvidia GPUs",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-ai-forecast-suggests-hyperscalers-211102090.html",
-      "time": "2026-09-07T21:11:02Z",
-      "titleJa": "Broadcom の AI 予測は、ハイパースケーラーが Nvidia GPU だけではないことを望んでいることを示唆しています",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "TSMC's $265 Billion U.S. Bet Is Becoming Part of Taiwan's Chip Diplomacy",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/articles/tsmcs-265-billion-u-bet-192538926.html",
-      "time": "2026-09-07T19:25:38Z",
-      "titleJa": "TSMCの2,650億ドルの米国への賭けは台湾のチップ外交の一部になりつつある",
       "relevant": true
     },
     {
@@ -182,33 +262,13 @@
       "relevant": true
     },
     {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "ASML Bets Big on AI & Capacity Expansion: Should You Buy the Stock?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/asml-bets-big-ai-capacity-152800557.html",
-      "time": "2026-09-07T15:28:00Z",
-      "titleJa": "ASML は AI と生産能力の拡大に大きく賭けています: 株を買うべきですか?",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "ASML Holding N.V. (ASML) Well Positioned as AI Fuels Chip Complexity",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-122438281.html",
-      "time": "2026-09-07T12:24:38Z",
-      "titleJa": "ASML Holding N.V. (ASML)、AI がチップの複雑さを加速するとして好位置にある",
-      "relevant": true
-    },
-    {
       "ticker": "9984.T",
       "company": "ソフトバンクG",
       "title": "What’s Ahead for the AI-Energy Marriage—And How to Invest",
       "publisher": "Barrons.com",
       "link": "https://www.barrons.com/articles/ai-energy-sb-energy-stock-nvidia-softbank-fa522979?siteid=yhoof2&yptr=yahoo",
       "time": "2026-09-07T09:55:00Z",
-      "titleJa": "AI とエネルギーの結婚の先にあるもの — そして投資方法",
+      "titleJa": "AI とエネルギーの結婚の先に何が起こるのか — そして投資方法",
       "relevant": false
     },
     {
@@ -312,16 +372,6 @@
       "relevant": true
     },
     {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Should Value Investors Buy Honda Motor Co. (HMC) Stock?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/value-investors-buy-honda-motor-134002833.html",
-      "time": "2026-09-03T13:40:02Z",
-      "titleJa": "バリュー投資家はホンダ（HMC）株を買うべきか？",
-      "relevant": true
-    },
-    {
       "ticker": "8058.T",
       "company": "三菱商事",
       "title": "European Indexes Little Moved in Early Trade",
@@ -329,56 +379,6 @@
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-trading-houses-financial-stocks-556eb1a1?siteid=yhoof2&yptr=yahoo",
       "time": "2026-09-03T07:23:00Z",
       "titleJa": "欧州指数は序盤の取引ではほとんど動かなかった",
-      "relevant": false
-    },
-    {
-      "ticker": "285A.T",
-      "company": "キオクシア",
-      "title": "How to Play SKHY Stock as SK hynix Looks to Build a New Plant in Japan",
-      "publisher": "Barchart",
-      "link": "https://www.barchart.com/story/news/4404951/how-to-play-skhy-stock-as-sk-hynix-looks-to-build-a-new-plant-in-japan",
-      "time": "2026-09-02T16:05:44Z",
-      "titleJa": "SKハイニックスが日本に新工場建設を検討中、SKHY株をどうプレイするか",
-      "relevant": false
-    },
-    {
-      "ticker": "6501.T",
-      "company": "日立製作所",
-      "title": "All You Need to Know About Hitachi (HTHIY) Rating Upgrade to Strong Buy",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/know-hitachi-hthiy-rating-upgrade-160002870.html",
-      "time": "2026-09-02T16:00:02Z",
-      "titleJa": "日立 (HTHIY) の格付けが「強い買い」に格上げされることについて知っておくべきこと",
-      "relevant": true
-    },
-    {
-      "ticker": "6861.T",
-      "company": "キーエンス",
-      "title": "Is Keyence (KYCCF) Outperforming Other Industrial Products Stocks This Year?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/keyence-kyccf-outperforming-other-industrial-134002306.html",
-      "time": "2026-09-02T13:40:02Z",
-      "titleJa": "キーエンス (KYCCF) は今年、他の工業製品株をアウトパフォームしているでしょうか?",
-      "relevant": true
-    },
-    {
-      "ticker": "7011.T",
-      "company": "三菱重工業",
-      "title": "Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/02/gas-turbine-prices-are-on-track-to-nearly-triple-t/",
-      "time": "2026-09-02T09:20:00Z",
-      "titleJa": "ガスタービンの価格はほぼ3倍に上昇する見込みです。これらの株は利益を上げています。",
-      "relevant": false
-    },
-    {
-      "ticker": "8035.T",
-      "company": "東京エレクトロン",
-      "title": "European Equities Mixed in Muted Trade",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-02T07:26:00Z",
-      "titleJa": "欧州株は低迷した取引でまちまち",
       "relevant": false
     }
   ]

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The AI Memory Stock That Could Outshine the Obvious Picks",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/07/the-ai-memory-stock-that-could-outshine-the-obviou/",
-      "time": "2026-09-07T22:05:00Z",
-      "titleJa": "明らかな銘柄を上回る可能性のある AI メモリ株"
+      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+      "time": "2026-09-08T22:56:56Z",
+      "titleJa": "ダウ・ジョーンズ先物：ダウは下落したが、AMDとHPEは新規買い。 Apple iPhone イベントの締切"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Sandisk Soars Nearly 12% Before Joining the S&P 100",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-soars-nearly-12-joining-215620577.html",
-      "time": "2026-09-07T21:56:20Z",
-      "titleJa": "サンディスク、S&P100への参加を前に12%近く急騰"
+      "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data — META, QCOM, BE, AMZN, AVGO In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-middle-east-tensions-spur-oil-rally/cZtEOUNRJyE",
+      "time": "2026-09-08T22:46:39Z",
+      "titleJa": "中東情勢の緊迫が主要なインフレ指標を前に原油価格上昇に拍車をかけ、S&P 500種、ダウエンド下落 — META、QCOM、BE、AMZN、AVGOが注目"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P 500 Investors Brace for Brutal Holiday Pattern",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-investors-brace-brutal-215051560.html",
-      "time": "2026-09-07T21:50:51Z",
-      "titleJa": "S&P 500 投資家は過酷な休暇パターンに備えている"
+      "title": "Nucor (NUE) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nucor-nue-declines-more-market-221504935.html",
+      "time": "2026-09-08T22:15:04Z",
+      "titleJa": "ニューコア (NUE) は市場以上に下落: 投資家向けの情報"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Walmart Gets $2.9 Billion Windfall, Makes Surprise Move",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-gets-2-9-billion-214920824.html",
-      "time": "2026-09-07T21:49:20Z",
-      "titleJa": "ウォルマートが29億ドルの棚ぼたを手に入れ、驚きの行動を起こす"
-    },
-    {
-      "ticker": "^N225",
-      "company": "経済",
-      "title": "SoftBank Explodes 11.2% as AI Mania Roars Back Across Asia",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-explodes-11-2-ai-214601624.html",
-      "time": "2026-09-07T21:46:01Z",
-      "titleJa": "AIマニアがアジア全土で再び熱狂する中、ソフトバンクが11.2%急伸"
+      "title": "Rithm (RITM) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-registers-bigger-fall-221504843.html",
+      "time": "2026-09-08T22:15:04Z",
+      "titleJa": "リズム (RITM) が市場よりも大きな下落を記録: 注目すべき重要な事実"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P 500 Adds 3 Surging Stocks in Major Shake-Up",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-adds-3-surging-214536624.html",
-      "time": "2026-09-07T21:45:36Z",
-      "titleJa": "S&P 500に大幅な再編で急騰銘柄3銘柄を追加"
+      "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-oneok-inc-221504683.html",
+      "time": "2026-09-08T22:15:04Z",
+      "titleJa": "なぜ市場は下落したが、Oneok Inc. (OKE) は今日上昇したのか"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "NXP Semiconductors (NXPI) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-sees-more-221504887.html",
+      "time": "2026-09-08T22:15:04Z",
+      "titleJa": "NXPセミコンダクターズ（NXPI）は市場全体よりも大幅な落ち込みが見られる：知っておくべきいくつかの事実"
     }
   ]
 }
