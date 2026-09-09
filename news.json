@@ -1,174 +1,244 @@
 {
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Microsoft’s ‘Useful Yield’ Test Raises the Stakes for NVIDIA’s AI Economics",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-useful-yield-test-raises-225832059.html",
-      "time": "2026-09-08T22:58:32Z",
-      "titleJa": "Microsoft の「Useful Yield」テストにより、NVIDIA の AI 経済学への賭けが高まる",
+      "title": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/09/broadcom-forecasts-230-billion-in-ai-semiconductor/",
+      "time": "2026-09-09T22:41:00Z",
+      "titleJa": "ブロードコムは、2028 年の AI 半導体の収益を 2,300 億ドルと予測しています。その結果、株価は 1 株あたり 900 ドルに達する可能性があります。",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/09/broadcom-forecasts-230-billion-in-ai-semiconductor/",
+      "time": "2026-09-09T22:41:00Z",
+      "titleJa": "ブロードコムは、2028 年の AI 半導体の収益を 2,300 億ドルと予測しています。その結果、株価は 1 株あたり 900 ドルに達する可能性があります。",
       "relevant": true
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
-      "time": "2026-09-08T22:56:56Z",
-      "titleJa": "ダウ・ジョーンズ先物：ダウは下落したが、AMDとHPEは新規買い。 Apple iPhone イベントの締切",
+      "title": "Why's Everyone Talking About Bloom Energy Now?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/09/whys-everyone-talking-about-bloom-energy-now/",
+      "time": "2026-09-09T22:25:00Z",
+      "titleJa": "なぜ今、Bloom Energy について話題になっているのでしょうか?",
       "relevant": false
     },
     {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
-      "time": "2026-09-08T22:56:56Z",
-      "titleJa": "ダウ・ジョーンズ先物：ダウは下落したが、AMDとHPEは新規買い。 Apple iPhone イベントの締切",
-      "relevant": false
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Micron's Operating Margin Surged Past 80% for the First Time Ever. History Says This Is What's Coming Next.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/09/microns-operating-margin-surged-past-80-for-the-fi/",
+      "time": "2026-09-09T22:15:00Z",
+      "titleJa": "マイクロンの営業利益率は史上初めて80％を超えた。歴史は、これが次に起こることを示しています。",
+      "relevant": true
     },
     {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
-      "time": "2026-09-08T22:56:56Z",
-      "titleJa": "ダウ・ジョーンズ先物：ダウは下落したが、AMDとHPEは新規買い。 Apple iPhone イベントの締切",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data — META, QCOM, BE, AMZN, AVGO In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-middle-east-tensions-spur-oil-rally/cZtEOUNRJyE",
-      "time": "2026-09-08T22:46:39Z",
-      "titleJa": "中東情勢の緊迫が主要なインフレ指標を前に原油価格上昇に拍車をかけ、S&P 500種、ダウエンド下落 — META、QCOM、BE、AMZN、AVGOが注目",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Marvell Is Growing Faster And Its Margin Guide Is Standing Still",
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "SanDisk Traded Its Best Prices For Something Rarer",
       "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/614565/marvell-is-growing-faster-and-its-margin-guide-is-standing-still/2026-09-08",
-      "time": "2026-09-08T22:08:48Z",
-      "titleJa": "マーベルは急速に成長しているが、マージンガイドは停滞している",
+      "link": "https://www.trefis.com/articles/614776/sandisk-traded-its-best-prices-for-something-rarer/2026-09-09",
+      "time": "2026-09-09T22:05:08Z",
+      "titleJa": "サンディスクは最高価格をよりレアなものと交換した",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "SanDisk Traded Its Best Prices For Something Rarer",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/614776/sandisk-traded-its-best-prices-for-something-rarer/2026-09-09",
+      "time": "2026-09-09T22:05:08Z",
+      "titleJa": "サンディスクは最高価格をよりレアなものと交換した",
       "relevant": true
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "ASML (ASML) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-falls-more-steeply-214507442.html",
-      "time": "2026-09-08T21:45:07Z",
-      "titleJa": "マイクロン（MU）の下落は市場全体よりも大きい：投資家が知っておくべきこと",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-asml-sees-more-significant-214505463.html",
+      "time": "2026-09-09T21:45:05Z",
+      "titleJa": "ASML (ASML) は市場全体よりも大幅な落ち込みが見られる: 知っておくべきいくつかの事実",
       "relevant": true
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Micron and Sandisk Soar as Goldman Sees New Memory Stock Rally",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-soar-goldman-sees-213348167.html",
-      "time": "2026-09-08T21:33:48Z",
-      "titleJa": "ゴールドマンが新たなメモリ株の上昇を見てマイクロンとサンディスクが急騰",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Micron and Sandisk Soar as Goldman Sees New Memory Stock Rally",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-soar-goldman-sees-213348167.html",
-      "time": "2026-09-08T21:33:48Z",
-      "titleJa": "ゴールドマンが新たなメモリ株の上昇を見てマイクロンとサンディスクが急騰",
-      "relevant": true
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Goldman Says the Worst May Be Over for Micron and SanDisk",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-worst-may-over-213151330.html",
-      "time": "2026-09-08T21:31:51Z",
-      "titleJa": "ゴールドマン、マイクロンとサンディスクにとって最悪の事態は終わったかもしれないと語る",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Goldman Says the Worst May Be Over for Micron and SanDisk",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-worst-may-over-213151330.html",
-      "time": "2026-09-08T21:31:51Z",
-      "titleJa": "ゴールドマン、マイクロンとサンディスクにとって最悪の事態は終わったかもしれないと語る",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Goldman Says the Worst May Be Over for Micron and SanDisk",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-worst-may-over-213151330.html",
-      "time": "2026-09-08T21:31:51Z",
-      "titleJa": "ゴールドマン、マイクロンとサンディスクにとって最悪の事態は終わったかもしれないと語る",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "AMD Guides to $70 Billion of 2027 Data Center Revenue",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-guides-70-billion-2027-211135048.html",
-      "time": "2026-09-08T21:11:35Z",
-      "titleJa": "AMD、2027 年のデータセンター収益は 700 億ドルに達する見通し",
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Broadcom (AVGO) Q3 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/09/09/broadcom-avgo-q3-2026-earnings-call-transcript/",
+      "time": "2026-09-09T21:28:43Z",
+      "titleJa": "Broadcom (AVGO) 2026 年第 3 四半期決算報告のトランスクリプト",
       "relevant": true
     },
     {
       "ticker": "ASML",
       "company": "ASML",
-      "title": "Bank of America Sees ASML Stock's Next Big AI Trigger",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/bank-america-sees-asml-stocks-205458524.html",
-      "time": "2026-09-08T20:54:58Z",
-      "titleJa": "バンク・オブ・アメリカはASML株の次なる大きなAIのきっかけを見据えている",
+      "title": "Intel (INTC) and ASML Move High-NA EUV Into Production. Can the Economics Catch Up?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/technology/articles/intel-intc-asml-move-high-210140854.html",
+      "time": "2026-09-09T21:01:40Z",
+      "titleJa": "インテル (INTC) と ASML が高 NA EUV を量産に移行。経済学は追いつくことができるでしょうか?",
       "relevant": true
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "Bank of America Sees ASML Stock's Next Big AI Trigger",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/bank-america-sees-asml-stocks-205458524.html",
-      "time": "2026-09-08T20:54:58Z",
-      "titleJa": "バンク・オブ・アメリカはASML株の次なる大きなAIのきっかけを見据えている",
+      "title": "Apple Enters Foldable Smartphone Market With IPhone Duo Launch",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/technology/articles/apple-enters-foldable-smartphone-market-202438577.html",
+      "time": "2026-09-09T20:24:38Z",
+      "titleJa": "Apple、iPhone Duo発売で折りたたみスマートフォン市場に参入",
       "relevant": false
     },
     {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "An AI chip machine so pricey, three rivals had to say yes",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/technology/semiconductor-rivals-adopt-asml-equipment",
-      "time": "2026-09-08T20:33:00Z",
-      "titleJa": "AI チップマシンは非常に高価なので、ライバル 3 社が「YES」と言わなければならなかった",
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "How it feels to handle Apple's foldable iPhone Duo",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/how-it-feels-to-handle-apples-foldable-iphone-duo-202001509.html",
+      "time": "2026-09-09T20:20:01Z",
+      "titleJa": "Apple の折りたたみ式 iPhone Duo を扱うときの感触",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Prediction: Micron's Sept. 30 Earnings Could Be the Most Important Catalyst for AI Memory Stocks This Year",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/09/prediction-microns-earnings-could-be-catalyst-ai/",
+      "time": "2026-09-09T20:20:00Z",
+      "titleJa": "予測：マイクロンの9月30日の決算は今年のAIメモリ株にとって最も重要な触媒となる可能性がある",
+      "relevant": true
+    },
+    {
+      "ticker": "2914.T",
+      "company": "日本たばこ産業",
+      "title": "Is Bunzl (BZLFY) Outperforming Other Consumer Staples Stocks This Year?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bunzl-bzlfy-outperforming-other-consumer-195427328.html",
+      "time": "2026-09-09T19:54:27Z",
+      "titleJa": "ブンツル (BZLFY) は今年、他の消費者必需品株をアウトパフォームしているでしょうか?",
       "relevant": false
     },
     {
       "ticker": "7267.T",
       "company": "本田技研工業",
-      "title": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
+      "title": "Is ChargePoint (CHPT) Outperforming Other Auto-Tires-Trucks Stocks This Year?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chargepoint-chpt-outperforming-other-auto-195427786.html",
+      "time": "2026-09-09T19:54:27Z",
+      "titleJa": "ChargePoint (CHPT) は今年、他の自動車タイヤ・トラック株を上回るパフォーマンスを見せますか?",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Micron, Sandisk and the Next Leg Higher in Memory Stocks",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-next-leg-higher-194200329.html",
+      "time": "2026-09-09T19:42:00Z",
+      "titleJa": "マイクロン、サンディスク、メモリ株のさらに上の銘柄",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "SK Hynix Jumps Nearly 5% as OpenAI Keeps AI Memory Demand Burning",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-jumps-nearly-5-180910559.html",
+      "time": "2026-09-09T18:09:10Z",
+      "titleJa": "OpenAIがAIメモリ需要を高め続ける中、SK Hynixが5%近く急騰",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Defiance Politely Asks the SEC to Let It Sell An ETF 8-Ball",
+      "publisher": "Moby",
+      "link": "https://app.moby.co/home/news/news-defiance-politely-asks-the-sec-to-let-it-sell-an-etf-8-ball?utm_source=yahoo_finance&utm_medium=rss",
+      "time": "2026-09-09T17:05:04Z",
+      "titleJa": "ディファイアンスはSECにETF 8ボールの販売を許可するよう丁寧に要請",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Amkor Expands Advanced Packaging: Can Its $12B Arizona Bet Pay Off?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/technology/articles/amkor-expands-advanced-packaging-12b-163200042.html",
+      "time": "2026-09-09T16:32:00Z",
+      "titleJa": "Amkor、先進的なパッケージングを拡大：アリゾナでの120億ドルの賭けは報われるのか?",
+      "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Track Lower in Wednesday Trading",
       "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143458454.html",
-      "time": "2026-09-08T14:34:58Z",
-      "titleJa": "火曜日の取引で米国の預託金収入が減少したため、米国でアジア株が取引された",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144511481.html",
+      "time": "2026-09-09T14:45:11Z",
+      "titleJa": "水曜日の取引で米国の預託金受取が下落傾向にある中、米国でアジア株が取引",
+      "relevant": false
+    },
+    {
+      "ticker": "6501.T",
+      "company": "日立製作所",
+      "title": "The Zacks Analyst Blog Highlights Oracle, Hitachi, Interactive Brokers and Siemens Energy AG",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oracle-142500997.html",
+      "time": "2026-09-09T14:25:00Z",
+      "titleJa": "ザックス・アナリスト・ブログは、オラクル、日立、インタラクティブ・ブローカーズ、シーメンス・エナジー・AGをハイライトしています。",
+      "relevant": true
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "SoftBank to Repay $40 Billion Bridge Loan for OpenAI Stake",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-repay-40-billion-bridge-084641012.html",
+      "time": "2026-09-09T08:46:41Z",
+      "titleJa": "ソフトバンク、OpenAI株式の400億ドルのつなぎ融資を返済へ",
+      "relevant": true
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "European Indexes Slide as Higher Oil Weighs on Defense Stocks, Banks",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-chip-related-stocks-c8902c64?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-09T07:39:00Z",
+      "titleJa": "原油高が防衛株や銀行の重しとなり、欧州指数は下落",
+      "relevant": false
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "Kioxia Dismisses SK Hynix Tie-Up, Vows to Ease Chip Price Rises",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/technology/articles/kioxia-dismisses-sk-hynix-tie-004718564.html",
+      "time": "2026-09-09T00:47:18Z",
+      "titleJa": "キオクシア、SKハイニックスとの提携を解消、チップ価格上昇緩和を約束",
+      "relevant": true
+    },
+    {
+      "ticker": "6501.T",
+      "company": "日立製作所",
+      "title": "Why Bloom Energy (BE) Stock Is Trading Up Today",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-trading-003118317.html",
+      "time": "2026-09-09T00:31:18Z",
+      "titleJa": "ブルーム・エナジー（BE）株が今日上昇している理由",
       "relevant": false
     },
     {
@@ -192,16 +262,6 @@
       "relevant": false
     },
     {
-      "ticker": "6501.T",
-      "company": "日立製作所",
-      "title": "Is Hitachi (HTHIY) Stock Outpacing Its Conglomerates Peers This Year?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hitachi-hthiy-stock-outpacing-conglomerates-134003110.html",
-      "time": "2026-09-08T13:40:03Z",
-      "titleJa": "日立 (HTHIY) の株価は今年、同業の複合企業を上回っているでしょうか?",
-      "relevant": true
-    },
-    {
       "ticker": "4063.T",
       "company": "信越化学",
       "title": "Japan protests as China slaps new measures against its exports of a key chipmaking material",
@@ -220,16 +280,6 @@
       "time": "2026-09-08T08:08:00Z",
       "titleJa": "インフレ懸念が迫り欧州指数は小幅下落",
       "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "SoftBank Explodes 11.2% as AI Mania Roars Back Across Asia",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-explodes-11-2-ai-214601624.html",
-      "time": "2026-09-07T21:46:01Z",
-      "titleJa": "AIマニアがアジア全土で再び熱狂する中、ソフトバンクが11.2%急伸",
-      "relevant": true
     },
     {
       "ticker": "8306.T",
@@ -262,23 +312,13 @@
       "relevant": true
     },
     {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "What’s Ahead for the AI-Energy Marriage—And How to Invest",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/ai-energy-sb-energy-stock-nvidia-softbank-fa522979?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-07T09:55:00Z",
-      "titleJa": "AI とエネルギーの結婚の先に何が起こるのか — そして投資方法",
-      "relevant": false
-    },
-    {
       "ticker": "8035.T",
       "company": "東京エレクトロン",
       "title": "European Chip Stocks Rise, Buoyed By Asian Peers",
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-37f5728d?siteid=yhoof2&yptr=yahoo",
       "time": "2026-09-07T08:50:00Z",
-      "titleJa": "アジアの同業者に支えられ、欧州のチップ株が上昇",
+      "titleJa": "アジアの同業者に支えられ、欧州のチップ株株が上昇",
       "relevant": false
     },
     {
@@ -288,7 +328,7 @@
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-37f5728d?siteid=yhoof2&yptr=yahoo",
       "time": "2026-09-07T08:50:00Z",
-      "titleJa": "アジアの同業者に支えられ、欧州のチップ株が上昇",
+      "titleJa": "アジアの同業者に支えられ、欧州のチップ株株が上昇",
       "relevant": false
     },
     {
@@ -299,16 +339,6 @@
       "link": "https://247wallst.com/investing/2026/09/06/forget-starlink-japans-1-billion-bluebird-play-makes-asts-the-national-satellite-os/",
       "time": "2026-09-06T14:25:30Z",
       "titleJa": "スターリンクを忘れていますか？日本の 10 億ドルの BlueBird 事業により ASTS が国家衛星 OS に",
-      "relevant": false
-    },
-    {
-      "ticker": "6501.T",
-      "company": "日立製作所",
-      "title": "3 Japanese Defensive Stocks With Earnings Growth Over 9%",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-japanese-defensive-stocks-earnings-001621621.html",
-      "time": "2026-09-06T00:16:21Z",
-      "titleJa": "9％以上の利益成長を遂げる日本のディフェンシブ株3選",
       "relevant": false
     },
     {
@@ -359,26 +389,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/bear-day-turning-point-brands-110000071.html",
       "time": "2026-09-04T11:00:00Z",
       "titleJa": "今日のベア: ターニングポイント ブランド (TPB)",
-      "relevant": false
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Honda seeks $9.4 billion in supplier cost cuts by 2030",
-      "publisher": "Quartz",
-      "link": "https://qz.com/honda-supplier-cost-cuts-china-competition-090326",
-      "time": "2026-09-03T13:58:58Z",
-      "titleJa": "ホンダ、2030年までに94億ドルのサプライヤーコスト削減を目指す",
-      "relevant": true
-    },
-    {
-      "ticker": "8058.T",
-      "company": "三菱商事",
-      "title": "European Indexes Little Moved in Early Trade",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-trading-houses-financial-stocks-556eb1a1?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-03T07:23:00Z",
-      "titleJa": "欧州指数は序盤の取引ではほとんど動かなかった",
       "relevant": false
     }
   ]

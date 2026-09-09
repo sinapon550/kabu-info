@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "summary": "",
   "headlines": [
     {
-      "ticker": "^GSPC",
+      "ticker": "^DJI",
       "company": "経済",
-      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "title": "Dow Jones Futures: Oil Prices Keep Rising But Market Hasn't Broken Yet. Inflation Data Due.",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
-      "time": "2026-09-08T22:56:56Z",
-      "titleJa": "ダウ・ジョーンズ先物：ダウは下落したが、AMDとHPEは新規買い。 Apple iPhone イベントの締切"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
+      "time": "2026-09-09T22:39:29Z",
+      "titleJa": "ダウ・ジョーンズ先物：原油価格は上昇を続けているが、市場はまだ崩壊していない。インフレデータの期限。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data — META, QCOM, BE, AMZN, AVGO In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-middle-east-tensions-spur-oil-rally/cZtEOUNRJyE",
-      "time": "2026-09-08T22:46:39Z",
-      "titleJa": "中東情勢の緊迫が主要なインフレ指標を前に原油価格上昇に拍車をかけ、S&P 500種、ダウエンド下落 — META、QCOM、BE、AMZN、AVGOが注目"
+      "title": "iShares' IGIB or MUB: Which Bond ETF Keeps More Money in Your Pocket?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/09/09/ishares-igib-or-mub-which-bond-etf-keeps-more-money-in-your-pocket/",
+      "time": "2026-09-09T22:26:31Z",
+      "titleJa": "iShares の IGIB と MUB: どちらの債券 ETF があなたのポケットに多くのお金を残せるでしょうか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Nucor (NUE) Declines More Than Market: Some Information for Investors",
+      "title": "TXO Partners LP (TXO) Gains As Market Dips: What You Should Know",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nucor-nue-declines-more-market-221504935.html",
-      "time": "2026-09-08T22:15:04Z",
-      "titleJa": "ニューコア (NUE) は市場以上に下落: 投資家向けの情報"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/txo-partners-lp-txo-gains-221504753.html",
+      "time": "2026-09-09T22:15:04Z",
+      "titleJa": "TXO Partners LP (TXO) は市場の下落を受けて上昇: 知っておくべきこと"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Rithm (RITM) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "title": "T. Rowe Price (TROW) Suffers a Larger Drop Than the General Market: Key Insights",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-registers-bigger-fall-221504843.html",
-      "time": "2026-09-08T22:15:04Z",
-      "titleJa": "リズム (RITM) が市場よりも大きな下落を記録: 注目すべき重要な事実"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-suffers-221504894.html",
+      "time": "2026-09-09T22:15:04Z",
+      "titleJa": "T.ロウ・プライス（TROW）は一般市場よりも大きな下落に見舞われる：重要な洞察"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
+      "title": "Hamilton Insurance (HG) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-oneok-inc-221504683.html",
-      "time": "2026-09-08T22:15:04Z",
-      "titleJa": "なぜ市場は下落したが、Oneok Inc. (OKE) は今日上昇したのか"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-insurance-hg-sees-more-221503978.html",
+      "time": "2026-09-09T22:15:03Z",
+      "titleJa": "ハミルトン保険 (HG) は市場全体よりも大幅な落ち込み: 知っておくべきいくつかの事実"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "NXP Semiconductors (NXPI) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "title": "Why Clearway Energy (CWEN) Dipped More Than Broader Market Today",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-sees-more-221504887.html",
-      "time": "2026-09-08T22:15:04Z",
-      "titleJa": "NXPセミコンダクターズ（NXPI）は市場全体よりも大幅な落ち込みが見られる：知っておくべきいくつかの事実"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-clearway-energy-cwen-dipped-221503582.html",
+      "time": "2026-09-09T22:15:03Z",
+      "titleJa": "今日クリアウェイ・エナジー（CWEN）が市場全体以上に下落した理由"
     }
   ]
 }
