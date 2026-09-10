@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-10",
+  "updated": "2026-09-11",
   "summary": "",
   "headlines": [
     {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "S&P 500, Dow, Nasdaq End Lower As Surging Oil Raises Odds For A September Rate Hike — ORCL, ADBE, M, NVDA, UBER In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-surging-oil-raises-odds-for-a-september-rate-hike/cZtapeARJ68",
+      "time": "2026-09-10T22:46:44Z",
+      "titleJa": "原油急騰で9月利上げの可能性が高まり、S&P 500、ダウ、ナスダックは下落して終了 — ORCL、ADBE、M、NVDA、UBERが注目"
+    },
+    {
       "ticker": "^DJI",
       "company": "経済",
-      "title": "Dow Jones Futures: Oil Prices Keep Rising But Market Hasn't Broken Yet. Inflation Data Due.",
+      "title": "Wall Street dips after US wholesale inflation data, oil climbs",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-dip-brent-holds-055219062.html",
+      "time": "2026-09-10T22:35:56Z",
+      "titleJa": "米国の卸売インフレ統計を受けてウォール街は下落、原油は上昇"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
-      "time": "2026-09-09T22:39:29Z",
-      "titleJa": "ダウ・ジョーンズ先物：原油価格は上昇を続けているが、市場はまだ崩壊していない。インフレデータの期限。"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo",
+      "time": "2026-09-10T22:33:20Z",
+      "titleJa": "ダウ・ジョーンズ先物：原油価格と利回りが急上昇する中、S&P 500が支持線を突破。オラクル、CPIインフレの影響で遅れをとった"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "iShares' IGIB or MUB: Which Bond ETF Keeps More Money in Your Pocket?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/09/09/ishares-igib-or-mub-which-bond-etf-keeps-more-money-in-your-pocket/",
-      "time": "2026-09-09T22:26:31Z",
-      "titleJa": "iShares の IGIB と MUB: どちらの債券 ETF があなたのポケットに多くのお金を残せるでしょうか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "TXO Partners LP (TXO) Gains As Market Dips: What You Should Know",
+      "title": "VICI Properties Inc. (VICI) Declines More Than Market: Some Information for Investors",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/txo-partners-lp-txo-gains-221504753.html",
-      "time": "2026-09-09T22:15:04Z",
-      "titleJa": "TXO Partners LP (TXO) は市場の下落を受けて上昇: 知っておくべきこと"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-inc-vici-declines-221506419.html",
+      "time": "2026-09-10T22:15:06Z",
+      "titleJa": "VICI Properties Inc. (VICI) が市場価格以上に下落: 投資家向け情報"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "T. Rowe Price (TROW) Suffers a Larger Drop Than the General Market: Key Insights",
+      "title": "Western Midstream (WES) Falls More Steeply Than Broader Market: What Investors Need to Know",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-suffers-221504894.html",
-      "time": "2026-09-09T22:15:04Z",
-      "titleJa": "T.ロウ・プライス（TROW）は一般市場よりも大きな下落に見舞われる：重要な洞察"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/western-midstream-wes-falls-more-221506920.html",
+      "time": "2026-09-10T22:15:06Z",
+      "titleJa": "西部中流域（WES）は市場全体よりもさらに急落：投資家が知っておくべきこと"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Hamilton Insurance (HG) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "title": "Annaly Capital Management (NLY) Suffers a Larger Drop Than the General Market: Key Insights",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-insurance-hg-sees-more-221503978.html",
-      "time": "2026-09-09T22:15:03Z",
-      "titleJa": "ハミルトン保険 (HG) は市場全体よりも大幅な落ち込み: 知っておくべきいくつかの事実"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Why Clearway Energy (CWEN) Dipped More Than Broader Market Today",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-clearway-energy-cwen-dipped-221503582.html",
-      "time": "2026-09-09T22:15:03Z",
-      "titleJa": "今日クリアウェイ・エナジー（CWEN）が市場全体以上に下落した理由"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-nly-suffers-221505331.html",
+      "time": "2026-09-10T22:15:05Z",
+      "titleJa": "アナリー・キャピタル・マネジメント（NLY）は一般市場よりも大きな下落に見舞われる：重要な洞察"
     }
   ]
 }
