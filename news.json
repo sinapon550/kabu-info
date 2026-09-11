@@ -1,34 +1,214 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "S&P 500, Dow, Nasdaq End Lower As Surging Oil Raises Odds For A September Rate Hike — ORCL, ADBE, M, NVDA, UBER In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-surging-oil-raises-odds-for-a-september-rate-hike/cZtapeARJ68",
-      "time": "2026-09-10T22:46:44Z",
-      "titleJa": "原油急騰で9月利上げの可能性が高まり、S&P 500、ダウ、ナスダックは下落して終了 — ORCL、ADBE、M、NVDA、UBERが注目",
+      "title": "Palantir Co-Founder Peter Thiel's Hedge Fund Just Made a Big Bet on This AI Stock",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/11/palantir-co-founder-peter-thiels-hedge-fund-just-m/",
+      "time": "2026-09-11T22:43:00Z",
+      "titleJa": "パランティアの共同創設者ピーター・ティール氏のヘッジファンドがこのAI株に大きな賭けをした",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-09-10T22:33:20Z",
-      "titleJa": "ダウ・ジョーンズ先物：原油価格と利回りが急上昇する中、S&P 500が支持線を突破。オラクル、CPIインフレの影響で遅れをとった",
+      "title": "Marvell CEO reveals decade-long gem behind its explosive 239% surge",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/mrvl-marvell-ceo-says-trust-is-behind-239-one-year-rally-outpacing-nvidia-broadcom-amd",
+      "time": "2026-09-11T22:07:00Z",
+      "titleJa": "マーベル CEO、239% の爆発的な急騰の背後にある 10 年にわたる貴重な成果を明かす",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Marvell CEO reveals decade-long gem behind its explosive 239% surge",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/mrvl-marvell-ceo-says-trust-is-behind-239-one-year-rally-outpacing-nvidia-broadcom-amd",
+      "time": "2026-09-11T22:07:00Z",
+      "titleJa": "マーベル CEO、239% の爆発的な急騰の背後にある 10 年にわたる貴重な成果を明かす",
       "relevant": false
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-09-10T22:33:20Z",
-      "titleJa": "ダウ・ジョーンズ先物：原油価格と利回りが急上昇する中、S&P 500が支持線を突破。オラクル、CPIインフレの影響で遅れをとった",
+      "title": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/09/11/sell-the-nvidia-shares-that-made-your-retirement-or-ride-them-into-it-these-3-etfs-are-the-middle-path/",
+      "time": "2026-09-11T21:55:31Z",
+      "titleJa": "退職のきっかけとなった Nvidia 株を売却しますか、それとも退職に乗りますか?これら 3 つの ETF は中間の道です",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/09/11/sell-the-nvidia-shares-that-made-your-retirement-or-ride-them-into-it-these-3-etfs-are-the-middle-path/",
+      "time": "2026-09-11T21:55:31Z",
+      "titleJa": "退職のきっかけとなった Nvidia 株を売却しますか、それとも退職に乗りますか?これら 3 つの ETF は中間の道です",
+      "relevant": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Applied Materials vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/better-buy/2026/09/11/applied-materials-vs-micron-technology-which-technology-stock-is-a-better-buy-in-2026/",
+      "time": "2026-09-11T21:13:01Z",
+      "titleJa": "アプライド マテリアルズ vs. マイクロン テクノロジー: 2026 年にどちらのテクノロジー株を買うのが良いでしょうか?",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "TSMC Rebounds as August Sales Smash NT$500 Billion",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-rebounds-august-sales-smash-211137661.html",
+      "time": "2026-09-11T21:11:37Z",
+      "titleJa": "TSMC、8月の売上高が5,000億台湾ドルを突破し回復",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Micron Takes Unexpected Step as Tensions Rise",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-takes-unexpected-step-tensions-211102373.html",
+      "time": "2026-09-11T21:11:02Z",
+      "titleJa": "緊張が高まる中、マイクロンが予期せぬ一歩を踏み出す",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Micron Takes Unexpected Step as Tensions Rise",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-takes-unexpected-step-tensions-211102373.html",
+      "time": "2026-09-11T21:11:02Z",
+      "titleJa": "緊張が高まる中、マイクロンが予期せぬ一歩を踏み出す",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Micron Takes Unexpected Step as Tensions Rise",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-takes-unexpected-step-tensions-211102373.html",
+      "time": "2026-09-11T21:11:02Z",
+      "titleJa": "緊張が高まる中、マイクロンが予期せぬ一歩を踏み出す",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/former-openai-researcher-leopold-aschenbrenner-ai-bet/",
+      "time": "2026-09-11T20:16:41Z",
+      "titleJa": "元OpenAI研究者、350億ドルの資金消失後AI株に賭ける",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/former-openai-researcher-leopold-aschenbrenner-ai-bet/",
+      "time": "2026-09-11T20:16:41Z",
+      "titleJa": "元OpenAI研究者、350億ドルの資金消失後AI株に賭ける",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "SanDisk Drops Over 3% as Oracle's AI Boom Fails to Lift Memory",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-drops-over-3-oracles-200757715.html",
+      "time": "2026-09-11T20:07:57Z",
+      "titleJa": "オラクルのAIブームがメモリを持ち上げられず、サンディスクは3%以上下落",
+      "relevant": true
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Samsung Drops 3.5% While OpenAI Chip Work Still Lacks a Contract",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-drops-3-5-while-200210926.html",
+      "time": "2026-09-11T20:02:10Z",
+      "titleJa": "サムスンは3.5%下落、OpenAIチップ開発はまだ契約不足",
+      "relevant": true
+    },
+    {
+      "ticker": "2502.T",
+      "company": "アサヒグループHD",
+      "title": "Kenya clears EABL sale to Asahi, Diageo confirms",
+      "publisher": "Just Drinks",
+      "link": "https://www.just-drinks.com/news/kenya-clears-eabl-sale-to-asahi-diageo-confirms/",
+      "time": "2026-09-11T17:20:26Z",
+      "titleJa": "ケニア、アサヒへのEABL売却を承認、ディアジオも認める",
+      "relevant": true
+    },
+    {
+      "ticker": "2502.T",
+      "company": "アサヒグループHD",
+      "title": "C&C Group to acquire Asahi UK’s wholesale business",
+      "publisher": "Just Drinks",
+      "link": "https://www.just-drinks.com/news/cc-asahi-uk-business-deal/",
+      "time": "2026-09-11T16:54:28Z",
+      "titleJa": "C&Cグループ、Asahi UKの卸売事業を買収へ",
+      "relevant": true
+    },
+    {
+      "ticker": "6981.T",
+      "company": "村田製作所",
+      "title": "Is IDEX (IEX) Stock Outpacing Its Industrial Products Peers This Year?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/idex-iex-stock-outpacing-industrial-134003267.html",
+      "time": "2026-09-11T13:40:03Z",
+      "titleJa": "今年、IDEX (IEX) の株価は工業製品の同業他社を上回っていますか?",
+      "relevant": false
+    },
+    {
+      "ticker": "8058.T",
+      "company": "三菱商事",
+      "title": "Is ITT (ITT) Stock Outpacing Its Conglomerates Peers This Year?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/itt-itt-stock-outpacing-conglomerates-134002000.html",
+      "time": "2026-09-11T13:40:02Z",
+      "titleJa": "ITT (ITT) の株価は今年、同業の複合企業を上回っているでしょうか?",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "European Indexes Rise as Banks Gain, Software Stocks Fall",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-stocks-abb86523?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-11T07:26:00Z",
+      "titleJa": "銀行株が上昇する中、欧州指数は上昇、ソフトウェア株は下落",
+      "relevant": false
+    },
+    {
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "European Indexes Rise as Banks Gain, Software Stocks Fall",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-stocks-abb86523?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-11T07:26:00Z",
+      "titleJa": "銀行株が上昇する中、欧州指数は上昇、ソフトウェア株は下落",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "European Indexes Rise as Banks Gain, Software Stocks Fall",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-stocks-abb86523?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-11T07:26:00Z",
+      "titleJa": "銀行株が上昇する中、欧州指数は上昇、ソフトウェア株は下落",
       "relevant": false
     },
     {
@@ -40,16 +220,6 @@
       "time": "2026-09-10T22:19:00Z",
       "titleJa": "配当利回りが 3% 以上の自動車株 3 社",
       "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "TSMC (TSM) Registers a Bigger Fall Than the Market: Important Facts to Note",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-registers-bigger-fall-214505555.html",
-      "time": "2026-09-10T21:45:05Z",
-      "titleJa": "TSMC (TSM) が市場よりも大きな下落を記録: 注目すべき重要な事実",
-      "relevant": true
     },
     {
       "ticker": "ASML",
@@ -70,126 +240,6 @@
       "time": "2026-09-10T20:52:00Z",
       "titleJa": "テクノロジー、メディア、通信まとめ: マーケットトーク",
       "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Semiconductors Stocks Q2 Highlights: Micron (NASDAQ:MU)",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductors-stocks-q2-highlights-micron-202504233.html",
-      "time": "2026-09-10T20:25:04Z",
-      "titleJa": "半導体株第2四半期ハイライト: マイクロン (NASDAQ:MU)",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-attempt-113102414.html",
-      "time": "2026-09-10T20:16:24Z",
-      "titleJa": "国債利回りの上昇とトレーダーのインフレ懸念を受けてS&P500指数は下落して終了",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/614901/qualcomm-stock-looks-cheap-but-is-the-discount-deserved/2026-09-10",
-      "time": "2026-09-10T19:57:33Z",
-      "titleJa": "クアルコム株は割安に見えるが、値引きに値するのか?",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/614901/qualcomm-stock-looks-cheap-but-is-the-discount-deserved/2026-09-10",
-      "time": "2026-09-10T19:57:33Z",
-      "titleJa": "クアルコム株は割安に見えるが、値引きに値するのか?",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Apple Jumps as $1,999 Foldable Forces Samsung Onto Defense",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/articles/apple-jumps-1-999-foldable-194435052.html",
-      "time": "2026-09-10T19:44:35Z",
-      "titleJa": "Apple、1,999ドルの折りたたみ式デバイスに躍り出てSamsungを防衛に追い込む",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Marvell Technology vs. Broadcom: Comparing Revenue Trends Between These Artificial Intelligence Companies",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/charts/2026/09/10/marvell-technology-vs-broadcom-comparing-revenue-trends-between-these-artificial-intelligence-companies/",
-      "time": "2026-09-10T18:17:07Z",
-      "titleJa": "Marvell Technology vs. Broadcom: これらの人工知能企業間の収益傾向の比較",
-      "relevant": true
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "trade[XYZ] Launches HIP-4 Event Markets",
-      "publisher": "Bankless",
-      "link": "https://www.bankless.com/read/news/trade-xyz-launches-hip-4-event-markets",
-      "time": "2026-09-10T18:11:05Z",
-      "titleJa": "trade[XYZ]がHIP-4イベントマーケットを開始",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Applied Materials CEO Says the AI Boom Is Nowhere Near Over. His Order Book Is the Proof",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/10/applied-materials-ceo-says-the-ai-boom-is-nowhere-near-over-his-order-book-is-the-proof/",
-      "time": "2026-09-10T16:10:37Z",
-      "titleJa": "アプライド マテリアルズ CEO、AI ブームはまだ終わっていないと語る。彼の注文書が証拠だ",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "SoftBank Just Freed Up $25.9 Billion and Its Next AI Move Could Be Huge",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/softbanks-25-9-billion-move-160001302.html",
-      "time": "2026-09-10T16:00:01Z",
-      "titleJa": "ソフトバンクは259億ドルを解放、次のAIへの取り組みは巨大になる可能性がある",
-      "relevant": true
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "OpenAI Deepens Samsung Partnership to Build Next-Gen AI Chips — ‘One of the Areas Where We’ve Made the Most Progress’",
-      "publisher": "Benzinga",
-      "link": "https://finance.yahoo.com/technology/ai/articles/openai-deepens-samsung-partnership-build-153010885.html",
-      "time": "2026-09-10T15:30:10Z",
-      "titleJa": "OpenAI、次世代 AI チップ開発でサムスンとのパートナーシップを強化 – 「当社が最も進歩した分野の 1 つ」",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Super Micro (SMCI) Up 3.5% Since Last Earnings Report: Can It Continue?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-3-5-153005797.html",
-      "time": "2026-09-10T15:30:05Z",
-      "titleJa": "スーパーマイクロ（SMCI）、前回決算報告から3.5％上昇：このまま継続できるのか？",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Why Did Sandisk Stock Slump Today?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/10/why-did-sandisk-stock-slump-today/",
-      "time": "2026-09-10T14:45:24Z",
-      "titleJa": "サンディスク株が今日急落したのはなぜですか?",
-      "relevant": true
     },
     {
       "ticker": "6501.T",

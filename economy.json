@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P 500, Dow, Nasdaq End Lower As Surging Oil Raises Odds For A September Rate Hike — ORCL, ADBE, M, NVDA, UBER In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-surging-oil-raises-odds-for-a-september-rate-hike/cZtapeARJ68",
-      "time": "2026-09-10T22:46:44Z",
-      "titleJa": "原油急騰で9月利上げの可能性が高まり、S&P 500、ダウ、ナスダックは下落して終了 — ORCL、ADBE、M、NVDA、UBERが注目"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "Wall Street dips after US wholesale inflation data, oil climbs",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-dip-brent-holds-055219062.html",
-      "time": "2026-09-10T22:35:56Z",
-      "titleJa": "米国の卸売インフレ統計を受けてウォール街は下落、原油は上昇"
+      "title": "1 S&P 500 Stock with Impressive Fundamentals and 2 We Ignore",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-impressive-222705824.html",
+      "time": "2026-09-11T22:27:05Z",
+      "titleJa": "1 つの優れたファンダメンタルズを備えた S&P 500 銘柄と 2 つの無視できる銘柄"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo",
-      "time": "2026-09-10T22:33:20Z",
-      "titleJa": "ダウ・ジョーンズ先物：原油価格と利回りが急上昇する中、S&P 500が支持線を突破。オラクル、CPIインフレの影響で遅れをとった"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "VICI Properties Inc. (VICI) Declines More Than Market: Some Information for Investors",
+      "title": "Innovative Industrial Properties (IIPR) Laps the Stock Market: Here's Why",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-inc-vici-declines-221506419.html",
-      "time": "2026-09-10T22:15:06Z",
-      "titleJa": "VICI Properties Inc. (VICI) が市場価格以上に下落: 投資家向け情報"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-iipr-laps-221503479.html",
+      "time": "2026-09-11T22:15:03Z",
+      "titleJa": "革新的工業所有権 (IIPR) が株式市場を追い抜く: その理由は次のとおりです。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Western Midstream (WES) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "title": "SolarEdge Technologies (SEDG) Stock Sinks As Market Gains: What You Should Know",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/western-midstream-wes-falls-more-221506920.html",
-      "time": "2026-09-10T22:15:06Z",
-      "titleJa": "西部中流域（WES）は市場全体よりもさらに急落：投資家が知っておくべきこと"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-sedg-stock-sinks-221503861.html",
+      "time": "2026-09-11T22:15:03Z",
+      "titleJa": "市場上昇に伴ってソーラーエッジ・テクノロジーズ（SEDG）株が下落：知っておくべきこと"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Annaly Capital Management (NLY) Suffers a Larger Drop Than the General Market: Key Insights",
+      "title": "Lyft (LYFT) Outpaces Stock Market Gains: What You Should Know",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-nly-suffers-221505331.html",
-      "time": "2026-09-10T22:15:05Z",
-      "titleJa": "アナリー・キャピタル・マネジメント（NLY）は一般市場よりも大きな下落に見舞われる：重要な洞察"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-lyft-outpaces-stock-market-221503243.html",
+      "time": "2026-09-11T22:15:03Z",
+      "titleJa": "Lyft (LYFT) が株式市場の上昇を上回る: 知っておくべきこと"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Inc. (DOW) Stock Sinks As Market Gains: Here's Why",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-stock-sinks-221503726.html",
+      "time": "2026-09-11T22:15:03Z",
+      "titleJa": "ダウ社 (DOW) 株価が市場上昇に伴って下落: その理由は次のとおりです"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Why Teladoc (TDOC) Outpaced the Stock Market Today",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-teladoc-tdoc-outpaced-stock-221503659.html",
+      "time": "2026-09-11T22:15:03Z",
+      "titleJa": "テラドック (TDOC) が今日株式市場を上回った理由"
     }
   ]
 }
