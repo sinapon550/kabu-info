@@ -1,85 +1,155 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Palantir Co-Founder Peter Thiel's Hedge Fund Just Made a Big Bet on This AI Stock",
+      "title": "$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Would Have Done Better.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/11/palantir-co-founder-peter-thiels-hedge-fund-just-m/",
-      "time": "2026-09-11T22:43:00Z",
-      "titleJa": "パランティアの共同創設者ピーター・ティール氏のヘッジファンドがこのAI株に大きな賭けをした",
+      "link": "https://www.fool.com/investing/2026/09/12/usd10-000-in-tesla-when-it-joined-the-s-and-p-500-would-be-about-usd15-700-today-an-index-fund-would-have-done-better/",
+      "time": "2026-09-12T22:38:01Z",
+      "titleJa": "テスラが S&P 500 に加わったときの 10,000 ドルは、現在では約 15,700 ドルになります。インデックスファンドだったらもっと良かったでしょう。",
       "relevant": false
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Marvell CEO reveals decade-long gem behind its explosive 239% surge",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/mrvl-marvell-ceo-says-trust-is-behind-239-one-year-rally-outpacing-nvidia-broadcom-amd",
-      "time": "2026-09-11T22:07:00Z",
-      "titleJa": "マーベル CEO、239% の爆発的な急騰の背後にある 10 年にわたる貴重な成果を明かす",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Marvell CEO reveals decade-long gem behind its explosive 239% surge",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/mrvl-marvell-ceo-says-trust-is-behind-239-one-year-rally-outpacing-nvidia-broadcom-amd",
-      "time": "2026-09-11T22:07:00Z",
-      "titleJa": "マーベル CEO、239% の爆発的な急騰の背後にある 10 年にわたる貴重な成果を明かす",
-      "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/09/11/sell-the-nvidia-shares-that-made-your-retirement-or-ride-them-into-it-these-3-etfs-are-the-middle-path/",
-      "time": "2026-09-11T21:55:31Z",
-      "titleJa": "退職のきっかけとなった Nvidia 株を売却しますか、それとも退職に乗りますか?これら 3 つの ETF は中間の道です",
-      "relevant": false
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/09/11/sell-the-nvidia-shares-that-made-your-retirement-or-ride-them-into-it-these-3-etfs-are-the-middle-path/",
-      "time": "2026-09-11T21:55:31Z",
-      "titleJa": "退職のきっかけとなった Nvidia 株を売却しますか、それとも退職に乗りますか?これら 3 つの ETF は中間の道です",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Applied Materials vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026?",
+      "title": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/better-buy/2026/09/11/applied-materials-vs-micron-technology-which-technology-stock-is-a-better-buy-in-2026/",
-      "time": "2026-09-11T21:13:01Z",
-      "titleJa": "アプライド マテリアルズ vs. マイクロン テクノロジー: 2026 年にどちらのテクノロジー株を買うのが良いでしょうか?",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "TSMC Rebounds as August Sales Smash NT$500 Billion",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-rebounds-august-sales-smash-211137661.html",
-      "time": "2026-09-11T21:11:37Z",
-      "titleJa": "TSMC、8月の売上高が5,000億台湾ドルを突破し回復",
+      "link": "https://www.fool.com/investing/2026/09/12/not-nvidia-not-micron-this-dirt-cheap-magnificent-seven-stock-could-be-the-biggest-winner-of-the-trillion-dollar-ai-race-here-s-the-case/",
+      "time": "2026-09-12T22:35:01Z",
+      "titleJa": "エヌビディアではありません。マイクロンではありません。この非常に安い「マグニフィセント セブン」株が、1 兆ドル規模の AI 競争の最大の勝者になる可能性があります。これがそのケースです。",
       "relevant": true
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Micron Takes Unexpected Step as Tensions Rise",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-takes-unexpected-step-tensions-211102373.html",
-      "time": "2026-09-11T21:11:02Z",
-      "titleJa": "緊張が高まる中、マイクロンが予期せぬ一歩を踏み出す",
+      "title": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/12/not-nvidia-not-micron-this-dirt-cheap-magnificent-seven-stock-could-be-the-biggest-winner-of-the-trillion-dollar-ai-race-here-s-the-case/",
+      "time": "2026-09-12T22:35:01Z",
+      "titleJa": "エヌビディアではありません。マイクロンではありません。この非常に安い「マグニフィセント セブン」株が、1 兆ドル規模の AI 競争の最大の勝者になる可能性があります。これがそのケースです。",
       "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Broadcom vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/better-buy/2026/09/12/broadcom-vs-micron-technology-which-technology-stock-is-a-better-buy-in-2026/",
+      "time": "2026-09-12T18:08:22Z",
+      "titleJa": "ブロードコム vs. マイクロン テクノロジー: 2026 年にどちらのテクノロジー株を買うのが良いでしょうか?",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Broadcom vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/better-buy/2026/09/12/broadcom-vs-micron-technology-which-technology-stock-is-a-better-buy-in-2026/",
+      "time": "2026-09-12T18:08:22Z",
+      "titleJa": "ブロードコム vs. マイクロン テクノロジー: 2026 年にどちらのテクノロジー株を買うのが良いでしょうか?",
+      "relevant": true
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Broadcom vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/better-buy/2026/09/12/broadcom-vs-micron-technology-which-technology-stock-is-a-better-buy-in-2026/",
+      "time": "2026-09-12T18:08:22Z",
+      "titleJa": "ブロードコム vs. マイクロン テクノロジー: 2026 年にどちらのテクノロジー株を買うのが良いでしょうか?",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Better AI Chip Stock: Broadcom vs. Nvidia",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/12/better-ai-chip-stock-broadcom-vs-nvidia/",
+      "time": "2026-09-12T17:46:00Z",
+      "titleJa": "AI チップ在庫の向上: Broadcom 対 Nvidia",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Apple, Taiwan Semi Lead Five Stocks Near Buy Points",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/news/apple-taiwan-semiconductor-lead-5-top-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+      "time": "2026-09-12T16:22:05Z",
+      "titleJa": "台湾のアップル、準リード5銘柄が買いポイントに近づいている",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Anthropic’s Prisoner’s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/12/anthropics-prisoners-dilemma-dario-amodei-hits-the-brakes-on-ai-while-begging-everyone-else-to-do-the-same/",
+      "time": "2026-09-12T15:52:54Z",
+      "titleJa": "人間の囚人のジレンマ: ダリオ・アモデイは他の全員に同じことを求めながら AI にブレーキをかける",
+      "relevant": false
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the Same Stocks Weeks Earlier.",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/12/cramer-asked-who-was-buying-gigantic-bloom-energy-calls-a-pelosi-filing-named-two-of-the-same-stocks-weeks-earlier/",
+      "time": "2026-09-12T14:50:41Z",
+      "titleJa": "クレイマー氏は、誰が巨大なブルーム・エナジー・コールを購入しているのかと尋ねた。ペロシ氏の提出文書では、数週間前に同じ銘柄2つが指名されていた。",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the Same Stocks Weeks Earlier.",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/12/cramer-asked-who-was-buying-gigantic-bloom-energy-calls-a-pelosi-filing-named-two-of-the-same-stocks-weeks-earlier/",
+      "time": "2026-09-12T14:50:41Z",
+      "titleJa": "クレイマー氏は、誰が巨大なブルーム・エナジー・コールを購入しているのかと尋ねた。ペロシ氏の提出文書では、数週間前に同じ銘柄2つが指名されていた。",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Nike Is Being Deleted From the S&P 100. Is Its Seat in the Dow Jones Industrial Average in Jeopardy?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/12/nike-just-got-deleted-from-the-sp-100-is-its-seat/",
+      "time": "2026-09-12T09:35:00Z",
+      "titleJa": "ナイキがS&P 100から除外される。ダウ工業株30種平均株価の座は危うい？",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Warren Buffett Loves Wide Moats: 3 AI Infrastructure Stocks That Fit the Bill",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/12/warren-buffett-loves-wide-moats-3-ai-infrastructur/",
+      "time": "2026-09-12T09:20:00Z",
+      "titleJa": "ウォーレン・バフェットは広い堀を好む: 要件を満たす AI インフラストラクチャー株 3 銘柄",
+      "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Honda (HMC) Squeezes its Suppliers to Fight Off Cheaper Chinese Rivals",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/honda-hmc-squeezes-suppliers-fight-025128873.html",
+      "time": "2026-09-12T02:51:28Z",
+      "titleJa": "ホンダ（HMC）、安価な中国のライバルと戦うためにサプライヤーを絞り込む",
+      "relevant": true
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Apple’s New Foldable Phone Poised for Strong Sales",
+      "publisher": "Kiplinger",
+      "link": "https://www.kiplinger.com/business/apple-new-iphone-duo-foldable-is-poised-for-strong-sales",
+      "time": "2026-09-11T21:15:00Z",
+      "titleJa": "Appleの新しい折りたたみ式携帯電話、好調な販売の見通し",
+      "relevant": false
     },
     {
       "ticker": "000660.KS",
@@ -90,56 +160,6 @@
       "time": "2026-09-11T21:11:02Z",
       "titleJa": "緊張が高まる中、マイクロンが予期せぬ一歩を踏み出す",
       "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Micron Takes Unexpected Step as Tensions Rise",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-takes-unexpected-step-tensions-211102373.html",
-      "time": "2026-09-11T21:11:02Z",
-      "titleJa": "緊張が高まる中、マイクロンが予期せぬ一歩を踏み出す",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/former-openai-researcher-leopold-aschenbrenner-ai-bet/",
-      "time": "2026-09-11T20:16:41Z",
-      "titleJa": "元OpenAI研究者、350億ドルの資金消失後AI株に賭ける",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/former-openai-researcher-leopold-aschenbrenner-ai-bet/",
-      "time": "2026-09-11T20:16:41Z",
-      "titleJa": "元OpenAI研究者、350億ドルの資金消失後AI株に賭ける",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "SanDisk Drops Over 3% as Oracle's AI Boom Fails to Lift Memory",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-drops-over-3-oracles-200757715.html",
-      "time": "2026-09-11T20:07:57Z",
-      "titleJa": "オラクルのAIブームがメモリを持ち上げられず、サンディスクは3%以上下落",
-      "relevant": true
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Samsung Drops 3.5% While OpenAI Chip Work Still Lacks a Contract",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-drops-3-5-while-200210926.html",
-      "time": "2026-09-11T20:02:10Z",
-      "titleJa": "サムスンは3.5%下落、OpenAIチップ開発はまだ契約不足",
-      "relevant": true
     },
     {
       "ticker": "2502.T",
@@ -162,13 +182,43 @@
       "relevant": true
     },
     {
+      "ticker": "4755.T",
+      "company": "楽天グループ",
+      "title": "AST SpaceMobile Looks to Extend Its 30-Day FCC Satellite Testing Window",
+      "publisher": "MarketBeat",
+      "link": "https://www.marketbeat.com/articles/ast-spacemobile-looks-to-extend-its-30-day-fcc-satellite-testing-window/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "time": "2026-09-11T16:40:00Z",
+      "titleJa": "AST SpaceMobileは30日間のFCC衛星試験期間を延長する予定",
+      "relevant": false
+    },
+    {
+      "ticker": "6954.T",
+      "company": "ファナック",
+      "title": "This AI ETF Is Missing the Biggest AI Winners",
+      "publisher": "MarketBeat",
+      "link": "https://www.marketbeat.com/articles/this-ai-etf-is-missing-the-biggest-ai-winners/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "time": "2026-09-11T14:20:00Z",
+      "titleJa": "この AI ETF には AI の最大の勝者が欠けている",
+      "relevant": false
+    },
+    {
+      "ticker": "6861.T",
+      "company": "キーエンス",
+      "title": "This AI ETF Is Missing the Biggest AI Winners",
+      "publisher": "MarketBeat",
+      "link": "https://www.marketbeat.com/articles/this-ai-etf-is-missing-the-biggest-ai-winners/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "time": "2026-09-11T14:20:00Z",
+      "titleJa": "この AI ETF には AI の最大の勝者が欠けている",
+      "relevant": false
+    },
+    {
       "ticker": "6981.T",
       "company": "村田製作所",
       "title": "Is IDEX (IEX) Stock Outpacing Its Industrial Products Peers This Year?",
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/idex-iex-stock-outpacing-industrial-134003267.html",
       "time": "2026-09-11T13:40:03Z",
-      "titleJa": "今年、IDEX (IEX) の株価は工業製品の同業他社を上回っていますか?",
+      "titleJa": "IDEX (IEX) の株価は今年、同業の工業製品を上回っているでしょうか?",
       "relevant": false
     },
     {
@@ -178,7 +228,7 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/itt-itt-stock-outpacing-conglomerates-134002000.html",
       "time": "2026-09-11T13:40:02Z",
-      "titleJa": "ITT (ITT) の株価は今年、同業の複合企業を上回っているでしょうか?",
+      "titleJa": "今年、ITT (ITT) の株価は同業の複合企業を上回っているでしょうか?",
       "relevant": false
     },
     {
@@ -188,7 +238,7 @@
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-stocks-abb86523?siteid=yhoof2&yptr=yahoo",
       "time": "2026-09-11T07:26:00Z",
-      "titleJa": "銀行株が上昇する中、欧州指数は上昇、ソフトウェア株は下落",
+      "titleJa": "銀行株が上昇し、ソフトウェア株が下落する中、欧州指数は上昇",
       "relevant": false
     },
     {
@@ -198,7 +248,7 @@
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-stocks-abb86523?siteid=yhoof2&yptr=yahoo",
       "time": "2026-09-11T07:26:00Z",
-      "titleJa": "銀行株が上昇する中、欧州指数は上昇、ソフトウェア株は下落",
+      "titleJa": "銀行株が上昇し、ソフトウェア株が下落する中、欧州指数は上昇",
       "relevant": false
     },
     {
@@ -208,7 +258,7 @@
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-stocks-abb86523?siteid=yhoof2&yptr=yahoo",
       "time": "2026-09-11T07:26:00Z",
-      "titleJa": "銀行株が上昇する中、欧州指数は上昇、ソフトウェア株は下落",
+      "titleJa": "銀行株が上昇し、ソフトウェア株が下落する中、欧州指数は上昇",
       "relevant": false
     },
     {
@@ -220,16 +270,6 @@
       "time": "2026-09-10T22:19:00Z",
       "titleJa": "配当利回りが 3% 以上の自動車株 3 社",
       "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "What is ASML? The company that makes chip-printing machines",
-      "publisher": "Quartz",
-      "link": "https://qz.com/what-is-asml",
-      "time": "2026-09-10T21:00:49Z",
-      "titleJa": "ASMLとは何ですか?チップ印刷機を製造している会社",
-      "relevant": true
     },
     {
       "ticker": "9984.T",
@@ -258,7 +298,7 @@
       "publisher": "The Wall Street Journal",
       "link": "https://www.wsj.com/finance/banking/wall-streets-favorite-ai-startup-sets-its-sights-on-wealth-management-61b8b5d1",
       "time": "2026-09-10T11:00:00Z",
-      "titleJa": "ウォール街で人気の AI スタートアップが資産管理に目を向ける",
+      "titleJa": "ウォール街で人気の AI スタートアップが資産管理に照準を合わせる",
       "relevant": false
     },
     {
@@ -272,23 +312,13 @@
       "relevant": false
     },
     {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Is ChargePoint (CHPT) Outperforming Other Auto-Tires-Trucks Stocks This Year?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/chargepoint-chpt-outperforming-other-auto-195427786.html",
-      "time": "2026-09-09T19:54:27Z",
-      "titleJa": "ChargePoint (CHPT) は今年、他の自動車タイヤ・トラック株を上回るパフォーマンスを見せますか?",
-      "relevant": false
-    },
-    {
       "ticker": "6501.T",
       "company": "日立製作所",
       "title": "The Zacks Analyst Blog Highlights Oracle, Hitachi, Interactive Brokers and Siemens Energy AG",
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oracle-142500997.html",
       "time": "2026-09-09T14:25:00Z",
-      "titleJa": "ザックス・アナリスト・ブログは、オラクル、日立、インタラクティブ・ブローカーズ、シーメンス・エナジー・AGをハイライトしています。",
+      "titleJa": "ザックス・アナリスト・ブログは、Oracle、Hitachi、Interactive Brokers、Siemens Energy AG をハイライトしています。",
       "relevant": true
     },
     {
@@ -389,16 +419,6 @@
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-37f5728d?siteid=yhoof2&yptr=yahoo",
       "time": "2026-09-07T08:50:00Z",
       "titleJa": "アジアの同業者に支えられ、欧州のチップ株株が上昇",
-      "relevant": false
-    },
-    {
-      "ticker": "4755.T",
-      "company": "楽天グループ",
-      "title": "Forget Starlink? Japan’s $1 Billion BlueBird Play Makes ASTS the National Satellite OS",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/06/forget-starlink-japans-1-billion-bluebird-play-makes-asts-the-national-satellite-os/",
-      "time": "2026-09-06T14:25:30Z",
-      "titleJa": "スターリンクを忘れていますか？日本の 10 億ドルの BlueBird 事業により ASTS が国家衛星 OS に",
       "relevant": false
     }
   ]

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "1 S&P 500 Stock with Impressive Fundamentals and 2 We Ignore",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-impressive-222705824.html",
-      "time": "2026-09-11T22:27:05Z",
-      "titleJa": "1 つの優れたファンダメンタルズを備えた S&P 500 銘柄と 2 つの無視できる銘柄"
+      "title": "$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Would Have Done Better.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/12/usd10-000-in-tesla-when-it-joined-the-s-and-p-500-would-be-about-usd15-700-today-an-index-fund-would-have-done-better/",
+      "time": "2026-09-12T22:38:01Z",
+      "titleJa": "テスラが S&P 500 に加わったときの 10,000 ドルは、現在では約 15,700 ドルになります。インデックスファンドだったらもっと良かったでしょう。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Innovative Industrial Properties (IIPR) Laps the Stock Market: Here's Why",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-iipr-laps-221503479.html",
-      "time": "2026-09-11T22:15:03Z",
-      "titleJa": "革新的工業所有権 (IIPR) が株式市場を追い抜く: その理由は次のとおりです。"
+      "title": "Investing in the Vanguard S&P 500 ETF (VOO)? Beware of This 1 Sneaky Risk.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/12/investing-in-the-vanguard-sp-500-etf-voo-beware-of/",
+      "time": "2026-09-12T19:20:00Z",
+      "titleJa": "バンガード S&P 500 ETF (VOO) に投資しますか?この 1 つの卑劣なリスクに注意してください。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "SolarEdge Technologies (SEDG) Stock Sinks As Market Gains: What You Should Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-sedg-stock-sinks-221503861.html",
-      "time": "2026-09-11T22:15:03Z",
-      "titleJa": "市場上昇に伴ってソーラーエッジ・テクノロジーズ（SEDG）株が下落：知っておくべきこと"
+      "title": "The Boring Stock That Delivered 127% Returns While Proving Slow and Steady Loses the Race",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/12/the-boring-stock-that-delivered-127-returns-while-proving-slow-and-steady-loses-the-race/",
+      "time": "2026-09-12T17:25:40Z",
+      "titleJa": "ゆっくりと着実に実績を上げながら 127% の収益を上げた退屈な株が競争に負ける"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Lyft (LYFT) Outpaces Stock Market Gains: What You Should Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-lyft-outpaces-stock-market-221503243.html",
-      "time": "2026-09-11T22:15:03Z",
-      "titleJa": "Lyft (LYFT) が株式市場の上昇を上回る: 知っておくべきこと"
+      "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
+      "time": "2026-09-12T16:24:45Z",
+      "titleJa": "ダウ・ジョーンズ先物：FRBの利上げは原油と見られ、株価上昇圧力となる。アップルとモデルナが新規購入"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Inc. (DOW) Stock Sinks As Market Gains: Here's Why",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-stock-sinks-221503726.html",
-      "time": "2026-09-11T22:15:03Z",
-      "titleJa": "ダウ社 (DOW) 株価が市場上昇に伴って下落: その理由は次のとおりです"
+      "title": "3 Forgotten AI Stocks That Should Rebound From Their Corrections",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/12/3-forgotten-ai-stocks-that-should-rebound-from-the/",
+      "time": "2026-09-12T16:05:00Z",
+      "titleJa": "調整から回復するはずの、忘れ去られたAI株3銘柄"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why Teladoc (TDOC) Outpaced the Stock Market Today",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-teladoc-tdoc-outpaced-stock-221503659.html",
-      "time": "2026-09-11T22:15:03Z",
-      "titleJa": "テラドック (TDOC) が今日株式市場を上回った理由"
+      "title": "5 Dividend Powerhouses Yielding Above 5% That Wall Street Still Backs",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/12/5-dividend-powerhouses-yielding-above-5-that-wall-street-still-backs/",
+      "time": "2026-09-12T16:02:16Z",
+      "titleJa": "ウォール街が依然支持する、5%を超える高配当企業5社"
     }
   ]
 }
