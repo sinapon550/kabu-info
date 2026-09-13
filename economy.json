@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Would Have Done Better.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/12/usd10-000-in-tesla-when-it-joined-the-s-and-p-500-would-be-about-usd15-700-today-an-index-fund-would-have-done-better/",
-      "time": "2026-09-12T22:38:01Z",
-      "titleJa": "テスラが S&P 500 に加わったときの 10,000 ドルは、現在では約 15,700 ドルになります。インデックスファンドだったらもっと良かったでしょう。"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Investing in the Vanguard S&P 500 ETF (VOO)? Beware of This 1 Sneaky Risk.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/12/investing-in-the-vanguard-sp-500-etf-voo-beware-of/",
-      "time": "2026-09-12T19:20:00Z",
-      "titleJa": "バンガード S&P 500 ETF (VOO) に投資しますか?この 1 つの卑劣なリスクに注意してください。"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "The Boring Stock That Delivered 127% Returns While Proving Slow and Steady Loses the Race",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/12/the-boring-stock-that-delivered-127-returns-while-proving-slow-and-steady-loses-the-race/",
-      "time": "2026-09-12T17:25:40Z",
-      "titleJa": "ゆっくりと着実に実績を上げながら 127% の収益を上げた退屈な株が競争に負ける"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
+      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
-      "time": "2026-09-12T16:24:45Z",
-      "titleJa": "ダウ・ジョーンズ先物：FRBの利上げは原油と見られ、株価上昇圧力となる。アップルとモデルナが新規購入"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "time": "2026-09-13T22:35:12Z",
+      "titleJa": "ダウジョーンズ先物は下落し、人類のリードがAIの減速を求める中、テクノロジー株は下落。 FRB会合を控える"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Forgotten AI Stocks That Should Rebound From Their Corrections",
+      "title": "Berkshire Hathaway Stock Is Trailing the S&P 500 by About 10 Points This Year. History Says That Usually Doesn't Last.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/12/3-forgotten-ai-stocks-that-should-rebound-from-the/",
-      "time": "2026-09-12T16:05:00Z",
-      "titleJa": "調整から回復するはずの、忘れ去られたAI株3銘柄"
+      "link": "https://www.fool.com/investing/2026/09/13/berkshire-hathaway-stock-is-trailing-the-s-and-p-500-by-about-10-points-this-year-history-says-that-usually-doesn-t-last/",
+      "time": "2026-09-13T22:34:01Z",
+      "titleJa": "バークシャー・ハサウェイ株は今年、S&P500指数を約10ポイント下回っている。歴史によれば、それは通常は続かないのです。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "5 Dividend Powerhouses Yielding Above 5% That Wall Street Still Backs",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/12/5-dividend-powerhouses-yielding-above-5-that-wall-street-still-backs/",
-      "time": "2026-09-12T16:02:16Z",
-      "titleJa": "ウォール街が依然支持する、5%を超える高配当企業5社"
+      "title": "State Street XLV vs. iShares IXJ: Here's How These Healthcare ETFs Stack Up for Investors",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/09/13/state-street-xlv-vs-ishares-ixj-here-s-how-these-healthcare-etfs-stack-up-for-investors/",
+      "time": "2026-09-13T21:44:42Z",
+      "titleJa": "ステート・ストリート XLV 対 iシェアーズ IXJ: これらのヘルスケア ETF が投資家にとってどのように評価されるかは次のとおりです"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "VOOG vs. VONG: Which Powerhouse Vanguard ETF Is the Stronger Choice for Investors?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/09/13/voog-vs-vong-which-powerhouse-vanguard-etf-is-the-stronger-choice-for-investors/",
+      "time": "2026-09-13T20:50:14Z",
+      "titleJa": "VOOG vs. VONG: 投資家にとって、強力なバンガード ETF のどちらがより強力な選択肢ですか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Want a $1 Million Investment Portfolio? This 1 ETF Could Be Your Ticket",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/13/1-million-investment-portfolio-etf-vanguard-voo/",
+      "time": "2026-09-13T20:36:00Z",
+      "titleJa": "100万ドルの投資ポートフォリオが必要ですか?この 1 つの ETF があなたのチケットになる可能性があります"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Meet the Magnificent Momentum-Driven ETF Obliterating the S&P 500 in 2026",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/13/meet-momentum-driven-etf-obliterating-sp-500-2026/",
+      "time": "2026-09-13T19:05:00Z",
+      "titleJa": "2026 年に S&P 500 を消​​滅させる壮大なモメンタム主導の ETF をご紹介します"
     }
   ]
 }
