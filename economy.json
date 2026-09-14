@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "title": "Tech stocks slump after AI execs call for industry slowdown",
+      "publisher": "CBS News",
+      "link": "https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/",
+      "time": "2026-09-14T22:50:30Z",
+      "titleJa": "AI幹部が業界の減速を訴えたことでハイテク株が下落"
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "time": "2026-09-13T22:35:12Z",
-      "titleJa": "ダウジョーンズ先物は下落し、人類のリードがAIの減速を求める中、テクノロジー株は下落。 FRB会合を控える"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-micron-sandisk-ai-warning-fed-rate-hike/?src=A00220&yptr=yahoo",
+      "time": "2026-09-14T22:29:28Z",
+      "titleJa": "ダウ・ジョーンズ先物：エヌビディア、マイクロン、サンディスクがAIへの恐怖に取り組む。 FRBの利上げが迫っている"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Berkshire Hathaway Stock Is Trailing the S&P 500 by About 10 Points This Year. History Says That Usually Doesn't Last.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/13/berkshire-hathaway-stock-is-trailing-the-s-and-p-500-by-about-10-points-this-year-history-says-that-usually-doesn-t-last/",
-      "time": "2026-09-13T22:34:01Z",
-      "titleJa": "バークシャー・ハサウェイ株は今年、S&P500指数を約10ポイント下回っている。歴史によれば、それは通常は続かないのです。"
+      "title": "The 3 Best Dividend ETFs to Build Lasting Retirement Income in 2027",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/09/14/the-3-best-dividend-etfs-to-build-lasting-retirement-income-in-2027/",
+      "time": "2026-09-14T22:25:45Z",
+      "titleJa": "2027 年に持続的な退職所得を構築するためのベスト 3 つの配当 ETF"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "State Street XLV vs. iShares IXJ: Here's How These Healthcare ETFs Stack Up for Investors",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/09/13/state-street-xlv-vs-ishares-ixj-here-s-how-these-healthcare-etfs-stack-up-for-investors/",
-      "time": "2026-09-13T21:44:42Z",
-      "titleJa": "ステート・ストリート XLV 対 iシェアーズ IXJ: これらのヘルスケア ETF が投資家にとってどのように評価されるかは次のとおりです"
+      "title": "Akamai Technologies (AKAM) Suffers a Larger Drop Than the General Market: Key Insights",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/akamai-technologies-akam-suffers-larger-221505977.html",
+      "time": "2026-09-14T22:15:05Z",
+      "titleJa": "アカマイ・テクノロジーズ (AKAM) は一般市場よりも大きな下落に見舞われる: 重要な洞察"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "VOOG vs. VONG: Which Powerhouse Vanguard ETF Is the Stronger Choice for Investors?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/09/13/voog-vs-vong-which-powerhouse-vanguard-etf-is-the-stronger-choice-for-investors/",
-      "time": "2026-09-13T20:50:14Z",
-      "titleJa": "VOOG vs. VONG: 投資家にとって、強力なバンガード ETF のどちらがより強力な選択肢ですか?"
+      "title": "Why the Market Dipped But Astrazeneca (AZN) Gained Today",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-astrazeneca-azn-221504901.html",
+      "time": "2026-09-14T22:15:04Z",
+      "titleJa": "市場が下落したのに今日アストラゼネカ (AZN) が上昇した理由"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Want a $1 Million Investment Portfolio? This 1 ETF Could Be Your Ticket",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/13/1-million-investment-portfolio-etf-vanguard-voo/",
-      "time": "2026-09-13T20:36:00Z",
-      "titleJa": "100万ドルの投資ポートフォリオが必要ですか?この 1 つの ETF があなたのチケットになる可能性があります"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Meet the Magnificent Momentum-Driven ETF Obliterating the S&P 500 in 2026",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/13/meet-momentum-driven-etf-obliterating-sp-500-2026/",
-      "time": "2026-09-13T19:05:00Z",
-      "titleJa": "2026 年に S&P 500 を消​​滅させる壮大なモメンタム主導の ETF をご紹介します"
+      "title": "BlackRock (BLK) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-declines-more-market-221504357.html",
+      "time": "2026-09-14T22:15:04Z",
+      "titleJa": "ブラックロック (BLK) は市場以上に下落: 投資家向けの情報"
     }
   ]
 }
