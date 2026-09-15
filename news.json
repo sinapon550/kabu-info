@@ -1,185 +1,215 @@
 {
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "items": [
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "3 Stocks That Offer AI Exposure and Dividends",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-offer-ai-exposure-232700797.html",
-      "time": "2026-09-14T23:27:00Z",
-      "titleJa": "AI へのエクスポージャーと配当を提供する 3 つの銘柄",
-      "relevant": true
-    },
-    {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "IREN Stock Slips, But A Top Wall Street Bank Is Bullish With Double-Upgrade And 50% Upside",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/iren-stock-slips-but-a-top-wall-street-bank-is-bullish/cZtmjA6RBTB",
-      "time": "2026-09-14T23:21:53Z",
-      "titleJa": "IREN株は下落、しかしウォール街のトップ銀行はダブルアップグレードと50％上昇で強気",
-      "relevant": false
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Microsoft Just Made a Move That Could Put More Pressure on Its Azure Business. Here's Why It Could Turn Out Great for the Stock",
+      "title": "Calls for Slower AI Development Have Created a Compelling Dip for AI Stocks",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/14/microsoft-just-made-a-move-that-could-put-more-pressure-on-its-azure-business-here-s-why-it-could-turn-out-great-for-the-stock/",
-      "time": "2026-09-14T23:01:37Z",
-      "titleJa": "Microsoft は、Azure ビジネスにさらに圧力をかける可能性のある動きを行いました。株価にとって素晴らしい結果となる可能性がある理由は次のとおりです",
+      "link": "https://www.fool.com/investing/2026/09/15/calls-for-slower-ai-development-created-a-dip/",
+      "time": "2026-09-15T22:59:00Z",
+      "titleJa": "AI開発の速度低下を求める声がAI株の強制的な下落を引き起こしている",
+      "relevant": false
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Berkshire Hathaway's Class A Shares Cost About $766,000. Here's Why the Class B Shares Exist.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/15/berkshire-hathaways-class-a-shares-cost-about-7590/",
+      "time": "2026-09-15T22:50:00Z",
+      "titleJa": "バークシャー・ハサウェイのクラスA株の価格は約76万6000ドル。 B種種類株式が存在する理由は次のとおりです。",
       "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Tech stocks slump after AI execs call for industry slowdown",
-      "publisher": "CBS News",
-      "link": "https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/",
-      "time": "2026-09-14T22:50:30Z",
-      "titleJa": "AI幹部が業界の減速を訴えたことでハイテク株が下落",
+      "title": "Micron Technology (MU), What Is Behind The Fresh Attention?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-behind-fresh-221419399.html",
+      "time": "2026-09-15T22:14:19Z",
+      "titleJa": "Micron Technology (MU)、新たな注目の背後にあるものは何ですか?",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Credo (CRDO) vs. Marvell (MRVL): Which AI Chip Stock Is the Better Buy?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/credo-crdo-vs-marvell-mrvl-221100887.html",
+      "time": "2026-09-15T22:11:00Z",
+      "titleJa": "Credo (CRDO) vs. Marvell (MRVL): AI チップ株はどちらを買うのが良いでしょうか?",
       "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-micron-sandisk-ai-warning-fed-rate-hike/?src=A00220&yptr=yahoo",
-      "time": "2026-09-14T22:29:28Z",
-      "titleJa": "ダウ・ジョーンズ先物：エヌビディア、マイクロン、サンディスクがAIへの恐怖に取り組む。 FRBの利上げが迫っている",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-micron-sandisk-ai-warning-fed-rate-hike/?src=A00220&yptr=yahoo",
-      "time": "2026-09-14T22:29:28Z",
-      "titleJa": "ダウ・ジョーンズ先物：エヌビディア、マイクロン、サンディスクがAIへの恐怖に取り組む。 FRBの利上げが迫っている",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
-      "publisher": "The Guardian",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-linked-stocks-slide-tech-181747255.html",
-      "time": "2026-09-14T22:10:52Z",
-      "titleJa": "テクノロジー企業トップが「無謀な」開発の減速を呼びかけたことでAI関連株が下落",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Talk of AI pause slams Nvidia, AMD and Intel as fears of doomsday scenarios spread",
-      "publisher": "LA Times",
-      "link": "https://finance.yahoo.com/technology/ai/articles/talk-ai-pause-slams-nvidia-214716918.html",
-      "time": "2026-09-14T21:47:16Z",
-      "titleJa": "終末シナリオへの懸念が広がる中、AI一時停止の話がNvidia、AMD、Intelを非難",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Stocks to Watch Monday Recap: Nvidia, Oracle, SoftBank",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-14T21:37:24Z",
-      "titleJa": "月曜日の注目銘柄のまとめ: Nvidia、Oracle、SoftBank",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Stocks to Watch Monday Recap: Nvidia, Oracle, SoftBank",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-14T21:37:24Z",
-      "titleJa": "月曜日の注目銘柄のまとめ: Nvidia、Oracle、SoftBank",
-      "relevant": false
-    },
-    {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Stocks to Watch Monday Recap: Nvidia, Oracle, SoftBank",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-14T21:37:24Z",
-      "titleJa": "月曜日の注目銘柄のまとめ: Nvidia、Oracle、SoftBank",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Stocks to Watch Monday Recap: Nvidia, Oracle, SoftBank",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-14T21:37:24Z",
-      "titleJa": "月曜日の注目銘柄のまとめ: Nvidia、Oracle、SoftBank",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Update: Semiconductors Help Push US Equity Indexes Lower While Benchmark Treasury Yield Hits 5%",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductors-help-push-us-equity-212047694.html",
-      "time": "2026-09-14T21:20:47Z",
-      "titleJa": "最新情報: ベンチマーク国債利回りが5%に達する中、半導体が米国株指数の下落に貢献",
+      "title": "S&P 500, Nasdaq, Dow End Lower As Investors Price In Rate Hike Ahead Of Fed Meeting — AMZN, META, MU, TSLA, PLTR In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-lower-as-investors-price-in-rate-hike-ahead-of-fed-meeting-amzn-meta-mu-tsla-pltr-in-focus/cZtn8vQRBcx",
+      "time": "2026-09-15T22:04:55Z",
+      "titleJa": "FRB会合を前に投資家が利上げを織り込む中、S&P 500、ナスダック、ダ​​ウエンドは下落 — AMZN、META、MU、TSLA、PLTRが注目",
       "relevant": false
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-drops-over-4-21-210015158.html",
-      "time": "2026-09-14T21:00:15Z",
-      "titleJa": "217億ドルのAI予測が減速懸念に応え、ブロードコムは4%以上下落",
+      "title": "Why Rule Breakers Dig Stocks With Multiple Futures",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/15/why-rule-breakers-dig-stocks-with-multiple-futures/",
+      "time": "2026-09-15T21:54:01Z",
+      "titleJa": "ルール違反者が複数の先物銘柄を狙う理由",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/technology/articles/tsmc-2nm-era-accelerating-mediatek-214827953.html",
+      "time": "2026-09-15T21:48:27Z",
+      "titleJa": "TSMC の 2nm 時代は MediaTek によって加速します。 Nvidia と Alphabet はすでに資金を用意しています",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "ASML (ASML) Gains As Market Dips: What You Should Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-asml-gains-market-dips-214507366.html",
+      "time": "2026-09-15T21:45:07Z",
+      "titleJa": "市場の下落に伴って ASML (ASML) が上昇: 知っておくべきこと",
       "relevant": true
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "5 Top AI Stocks to Buy on the Dip as Slowdown Fears Hit Markets",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/5-top-ai-stocks-buy-203700535.html",
-      "time": "2026-09-14T20:37:00Z",
-      "titleJa": "景気減速懸念が市場を襲う中、下落局面で買うべき上位AI株5銘柄",
+      "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
+      "time": "2026-09-15T20:38:46Z",
+      "titleJa": "ダウ・ジョーンズ・テック、タイタン・アップル、エヌビディア・チップメーカー、TSMC、AMD、ブルーム・エナジーが買いゾーンまたは買いゾーンに近い",
+      "relevant": true
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Samsung turns Tim Cook into its latest marketing weapon",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/samsung-tim-cook-latest-marketing-weapon-galaxy-z-fold-8",
+      "time": "2026-09-15T20:33:00Z",
+      "titleJa": "サムスンはティム・クックを最新のマーケティング武器に変える",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Nvidia, Coinbase, Skyworks, Axon, Tesla, Applied Aerospace, and More Stocks That Explain Today’s Market",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stock-movers-bb7c16dd?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-15T20:28:00Z",
+      "titleJa": "Nvidia、Coinbase、Skyworks、Axon、Tesla、Applied Aerospace など、今日の市場を説明する銘柄",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "There Is One Thing ASML’s $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse.",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/15/there-is-one-thing-asmls-400-million-machine-still-cannot-do-ai-chips-keep-making-it-worse/",
+      "time": "2026-09-15T20:00:37Z",
+      "titleJa": "ASML の 4 億ドルのマシンでもまだできないことが 1 つあります。 AIチップが事態を悪化させ続ける。",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Western Digital Falls 4% Despite Its AI Storage Pitch; Seagate Drops 5%, Micron Holds Steady",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/15/western-digital-falls-4-despite-its-ai-storage-pitch-seagate-drops-5-micron-holds-steady/",
+      "time": "2026-09-15T17:52:10Z",
+      "titleJa": "Western Digital は AI ストレージの売り込みにも関わらず 4% 下落。シーゲイトは5%下落、マイクロンは堅調",
+      "relevant": false
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Generate Capital Closes $117-Million in Financing for Community Solar",
+      "publisher": "POWER Magazine",
+      "link": "https://www.powermag.com/generate-capital-closes-117-million-in-financing-for-community-solar/",
+      "time": "2026-09-15T16:26:55Z",
+      "titleJa": "Generate Capital、コミュニティ太陽光発電向けに1億1,700万ドルの資金調達を完了",
       "relevant": false
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Samsung Stock Falls as $18.7 Billion Power Proposal Highlights AI Infrastructure Costs",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-stock-falls-18-7-190452708.html",
-      "time": "2026-09-14T19:04:52Z",
-      "titleJa": "187億ドルの電力提案でAIインフラコストが浮き彫りになり、サムスン株下落",
+      "title": "It’s All About the GPUs — 70% of Nvidia’s AI Supercomputer Cost Goes to Vera Rubin Chips",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/15/its-all-about-the-gpus-70-of-nvidias-ai-supercomputer-cost-goes-to-vera-rubin-chips/",
+      "time": "2026-09-15T16:09:32Z",
+      "titleJa": "重要なのは GPU です — Nvidia の AI スーパーコンピューターのコストの 70% が Vera Rubin チップに当てられます",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "Former Mossad Chief, Yossi Cohen, Strategic Advisor to SoftBank, Joins Quantum X Labs as President of Scientific Advisory Board",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/business/others/former-mossad-chief-yossi-cohen-strategic-advisor-to-soft-bank-joins-quantum-x-labs-as-president-of-scientific-advisory-board/cZtnWyvRBcS",
+      "time": "2026-09-15T15:54:49Z",
+      "titleJa": "元モサド長官、ソフトバンク戦略顧問ヨッシ・コーエン氏が科学諮問委員会会長として量子X研究所に加わる",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "What Stops the AI Memory Boom? It Might Have Nothing to Do With Chips.",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/15/what-stops-the-ai-memory-boom-it-might-have-nothing-to-do-with-chips/",
+      "time": "2026-09-15T15:12:26Z",
+      "titleJa": "AIメモリブームを止めるものは何でしょうか?チップとは関係ないかもしれません。",
       "relevant": false
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "Samsung Stock Falls as $18.7 Billion Power Proposal Highlights AI Infrastructure Costs",
+      "title": "What Stops the AI Memory Boom? It Might Have Nothing to Do With Chips.",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/15/what-stops-the-ai-memory-boom-it-might-have-nothing-to-do-with-chips/",
+      "time": "2026-09-15T15:12:26Z",
+      "titleJa": "AIメモリブームを止めるものは何でしょうか?チップとは関係ないかもしれません。",
+      "relevant": false
+    },
+    {
+      "ticker": "9432.T",
+      "company": "NTT",
+      "title": "Are Business Services Stocks Lagging  ENPRO INC (NPO) This Year?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/business-services-stocks-lagging-enpro-134005423.html",
+      "time": "2026-09-15T13:40:05Z",
+      "titleJa": "今年のビジネスサービス株は出遅れているのか ENPRO INC (NPO法人)",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "SoftBank Raises Stakes in Its Biggest AI Bet",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-stock-falls-18-7-190452708.html",
-      "time": "2026-09-14T19:04:52Z",
-      "titleJa": "187億ドルの電力提案でAIインフラコストが浮き彫りになり、サムスン株下落",
+      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-raises-stakes-biggest-ai-122124347.html",
+      "time": "2026-09-15T12:21:24Z",
+      "titleJa": "ソフトバンク、AIへの最大の賭けへの出資を募る",
       "relevant": true
     },
     {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "ASML Drops 5.4% as Customers Prepare for $400 Million Machines",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-drops-5-4-customers-181746176.html",
-      "time": "2026-09-14T18:17:46Z",
-      "titleJa": "ASMLは5.4%下落、顧客は4億ドルのマシンを準備中",
-      "relevant": false
+      "ticker": "285A.T",
+      "company": "キオクシア",
+      "title": "Watch Out SKHY, MU, SNDK: Japan’s Kioxia Reportedly Eyes $10B US Listing To Ride AI Memory Boom",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/watch-out-skhy-mu-sndk-japan-s-kioxia-reportedly-eyes-10-b-us-listing-to-ride-ai-memory-boom/cZtnTCxRBTA",
+      "time": "2026-09-15T07:48:52Z",
+      "titleJa": "SKHY、MU、SNDKに注目：日本のキオクシアはAIメモリブームに乗って100億ドルの米国上場を目指していると伝えられている",
+      "relevant": true
     },
     {
       "ticker": "6857.T",
@@ -312,16 +342,6 @@
       "relevant": false
     },
     {
-      "ticker": "285A.T",
-      "company": "キオクシア",
-      "title": "European Indexes Rise as Banks Gain, Software Stocks Fall",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-stocks-abb86523?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-11T07:26:00Z",
-      "titleJa": "銀行株が上昇する中、欧州指数は上昇、ソフトウェア株は下落",
-      "relevant": false
-    },
-    {
       "ticker": "6501.T",
       "company": "日立製作所",
       "title": "Best Momentum Stock to Buy for September 10th",
@@ -340,26 +360,6 @@
       "time": "2026-09-10T11:00:00Z",
       "titleJa": "ウォール街で人気の AI スタートアップが資産管理に照準を合わせる",
       "relevant": false
-    },
-    {
-      "ticker": "2914.T",
-      "company": "日本たばこ産業",
-      "title": "Is Bunzl (BZLFY) Outperforming Other Consumer Staples Stocks This Year?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bunzl-bzlfy-outperforming-other-consumer-195427328.html",
-      "time": "2026-09-09T19:54:27Z",
-      "titleJa": "ブンツル (BZLFY) は今年、他の消費者必需品株をアウトパフォームしているでしょうか?",
-      "relevant": false
-    },
-    {
-      "ticker": "6501.T",
-      "company": "日立製作所",
-      "title": "The Zacks Analyst Blog Highlights Oracle, Hitachi, Interactive Brokers and Siemens Energy AG",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oracle-142500997.html",
-      "time": "2026-09-09T14:25:00Z",
-      "titleJa": "ザックス・アナリスト・ブログは、Oracle、Hitachi、Interactive Brokers、Siemens Energy AG をハイライトしています。",
-      "relevant": true
     }
   ]
 }

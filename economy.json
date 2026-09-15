@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Tech stocks slump after AI execs call for industry slowdown",
-      "publisher": "CBS News",
-      "link": "https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/",
-      "time": "2026-09-14T22:50:30Z",
-      "titleJa": "AI幹部が業界の減速を訴えたことでハイテク株が下落"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
+      "title": "Dow Jones Futures Rise; ServiceNow, Twilio Lead New Buys As Fed Hike Looms",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-micron-sandisk-ai-warning-fed-rate-hike/?src=A00220&yptr=yahoo",
-      "time": "2026-09-14T22:29:28Z",
-      "titleJa": "ダウ・ジョーンズ先物：エヌビディア、マイクロン、サンディスクがAIへの恐怖に取り組む。 FRBの利上げが迫っている"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
+      "time": "2026-09-15T23:12:15Z",
+      "titleJa": "ダウジョーンズ先物は上昇。 FRB利上げが迫る中、ServiceNow、Twilioが新規買いを主導"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The 3 Best Dividend ETFs to Build Lasting Retirement Income in 2027",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/09/14/the-3-best-dividend-etfs-to-build-lasting-retirement-income-in-2027/",
-      "time": "2026-09-14T22:25:45Z",
-      "titleJa": "2027 年に持続的な退職所得を構築するためのベスト 3 つの配当 ETF"
+      "title": "VanEck Pharmaceutical ETF vs VanEck Biotech ETF: Which Fund Is Better for Drug Innovation Profits?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/etfs/2026/09/15/vaneck-pharmaceutical-etf-vs-vaneck-biotech-etf-which-fund-is-better-for-drug-innovation-profits/",
+      "time": "2026-09-15T23:04:01Z",
+      "titleJa": "VanEck Pharmaceutical ETF vs VanEck Biotech ETF: 創薬利益にとってどちらのファンドが優れていますか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Akamai Technologies (AKAM) Suffers a Larger Drop Than the General Market: Key Insights",
+      "title": "What Growth Are You Paying For In Zscaler Stock?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/615398/what-growth-are-you-paying-for-in-zscaler-stock/2026-09-15",
+      "time": "2026-09-15T22:20:07Z",
+      "titleJa": "ゼットスケーラー株のどのような成長にお金を払っていますか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "VirTra, Inc. (VTSI) Falls More Steeply Than Broader Market: What Investors Need to Know",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/akamai-technologies-akam-suffers-larger-221505977.html",
-      "time": "2026-09-14T22:15:05Z",
-      "titleJa": "アカマイ・テクノロジーズ (AKAM) は一般市場よりも大きな下落に見舞われる: 重要な洞察"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/virtra-inc-vtsi-falls-more-221505484.html",
+      "time": "2026-09-15T22:15:05Z",
+      "titleJa": "VirTra, Inc. (VTSI) は市場全体よりもさらに急落: 投資家が知っておくべきこと"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why the Market Dipped But Astrazeneca (AZN) Gained Today",
+      "title": "Ralph Lauren (RL) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-astrazeneca-azn-221504901.html",
-      "time": "2026-09-14T22:15:04Z",
-      "titleJa": "市場が下落したのに今日アストラゼネカ (AZN) が上昇した理由"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-rl-sees-more-221505650.html",
+      "time": "2026-09-15T22:15:05Z",
+      "titleJa": "ラルフ ローレン (共和党) は市場全体よりも大幅な落ち込みが見られる: 知っておくべきいくつかの事実"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "BlackRock (BLK) Declines More Than Market: Some Information for Investors",
+      "title": "Rocket Lab Corporation (RKLB) Advances While Market Declines: Some Information for Investors",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-declines-more-market-221504357.html",
-      "time": "2026-09-14T22:15:04Z",
-      "titleJa": "ブラックロック (BLK) は市場以上に下落: 投資家向けの情報"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-advances-221505764.html",
+      "time": "2026-09-15T22:15:05Z",
+      "titleJa": "Rocket Lab Corporation (RKLB) は市場が下落する中、前進: 投資家向けの情報"
     }
   ]
 }
