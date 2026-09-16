@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Rise; ServiceNow, Twilio Lead New Buys As Fed Hike Looms",
+      "title": "Dow Jones Futures: S&P 500 Falls After Fed Rate Hike, Hawkish Warsh; Trump Fumes As AMD, Bloom Energy Lead Stocks To Watch",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
-      "time": "2026-09-15T23:12:15Z",
-      "titleJa": "ダウジョーンズ先物は上昇。 FRB利上げが迫る中、ServiceNow、Twilioが新規買いを主導"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
+      "time": "2026-09-16T23:12:14Z",
+      "titleJa": "Dow Jones Futures: S&P 500 Falls After Fed Rate Hike, Hawkish Warsh; Trump Fumes As AMD, Bloom Energy Lead Stocks To Watch"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "VanEck Pharmaceutical ETF vs VanEck Biotech ETF: Which Fund Is Better for Drug Innovation Profits?",
+      "title": "Why J.B. Hunt Stock Dropped Today",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/etfs/2026/09/15/vaneck-pharmaceutical-etf-vs-vaneck-biotech-etf-which-fund-is-better-for-drug-innovation-profits/",
-      "time": "2026-09-15T23:04:01Z",
-      "titleJa": "VanEck Pharmaceutical ETF vs VanEck Biotech ETF: 創薬利益にとってどちらのファンドが優れていますか?"
+      "link": "https://www.fool.com/investing/2026/09/16/why-jb-hunt-stock-dropped-today/",
+      "time": "2026-09-16T22:33:44Z",
+      "titleJa": "Why J.B. Hunt Stock Dropped Today"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "What Growth Are You Paying For In Zscaler Stock?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/615398/what-growth-are-you-paying-for-in-zscaler-stock/2026-09-15",
-      "time": "2026-09-15T22:20:07Z",
-      "titleJa": "ゼットスケーラー株のどのような成長にお金を払っていますか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "VirTra, Inc. (VTSI) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "title": "TXO Partners LP (TXO) Declines More Than Market: Some Information for Investors",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/virtra-inc-vtsi-falls-more-221505484.html",
-      "time": "2026-09-15T22:15:05Z",
-      "titleJa": "VirTra, Inc. (VTSI) は市場全体よりもさらに急落: 投資家が知っておくべきこと"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/txo-partners-lp-txo-declines-221504118.html",
+      "time": "2026-09-16T22:15:04Z",
+      "titleJa": "TXO Partners LP (TXO) Declines More Than Market: Some Information for Investors"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Ralph Lauren (RL) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "title": "Ginkgo Bioworks Holdings, Inc. (DNA) Rises As Market Takes a Dip: Key Facts",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-rl-sees-more-221505650.html",
-      "time": "2026-09-15T22:15:05Z",
-      "titleJa": "ラルフ ローレン (共和党) は市場全体よりも大幅な落ち込みが見られる: 知っておくべきいくつかの事実"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ginkgo-bioworks-holdings-inc-dna-221503724.html",
+      "time": "2026-09-16T22:15:03Z",
+      "titleJa": "Ginkgo Bioworks Holdings, Inc. (DNA) Rises As Market Takes a Dip: Key Facts"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Rocket Lab Corporation (RKLB) Advances While Market Declines: Some Information for Investors",
+      "title": "Crescent Energy (CRGY) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-advances-221505764.html",
-      "time": "2026-09-15T22:15:05Z",
-      "titleJa": "Rocket Lab Corporation (RKLB) は市場が下落する中、前進: 投資家向けの情報"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-sees-more-221503518.html",
+      "time": "2026-09-16T22:15:03Z",
+      "titleJa": "Crescent Energy (CRGY) Sees a More Significant Dip Than Broader Market: Some Facts to Know"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Halliburton (HAL) Dips More Than Broader Market: What You Should Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-dips-more-broader-221503382.html",
+      "time": "2026-09-16T22:15:03Z",
+      "titleJa": "Halliburton (HAL) Dips More Than Broader Market: What You Should Know"
     }
   ]
 }
