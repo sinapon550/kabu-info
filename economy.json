@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: S&P 500 Falls After Fed Rate Hike, Hawkish Warsh; Trump Fumes As AMD, Bloom Energy Lead Stocks To Watch",
+      "title": "Dow Jones Futures Fall After S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
-      "time": "2026-09-16T23:12:14Z",
-      "titleJa": "Dow Jones Futures: S&P 500 Falls After Fed Rate Hike, Hawkish Warsh; Trump Fumes As AMD, Bloom Energy Lead Stocks To Watch"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-moderna-amd-spacex-buy-signals/?src=A00220&yptr=yahoo",
+      "time": "2026-09-17T23:10:40Z",
+      "titleJa": "S&P 500の後にダウジョーンズ先物は下落、ナスダックは基準値を上回る反発。 Moderna、AMD、SpaceX のフラッシュ購入シグナル"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why J.B. Hunt Stock Dropped Today",
+      "title": "Why Was Micron Technology Stock Up Today?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/16/why-jb-hunt-stock-dropped-today/",
-      "time": "2026-09-16T22:33:44Z",
-      "titleJa": "Why J.B. Hunt Stock Dropped Today"
+      "link": "https://www.fool.com/investing/2026/09/17/why-was-micron-technology-stock-up-today/",
+      "time": "2026-09-17T23:00:03Z",
+      "titleJa": "なぜ今日マイクロンテクノロジーの在庫があったのですか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "TXO Partners LP (TXO) Declines More Than Market: Some Information for Investors",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/txo-partners-lp-txo-declines-221504118.html",
-      "time": "2026-09-16T22:15:04Z",
-      "titleJa": "TXO Partners LP (TXO) Declines More Than Market: Some Information for Investors"
+      "title": "How much to invest in Ford stock to earn $500 in annual dividends",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/stocks/ford-dividend-stock-how-much-to-invest-500-annual-income",
+      "time": "2026-09-17T23:00:00Z",
+      "titleJa": "年間配当金500ドルを得るにはフォード株にいくら投資すべきか"
+    },
+    {
+      "ticker": "JPY=X",
+      "company": "経済",
+      "title": "Bank of Japan set to raise interest rates to 31-year high",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/economy/policy/articles/bank-japan-set-raise-interest-220332298.html",
+      "time": "2026-09-17T22:40:04Z",
+      "titleJa": "日銀、金利を31年ぶりの高水準に引き上げる"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Ginkgo Bioworks Holdings, Inc. (DNA) Rises As Market Takes a Dip: Key Facts",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ginkgo-bioworks-holdings-inc-dna-221503724.html",
-      "time": "2026-09-16T22:15:03Z",
-      "titleJa": "Ginkgo Bioworks Holdings, Inc. (DNA) Rises As Market Takes a Dip: Key Facts"
+      "title": "Prediction: A $5,000 Investment Split Between Micron and Sandisk Will Triple Before 2028",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/17/prediction-a-5000-investment-split-between-micron/",
+      "time": "2026-09-17T22:31:00Z",
+      "titleJa": "予測: マイクロンとサンディスクの 5,000 ドルの投資分割は 2028 年までに 3 倍になる"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Crescent Energy (CRGY) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-sees-more-221503518.html",
-      "time": "2026-09-16T22:15:03Z",
-      "titleJa": "Crescent Energy (CRGY) Sees a More Significant Dip Than Broader Market: Some Facts to Know"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Halliburton (HAL) Dips More Than Broader Market: What You Should Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-dips-more-broader-221503382.html",
-      "time": "2026-09-16T22:15:03Z",
-      "titleJa": "Halliburton (HAL) Dips More Than Broader Market: What You Should Know"
+      "title": "S&P 500, Nasdaq, Dow End Higher As Drop In Oil Prices Allays Inflationary Concerns — NVDA, MCD, CRWV, LMT, AMZN In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-higher-amid-drop-in-oil-prices/cZtscNsRBdY",
+      "time": "2026-09-17T22:22:14Z",
+      "titleJa": "原油価格の下落でインフレ懸念が和らぎ、S&P 500、ナスダック、ダ​​ウエンドは上昇 — NVDA、MCD、CRWV、LMT、AMZNが注目"
     }
   ]
 }
