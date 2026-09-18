@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Fall After S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
+      "title": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-moderna-amd-spacex-buy-signals/?src=A00220&yptr=yahoo",
-      "time": "2026-09-17T23:10:40Z",
-      "titleJa": "S&P 500の後にダウジョーンズ先物は下落、ナスダックは基準値を上回る反発。 Moderna、AMD、SpaceX のフラッシュ購入シグナル"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+      "time": "2026-09-18T22:40:21Z",
+      "titleJa": "ダウジョーンズ先物：市場は依然として不安定。ロビンフッド、サンディスク、AMD、モデルナが購買領域に急増"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why Was Micron Technology Stock Up Today?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/17/why-was-micron-technology-stock-up-today/",
-      "time": "2026-09-17T23:00:03Z",
-      "titleJa": "なぜ今日マイクロンテクノロジーの在庫があったのですか?"
+      "title": "Annaly Capital Management (NLY) Stock Sinks As Market Gains: Here's Why",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-nly-stock-221503015.html",
+      "time": "2026-09-18T22:15:03Z",
+      "titleJa": "アナリー・キャピタル・マネジメント（NLY）の株価が市場上昇に伴って下落: その理由は次のとおりです。"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "How much to invest in Ford stock to earn $500 in annual dividends",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/ford-dividend-stock-how-much-to-invest-500-annual-income",
-      "time": "2026-09-17T23:00:00Z",
-      "titleJa": "年間配当金500ドルを得るにはフォード株にいくら投資すべきか"
-    },
-    {
-      "ticker": "JPY=X",
-      "company": "経済",
-      "title": "Bank of Japan set to raise interest rates to 31-year high",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/economy/policy/articles/bank-japan-set-raise-interest-220332298.html",
-      "time": "2026-09-17T22:40:04Z",
-      "titleJa": "日銀、金利を31年ぶりの高水準に引き上げる"
+      "title": "SolarEdge Technologies (SEDG) Stock Dips While Market Gains: Key Facts",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-sedg-stock-dips-221503239.html",
+      "time": "2026-09-18T22:15:03Z",
+      "titleJa": "ソーラーエッジ・テクノロジーズ（SEDG）の株価は下落、市場は上昇：重要な事実"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Prediction: A $5,000 Investment Split Between Micron and Sandisk Will Triple Before 2028",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/17/prediction-a-5000-investment-split-between-micron/",
-      "time": "2026-09-17T22:31:00Z",
-      "titleJa": "予測: マイクロンとサンディスクの 5,000 ドルの投資分割は 2028 年までに 3 倍になる"
+      "title": "Innovative Industrial Properties (IIPR) Stock Sinks As Market Gains: Here's Why",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-iipr-stock-221503611.html",
+      "time": "2026-09-18T22:15:03Z",
+      "titleJa": "市場が上昇するにつれて革新的工業所有権 (IIPR) 株が下落: その理由は次のとおりです"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "S&P 500, Nasdaq, Dow End Higher As Drop In Oil Prices Allays Inflationary Concerns — NVDA, MCD, CRWV, LMT, AMZN In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-higher-amid-drop-in-oil-prices/cZtscNsRBdY",
-      "time": "2026-09-17T22:22:14Z",
-      "titleJa": "原油価格の下落でインフレ懸念が和らぎ、S&P 500、ナスダック、ダ​​ウエンドは上昇 — NVDA、MCD、CRWV、LMT、AMZNが注目"
+      "title": "Jabil (JBL) Rises Higher Than Market: Key Facts",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jabil-jbl-rises-higher-market-221503483.html",
+      "time": "2026-09-18T22:15:03Z",
+      "titleJa": "ジャビル (JBL) が市場を上回る上昇: 重要な事実"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "PagSeguro Digital Ltd. (PAGS) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pagseguro-digital-ltd-pags-stock-221503519.html",
+      "time": "2026-09-18T22:15:03Z",
+      "titleJa": "PagSeuro Digital Ltd. (PAGS) 市場上昇の中で株価下落: 投資家が知っておくべきこと"
     }
   ]
 }

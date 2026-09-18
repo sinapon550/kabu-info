@@ -1,94 +1,244 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "items": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "title": "Why Was Micron Technology Stock Up Today?",
+      "title": "Why Wendy's Stock Flopped on Friday",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/17/why-was-micron-technology-stock-up-today/",
-      "time": "2026-09-17T23:00:03Z",
-      "titleJa": "なぜ今日マイクロンテクノロジーの在庫があったのですか?",
+      "link": "https://www.fool.com/investing/2026/09/18/why-wendys-stock-flopped-on-friday/",
+      "time": "2026-09-18T22:41:54Z",
+      "titleJa": "金曜日にウェンディーズの株価が暴落した理由",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+      "time": "2026-09-18T22:40:21Z",
+      "titleJa": "ダウジョーンズ先物：市場は依然として不安定。ロビンフッド、サンディスク、AMD、モデルナが購買領域に急増",
+      "relevant": true
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "IONQ Stock Surges On Tech Wins, But The Heavy Burn Persists",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/615831/ionq-stock-surges-on-tech-wins-but-the-heavy-burn-persists/2026-09-18",
+      "time": "2026-09-18T22:37:35Z",
+      "titleJa": "IONQ株はハイテク勝利で急騰、しかし深刻な火傷は続く",
       "relevant": false
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Why Was Micron Technology Stock Up Today?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/17/why-was-micron-technology-stock-up-today/",
-      "time": "2026-09-17T23:00:03Z",
-      "titleJa": "なぜ今日マイクロンテクノロジーの在庫があったのですか?",
-      "relevant": true
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "China's Homegrown AI Chip Push Just Got Faster. Is This a Real Threat to Nvidia?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/17/chinas-homegrown-ai-chip-push-just-got-faster-is-this-a-real-threat-to-nvidia/",
-      "time": "2026-09-17T23:00:01Z",
-      "titleJa": "中国国産 AI チップの推進がさらに加速。これは Nvidia にとって本当の脅威ですか?",
+      "title": "Q3 Earnings Season Preview: What Can Investors Expect?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-season-preview-investors-223700771.html",
+      "time": "2026-09-18T22:37:00Z",
+      "titleJa": "第 3 四半期決算シーズンのプレビュー: 投資家は何を期待できますか?",
       "relevant": true
     },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Prediction: A $5,000 Investment Split Between Micron and Sandisk Will Triple Before 2028",
+      "title": "Micron Turned $10,000 Into About $130,000 in 5 Years. Most of It Came in the Past 12 Months.",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/17/prediction-a-5000-investment-split-between-micron/",
-      "time": "2026-09-17T22:31:00Z",
-      "titleJa": "予測: マイクロンとサンディスクの 5,000 ドルの投資分割は 2028 年までに 3 倍になる",
+      "link": "https://www.fool.com/investing/2026/09/18/micron-turned-usd10-000-into-about-usd130-000-in-5-years-most-of-it-came-in-the-past-12-months/",
+      "time": "2026-09-18T21:51:01Z",
+      "titleJa": "マイクロンは 10,000 ドルを 5 年間で約 130,000 ドルに変えました。そのほとんどは過去 12 か月以内に発生したものです。",
+      "relevant": true
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "TSMC (TSM) Beats Stock Market Upswing: What Investors Need to Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-beats-stock-market-214505465.html",
+      "time": "2026-09-18T21:45:05Z",
+      "titleJa": "TSMC (TSM) が株式市場の上昇を打ち負かす: 投資家が知っておくべきこと",
       "relevant": true
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Prediction: A $5,000 Investment Split Between Micron and Sandisk Will Triple Before 2028",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/17/prediction-a-5000-investment-split-between-micron/",
-      "time": "2026-09-17T22:31:00Z",
-      "titleJa": "予測: マイクロンとサンディスクの 5,000 ドルの投資分割は 2028 年までに 3 倍になる",
+      "title": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
+      "time": "2026-09-18T20:57:21Z",
+      "titleJa": "今日の株式市場：ナスダック、S&Pリバースはわずかに上昇。サンディスクとルメンタムがこのテクノロジーラリーをリード",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Intel vs. SK Hynix: Which Chip Stock Is Worth Chasing After This Week's Surge?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-sk-hynix-chip-191000596.html",
+      "time": "2026-09-18T19:10:00Z",
+      "titleJa": "Intel vs. SK Hynix: 今週の急騰の後を追う価値のあるチップ株はどれか?",
       "relevant": true
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "Salesforce CEO warns AI companies not to repeat this costly mistake",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/crm-salesforce-ceo-marc-benioff-warns-ai-companies-not-to-repeat-social-medias-mistakes",
-      "time": "2026-09-17T22:17:00Z",
-      "titleJa": "Salesforce CEO、AI企業にこの高くつく過ちを繰り返さないよう警告",
-      "relevant": true
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/09/17/500000-split-between-voo-and-qqq-owns-the-same-seven-stocks-twice-and-nobody-adds-up-the-overlap/",
-      "time": "2026-09-17T22:15:09Z",
-      "titleJa": "VOO と QQQ で 50 万ドルを分割、同じ 7 株を 2 回所有、誰も重複額を加算しない",
+      "title": "This Little-Known Chip Stock Has Doubled. Wall Street Is Getting Bullish.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/macom-stock-bmo-upgrade-ai-chips-f0be4a1d?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-18T17:47:00Z",
+      "titleJa": "このあまり知られていないチップの在庫は 2 倍になりました。ウォール街は強気になっている。",
       "relevant": false
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Stock Market Today, Sept. 17: Intel Surges 8% on Rumored SK Hynix Talks",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/17/stock-market-today-sept-17-intel-surges-8-on-rumored-sk-hynix-talks/",
-      "time": "2026-09-17T21:40:43Z",
-      "titleJa": "今日の株式市場、9月17日：噂のSKハイニックス会談でインテルが8％急騰",
+      "title": "Micron Faces Growing China Threat. It’s a Bigger Problem for Memory-Chip Rivals.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-memory-chips-china-573a7f1d?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-18T17:36:00Z",
+      "titleJa": "マイクロン、増大する中国の脅威に直面。これはメモリチップのライバルにとってさらに大きな問題だ。",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Micron Faces Growing China Threat. It’s a Bigger Problem for Memory-Chip Rivals.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-memory-chips-china-573a7f1d?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-18T17:36:00Z",
+      "titleJa": "マイクロン、増大する中国の脅威に直面。これはメモリチップのライバルにとってさらに大きな問題だ。",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Why XLK’s Next Rebalance Won’t Fix Its Massive Concentration Problem",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/09/18/why-xlks-next-rebalance-wont-fix-its-massive-concentration-problem/",
+      "time": "2026-09-18T17:25:40Z",
+      "titleJa": "XLKの次のリバランスでは大規模な集中問題が解決しない理由",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "KLAC Gains From AI Infrastructure: Can It Outpace AMAT & ASML?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/klac-gains-ai-infrastructure-outpace-171800151.html",
+      "time": "2026-09-18T17:18:00Z",
+      "titleJa": "KLAC は AI インフラストラクチャから利益を得る: AMAT および ASML を上回ることができるか?",
+      "relevant": true
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "OpenAI Exposure Adds a Twist to $50 Billion IPO",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-exposure-adds-twist-50-165300112.html",
+      "time": "2026-09-18T16:53:00Z",
+      "titleJa": "OpenAIの公開で500億ドルのIPOに一工夫",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Can GFS' Marvell Deal for SiGe Capacity Expansion Accelerate Growth?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/technology/articles/gfs-marvell-deal-sige-capacity-151900054.html",
+      "time": "2026-09-18T15:19:00Z",
+      "titleJa": "GFS のマーベルによる SiGe 容量拡張で成長を加速できるか?",
+      "relevant": false
+    },
+    {
+      "ticker": "8306.T",
+      "company": "三菱UFJ",
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading; Up Marginally for Week",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144144656.html",
+      "time": "2026-09-18T14:41:44Z",
+      "titleJa": "金曜日の取引で米国の預託金収入が減少したため、米国でアジア株が取引された。今週はわずかに上昇",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "KCHP’s 0.65% Fee Is Steep, but Only If You Already Own EWY",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-kchp/",
+      "time": "2026-09-18T14:40:48Z",
+      "titleJa": "KCHPの0.65%手数料は高額ですが、それはすでにEWYを所有している場合に限ります",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Eisman Says Buy Micron And SK Hynix. “In This Knife Fight You Want To Be The One Selling The Knives”",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/18/eisman-says-buy-micron-and-sk-hynix-in-this-knife-fight-you-want-to-be-the-one-selling-the-knives/",
+      "time": "2026-09-18T14:38:52Z",
+      "titleJa": "アイスマン氏はマイクロンとSKハイニックスを買収すると言う。 「このナイフの戦いでは、あなたはナイフを売る人になりたいのです。」",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "SoftBank's AI spending spree now carries a $25 billion twist",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/softbanks-ai-spending-spree-now-140215998.html",
+      "time": "2026-09-18T14:02:15Z",
+      "titleJa": "ソフトバンクのAI支出は250億ドルにまで拡大",
+      "relevant": true
+    },
+    {
+      "ticker": "6861.T",
+      "company": "キーエンス",
+      "title": "Is Enersys (ENS) Outperforming Other Industrial Products Stocks This Year?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/enersys-ens-outperforming-other-industrial-134003119.html",
+      "time": "2026-09-18T13:40:03Z",
+      "titleJa": "今年、エナシス（ENS）は他の工業製品株をアウトパフォームするのか？",
+      "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Honda invests in US-based rare-earth-free magnet company",
+      "publisher": "Just Auto",
+      "link": "https://www.just-auto.com/news/honda-invests-in-us-based-rare-earth-free-magnet-company/",
+      "time": "2026-09-18T11:49:07Z",
+      "titleJa": "ホンダ、米国のレアアースフリー磁石会社に出資",
+      "relevant": true
+    },
+    {
+      "ticker": "6920.T",
+      "company": "レーザーテック",
+      "title": "Tech Rally, Easing Oil Prices Lift Asian Stock Markets",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-rally-easing-oil-prices-104158962.html",
+      "time": "2026-09-18T10:41:58Z",
+      "titleJa": "ハイテクラリー、原油価格緩和でアジア株式市場上昇",
+      "relevant": false
+    },
+    {
+      "ticker": "6501.T",
+      "company": "日立製作所",
+      "title": "Manufacturing output down in August; investments by Reckitt, Hitachi",
+      "publisher": "Manufacturing Dive",
+      "link": "https://www.manufacturingdive.com/news/reckitt-hitachi-energy-aricast-hovione-economic-warn-act-layoffs/830764/",
+      "time": "2026-09-18T09:36:07Z",
+      "titleJa": "8月の製造業生産は減少。レキット、日立による投資",
       "relevant": true
     },
     {
       "ticker": "6501.T",
       "company": "日立製作所",
-      "title": "Hitachi (TSE:6501) Is Up 5.7% After US Transformer Build-Out And Modular Data Center Tie-Up",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hitachi-tse-6501-5-7-211329075.html",
-      "time": "2026-09-17T21:13:29Z",
-      "titleJa": "日立 (東証:6501) は米国の変圧器増強とモジュラーデータセンター提携により 5.7% 上昇",
+      "title": "Hitachi to double US production of small and medium-sized power transformers",
+      "publisher": "Utility Dive",
+      "link": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/",
+      "time": "2026-09-18T08:42:36Z",
+      "titleJa": "日立、米国における中小型電源変圧器の生産を倍増へ",
       "relevant": true
     },
     {
@@ -102,113 +252,13 @@
       "relevant": false
     },
     {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "SpaceX Stock Rises Again. AI Demand Isn’t Slowing Down.",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/spacex-stock-price-ai-demand-a5e66ad2?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-17T20:28:00Z",
-      "titleJa": "SpaceX株が再び上昇。 AI の需要は衰えていない。",
-      "relevant": false
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Generac, Nebius, CoreWeave, Nokia, Lucid, Paramount, and More Stocks That Explain Today’s Market",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stock-movers-be111893?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-17T20:16:00Z",
-      "titleJa": "Generac、Nebius、CoreWeave、Nokia、Lucid、Paramount など、今日の市場を説明する銘柄",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "SoftBank Wants More Firepower For Its $64.6 Billion OpenAI Bet",
-      "publisher": "Benzinga Private Markets",
-      "link": "https://www.benzinga.com/markets/private-markets/26/09/61854473/softbank-wants-more-firepower-for-its-64-6-billion-openai-bet?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-      "time": "2026-09-17T19:11:24Z",
-      "titleJa": "ソフトバンクは646億ドルのOpenAIへの賭けでさらなる火力を求めている",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "ASML Gains 1.5% as 110 EUV Machines Test Assembly Speed",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-gains-1-5-110-183616992.html",
-      "time": "2026-09-17T18:36:16Z",
-      "titleJa": "ASML は 110 EUV マシンのテストアセンブリ速度により 1.5% 向上",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "TSMC Gains 1.65% as 2-Nanometer Phones Leave the Lab",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/technology/articles/tsmc-gains-1-65-2-182718646.html",
-      "time": "2026-09-17T18:27:18Z",
-      "titleJa": "2ナノメートル携帯電話が研究所から出荷され、TSMCは1.65%上昇",
-      "relevant": true
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "The Memory Shortage Is Not Over: More Upside for Micron and Sandisk?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/memory-shortage-not-over-more-180200318.html",
-      "time": "2026-09-17T18:02:00Z",
-      "titleJa": "メモリ不足はまだ終わっていない: Micron と Sandisk には更なる好材料?",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Sector Update: Financial Stocks Rise Thursday Afternoon",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-thursday-175753865.html",
-      "time": "2026-09-17T17:57:53Z",
-      "titleJa": "セクター最新情報: 木曜午後、金融株が上昇",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Chasing ASML’s Dominance: Canon and Nikon Are Doing Something The Market Misses",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/17/chasing-asmls-dominance-canon-and-nikon-are-doing-something-the-market-misses/",
-      "time": "2026-09-17T16:59:47Z",
-      "titleJa": "ASML の優位性を追う: キヤノンとニコンは市場が見逃していることに取り組んでいます",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "There’s a Good Reason to Choose GLOBALFOUNDRIES Over Taiwan Semiconductor Manufacturing",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/17/theres-a-good-reason-to-choose-globalfoundries-over-taiwan-semiconductor-manufacturing/",
-      "time": "2026-09-17T16:02:30Z",
-      "titleJa": "台湾半導体製造ではなく GLOBALFOUNDRIES を選ぶのには十分な理由があります",
-      "relevant": true
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "If Memory Chip Prices Fall, Here’s What Happens to the Korea Semiconductor ETF KCHP",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/09/17/what-to-watch-kchp/",
-      "time": "2026-09-17T14:40:35Z",
-      "titleJa": "If Memory Chip Prices Fall, Here’s What Happens to the Korea Semiconductor ETF KCHP",
-      "relevant": false
-    },
-    {
       "ticker": "7267.T",
       "company": "本田技研工業",
       "title": "Ford vs. Honda: Which Legacy Automaker is a Better Buy Now?",
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/ford-vs-honda-legacy-automaker-140900635.html",
       "time": "2026-09-17T14:09:00Z",
-      "titleJa": "フォード vs. ホンダ: 今買うのはどちらのレガシー自動車メーカーですか?",
+      "titleJa": "フォード vs. ホンダ: 今買うのはどちらのレガシー自動車メーカーでしょうか?",
       "relevant": true
     },
     {
@@ -232,16 +282,6 @@
       "relevant": false
     },
     {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Gold Slips as Investors Mull Rate Trajectory",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091726/card/gold-slips-as-investors-mull-rate-trajectory-2sislWyfE2NBqJSoxjFp?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-17T09:07:11Z",
-      "titleJa": "投資家がレートの軌道を検討する中、金が下落",
-      "relevant": false
-    },
-    {
       "ticker": "7011.T",
       "company": "三菱重工業",
       "title": "European Indexes Higher as Oil Falls Back",
@@ -250,16 +290,6 @@
       "time": "2026-09-17T07:21:00Z",
       "titleJa": "原油下落で欧州指数上昇",
       "relevant": false
-    },
-    {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Man, 30, is Worth More Than $50M But Still Takes The Train And Drives a Honda — The Only Luxury He Embraces Is 'Experiential Spend'",
-      "publisher": "Benzinga",
-      "link": "https://finance.yahoo.com/small-business/articles/man-30-worth-more-50m-230034238.html",
-      "time": "2026-09-16T23:00:34Z",
-      "titleJa": "30歳の男性、5,000万ドル以上の資産があるのに、電車に乗り、ホンダを運転する――彼が抱く唯一の贅沢は「体験的な支出」だ",
-      "relevant": true
     },
     {
       "ticker": "6981.T",
@@ -282,16 +312,6 @@
       "relevant": false
     },
     {
-      "ticker": "6501.T",
-      "company": "日立製作所",
-      "title": "How a Trade Deal With Japan Could Change the Face of U.S. Energy",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/natural-gas-energy-trump-japan-data-centers-22c7a2ed?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-16T14:46:00Z",
-      "titleJa": "日本との貿易協定は米国のエネルギーの様相をどのように変えることができるか",
-      "relevant": false
-    },
-    {
       "ticker": "9432.T",
       "company": "NTT",
       "title": "Are Business Services Stocks Lagging  ENPRO INC (NPO) This Year?",
@@ -308,7 +328,7 @@
       "publisher": "Stocktwits",
       "link": "https://stocktwits.com/news-articles/markets/equity/watch-out-skhy-mu-sndk-japan-s-kioxia-reportedly-eyes-10-b-us-listing-to-ride-ai-memory-boom/cZtnTCxRBTA",
       "time": "2026-09-15T07:48:52Z",
-      "titleJa": "SKHY、MU、SNDKに注目：日本のキオクシアはAIメモリブームに乗るために米国で100億ドルの上場を検討していると報じられている",
+      "titleJa": "SKHY、MU、SNDKに注目：日本のキオクシアはAIメモリブームに乗って100億ドルの米国上場を目指していると報じられている",
       "relevant": true
     },
     {
