@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "title": "The S&P 500 Yields Just 1.1% While 10-Year Treasury Yields Have Surged to 5%. This Dividend Stock Provides a Middle Ground for Long-Term Investors.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/19/the-sp-500-yields-just-11-while-10-year-treasury-y/",
+      "time": "2026-09-19T20:30:00Z",
+      "titleJa": "S&P 500の利回りはわずか1.1%だが、10年国債利回りは5%に急上昇している。この配当株は長期投資家に中間点を提供します。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Is Annaly Capital's 13% Dividend Safe Through a Full Rate Cycle?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/19/is-annaly-capitals-13-dividend-safe-through-a-full/",
+      "time": "2026-09-19T18:35:00Z",
+      "titleJa": "Annaly Capital の 13% 配当は全金利サイクルを通じて安全ですか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Netflix Content Chief Shrugs Off YouTube Threat: ‘Young People Only Watch Short Things’ Isn’t True",
+      "publisher": "Benzinga",
+      "link": "https://finance.yahoo.com/media-advertising/articles/netflix-content-chief-shrugs-off-183118185.html",
+      "time": "2026-09-19T18:31:18Z",
+      "titleJa": "Netflixコンテンツ責任者、YouTubeの脅威を無視：「若者は短いものしか見ない」は真実ではない"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "There Are Only a Handful of Nasdaq-100 Stocks That Yield Over 3%. Here's My Top Pick to Buy in September.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/19/there-are-only-a-handful-of-nasdaq-100-stocks-that/",
+      "time": "2026-09-19T16:35:00Z",
+      "titleJa": "ナスダック 100 銘柄の中で利回りが 3% を超える銘柄はほんの一握りです。 9月に買うべき私のトップピックは次のとおりです。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "time": "2026-09-18T22:40:21Z",
-      "titleJa": "ダウジョーンズ先物：市場は依然として不安定。ロビンフッド、サンディスク、AMD、モデルナが購買領域に急増"
+      "time": "2026-09-19T16:34:51Z",
+      "titleJa": "ダウ・ジョーンズ先物：市場の上昇は収まるのか？ロビンフッド、サンディスク、AMD、モデルナが購買領域に急増"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Annaly Capital Management (NLY) Stock Sinks As Market Gains: Here's Why",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-nly-stock-221503015.html",
-      "time": "2026-09-18T22:15:03Z",
-      "titleJa": "アナリー・キャピタル・マネジメント（NLY）の株価が市場上昇に伴って下落: その理由は次のとおりです。"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "SolarEdge Technologies (SEDG) Stock Dips While Market Gains: Key Facts",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-sedg-stock-dips-221503239.html",
-      "time": "2026-09-18T22:15:03Z",
-      "titleJa": "ソーラーエッジ・テクノロジーズ（SEDG）の株価は下落、市場は上昇：重要な事実"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Innovative Industrial Properties (IIPR) Stock Sinks As Market Gains: Here's Why",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-iipr-stock-221503611.html",
-      "time": "2026-09-18T22:15:03Z",
-      "titleJa": "市場が上昇するにつれて革新的工業所有権 (IIPR) 株が下落: その理由は次のとおりです"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Jabil (JBL) Rises Higher Than Market: Key Facts",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jabil-jbl-rises-higher-market-221503483.html",
-      "time": "2026-09-18T22:15:03Z",
-      "titleJa": "ジャビル (JBL) が市場を上回る上昇: 重要な事実"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "PagSeguro Digital Ltd. (PAGS) Stock Falls Amid Market Uptick: What Investors Need to Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pagseguro-digital-ltd-pags-stock-221503519.html",
-      "time": "2026-09-18T22:15:03Z",
-      "titleJa": "PagSeuro Digital Ltd. (PAGS) 市場上昇の中で株価下落: 投資家が知っておくべきこと"
+      "title": "Meta stock delivers a bold case for a $900 target",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/meta-stock-900-price-target-ai-ad-engine",
+      "time": "2026-09-19T16:17:00Z",
+      "titleJa": "メタ株は900ドルの目標に対して大胆な主張を展開"
     }
   ]
 }
