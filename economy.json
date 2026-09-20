@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The S&P 500 Yields Just 1.1% While 10-Year Treasury Yields Have Surged to 5%. This Dividend Stock Provides a Middle Ground for Long-Term Investors.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/19/the-sp-500-yields-just-11-while-10-year-treasury-y/",
-      "time": "2026-09-19T20:30:00Z",
-      "titleJa": "S&P 500の利回りはわずか1.1%だが、10年国債利回りは5%に急上昇している。この配当株は長期投資家に中間点を提供します。"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Is Annaly Capital's 13% Dividend Safe Through a Full Rate Cycle?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/19/is-annaly-capitals-13-dividend-safe-through-a-full/",
-      "time": "2026-09-19T18:35:00Z",
-      "titleJa": "Annaly Capital の 13% 配当は全金利サイクルを通じて安全ですか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Netflix Content Chief Shrugs Off YouTube Threat: ‘Young People Only Watch Short Things’ Isn’t True",
-      "publisher": "Benzinga",
-      "link": "https://finance.yahoo.com/media-advertising/articles/netflix-content-chief-shrugs-off-183118185.html",
-      "time": "2026-09-19T18:31:18Z",
-      "titleJa": "Netflixコンテンツ責任者、YouTubeの脅威を無視：「若者は短いものしか見ない」は真実ではない"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "There Are Only a Handful of Nasdaq-100 Stocks That Yield Over 3%. Here's My Top Pick to Buy in September.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/19/there-are-only-a-handful-of-nasdaq-100-stocks-that/",
-      "time": "2026-09-19T16:35:00Z",
-      "titleJa": "ナスダック 100 銘柄の中で利回りが 3% を超える銘柄はほんの一握りです。 9月に買うべき私のトップピックは次のとおりです。"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
       "publisher": "Investor's Business Daily",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "time": "2026-09-19T16:34:51Z",
-      "titleJa": "ダウ・ジョーンズ先物：市場の上昇は収まるのか？ロビンフッド、サンディスク、AMD、モデルナが購買領域に急増"
+      "time": "2026-09-20T22:47:12Z",
+      "titleJa": "ダウジョーンズ先物は上昇。市場は離陸できるか?ロビンフッド、サンディスク、AMD、モデルナが購買領域に急増"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Meta stock delivers a bold case for a $900 target",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/meta-stock-900-price-target-ai-ad-engine",
-      "time": "2026-09-19T16:17:00Z",
-      "titleJa": "メタ株は900ドルの目標に対して大胆な主張を展開"
+      "title": "Jefferies stays bullish on S&P 500, sees 9,000 by end-2027",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-stays-bullish-p-500-223344444.html",
+      "time": "2026-09-20T22:33:44Z",
+      "titleJa": "ジェフリーズはS&P 500指数に対して強気を維持、2027年末までに9,000指数に達すると予想"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Midterm elections: What do equity markets typically do and what is priced?",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/midterm-elections-equity-markets-typically-223114838.html",
+      "time": "2026-09-20T22:31:14Z",
+      "titleJa": "中間選挙: 株式市場は通常どのような動きをし、何が織り込まれているのでしょうか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Stock Futures Little Changed Ahead of Trump-Xi Meeting",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stock-futures-trading-sunday-91b66026?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-20T22:13:00Z",
+      "titleJa": "トランプ大統領と習氏の会談を前に株式先物はほとんど変化なし"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 Things You Need to Know Before Buying IonQ Stock",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/20/3-things-you-need-to-know-before-buying-ionq-stock/",
+      "time": "2026-09-20T22:11:00Z",
+      "titleJa": "IonQ 株を購入する前に知っておくべき 3 つのこと"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "The Stock Market's Best Quarter of the Year Is About to Start. The S&P 500 Has Risen in 34 of the Last 41.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/20/the-stock-market-s-best-quarter-of-the-year-is-about-to-start-the-s-and-p-500-has-risen-in-34-of-the-last-41/",
+      "time": "2026-09-20T21:44:01Z",
+      "titleJa": "株式市場にとって一年で最高の四半期がまもなく始まります。 S&P 500 は過去 41 銘柄中 34 銘柄で上昇しました。"
     }
   ]
 }
