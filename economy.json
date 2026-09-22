@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/trump-xi-summit-best-day/",
-      "time": "2026-09-21T23:20:00Z",
-      "titleJa": "トランプ氏と習氏、S&P500の8月初旬以来最高の日に会談：市場は強気を維持するか？"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Here Are Morgan Stanley's New Top Stock Picks For The Next 12-Months",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/here-are-morgan-stanley-s-new-top-stock-picks-for-the-next-12-months/cZMRDYdRBIV",
-      "time": "2026-09-21T23:18:38Z",
-      "titleJa": "今後12か月間のモルガン・スタンレーの新たな上位銘柄はこちら"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Jim Cramer drops another stock market warning",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/cramer-fed-rate-hike-fighting-fed-warning",
-      "time": "2026-09-21T23:00:00Z",
-      "titleJa": "ジム・クレイマー氏が株式市場に新たな警告を発する"
-    },
-    {
-      "ticker": "^DJI",
-      "company": "経済",
-      "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-amd-intel-micron-nvidia-sandisk/?src=A00220&yptr=yahoo",
-      "time": "2026-09-21T22:52:42Z",
-      "titleJa": "ダウ・ジョーンズ先物：原油価格の下落が市場の上昇を引き起こす。 AMD、インテル、マイクロン、エヌビディア、サンディスクが原動力となる"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "time": "2026-09-22T23:12:00Z",
+      "titleJa": "ダウジョーンズ先物：ナスダックが新高値を更新。サンディスク、マイクロントリガーの購入シグナル"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "As Wall Street Turns Suddenly Bullish, Questions Arise if Bitcoin Will Follow or Flop",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/bitcoin-btc-rally-stocks-question/",
-      "time": "2026-09-21T22:41:25Z",
-      "titleJa": "ウォール街が突然強気に転じる中、ビットコインも追随するのか暴落するのか疑問が生じる"
+      "title": "VTI’s 3,000 Extra Stocks Cost Holders $393,400 Per $500,000 Over the Past Decade",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/09/22/vtis-3000-extra-stocks-cost-holders-393400-per-500000-over-the-past-decade/",
+      "time": "2026-09-22T22:35:11Z",
+      "titleJa": "VTI の 3,000 株の追加株式のコスト保有者は、過去 10 年間で 500,000 ドルあたり 393,400 ドルを支払った"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons OMCL is Risky and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-omcl-risky-1-223825626.html",
-      "time": "2026-09-21T22:38:25Z",
-      "titleJa": "OMCL がリスクである 3 つの理由と、代わりに購入すべき 1 つの銘柄"
+      "title": "The Market Is Near Another All-Time High and You’re 66 With Cash to Invest. Buying Now Feels Like the Top. These 3 ETFs Are How You Get In Anyway",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/09/22/the-market-is-near-another-all-time-high-and-youre-66-with-cash-to-invest-buying-now-feels-like-the-top-these-3-etfs-are-how-you-get-in-anyway/",
+      "time": "2026-09-22T22:25:53Z",
+      "titleJa": "市場は再び最高値に近づいていますが、あなたは 66 歳で投資できる現金を持っています。今買うのがトップのような気がします。これら 3 つの ETF がとにかく参入する方法です"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Rocket Lab Corporation (RKLB) Stock Moves 2.99%: What You Should Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-stock-221507513.html",
+      "time": "2026-09-22T22:15:07Z",
+      "titleJa": "Rocket Lab Corporation (RKLB) の株価は 2.99% 上昇します: 知っておくべきこと"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "AST SpaceMobile, Inc. (ASTS) Stock Moves 2.91%: What You Should Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-inc-asts-stock-221506971.html",
+      "time": "2026-09-22T22:15:06Z",
+      "titleJa": "AST SpaceMobile, Inc. (ASTS) の株価は 2.91% 上昇: 知っておくべきこと"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Onto Innovation (ONTO) Stock Moves 2.84%: What You Should Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/onto-innovation-onto-stock-moves-221506750.html",
+      "time": "2026-09-22T22:15:06Z",
+      "titleJa": "オントゥ・イノベーション (ONTO) の株価は 2.84% 上昇: 知っておくべきこと"
     }
   ]
 }

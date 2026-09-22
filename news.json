@@ -1,155 +1,215 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "items": [
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "3 Stocks That Pay Dividends and Offer AI Exposure",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-pay-dividends-offer-233800366.html",
-      "time": "2026-09-21T23:38:00Z",
-      "titleJa": "配当を支払い、AI への露出を提供する 3 つの銘柄",
-      "relevant": true
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Shouldn't Miss What That Could Signal",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/21/johnson-johnson-may-offload-its-orthopedics-unit-f/",
-      "time": "2026-09-21T23:35:00Z",
-      "titleJa": "ジョンソン・エンド・ジョンソン、整形外科部門を200億ドルで売却の可能性―投資家はそれが示唆するものを見逃すべきではない",
-      "relevant": false
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "Why ServiceNow Stock Inched Higher on Monday",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/21/why-servicenow-stock-inched-higher-on-monday/",
-      "time": "2026-09-21T23:31:40Z",
-      "titleJa": "ServiceNowの株価が月曜日に少しずつ上昇した理由",
-      "relevant": false
-    },
     {
       "ticker": "MU",
       "company": "Micron",
-      "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-amd-intel-micron-nvidia-sandisk/?src=A00220&yptr=yahoo",
-      "time": "2026-09-21T22:52:42Z",
-      "titleJa": "ダウ・ジョーンズ先物：原油価格の下落が市場の上昇を引き起こす。 AMD、インテル、マイクロン、エヌビディア、サンディスクが原動力となる",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "time": "2026-09-22T23:12:00Z",
+      "titleJa": "ダウジョーンズ先物：ナスダックが新高値を更新。サンディスク、マイクロントリガーの購入シグナル",
       "relevant": true
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-amd-intel-micron-nvidia-sandisk/?src=A00220&yptr=yahoo",
-      "time": "2026-09-21T22:52:42Z",
-      "titleJa": "ダウ・ジョーンズ先物：原油価格の下落が市場の上昇を引き起こす。 AMD、インテル、マイクロン、エヌビディア、サンディスクが原動力となる",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "time": "2026-09-22T23:12:00Z",
+      "titleJa": "ダウジョーンズ先物：ナスダックが新高値を更新。サンディスク、マイクロントリガーの購入シグナル",
       "relevant": true
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "2 Beaten-Down Stocks to Buy Before They Bounce Back",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/22/2-beaten-down-stocks-to-buy-before-they-bounce-back/",
+      "time": "2026-09-22T22:53:01Z",
+      "titleJa": "反発する前に買うべき2つのボロボロ株",
+      "relevant": false
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Nvidia’s Cooling Stock Valuations Are Being Looked At As A Warning Signal",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-is-at-its-cheapest-in-more-than-a-decade-what-is-holding-nvidia-back/cZM5Ty5RB7K",
+      "time": "2026-09-22T22:45:19Z",
+      "titleJa": "Nvidiaの冷却関連株の評価額は警告信号とみなされている",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Micron's Memory Boom Is Facing a New Test",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/articles/microns-memory-boom-facing-test-222431132.html",
+      "time": "2026-09-22T22:24:31Z",
+      "titleJa": "マイクロンのメモリブームは新たな試練に直面している",
+      "relevant": true
+    },
+    {
+      "ticker": "000660.KS",
+      "company": "SKハイニックス",
+      "title": "Micron's Memory Boom Is Facing a New Test",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/articles/microns-memory-boom-facing-test-222431132.html",
+      "time": "2026-09-22T22:24:31Z",
+      "titleJa": "マイクロンのメモリブームは新たな試練に直面している",
+      "relevant": false
+    },
+    {
+      "ticker": "005930.KS",
+      "company": "サムスン電子",
+      "title": "Micron's Memory Boom Is Facing a New Test",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/articles/microns-memory-boom-facing-test-222431132.html",
+      "time": "2026-09-22T22:24:31Z",
+      "titleJa": "マイクロンのメモリブームは新たな試練に直面している",
+      "relevant": false
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "Nvidia Backed SB Energy’s $50 Billion Valuation Push. Wall Street Just Hit the Brakes",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-sb-energy-50-221736610.html",
+      "time": "2026-09-22T22:17:36Z",
+      "titleJa": "Nvidia は SB Energy の 500 億ドルの評価額の押し上げを支援しました。ウォール街はブレーキを踏むだけ",
+      "relevant": false
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "5-star analyst sets jaw-dropping price target on SanDisk stock",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/rosenblatt-sandisk-stock-price-target-sndk",
+      "time": "2026-09-22T21:33:00Z",
+      "titleJa": "五つ星アナリストがサンディスク株に驚くべき株価目標を設定",
+      "relevant": true
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "AMD Stock Just Sent a Huge AI Signal",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-stock-just-sent-huge-190755384.html",
+      "time": "2026-09-22T19:07:55Z",
+      "titleJa": "AMD株が巨大なAIシグナルを送信",
+      "relevant": false
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom",
+      "title": "Intel Is Up 25% in 5 Days. The $145 Price Target Just Moved Too",
       "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/21/3-chip-stocks-set-to-win-tsmcs-packaging-boom/",
-      "time": "2026-09-21T21:45:35Z",
-      "titleJa": "TSMCのパッケージングブームを勝ち取るための3つのチップ株",
-      "relevant": true
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Micron (MU) Beats Stock Market Upswing: What Investors Need to Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-beats-stock-market-214506765.html",
-      "time": "2026-09-21T21:45:06Z",
-      "titleJa": "マイクロン (MU) が株式市場の上昇を打ち負かす: 投資家が知っておくべきこと",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "ASML (ASML) Surpasses Market Returns: Some Facts Worth Knowing",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-asml-surpasses-market-returns-214505850.html",
-      "time": "2026-09-21T21:45:05Z",
-      "titleJa": "ASML (ASML) は市場リターンを上回る: 知っておく価値のあるいくつかの事実",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Top Stock Reports for Procter & Gamble, Sandisk & Analog Devices",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-procter-gamble-211000812.html",
-      "time": "2026-09-21T21:10:00Z",
-      "titleJa": "プロクター・アンド・ギャンブル、サンディスク、アナログ・デバイセズの上位株式レポート",
-      "relevant": true
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-6af76ecb?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-21T20:54:00Z",
-      "titleJa": "テクノロジー、メディア、通信まとめ: マーケットトーク",
+      "link": "https://247wallst.com/investing/2026/09/22/intel-is-up-25-in-5-days-the-145-price-target-just-moved-too/",
+      "time": "2026-09-22T19:05:33Z",
+      "titleJa": "インテルは 5 日間で 25% 上昇しています。 145ドルの目標価格もちょうど動いた",
       "relevant": false
     },
     {
-      "ticker": "000660.KS",
-      "company": "SKハイニックス",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-6af76ecb?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-21T20:54:00Z",
-      "titleJa": "テクノロジー、メディア、通信まとめ: マーケットトーク",
-      "relevant": false
-    },
-    {
-      "ticker": "005930.KS",
-      "company": "サムスン電子",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-6af76ecb?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-21T20:54:00Z",
-      "titleJa": "テクノロジー、メディア、通信まとめ: マーケットトーク",
-      "relevant": false
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "TSMC Gains as Packaging Moves Closer to Its Suppliers",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/articles/tsmc-gains-packaging-moves-closer-185026951.html",
+      "time": "2026-09-22T18:50:26Z",
+      "titleJa": "パッケージングがサプライヤーに近づくにつれてTSMCが利益を得る",
+      "relevant": true
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/616017/nvidia-or-micron-which-gets-paid-more-safely-for-the-ai-shortage/2026-09-21",
-      "time": "2026-09-21T20:31:22Z",
-      "titleJa": "NVIDIA と Micron: AI 不足に対して、より安全に支払われるのはどちらですか?",
+      "title": "Apple’s New CEO Is Already Being Pressured to Drop the Chinese Chip Deal Tim Cook Fought to Keep",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/22/apples-new-ceo-is-already-being-pressured-to-drop-the-chinese-chip-deal-tim-cook-fought-to-keep/",
+      "time": "2026-09-22T18:48:49Z",
+      "titleJa": "Appleの新CEOはすでにティム・クック氏が維持しようと努めた中国チップ取引を破棄するよう圧力をかけられている",
       "relevant": false
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Intel Stock Soars as AI Spending Fears Fade",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-soars-ai-spending-190205655.html",
-      "time": "2026-09-21T19:02:05Z",
-      "titleJa": "AI支出への懸念が薄れ、インテル株が急騰",
+      "title": "Sandisk Stock Is Up 644% This Year. Why the Stock Isn’t Done Rising.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/sandisk-stock-ai-memory-chips-45cf5c6e?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-22T16:34:00Z",
+      "titleJa": "サンディスクの株価は今年644％上昇している。株価が上昇し終わらない理由。",
       "relevant": false
     },
     {
       "ticker": "005930.KS",
       "company": "サムスン電子",
-      "title": "HBM Sold Out Through 2027. Micron’s Customers Are Begging. Can Anything Go Wrong?",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/21/hbm-sold-out-through-2027-microns-customers-are-begging-can-anything-go-wrong/",
-      "time": "2026-09-21T18:45:56Z",
-      "titleJa": "HBM は 2027 年まで完売。マイクロンの顧客は切望しています。何か問題が起こる可能性はありますか?",
+      "title": "Sandisk Stock Is Up 644% This Year. Why the Stock Isn’t Done Rising.",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/sandisk-stock-ai-memory-chips-45cf5c6e?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-22T16:34:00Z",
+      "titleJa": "サンディスクの株価は今年644％上昇している。株価が上昇し終わらない理由。",
       "relevant": false
+    },
+    {
+      "ticker": "7267.T",
+      "company": "本田技研工業",
+      "title": "Reasons Why You Should Hold General Motors Stock in Your Portfolio",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/reasons-why-hold-general-motors-160000984.html",
+      "time": "2026-09-22T16:00:00Z",
+      "titleJa": "ポートフォリオにゼネラル・モーターズ株を保有すべき理由",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Market Chatter: ASML Executive Warns Europe Will Fall Behind in Chip Development Due to Lack of Investment",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-asml-executive-warns-140937923.html",
+      "time": "2026-09-22T14:09:37Z",
+      "titleJa": "市場の話題：ASML幹部が欧州は投資不足でチップ開発に後れを取ると警告",
+      "relevant": true
+    },
+    {
+      "ticker": "6146.T",
+      "company": "ディスコ",
+      "title": "Are Industrial Products Stocks Lagging  DISCO CORP (DSCSY) This Year?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/industrial-products-stocks-lagging-disco-134002527.html",
+      "time": "2026-09-22T13:40:02Z",
+      "titleJa": "今年の工業製品株はディスココーポレーション (DSCSY) に遅れをとっているでしょうか?",
+      "relevant": true
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "TSMC Spent $15.59 Billion on CapEx in a Single Quarter, 42% More Than the Quarter Before. Here’s What It Means For the Stock.",
+      "publisher": "TIKR",
+      "link": "https://www.tikr.com/blog/tsmc-spent-15-59-billion-on-capex-in-a-single-quarter-42-more-than-the-quarter-before-heres-what-it-means-for-the-stock?ref=yahoofinance",
+      "time": "2026-09-22T10:22:37Z",
+      "titleJa": "TSMC は 1 四半期に設備投資に 155 億 9000 万ドルを費やし、前四半期より 42% 増加しました。株式にとってそれが何を意味するかは次のとおりです。",
+      "relevant": false
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "3 AI Infrastructure Stocks Investors Should Watch As Data Center Spending Builds",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-investors-091849195.html",
+      "time": "2026-09-22T09:18:49Z",
+      "titleJa": "データセンター支出が拡大する中、投資家が注目すべき 3 つの AI インフラストラクチャ銘柄",
+      "relevant": false
+    },
+    {
+      "ticker": "2502.T",
+      "company": "アサヒグループHD",
+      "title": "Asahi, Royal Swinkels and PerfectTed to feature at Just Drinks non-alcoholic conference this week",
+      "publisher": "Just Drinks",
+      "link": "https://www.just-drinks.com/news/asahi-royal-swinkels-and-perfectted-to-feature-at-just-drinks-non-alcoholic-conference-this-week/",
+      "time": "2026-09-22T09:00:00Z",
+      "titleJa": "今週のJust Drinksノンアルコールカンファレンスにアサヒ、ロイヤル・スウィンケルズ、パーフェクトテッドが出演",
+      "relevant": true
     },
     {
       "ticker": "8306.T",
@@ -160,36 +220,6 @@
       "time": "2026-09-21T18:17:00Z",
       "titleJa": "金は3回の上昇の後、下落に落ち着いた",
       "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "Oura Targets $15.6 Billion Valuation in Test of IPO Market",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/oura-ipo-valuation-stock-7ed6de72?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-21T18:12:00Z",
-      "titleJa": "Oura、IPO市場のテストで評価額156億ドルを目指す",
-      "relevant": false
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "GlobalFoundries Drives Gross Margin Expansion: Can the Momentum Last?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-drives-gross-margin-expansion-171200756.html",
-      "time": "2026-09-21T17:12:00Z",
-      "titleJa": "GlobalFoundries が粗利拡大を推進: 勢いは持続できるか?",
-      "relevant": true
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "SoftBank Borrows Even More Money for OpenAI",
-      "publisher": "Moby",
-      "link": "https://app.moby.co/home/news/news-softbank-borrows-even-more-money-for-openai?utm_source=yahoo_finance&utm_medium=rss",
-      "time": "2026-09-21T17:09:02Z",
-      "titleJa": "ソフトバンク、OpenAIのためにさらに多額の資金を借入",
-      "relevant": true
     },
     {
       "ticker": "8306.T",
@@ -212,36 +242,6 @@
       "relevant": true
     },
     {
-      "ticker": "7267.T",
-      "company": "本田技研工業",
-      "title": "Is Honda Motor Co. (HMC) Stock Undervalued Right Now?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honda-motor-co-hmc-stock-134002992.html",
-      "time": "2026-09-21T13:40:02Z",
-      "titleJa": "ホンダモーター株式会社（HMC）の株は現在過小評価されていますか？",
-      "relevant": true
-    },
-    {
-      "ticker": "8058.T",
-      "company": "三菱商事",
-      "title": "Shell Eyes Major LNG Canada Phase 2 Expansion to Boost Global Supply",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/energy/articles/shell-eyes-major-lng-canada-132100325.html",
-      "time": "2026-09-21T13:21:00Z",
-      "titleJa": "シェル、カナダ大手LNGの第2段階拡張に注目、世界供給拡大へ",
-      "relevant": false
-    },
-    {
-      "ticker": "2502.T",
-      "company": "アサヒグループHD",
-      "title": "Asahi, Royal Swinkels and PerfectTed to feature at Just Drinks non-alcoholic conference this week",
-      "publisher": "Just Drinks",
-      "link": "https://www.just-drinks.com/news/asahi-royal-swinkels-and-perfectted-to-feature-at-just-drinks-non-alcoholic-conference-this-week/",
-      "time": "2026-09-21T09:00:00Z",
-      "titleJa": "今週のJust Drinksノンアルコールカンファレンスにアサヒ、ロイヤル・スウィンケルズ、パーフェクトテッドが出演",
-      "relevant": true
-    },
-    {
       "ticker": "8267.T",
       "company": "イオン",
       "title": "Aeon (TSE:8267) Back In Focus As Valuation Debate Follows A Sharp Slide",
@@ -258,7 +258,7 @@
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/rohm-tse-6963-stock-may-041804556.html",
       "time": "2026-09-20T04:18:04Z",
-      "titleJa": "ローム (東証:6963) の株式は、新しい車載用チップの発売後に過大評価される可能性がある",
+      "titleJa": "ローム (東証:6963) の株価は、新しい車載用チップの発売後、過大評価される可能性がある",
       "relevant": true
     },
     {
@@ -298,7 +298,7 @@
       "publisher": "Zacks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/enersys-ens-outperforming-other-industrial-134003119.html",
       "time": "2026-09-18T13:40:03Z",
-      "titleJa": "今年、エネルギーシス (ENS) は他の工業製品株をアウトパフォームしているでしょうか?",
+      "titleJa": "今年、エナシス（ENS）は他の工業製品株をアウトパフォームするのか？",
       "relevant": false
     },
     {
@@ -360,16 +360,6 @@
       "time": "2026-09-17T07:21:00Z",
       "titleJa": "原油下落で欧州指数上昇",
       "relevant": false
-    },
-    {
-      "ticker": "6981.T",
-      "company": "村田製作所",
-      "title": "Surging Earnings Estimates Signal Upside for Murata Manufacturing (MRAAY) Stock",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/surging-earnings-estimates-signal-upside-162001281.html",
-      "time": "2026-09-16T16:20:01Z",
-      "titleJa": "利益予想の急増が村田製作所 (MRAAY) 株の上値シグナル",
-      "relevant": true
     }
   ]
 }
