@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "title": "3 Reasons ORCL is Risky and 1 Stock to Buy Instead",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-orcl-risky-1-231622744.html",
+      "time": "2026-09-23T23:16:22Z",
+      "titleJa": "ORCL が危険である 3 つの理由と代わりに購入すべき 1 つの銘柄"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "3 Companies With a Strong History of Dividend Growth",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-companies-strong-history-dividend-231500498.html",
+      "time": "2026-09-23T23:15:00Z",
+      "titleJa": "堅実な配当成長の歴史を持つ 3 社"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Washington’s oil lever is depleted, John Divine says the next move is in the VIX and natural gas",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/crypto/markets/washingtons-oil-lever-is-depleted-john-divine-says-the-next-move-is-in-the-vix-and-natural-gas",
+      "time": "2026-09-23T23:00:42Z",
+      "titleJa": "ワシントンの石油レバーは枯渇、ジョン・ディバイン氏、次の動きはVIXと天然ガスにあると語る"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Ball (BALL): Buy, Sell, or Hold Post Q2 Earnings?",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ball-ball-buy-sell-hold-225222039.html",
+      "time": "2026-09-23T22:52:22Z",
+      "titleJa": "ボール (BALL): 第 2 四半期の収益後、買うか、売るか、それとも保留するか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Steve Weiss Dumped an Energy Stock That Tripled the S&P 500 Over a Decade",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/23/steve-weiss-dumped-an-energy-stock-that-tripled-the-sp-500-over-a-decade/",
+      "time": "2026-09-23T22:27:24Z",
+      "titleJa": "スティーブ・ワイス氏、S&P 500指数を10年間で3倍にしたエネルギー株を売却"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
-      "time": "2026-09-22T23:12:00Z",
-      "titleJa": "ダウジョーンズ先物：ナスダックが新高値を更新。サンディスク、マイクロントリガーの購入シグナル"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "VTI’s 3,000 Extra Stocks Cost Holders $393,400 Per $500,000 Over the Past Decade",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/09/22/vtis-3000-extra-stocks-cost-holders-393400-per-500000-over-the-past-decade/",
-      "time": "2026-09-22T22:35:11Z",
-      "titleJa": "VTI の 3,000 株の追加株式のコスト保有者は、過去 10 年間で 500,000 ドルあたり 393,400 ドルを支払った"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "The Market Is Near Another All-Time High and You’re 66 With Cash to Invest. Buying Now Feels Like the Top. These 3 ETFs Are How You Get In Anyway",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/09/22/the-market-is-near-another-all-time-high-and-youre-66-with-cash-to-invest-buying-now-feels-like-the-top-these-3-etfs-are-how-you-get-in-anyway/",
-      "time": "2026-09-22T22:25:53Z",
-      "titleJa": "市場は再び最高値に近づいていますが、あなたは 66 歳で投資できる現金を持っています。今買うのがトップのような気がします。これら 3 つの ETF がとにかく参入する方法です"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Rocket Lab Corporation (RKLB) Stock Moves 2.99%: What You Should Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-stock-221507513.html",
-      "time": "2026-09-22T22:15:07Z",
-      "titleJa": "Rocket Lab Corporation (RKLB) の株価は 2.99% 上昇します: 知っておくべきこと"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "AST SpaceMobile, Inc. (ASTS) Stock Moves 2.91%: What You Should Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-inc-asts-stock-221506971.html",
-      "time": "2026-09-22T22:15:06Z",
-      "titleJa": "AST SpaceMobile, Inc. (ASTS) の株価は 2.91% 上昇: 知っておくべきこと"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Onto Innovation (ONTO) Stock Moves 2.84%: What You Should Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/onto-innovation-onto-stock-moves-221506750.html",
-      "time": "2026-09-22T22:15:06Z",
-      "titleJa": "オントゥ・イノベーション (ONTO) の株価は 2.84% 上昇: 知っておくべきこと"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-soar-palantir-palo-alto-buy-signal/?src=A00220&yptr=yahoo",
+      "time": "2026-09-23T22:26:01Z",
+      "titleJa": "ダウ・ジョーンズ先物：国債利回りが急上昇する中、株価は下落。パランティア、パロアルトのフラッシュ購入シグナル"
     }
   ]
 }
