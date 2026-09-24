@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Reasons ORCL is Risky and 1 Stock to Buy Instead",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-orcl-risky-1-231622744.html",
-      "time": "2026-09-23T23:16:22Z",
-      "titleJa": "ORCL が危険である 3 つの理由と代わりに購入すべき 1 つの銘柄"
+      "title": "Is Booking's Slowdown A Pause Or Its New Pace?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/616453/is-bookings-slowdown-a-pause-or-its-new-pace/2026-09-24",
+      "time": "2026-09-24T23:19:33Z",
+      "titleJa": "予約の減速は一時停止なのか、それとも新たなペースなのか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "3 Companies With a Strong History of Dividend Growth",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-companies-strong-history-dividend-231500498.html",
-      "time": "2026-09-23T23:15:00Z",
-      "titleJa": "堅実な配当成長の歴史を持つ 3 社"
+      "title": "META Stock Is Set For Its Best Month In Over 13 Years — It’s Inches Away From $2 Trillion Market Cap",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/meta-stock-is-set-for-its-best-month-in-over-13-years-it-s-inches-away-from-2-trillion-market-cap/cZMJ1cpRBab",
+      "time": "2026-09-24T23:16:20Z",
+      "titleJa": "META株は13年以上で最高の月に設定 — 時価総額2兆ドルまであと数インチ"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Washington’s oil lever is depleted, John Divine says the next move is in the VIX and natural gas",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/crypto/markets/washingtons-oil-lever-is-depleted-john-divine-says-the-next-move-is-in-the-vix-and-natural-gas",
-      "time": "2026-09-23T23:00:42Z",
-      "titleJa": "ワシントンの石油レバーは枯渇、ジョン・ディバイン氏、次の動きはVIXと天然ガスにあると語る"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Ball (BALL): Buy, Sell, or Hold Post Q2 Earnings?",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ball-ball-buy-sell-hold-225222039.html",
-      "time": "2026-09-23T22:52:22Z",
-      "titleJa": "ボール (BALL): 第 2 四半期の収益後、買うか、売るか、それとも保留するか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Steve Weiss Dumped an Energy Stock That Tripled the S&P 500 Over a Decade",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/23/steve-weiss-dumped-an-energy-stock-that-tripled-the-sp-500-over-a-decade/",
-      "time": "2026-09-23T22:27:24Z",
-      "titleJa": "スティーブ・ワイス氏、S&P 500指数を10年間で3倍にしたエネルギー株を売却"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",
+      "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-soar-palantir-palo-alto-buy-signal/?src=A00220&yptr=yahoo",
-      "time": "2026-09-23T22:26:01Z",
-      "titleJa": "ダウ・ジョーンズ先物：国債利回りが急上昇する中、株価は下落。パランティア、パロアルトのフラッシュ購入シグナル"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
+      "time": "2026-09-24T23:16:20Z",
+      "titleJa": "ダウ・ジョーンズ先物：市場の反発は回復、利回りは原油価格が上昇を続ける。デッキ上のテスライベント"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "What Could Send Autodesk Stock Higher?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/616462/what-could-send-autodesk-stock-higher/2026-09-24",
+      "time": "2026-09-24T22:59:47Z",
+      "titleJa": "何がオートデスクの株価を上昇させるのでしょうか?"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Stock Market Today, Sept. 24: Oracle Stock Dips As it Issues Force Majeure Notice on Project Jupiter Data Center",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/24/stock-market-today-sept-24-oracle-stock-dips-as-it-issues-force-majeure-notice-on-project-jupiter-data-center/",
+      "time": "2026-09-24T21:53:48Z",
+      "titleJa": "今日の株式市場、9 月 24 日: Oracle が Project Jupiter データセンターに関する不可抗力の通知を発行し、株価が下落"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "The Market Looks Expensive. This ETF Pays a 11.86% Yield While You Wait for It to Come Down",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/09/24/the-market-looks-expensive-this-etf-pays-a-11-86-yield-while-you-wait-for-it-to-come-down/",
+      "time": "2026-09-24T21:52:47Z",
+      "titleJa": "市場は割高に見えます。このETFは、値下がりを待っている間に11.86%の利回りをもたらします"
     }
   ]
 }
