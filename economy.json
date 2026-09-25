@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Is Booking's Slowdown A Pause Or Its New Pace?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/616453/is-bookings-slowdown-a-pause-or-its-new-pace/2026-09-24",
-      "time": "2026-09-24T23:19:33Z",
-      "titleJa": "予約の減速は一時停止なのか、それとも新たなペースなのか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "META Stock Is Set For Its Best Month In Over 13 Years — It’s Inches Away From $2 Trillion Market Cap",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/meta-stock-is-set-for-its-best-month-in-over-13-years-it-s-inches-away-from-2-trillion-market-cap/cZMJ1cpRBab",
-      "time": "2026-09-24T23:16:20Z",
-      "titleJa": "META株は13年以上で最高の月に設定 — 時価総額2兆ドルまであと数インチ"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
-      "time": "2026-09-24T23:16:20Z",
-      "titleJa": "ダウ・ジョーンズ先物：市場の反発は回復、利回りは原油価格が上昇を続ける。デッキ上のテスライベント"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "What Could Send Autodesk Stock Higher?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/616462/what-could-send-autodesk-stock-higher/2026-09-24",
-      "time": "2026-09-24T22:59:47Z",
-      "titleJa": "何がオートデスクの株価を上昇させるのでしょうか?"
+      "title": "Why Richard Ross is buying semiconductors after the AI pullback",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/why-richard-ross-is-buying-semiconductors-after-the-ai-pullback",
+      "time": "2026-09-25T23:23:33Z",
+      "titleJa": "リチャード・ロスがAI撤退後に半導体を購入する理由"
     },
     {
       "ticker": "^IXIC",
       "company": "経済",
-      "title": "Stock Market Today, Sept. 24: Oracle Stock Dips As it Issues Force Majeure Notice on Project Jupiter Data Center",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/24/stock-market-today-sept-24-oracle-stock-dips-as-it-issues-force-majeure-notice-on-project-jupiter-data-center/",
-      "time": "2026-09-24T21:53:48Z",
-      "titleJa": "今日の株式市場、9 月 24 日: Oracle が Project Jupiter データセンターに関する不可抗力の通知を発行し、株価が下落"
+      "title": "Azure’s Inflection Point: Can Microsoft (MSFT) Balance AI Growth With Capex Risk?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/technology/ai/articles/azure-inflection-point-microsoft-msft-231347500.html",
+      "time": "2026-09-25T23:13:47Z",
+      "titleJa": "Azure の変曲点: Microsoft (MSFT) は AI の成長と設備投資リスクのバランスを取ることができますか?"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "The Market Looks Expensive. This ETF Pays a 11.86% Yield While You Wait for It to Come Down",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/09/24/the-market-looks-expensive-this-etf-pays-a-11-86-yield-while-you-wait-for-it-to-come-down/",
-      "time": "2026-09-24T21:52:47Z",
-      "titleJa": "市場は割高に見えます。このETFは、値下がりを待っている間に11.86%の利回りをもたらします"
+      "title": "S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict — META, COST, MSFT, CRWD, SKHY In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-week-higher-on-chipmaker-strength-easing-oil-amid-signs-of-easing-us-iran-conflict-meta-cost-msft-crwd-skhy-in-focus/cZMOFkXRBOV",
+      "time": "2026-09-25T22:51:48Z",
+      "titleJa": "S&P 500、ダウ、ナスダックは週末、米国とイランの紛争緩和の兆しの中、チップメーカーの体力と原油緩和で上昇 — META、COST、MSFT、CRWD、SKHYが注目"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "What Needs To Be True To Buy Twist Bioscience Stock Now?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/616634/what-needs-to-be-true-to-buy-twist-bioscience-stock-now/2026-09-25",
+      "time": "2026-09-25T22:29:37Z",
+      "titleJa": "今すぐ Twist Bioscience を購入するには、何が真実である必要がありますか?"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Is Bloom Energy Stock's Drop A Chance To Buy?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/616641/is-bloom-energy-stocks-drop-a-chance-to-buy/2026-09-25",
+      "time": "2026-09-25T21:55:06Z",
+      "titleJa": "ブルーム・エナジー株の下落は買いのチャンスか？"
+    },
+    {
+      "ticker": "^IXIC",
+      "company": "経済",
+      "title": "Stock Market Today, Sept. 25: Microsoft Stock Jumps 4% After Revamping Copilot With Code Generation and Agentic AI Tools",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/25/stock-market-today-sept-25-microsoft-stock-jumps-4-after-revamping-copilot-with-code-generation-and-agentic-ai-tools/",
+      "time": "2026-09-25T21:45:49Z",
+      "titleJa": "今日の株式市場、9 月 25 日: コード生成とエージェント AI ツールで Copilot を刷新した後、Microsoft 株価が 4% 上昇"
     }
   ]
 }
