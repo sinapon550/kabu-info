@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Why Richard Ross is buying semiconductors after the AI pullback",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/why-richard-ross-is-buying-semiconductors-after-the-ai-pullback",
-      "time": "2026-09-25T23:23:33Z",
-      "titleJa": "リチャード・ロスがAI撤退後に半導体を購入する理由"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "Azure’s Inflection Point: Can Microsoft (MSFT) Balance AI Growth With Capex Risk?",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/azure-inflection-point-microsoft-msft-231347500.html",
-      "time": "2026-09-25T23:13:47Z",
-      "titleJa": "Azure の変曲点: Microsoft (MSFT) は AI の成長と設備投資リスクのバランスを取ることができますか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict — META, COST, MSFT, CRWD, SKHY In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-week-higher-on-chipmaker-strength-easing-oil-amid-signs-of-easing-us-iran-conflict-meta-cost-msft-crwd-skhy-in-focus/cZMOFkXRBOV",
-      "time": "2026-09-25T22:51:48Z",
-      "titleJa": "S&P 500、ダウ、ナスダックは週末、米国とイランの紛争緩和の兆しの中、チップメーカーの体力と原油緩和で上昇 — META、COST、MSFT、CRWD、SKHYが注目"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "What Needs To Be True To Buy Twist Bioscience Stock Now?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/616634/what-needs-to-be-true-to-buy-twist-bioscience-stock-now/2026-09-25",
-      "time": "2026-09-25T22:29:37Z",
-      "titleJa": "今すぐ Twist Bioscience を購入するには、何が真実である必要がありますか?"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Is Bloom Energy Stock's Drop A Chance To Buy?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/616641/is-bloom-energy-stocks-drop-a-chance-to-buy/2026-09-25",
-      "time": "2026-09-25T21:55:06Z",
-      "titleJa": "ブルーム・エナジー株の下落は買いのチャンスか？"
-    },
-    {
-      "ticker": "^IXIC",
-      "company": "経済",
-      "title": "Stock Market Today, Sept. 25: Microsoft Stock Jumps 4% After Revamping Copilot With Code Generation and Agentic AI Tools",
+      "title": "I'd Put $10,000 Into These 3 Vanguard Funds and Not Touch It for 20 Years",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/25/stock-market-today-sept-25-microsoft-stock-jumps-4-after-revamping-copilot-with-code-generation-and-agentic-ai-tools/",
-      "time": "2026-09-25T21:45:49Z",
-      "titleJa": "今日の株式市場、9 月 25 日: コード生成とエージェント AI ツールで Copilot を刷新した後、Microsoft 株価が 4% 上昇"
+      "link": "https://www.fool.com/investing/2026/09/26/i-d-put-usd10-000-into-these-3-vanguard-funds-and-not-touch-it-for-20-years/",
+      "time": "2026-09-26T22:43:01Z",
+      "titleJa": "私はこれら 3 つのバンガード ファンドに 10,000 ドルを投資し、20 年間は手を付けません"
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "By 1932, The Dow Had Lost 90% Of Its Value. J. Paul Getty Called It ‘The Opportunity Of A Lifetime’ And Scooped Up Shares Of American Oil Companies. 25 Years Later, Fortune Named Him ‘The Wealthiest Living American.’",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/26/by-1932-the-dow-had-lost-90-of-its-value-j-paul-getty-called-it-the-opportunity-of-a-lifetime-and-scooped-up-shares-of-american-oil-companies-25-years-later-fortune-named-him-the-wealthiest/",
+      "time": "2026-09-26T21:31:10Z",
+      "titleJa": "1932 年までに、ダウ平均はその価値の 90% を失いました。 J・ポール・ゲッティはこれを「一生に一度のチャンス」と呼び、アメリカの石油会社の株をかき集めた。 25年後、フォーチュン誌は彼を「現存する最も裕福なアメリカ人」と名付けた。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Prediction: Here's What a $10,000 Investment in Costco (COST) Stock Could Be Worth in 5 Years",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/26/prediction-what-a-10000-investment-in-costco-stock/",
+      "time": "2026-09-26T21:25:00Z",
+      "titleJa": "予測: コストコ (COST) 株への 10,000 ドルの投資は 5 年後にはいくらになるのか"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "SCHD Is Up 20% and Offers Investors a Compelling Yield. But These 3 Dividend Stocks Could Be Even Better Buys Now.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/26/schd-is-up-20-and-offers-investors-a-compelling-yi/",
+      "time": "2026-09-26T19:35:00Z",
+      "titleJa": "SCHD は 20% 上昇し、投資家に魅力的な利回りを提供しています。しかし、これら 3 つの高配当株は今ならさらに買ったほうが良いかもしれません。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Why Is PepsiCo's Stock Down 10% While the S&P 500 Is Up 13% in 2026? Here's the Only Answer I Can Think of.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/26/why-is-pepsicos-stock-down-10-while-the-sp-500-is/",
+      "time": "2026-09-26T18:35:00Z",
+      "titleJa": "2026 年に S&P 500 が 13% 上昇しているのに、ペプシコの株価は 10% 下落しているのはなぜですか?これが私が考えることができる唯一の答えです。"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Home Depot Yields More Than 3x the S&P 500. Here's the Effect on a $10,000 Investment.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/26/home-depot-yields-3x-sp-500-10000-investment/",
+      "time": "2026-09-26T18:20:00Z",
+      "titleJa": "ホーム・デポの利回りは S&P 500 の 3 倍以上です。10,000 ドルの投資に対する効果は次のとおりです。"
     }
   ]
 }
