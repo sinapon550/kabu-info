@@ -1,104 +1,184 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "I'd Put $10,000 Into These 3 Vanguard Funds and Not Touch It for 20 Years",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/26/i-d-put-usd10-000-into-these-3-vanguard-funds-and-not-touch-it-for-20-years/",
-      "time": "2026-09-26T22:43:01Z",
-      "titleJa": "私はこれら 3 つのバンガード ファンドに 10,000 ドルを投資し、20 年間は手を付けません",
-      "relevant": false
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "title": "This Nuclear Stock Could Make Patient Investors Rich",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/26/this-nuclear-stock-could-make-patient-investors-ri/",
-      "time": "2026-09-26T22:25:00Z",
-      "titleJa": "この核株は忍耐強い投資家を豊かにする可能性がある",
-      "relevant": false
-    },
-    {
       "ticker": "MU",
       "company": "Micron",
-      "title": "How Big Is Micron Technology (MU) $100 Billion Syracuse Factory Bet?",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/technology/articles/big-micron-technology-mu-100-180926801.html",
-      "time": "2026-09-26T18:09:26Z",
-      "titleJa": "マイクロン・テクノロジー（MU）の1000億ドルのシラキュース工場への賭けはどれほど大きいのか？",
-      "relevant": true
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "title": "Up 163% Year to Date, Is Western Digital Still a Buy?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/26/up-163-year-to-date-is-western-digital-still-a-buy/",
-      "time": "2026-09-26T17:54:00Z",
-      "titleJa": "年初から163%上昇、ウエスタンデジタルはまだ買いですか?",
-      "relevant": false
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "title": "Dow Jones Futures: Growth Shrugs Off Surging Yields, But Trump Rejects Iran Deal; Micron, SpaceX, Tesla Eye Buy Points",
+      "title": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-growth-stocks-shrug-off-surging-yields-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
-      "time": "2026-09-26T17:43:58Z",
-      "titleJa": "ダウジョーンズ先物：成長率は利回り急上昇を無視、しかしトランプ大統領はイラン合意を拒否。 Micron、SpaceX、Tesla Eye ポイント購入",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-comments-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
+      "time": "2026-09-27T23:03:02Z",
+      "titleJa": "トランプ大統領のイラン発言を受けてダウジョーンズ先物は下落、原油価格は上昇。 Micron、SpaceX、Tesla Eye ポイント購入",
       "relevant": true
     },
     {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
-      "title": "Dow Jones Futures: Growth Shrugs Off Surging Yields, But Trump Rejects Iran Deal; Micron, SpaceX, Tesla Eye Buy Points",
+      "title": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-growth-stocks-shrug-off-surging-yields-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
-      "time": "2026-09-26T17:43:58Z",
-      "titleJa": "ダウジョーンズ先物：成長率は利回り急上昇を無視、しかしトランプ大統領はイラン合意を拒否。 Micron、SpaceX、Tesla Eye ポイント購入",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-comments-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
+      "time": "2026-09-27T23:03:02Z",
+      "titleJa": "トランプ大統領のイラン発言を受けてダウジョーンズ先物は下落、原油価格は上昇。 Micron、SpaceX、Tesla Eye ポイント購入",
       "relevant": false
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk",
-      "title": "Dow Jones Futures: Growth Shrugs Off Surging Yields, But Trump Rejects Iran Deal; Micron, SpaceX, Tesla Eye Buy Points",
+      "title": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-growth-stocks-shrug-off-surging-yields-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
-      "time": "2026-09-26T17:43:58Z",
-      "titleJa": "ダウジョーンズ先物：成長率は利回り急上昇を無視、しかしトランプ大統領はイラン合意を拒否。 Micron、SpaceX、Tesla Eye ポイント購入",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-comments-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
+      "time": "2026-09-27T23:03:02Z",
+      "titleJa": "トランプ大統領のイラン発言を受けてダウジョーンズ先物は下落、原油価格は上昇。 Micron、SpaceX、Tesla Eye ポイント購入",
+      "relevant": false
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "Here's How Many Shares of Coca-Cola You'd Need for $10,000 in Yearly Dividends",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/27/how-many-coca-cola-shares-10000-yearly-dividends/",
+      "time": "2026-09-27T22:24:00Z",
+      "titleJa": "年間配当金10,000ドルを得るために必要なコカ・コーラの株数は次のとおりです。",
+      "relevant": true
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "title": "1 Top Warren Buffett Stock Trading 21% Below Its All-Time High That Can Double a $1,000 Investment in 5 Years",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/27/top-warren-buffett-stock-double-1000-5-years/",
+      "time": "2026-09-27T21:50:00Z",
+      "titleJa": "1トップのウォーレン・バフェット株の取引は過去最高値を21%下回っており、5年間で1,000ドルの投資が2倍になる可能性がある",
+      "relevant": false
+    },
+    {
+      "ticker": "6954.T",
+      "company": "ファナック",
+      "title": "Fanuc (TSE:6954) Stock Looks Rich Against Its Cash Flow Outlook",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fanuc-tse-6954-stock-looks-210646834.html",
+      "time": "2026-09-27T21:06:46Z",
+      "titleJa": "ファナック (東証:6954) の株価はキャッシュフロー見通しに対して潤沢に見える",
+      "relevant": true
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "title": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/27/why-the-nasdaq-refuses-to-break-even-with-treasury-yields-above-five-percent/",
+      "time": "2026-09-27T19:15:23Z",
+      "titleJa": "ナスダックが5％を超える国債利回りとの損益分岐点を拒否する理由",
       "relevant": false
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "title": "Broadcom Has More Than One Way to Win. Here’s Where I See the Stock Going",
+      "title": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
       "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/26/broadcom-has-more-than-one-way-to-win-heres-where-i-see-the-stock-going/",
-      "time": "2026-09-26T16:45:11Z",
-      "titleJa": "Broadcom が勝つ方法は複数あります。株価の推移はここで見られる",
+      "link": "https://247wallst.com/investing/2026/09/27/qualcomm-stock-has-an-opportunity-investors-may-be-underestimating/",
+      "time": "2026-09-27T17:00:41Z",
+      "titleJa": "クアルコム株にはチャンスがある 投資家は過小評価している可能性がある",
+      "relevant": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "TSMC",
+      "title": "Price Prediction: TSMC Could Reach $600 as Capacity Constraints Drive the AI Boom Forward",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/27/price-prediction-tsmc-could-reach-600-as-capacity-constraints-drive-the-ai-boom-forward/",
+      "time": "2026-09-27T16:00:21Z",
+      "titleJa": "価格予測: 容量制約により AI ブームが進む中、TSMC は 600 ドルに達する可能性がある",
+      "relevant": true
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML",
+      "title": "Price Prediction: TSMC Could Reach $600 as Capacity Constraints Drive the AI Boom Forward",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/27/price-prediction-tsmc-could-reach-600-as-capacity-constraints-drive-the-ai-boom-forward/",
+      "time": "2026-09-27T16:00:21Z",
+      "titleJa": "価格予測: 容量制約により AI ブームが進む中、TSMC は 600 ドルに達する可能性がある",
+      "relevant": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "title": "Broadcom vs. Marvell: The AI Supercycle Is Big Enough for Both. Here's the Better Buy.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/27/broadcom-vs-marvell-heres-the-better-buy/",
+      "time": "2026-09-27T15:52:00Z",
+      "titleJa": "Broadcom vs. Marvell: The AI Supercycle Is Big Enough for Both.ここがより良い購入です。",
+      "relevant": true
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "SoftBank (TSE:9984) Stock May Still Be A Bargain On Fresh AI Debt Moves",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-tse-9984-stock-may-130814240.html",
+      "time": "2026-09-27T13:08:14Z",
+      "titleJa": "ソフトバンク (東証:9984) の株価は、新たな AI 債務の動きを考えるとまだ割安である可能性がある",
       "relevant": true
     },
     {
       "ticker": "TSM",
       "company": "TSMC",
-      "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
+      "title": "Is Taiwan Semiconductor Manufacturing (NYSE:TSM) Priced For Perfection Or Still A Bargain?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-130658176.html",
+      "time": "2026-09-27T13:06:58Z",
+      "titleJa": "台湾積体電路製造 (NYSE:TSM) の価格は完璧なのか、それともまだ割安なのか?",
+      "relevant": true
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "title": "Down 23%, Should You Buy the Dip on Sandisk Stock?",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/better-buy/2026/09/26/asml-vs-qualcomm-ai-semiconductor-stock-better-buy-2026/",
-      "time": "2026-09-26T16:20:01Z",
-      "titleJa": "ASML 対 クアルコム: 2026 年にどちらの AI 半導体株を買うのが良いでしょうか?",
-      "relevant": false
+      "link": "https://www.fool.com/investing/2026/09/27/down-should-you-buy-dip-sandisk-stock/",
+      "time": "2026-09-27T09:45:00Z",
+      "titleJa": "Down 23%, Should You Buy the Dip on Sandisk Stock?",
+      "relevant": true
+    },
+    {
+      "ticker": "9984.T",
+      "company": "ソフトバンクG",
+      "title": "SoftBank (TSE:9434) Draws Valuation Focus, Is The Upside Already Priced In?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-tse-9434-draws-valuation-090759853.html",
+      "time": "2026-09-27T09:07:59Z",
+      "titleJa": "ソフトバンク（東証：9434）はバリュエーションに注目、上値は既に織り込まれているのか？",
+      "relevant": true
+    },
+    {
+      "ticker": "9434.T",
+      "company": "ソフトバンク",
+      "title": "SoftBank (TSE:9434) Draws Valuation Focus, Is The Upside Already Priced In?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-tse-9434-draws-valuation-090759853.html",
+      "time": "2026-09-27T09:07:59Z",
+      "titleJa": "ソフトバンク（東証：9434）はバリュエーションに注目、上値は既に織り込まれているのか？",
+      "relevant": true
+    },
+    {
+      "ticker": "6506.T",
+      "company": "安川電機",
+      "title": "Yaskawa Electric (TSE:6506) Stock Looks Above Fair Value After A 45% Gain",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/yaskawa-electric-tse-6506-stock-081030022.html",
+      "time": "2026-09-27T08:10:30Z",
+      "titleJa": "安川電機 (東証:6506) の株価は 45% 上昇し公正価値を上回っているようだ",
+      "relevant": true
     },
     {
       "ticker": "ASML",
       "company": "ASML",
-      "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/better-buy/2026/09/26/asml-vs-qualcomm-ai-semiconductor-stock-better-buy-2026/",
-      "time": "2026-09-26T16:20:01Z",
-      "titleJa": "ASML 対 クアルコム: 2026 年にどちらの AI 半導体株を買うのが良いでしょうか?",
+      "title": "ASML (ENXTAM:ASML) Stock Could Be Undervalued Following Fresh AI Demand News",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-enxtam-asml-stock-could-230814920.html",
+      "time": "2026-09-26T23:08:14Z",
+      "titleJa": "ASML (ENXTAM:ASML) 株は、新たな AI 需要ニュースを受けて過小評価される可能性がある",
       "relevant": true
     },
     {
@@ -122,43 +202,13 @@
       "relevant": true
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "title": "3 Elite Dividend Stocks Hiding in the Nasdaq-100",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/26/3-elite-dividend-stocks-hiding-in-the-nasdaq-100/",
-      "time": "2026-09-26T15:58:22Z",
-      "titleJa": "ナスダック 100 に隠れた 3 つの優良配当株",
-      "relevant": true
-    },
-    {
-      "ticker": "TSM",
-      "company": "TSMC",
-      "title": "If You Invest $500 a Month in AMD Starting Now, This is What You’d Have in 2030",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/26/if-you-invest-500-a-month-in-amd-starting-now-this-is-what-youd-have-in-2030/",
-      "time": "2026-09-26T14:00:15Z",
-      "titleJa": "今から AMD に毎月 500 ドル投資すると、2030 年にはこれが得られるでしょう",
-      "relevant": false
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML",
-      "title": "2 Semiconductor Stocks That Could Help Set You Up for Life",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/26/semiconductor-stocks-set-up-for-life-mrvl-asml/",
-      "time": "2026-09-26T10:10:00Z",
-      "titleJa": "人生の糧となる2つの半導体株",
-      "relevant": false
-    },
-    {
       "ticker": "000660.KS",
       "company": "SKハイニックス",
       "title": "SK Hynix (KOSE:A000660) Forms AI Focused Venture Capital Arm",
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-kose-a000660-forms-010902805.html",
       "time": "2026-09-26T01:09:02Z",
-      "titleJa": "SKハイニックス(KOSE:A000660)、AIに特化したベンチャーキャピタル部門を設立",
+      "titleJa": "SKハイニックス(KOSE:A000660)がAIに特化したベンチャーキャピタル部門を設立",
       "relevant": true
     },
     {
@@ -169,36 +219,6 @@
       "link": "https://finance.yahoo.com/economy/articles/korea-trade-surplus-hits-record-233058850.html",
       "time": "2026-09-25T23:30:58Z",
       "titleJa": "韓国の貿易黒字は過去最高の230億ドルに達した。これがその原動力です",
-      "relevant": false
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "SoftBank Forms JV With Industrial Vehicle Automation Company",
-      "publisher": "Bisnow",
-      "link": "https://www.bisnow.com/news/national/construction-development/softbank-forms-jv-with-industrial-vehicle-automation-company",
-      "time": "2026-09-25T19:18:15Z",
-      "titleJa": "ソフトバンク、産業車両オートメーション会社と合弁会社を設立",
-      "relevant": true
-    },
-    {
-      "ticker": "9984.T",
-      "company": "ソフトバンクG",
-      "title": "SoftBank Drops 3.2% as OpenAI Financing Locks In 9.41%",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-drops-3-2-openai-175150864.html",
-      "time": "2026-09-25T17:51:50Z",
-      "titleJa": "OpenAI Financingが9.41%にとどまり、ソフトバンクは3.2%下落",
-      "relevant": true
-    },
-    {
-      "ticker": "8306.T",
-      "company": "三菱UFJ",
-      "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Down for Week",
-      "publisher": "MT Newswires",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144123090.html",
-      "time": "2026-09-25T14:41:23Z",
-      "titleJa": "金曜日の取引で米国の預託金受取額が上昇する中、米国ではアジア株が取引された。今週は休み",
       "relevant": false
     },
     {
@@ -340,16 +360,6 @@
       "time": "2026-09-22T09:00:00Z",
       "titleJa": "今週のJust Drinksノンアルコールカンファレンスにアサヒ、ロイヤル・スウィンケルズ、パーフェクトテッドが出演",
       "relevant": true
-    },
-    {
-      "ticker": "8058.T",
-      "company": "三菱商事",
-      "title": "Shell Eyes Major LNG Canada Phase 2 Expansion to Boost Global Supply",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/energy/articles/shell-eyes-major-lng-canada-132100325.html",
-      "time": "2026-09-21T13:21:00Z",
-      "titleJa": "シェル、カナダ大手LNGの第2段階拡張に注目、世界供給拡大へ",
-      "relevant": false
     }
   ]
 }

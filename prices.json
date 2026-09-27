@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "note": "GitHub Actions による自動更新（前営業日ベースの概算）",
   "stocks": {
     "9984.T": {
@@ -146,8 +146,8 @@
       "profitMargin": 42.9,
       "revenue": 89103998976,
       "netIncome": 38264999936,
-      "eps": 7.85,
-      "per": 44.9,
+      "eps": 7.74,
+      "per": 45.6,
       "finCurrency": "USD",
       "history": [
         {
@@ -300,7 +300,7 @@
     "7735.T": {
       "price": 13740.0,
       "currency": "JPY",
-      "marketCap": 2598070576440,
+      "marketCap": 2598066784200,
       "prevClose": 13310.0,
       "changePct": 3.23,
       "target": 17756.25,
@@ -374,8 +374,8 @@
       "profitMargin": 4.2,
       "revenue": 833084981248,
       "netIncome": 34611998720,
-      "eps": 139.26,
-      "per": 24.8,
+      "eps": 137.54,
+      "per": 25.1,
       "finCurrency": "JPY",
       "history": [
         {
@@ -467,7 +467,7 @@
       "marketCap": 669847331494,
       "prevClose": 1721.81,
       "changePct": 1.29,
-      "target": 2123.54,
+      "target": 2119.92,
       "rating": "強い買い(16人)",
       "dividendYield": 0.25,
       "profitMargin": 30.1,
@@ -857,8 +857,8 @@
       "profitMargin": 15.6,
       "revenue": 441956007936,
       "netIncome": 68903002112,
-      "eps": 246.45,
-      "per": 94.7,
+      "eps": 214.77,
+      "per": 108.7,
       "finCurrency": "JPY",
       "history": [
         {
@@ -1379,7 +1379,7 @@
     "4565.T": {
       "price": 1260.0,
       "currency": "JPY",
-      "marketCap": 115133480280,
+      "marketCap": 115581254040,
       "prevClose": 1270.0,
       "changePct": -0.79,
       "target": 2015.0,
@@ -1417,7 +1417,7 @@
       "profitMargin": -2.4,
       "revenue": 2646553919488,
       "netIncome": -64391999488,
-      "eps": -28.99,
+      "eps": -29.66,
       "finCurrency": "JPY",
       "history": [
         {
@@ -1440,7 +1440,7 @@
     "7267.T": {
       "price": 1735.5,
       "currency": "JPY",
-      "marketCap": 6755573355355,
+      "marketCap": 6756330279796,
       "prevClose": 1733.5,
       "changePct": 0.12,
       "target": 1794.12,
@@ -1449,7 +1449,7 @@
       "profitMargin": -0.8,
       "revenue": 22517855027200,
       "netIncome": -169696002048,
-      "eps": -37.95,
+      "eps": -36.97,
       "finCurrency": "JPY",
       "history": [
         {
@@ -1509,6 +1509,7 @@
       "prevClose": 1304.5,
       "changePct": -0.34,
       "target": 1390.0,
+      "rating": "やや売り(9人)",
       "dividendYield": 1.05,
       "profitMargin": 0.8,
       "revenue": 11090425544704,
@@ -1643,8 +1644,8 @@
       "profitMargin": 12.1,
       "revenue": 6143497207808,
       "netIncome": 742508003328,
-      "eps": 181.86,
-      "per": 16.7,
+      "eps": 183.68,
+      "per": 16.5,
       "finCurrency": "JPY",
       "history": [
         {
