@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "summary": "",
   "headlines": [
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-comments-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
-      "time": "2026-09-27T23:24:14Z",
-      "titleJa": "トランプ大統領のイラン発言を受けてダウジョーンズ先物は下落、原油価格は上昇。 Micron、SpaceX、Tesla Eye ポイント購入"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Forget AGG in Retirement. MUB Does the Same Job With a Smaller Tax Bill",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/09/27/forget-agg-in-retirement-mub-does-the-same-job-with-a-smaller-tax-bill/",
-      "time": "2026-09-27T22:31:49Z",
-      "titleJa": "退職後は AGG のことは忘れてください。 MUBはより少ない税額で同じ仕事をする"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "Stock Futures Are Slipping Ahead of Inflation, Jobs Data",
+      "title": "Review & Preview: Rainy Days and Mondays",
       "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stock-futures-trading-sunday-oil-fba93c0a?siteid=yhoof2&yptr=yahoo",
-      "time": "2026-09-27T22:12:00Z",
-      "titleJa": "株式先物はインフレと雇用統計を先取りして下落"
+      "link": "https://www.barrons.com/articles/iran-interest-rate-worries-weigh-on-stocks-7a762f24?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-28T23:55:00Z",
+      "titleJa": "レビューとプレビュー: 雨の日と月曜日"
+    },
+    {
+      "ticker": "JPY=X",
+      "company": "経済",
+      "title": "Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-top-fx-diplomat-075610914.html",
+      "time": "2026-09-28T23:43:42Z",
+      "titleJa": "日本の通貨外交官三村氏、円に対する「非常に明確な」警告に留意するよう市場に要請"
+    },
+    {
+      "ticker": "^DJI",
+      "company": "経済",
+      "title": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-tesla/?src=A00220&yptr=yahoo",
+      "time": "2026-09-28T23:14:49Z",
+      "titleJa": "ダウ・ジョーンズ先物：トランプ大統領が株式市場の損失を引き起こす。イーロン・マスク率いるスペースXとテスラが注目"
     },
     {
       "ticker": "^GSPC",
       "company": "経済",
-      "title": "Michael Burry just put a date on Big Tech's AI reckoning, and Oracle's $664 billion lands in crosshairs",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/michael-burry-big-short-ai-spending-warning",
-      "time": "2026-09-27T21:47:00Z",
-      "titleJa": "マイケル・バーリー氏がビッグテックのAI計算に日付を付けたばかりで、オラクルの6,640億ドルが照準を合わせている"
-    },
-    {
-      "ticker": "^GSPC",
-      "company": "経済",
-      "title": "I'd Buy Amazon Stock While It Sits 12% Below Its Record",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/27/i-d-buy-amazon-stock-while-it-sits-12-below-its-record/",
-      "time": "2026-09-27T21:34:01Z",
-      "titleJa": "Amazon株が過去最高値を12%下回るうちに買うだろう"
+      "title": "S&P 500, Dow, Nasdaq Drop Under Pressure From Elevated Yields As Investors Shrug Off Trump’s Iran Sanction Relief — NVDA, BA, AMD, NVTS, CBRS In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-drop-under-pressure-from-elevated-yields/cZMjBLyRBXW",
+      "time": "2026-09-28T23:07:58Z",
+      "titleJa": "投資家がトランプ大統領のイラン制裁緩和を無視し、S&P 500、ダウ、ナスダックが利回り上昇の圧力で下落 — NVDA、BA、AMD、NVTS、CBRSが注目"
     },
     {
       "ticker": "^IXIC",
       "company": "経済",
-      "title": "AMD’s $1 Trillion Valuation Raises the Bar for its AI Ambitions",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-1-trillion-valuation-raises-202331243.html",
-      "time": "2026-09-27T20:23:31Z",
-      "titleJa": "AMD の 1 兆ドルの評価額が AI への野心へのハードルを引き上げる"
+      "title": "PlayStudios (MYPS) Stock Is Up, What You Need To Know",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/playstudios-myps-stock-know-222236740.html",
+      "time": "2026-09-28T22:22:36Z",
+      "titleJa": "PlayStudios (MYPS) の在庫が上昇しました、知っておくべきこと"
+    },
+    {
+      "ticker": "^GSPC",
+      "company": "経済",
+      "title": "Jefferies Stock Falls Despite Earnings Beat and Record Banking Revenue",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/jefferies-earnings-stock-price-d2522cd1?siteid=yhoof2&yptr=yahoo",
+      "time": "2026-09-28T22:18:00Z",
+      "titleJa": "ジェフリーズ株は利益を上回って銀行収入も記録的にもかかわらず下落"
     }
   ]
 }
